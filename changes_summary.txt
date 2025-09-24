@@ -1,0 +1,13 @@
+🔍 Comparing aerodrome registry versions...
+📦 Production: aerodromes.json
+🚧 Staging: aerodromes-staging.json
+------------------------------------------------------------
+📊 Summary:
+   Production aerodromes: 19356
+   Staging aerodromes: 19356
+   Net change: +0
+
+🕐 Staging last updated: 2025-09-24T07:09:04
+🕐 Production last updated: 2025-09-23T22:44:58
+------------------------------------------------------------
+✨ No changes detected - staging matches production
