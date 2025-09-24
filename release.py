@@ -7,8 +7,122 @@ Promotes staging version to production after manual review and approval.
 import json
 import shutil
 import sys
+import subprocess
 from datetime import datetime
 from pathlib import Path
+
+def get_current_version() -> str:
+    """Get current version from VERSION file."""
+    try:
+        with open('VERSION', 'r') as f:
+            return f.read().strip()
+    except FileNotFoundError:
+        return '1.0.0'
+
+def parse_version(version: str) -> tuple:
+    """Parse semantic version string into tuple of integers."""
+    try:
+        major, minor, patch = version.split('.')
+        return int(major), int(minor), int(patch)
+    except (ValueError, IndexError):
+        return 1, 0, 0
+
+def bump_version(current: str, bump_type: str) -> str:
+    """Bump version based on type (patch/minor/major)."""
+    major, minor, patch = parse_version(current)
+    
+    if bump_type == 'patch':
+        patch += 1
+    elif bump_type == 'minor':
+        minor += 1
+        patch = 0
+    elif bump_type == 'major':
+        major += 1
+        minor = 0
+        patch = 0
+    else:
+        raise ValueError(f"Invalid bump type: {bump_type}")
+    
+    return f"{major}.{minor}.{patch}"
+
+def prompt_version_update() -> tuple:
+    """Prompt user for version update and return (new_version, commit_message)."""
+    current_version = get_current_version()
+    
+    print(f"\n🏷️ Current version: {current_version}")
+    print("\n🔄 Version update options:")
+    print("  1. 🟢 PATCH (1.0.0 → 1.0.1) - Data updates, new airports, corrections")
+    print("  2. 🟡 MINOR (1.0.0 → 1.1.0) - New fields, backward-compatible changes")
+    print("  3. 🔴 MAJOR (1.0.0 → 2.0.0) - Breaking changes, schema updates")
+    print("  4. ⏭️  SKIP - Keep current version")
+    print("  5. 📝 CUSTOM - Enter custom version")
+    
+    while True:
+        choice = input("\n🤔 Choose version update (1-5): ").strip()
+        
+        if choice == '1':
+            new_version = bump_version(current_version, 'patch')
+            reason = input("📝 Brief description of changes: ").strip()
+            commit_msg = f"🏷️ v{new_version} - {reason}" if reason else f"🏷️ v{new_version} - Data updates"
+            return new_version, commit_msg
+            
+        elif choice == '2':
+            new_version = bump_version(current_version, 'minor')
+            reason = input("📝 Brief description of new features: ").strip()
+            commit_msg = f"🏷️ v{new_version} - {reason}" if reason else f"🏷️ v{new_version} - New features"
+            return new_version, commit_msg
+            
+        elif choice == '3':
+            new_version = bump_version(current_version, 'major')
+            reason = input("📝 Brief description of breaking changes: ").strip()
+            commit_msg = f"🏷️ v{new_version} - BREAKING: {reason}" if reason else f"🏷️ v{new_version} - Breaking changes"
+            return new_version, commit_msg
+            
+        elif choice == '4':
+            return current_version, None
+            
+        elif choice == '5':
+            custom_version = input("📝 Enter version (e.g., 1.2.3): ").strip()
+            try:
+                parse_version(custom_version)  # Validate format
+                reason = input("📝 Brief description: ").strip()
+                commit_msg = f"🏷️ v{custom_version} - {reason}" if reason else f"🏷️ v{custom_version} - Custom version"
+                return custom_version, commit_msg
+            except (ValueError, IndexError):
+                print("❌ Invalid version format. Please use X.Y.Z format.")
+                continue
+                
+        else:
+            print("❌ Invalid choice. Please enter 1-5.")
+            continue
+
+def update_version_file(new_version: str) -> bool:
+    """Update VERSION file with new version."""
+    try:
+        with open('VERSION', 'w') as f:
+            f.write(new_version + '\n')
+        print(f"✅ Updated VERSION file to {new_version}")
+        return True
+    except Exception as e:
+        print(f"❌ Failed to update VERSION file: {e}")
+        return False
+
+def commit_version_change(version: str, commit_message: str) -> bool:
+    """Commit version change to git."""
+    try:
+        # Check if git is available and we're in a repo
+        subprocess.run(['git', 'status'], check=True, capture_output=True)
+        
+        # Add VERSION file and commit
+        subprocess.run(['git', 'add', 'VERSION'], check=True)
+        subprocess.run(['git', 'commit', '-m', commit_message], check=True)
+        
+        print(f"✅ Version change committed to git")
+        return True
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        print("⚠️ Git commit failed or not in git repository")
+        print("💡 Please manually commit the VERSION file change")
+        return False
 
 def backup_production(prod_file: str = 'aerodromes.json') -> str:
     """Create backup of current production file."""
@@ -84,8 +198,21 @@ def release_to_production(staging_file: str = 'aerodromes-staging.json',
         print("❌ Staging validation failed")
         return False
     
+    # Version management (if not forced)
+    if not force:
+        new_version, commit_message = prompt_version_update()
+        
+        if commit_message:  # User chose to update version
+            if update_version_file(new_version):
+                commit_version_change(new_version, commit_message)
+            else:
+                print("❌ Failed to update version - aborting release")
+                return False
+    
     # Interactive confirmation unless forced
     if not force:
+        current_version = get_current_version()
+        print(f"\n🏷️ Release version: {current_version}")
         print("⚠️  This will replace the current production registry.")
         print("📱 All downstream apps will use the new data on their next sync.")
         response = input("\n🤔 Proceed with release? (yes/no): ").strip().lower()

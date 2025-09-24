@@ -192,6 +192,81 @@ For emergency additions only. **Prefer the automated sync process** for data qua
 5. Validate against schema
 6. Commit changes
 
+### Semantic Versioning
+
+This registry follows [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PATCH):
+
+#### Version Types
+
+- **🔴 MAJOR** (x.0.0): Breaking changes to JSON structure or schema
+  - Removing required fields
+  - Changing field names or types  
+  - Altering data format significantly
+  - Example: `1.0.0` → `2.0.0`
+
+- **🟡 MINOR** (0.x.0): Backward-compatible additions
+  - Adding new optional fields
+  - Expanding existing data without breaking apps
+  - Schema enhancements that don't break existing consumers
+  - Example: `1.0.0` → `1.1.0`
+
+- **🟢 PATCH** (0.0.x): Data updates and corrections
+  - New airports added
+  - Airport information corrected
+  - Timezone assignments updated
+  - Bug fixes in data processing
+  - Example: `1.0.0` → `1.0.1`
+
+#### Version Management
+
+**The `release.py` script handles version updates:**
+- Prompts you to choose version bump type (patch/minor/major)
+- Updates the `VERSION` file automatically
+- Integrates with the release process
+- Commits version changes with descriptive messages
+
+**Manual version updates:**
+```bash
+# View current version
+cat VERSION
+
+# Manual update (if needed)
+echo "1.0.1" > VERSION
+git add VERSION
+git commit -m "🏷️ Bump version to 1.0.1"
+```
+
+**Version in API Response:**
+```json
+{
+  "version": "1.0.0",
+  "last_updated": "2025-09-24T09:00:00Z", 
+  "total_count": 19356,
+  "aerodromes": [...]
+}
+```
+
+#### Application Compatibility
+
+Consumer applications should check version compatibility:
+
+```python
+import requests
+
+def fetch_aerodromes_safe():
+    response = requests.get("https://raw.githubusercontent.com/username/repo/main/aerodromes.json")
+    data = response.json()
+    
+    version = data['version']
+    major_version = int(version.split('.')[0])
+    
+    if major_version > 1:
+        print(f"⚠️ Warning: Data version {version} may contain breaking changes")
+        # Handle version compatibility
+    
+    return data
+```
+
 ## Contributing
 
 1. Fork the repository

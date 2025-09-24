@@ -122,8 +122,15 @@ def main():
     print("🏗️ Building aerodrome registry...")
     aerodromes, stats = build_registry(airports, timezones)
     
+    # Read version from VERSION file
+    try:
+        with open('VERSION', 'r') as f:
+            version = f.read().strip()
+    except FileNotFoundError:
+        version = '1.0.0'  # Fallback if VERSION file missing
+    
     registry = {
-        'version': '1.0.0',
+        'version': version,
         'last_updated': datetime.now().strftime('%Y-%m-%dT%H:%M:%S%z'),
         'total_count': len(aerodromes),
         'aerodromes': aerodromes
