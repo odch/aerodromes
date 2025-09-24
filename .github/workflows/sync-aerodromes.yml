@@ -1,0 +1,162 @@
+name: Sync Aerodromes
+
+on:
+  schedule:
+    # Run daily at 6:00 AM UTC during initial validation phase
+    # Change back to '0 6 * * 1' (Monday only) once system is stable
+    - cron: '0 6 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Run aerodrome sync
+      run: |
+        echo "🔄 Starting automated aerodrome sync..."
+        python3 sync_aerodromes.py
+        
+        echo "📊 Sync completed, checking for changes..."
+        if [ -f "aerodromes-staging.json" ]; then
+          echo "✅ Staging file created successfully"
+          
+          # Validate the staging data before proceeding
+          echo "🔍 Validating staging data against schema..."
+          # Temporarily modify validate script to check staging file
+          sed 's/aerodromes\.json/aerodromes-staging.json/' validate.py > validate_staging.py
+          if python3 validate_staging.py; then
+            echo "✅ Staging data validation passed"
+            rm validate_staging.py
+          else
+            echo "❌ Staging data validation failed - aborting workflow"
+            rm validate_staging.py
+            exit 1
+          fi
+          
+          # Check if there are changes compared to production
+          if ! diff -q aerodromes.json aerodromes-staging.json >/dev/null 2>&1; then
+            echo "🔍 Changes detected in aerodrome data"
+            echo "📋 Changes will be available for manual review"
+            
+            # Create a summary of changes for the commit
+            python3 review_changes.py > changes_summary.txt || true
+            
+            echo "CHANGES_DETECTED=true" >> $GITHUB_ENV
+          else
+            echo "✅ No changes detected - staging matches production"
+            echo "CHANGES_DETECTED=false" >> $GITHUB_ENV
+          fi
+        else
+          echo "❌ Staging file not created - sync may have failed"
+          exit 1
+        fi
+    
+    - name: Commit staging changes
+      if: env.CHANGES_DETECTED == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "Aerodrome Sync Bot"
+        
+        git add aerodromes-staging.json
+        git add changes_summary.txt 2>/dev/null || true
+        
+        # Create descriptive commit message
+        STAGING_COUNT=$(jq '.total_count' aerodromes-staging.json)
+        PROD_COUNT=$(jq '.total_count' aerodromes.json 2>/dev/null || echo "0")
+        CHANGE_COUNT=$((STAGING_COUNT - PROD_COUNT))
+        
+        git commit -m "🤖 Auto-sync: Update aerodrome staging data
+        
+        📊 Total aerodromes: ${STAGING_COUNT}
+        📈 Change count: ${CHANGE_COUNT:+${CHANGE_COUNT}}
+        🕐 Sync time: $(date -u +'%Y-%m-%d %H:%M:%S UTC')
+        
+        ⚠️ MANUAL REVIEW REQUIRED
+        Run 'python3 review_changes.py' to see changes
+        Run 'python3 release.py' to promote to production"
+        
+        echo "📝 Staged changes committed"
+    
+    - name: Push changes
+      if: env.CHANGES_DETECTED == 'true'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+    
+    - name: Create Issue for Review
+      if: env.CHANGES_DETECTED == 'true'
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const fs = require('fs');
+          
+          let changesSummary = "Changes summary not available";
+          try {
+            changesSummary = fs.readFileSync('changes_summary.txt', 'utf8');
+          } catch (e) {
+            console.log("Could not read changes summary");
+          }
+          
+          const issueTitle = `🤖 Aerodrome Registry Update Available - Manual Review Required`;
+          const issueBody = `
+          ## 🔄 Automated Sync Completed
+          
+          A new aerodrome registry sync has been completed and is ready for your review.
+          
+          ## 📋 Changes Summary
+          
+          \`\`\`
+          ${changesSummary}
+          \`\`\`
+          
+          ## 🚀 Next Steps
+          
+          1. **Review changes**: Run \`python3 review_changes.py\`
+          2. **If approved**: Run \`python3 release.py\`
+          3. **If rejected**: No action needed, changes stay in staging
+          
+          ## 📁 Files Modified
+          
+          - \`aerodromes-staging.json\` - Updated with latest data
+          - \`changes_summary.txt\` - Detailed change report
+          
+          ## ⏰ Sync Details
+          
+          - **Sync Time**: ${new Date().toISOString()}
+          - **Workflow**: ${context.runId}
+          - **Commit**: ${context.sha.substring(0, 7)}
+          
+          ---
+          
+          This issue was created automatically. Close it after reviewing and releasing (or rejecting) the changes.
+          `;
+          
+          github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: issueTitle,
+            body: issueBody,
+            labels: ['automated-sync', 'review-required']
+          });
+    
+    - name: No changes detected
+      if: env.CHANGES_DETECTED == 'false'
+      run: |
+        echo "✅ No changes detected - aerodrome registry is up to date"
+        echo "📊 No action required"

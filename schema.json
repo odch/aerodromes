@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/aerodrome-registry.schema.json",
+  "title": "Aerodrome Registry",
+  "description": "Schema for validating aerodrome registry data",
+  "type": "object",
+  "required": ["version", "last_updated", "total_count", "aerodromes"],
+  "properties": {
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Semantic version of the registry format"
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of last update"
+    },
+    "released_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of when this version was released to production"
+    },
+    "total_count": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Total number of aerodromes in the registry"
+    },
+    "aerodromes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["icao", "name", "country", "timezone"],
+        "properties": {
+          "icao": {
+            "type": "string",
+            "pattern": "^[A-Z]{4}$",
+            "description": "4-letter ICAO code"
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 200,
+            "description": "Official aerodrome name"
+          },
+          "country": {
+            "type": "string",
+            "pattern": "^[A-Z]{2}$",
+            "description": "ISO 3166-1 alpha-2 country code (e.g., CH, US, GB)"
+          },
+          "timezone": {
+            "type": "string",
+            "pattern": "^[A-Za-z0-9_+-]+/[A-Za-z0-9_+-]+(/[A-Za-z0-9_+-]+)*$|^UTC([+-]\\d{1,2})?$",
+            "description": "IANA timezone identifier (e.g., America/New_York, America/Argentina/Salta, America/Port-au-Prince)"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
