@@ -48,9 +48,16 @@ jobs:
             exit 1
           fi
           
-          # Check if there are changes compared to production
-          if ! diff -q aerodromes.json aerodromes-staging.json >/dev/null 2>&1; then
-            echo "🔍 Changes detected in aerodrome data"
+          # Check if there are meaningful changes (ignore timestamp differences)
+          echo "🔍 Checking for meaningful changes in aerodrome data..."
+          # Compare only the aerodrome arrays, ignoring timestamps
+          PROD_COUNT=$(jq '.total_count' aerodromes.json 2>/dev/null || echo "0")
+          STAGING_COUNT=$(jq '.total_count' aerodromes-staging.json)
+          PROD_AERODROMES=$(jq -S '.aerodromes' aerodromes.json 2>/dev/null || echo "[]")
+          STAGING_AERODROMES=$(jq -S '.aerodromes' aerodromes-staging.json)
+          
+          if [ "$PROD_COUNT" != "$STAGING_COUNT" ] || [ "$PROD_AERODROMES" != "$STAGING_AERODROMES" ]; then
+            echo "🔍 Meaningful changes detected in aerodrome data"
             echo "📋 Changes will be available for manual review"
             
             # Create a summary of changes for the commit
