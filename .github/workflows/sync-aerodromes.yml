@@ -132,7 +132,21 @@ jobs:
           ${changesSummary}
           \`\`\`
           
-          ## 🚀 Next Steps
+          ## 🚀 Next Steps - Choose Your Release Method
+          
+          ### 🤖 **Automated Release (Recommended)**
+          
+          **To approve and release**: Comment on this issue with:
+          - \`!release patch\` - For data updates, new airports, corrections
+          - \`!release minor\` - For new fields, backward-compatible changes  
+          - \`!release major\` - For breaking changes, schema updates
+          - Add optional description: \`!release patch Fixed timezone data\`
+          
+          **To reject**: Comment \`!reject\` or \`!reject Reason for rejection\`
+          
+          The automated workflow will handle version bumping, backups, and release automatically!
+          
+          ### 🖥️ **Manual Release (Legacy)**
           
           1. **Review changes**: Run \`python3 review_changes.py\`
           2. **If approved**: Run \`python3 release.py\`

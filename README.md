@@ -151,14 +151,37 @@ This registry uses a **GitOps workflow** with automated data synchronization and
    - Generates detailed change summary
    - **Creates GitHub Issue** for manual review
 
-#### 👤 Manual Review & Release
+#### 👤 Review & Release Process
 
 When automation detects changes, **you receive a GitHub Issue** with:
 - Detailed change summary and statistics
 - Instructions for next steps
 - Automatic labels for easy tracking
 
-**Your options:**
+### 🤖 **Automated Release (Recommended)**
+
+Simply **comment on the GitHub Issue** with one of these commands:
+
+**To approve and release:**
+- `!release patch` - For data updates, new airports, corrections
+- `!release minor` - For new fields, backward-compatible changes  
+- `!release major` - For breaking changes, schema updates
+- `!release patch Fixed timezone data` - Add optional description
+
+**To reject:**
+- `!reject` or `!reject Reason for rejection`
+
+**What happens automatically:**
+1. ✅ Validates staging data
+2. ✅ Creates production backup 
+3. ✅ Bumps version (patch/minor/major)
+4. ✅ Releases to production
+5. ✅ Commits & creates Git tag
+6. ✅ Closes issue with summary
+
+### 🖥️ **Manual Release (Legacy)**
+
+For local development or when automation fails:
 - **Review**: Run `python3 review_changes.py` to see detailed changes
 - **Approve**: Run `python3 release.py` to promote staging → production
 - **Reject**: Do nothing, changes remain in staging only
