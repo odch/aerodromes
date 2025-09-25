@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "last_updated": "2025-09-23T22:44:58",
-  "total_count": 19356,
+  "version": "1.0.1",
+  "last_updated": "2025-09-25T07:10:34",
+  "total_count": 19321,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -5968,12 +5968,6 @@
       "timezone": "America/Toronto"
     },
     {
-      "icao": "CYZD",
-      "name": "Downsview Airport",
-      "country": "CA",
-      "timezone": "America/Toronto"
-    },
-    {
       "icao": "CYZE",
       "name": "Gore Bay Manitoulin Airport",
       "country": "CA",
@@ -6768,12 +6762,6 @@
     {
       "icao": "DFCU",
       "name": "Gourcy Airport",
-      "country": "BF",
-      "timezone": "Africa/Ouagadougou"
-    },
-    {
-      "icao": "DFCY",
-      "name": "Yako Airport",
       "country": "BF",
       "timezone": "Africa/Ouagadougou"
     },
@@ -8718,12 +8706,6 @@
     {
       "icao": "EDCE",
       "name": "Müncheberg-Eggersdorf Airfield",
-      "country": "DE",
-      "timezone": "Europe/Berlin"
-    },
-    {
-      "icao": "EDCF",
-      "name": "Friedersdorf Glider Field",
       "country": "DE",
       "timezone": "Europe/Berlin"
     },
@@ -11220,12 +11202,6 @@
     {
       "icao": "EENA",
       "name": "Narva Airfield",
-      "country": "EE",
-      "timezone": "Europe/Tallinn"
-    },
-    {
-      "icao": "EENI",
-      "name": "Nurmsi Airfield",
       "country": "EE",
       "timezone": "Europe/Tallinn"
     },
@@ -14212,12 +14188,6 @@
       "timezone": "Europe/Dublin"
     },
     {
-      "icao": "EIGM",
-      "name": "Gormanston Camp Airfield",
-      "country": "IE",
-      "timezone": "Europe/Dublin"
-    },
-    {
       "icao": "EIGN",
       "name": "Gowran Grange Aerodrome",
       "country": "IE",
@@ -14646,12 +14616,6 @@
     {
       "icao": "EKMB",
       "name": "Lolland Falster Maribo Airport",
-      "country": "DK",
-      "timezone": "Europe/Copenhagen"
-    },
-    {
-      "icao": "EKML",
-      "name": "Måløv Ultralight Airfield",
       "country": "DK",
       "timezone": "Europe/Copenhagen"
     },
@@ -17848,12 +17812,6 @@
       "timezone": "Europe/Berlin"
     },
     {
-      "icao": "ETOR",
-      "name": "Coleman Army Air Field",
-      "country": "DE",
-      "timezone": "Europe/Berlin"
-    },
-    {
       "icao": "ETOU",
       "name": "Wiesbaden Army Airfield",
       "country": "DE",
@@ -19150,12 +19108,6 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FALK",
-      "name": "Lusikisiki Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FALL",
       "name": "Lydenburg Airport",
       "country": "ZA",
@@ -19726,12 +19678,6 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FASR",
-      "name": "Standerton Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FASS",
       "name": "Sishen Airport",
       "country": "ZA",
@@ -20058,12 +20004,6 @@
     {
       "icao": "FAWO",
       "name": "Willowmore Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAWP",
-      "name": "Wepener Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -21510,12 +21450,6 @@
     {
       "icao": "FLKG",
       "name": "Kalengwa Airport",
-      "country": "ZM",
-      "timezone": "Africa/Lusaka"
-    },
-    {
-      "icao": "FLKJ",
-      "name": "Kanja Airport",
       "country": "ZM",
       "timezone": "Africa/Lusaka"
     },
@@ -23758,12 +23692,6 @@
       "timezone": "Africa/Blantyre"
     },
     {
-      "icao": "FWKK",
-      "name": "Nkhotakota Aerodrome",
-      "country": "MW",
-      "timezone": "Africa/Blantyre"
-    },
-    {
       "icao": "FWLE",
       "name": "Old Lilongwe Airport",
       "country": "MW",
@@ -24688,12 +24616,6 @@
       "timezone": "Africa/Kinshasa"
     },
     {
-      "icao": "FZBG",
-      "name": "Kempa Airport",
-      "country": "CD",
-      "timezone": "Africa/Kinshasa"
-    },
-    {
       "icao": "FZBI",
       "name": "Nioki Airport",
       "country": "CD",
@@ -24790,12 +24712,6 @@
       "timezone": "Africa/Kinshasa"
     },
     {
-      "icao": "FZCE",
-      "name": "Lusanga Airport",
-      "country": "CD",
-      "timezone": "Africa/Kinshasa"
-    },
-    {
       "icao": "FZCF",
       "name": "Kahemba Airport",
       "country": "CD",
@@ -24826,12 +24742,6 @@
       "timezone": "Africa/Kinshasa"
     },
     {
-      "icao": "FZCM",
-      "name": "Mangai Ii Airport",
-      "country": "CD",
-      "timezone": "Africa/Kinshasa"
-    },
-    {
       "icao": "FZCO",
       "name": "Boko Airport",
       "country": "CD",
@@ -24846,12 +24756,6 @@
     {
       "icao": "FZCR",
       "name": "Busala Airport",
-      "country": "CD",
-      "timezone": "Africa/Kinshasa"
-    },
-    {
-      "icao": "FZCS",
-      "name": "Kenge Airport",
       "country": "CD",
       "timezone": "Africa/Kinshasa"
     },
@@ -25566,12 +25470,6 @@
     {
       "icao": "FZQH",
       "name": "Katwe Airport",
-      "country": "CD",
-      "timezone": "Africa/Kinshasa"
-    },
-    {
-      "icao": "FZQI",
-      "name": "Kamatanda Airport",
       "country": "CD",
       "timezone": "Africa/Kinshasa"
     },
@@ -26890,12 +26788,6 @@
       "timezone": "Africa/Conakry"
     },
     {
-      "icao": "GUXN",
-      "name": "Kankan Airport",
-      "country": "GN",
-      "timezone": "Africa/Conakry"
-    },
-    {
       "icao": "GVAC",
       "name": "Amílcar Cabral International Airport",
       "country": "CV",
@@ -26910,12 +26802,6 @@
     {
       "icao": "GVBA",
       "name": "Rabil Airport",
-      "country": "CV",
-      "timezone": "Atlantic/Cape_Verde"
-    },
-    {
-      "icao": "GVBR",
-      "name": "Esperadinha Airport",
       "country": "CV",
       "timezone": "Atlantic/Cape_Verde"
     },
@@ -54046,12 +53932,6 @@
       "timezone": "America/Managua"
     },
     {
-      "icao": "MNFF",
-      "name": "El Bluff Airport",
-      "country": "NI",
-      "timezone": "America/Managua"
-    },
-    {
       "icao": "MNHG",
       "name": "Hato Grande Airport",
       "country": "NI",
@@ -60340,12 +60220,6 @@
       "timezone": "Asia/Qatar"
     },
     {
-      "icao": "OTBK",
-      "name": "Al Khawr Airport",
-      "country": "QA",
-      "timezone": "Asia/Qatar"
-    },
-    {
       "icao": "OTHH",
       "name": "Hamad International Airport",
       "country": "QA",
@@ -60396,12 +60270,6 @@
     {
       "icao": "OYGD",
       "name": "Al Ghaydah International Airport",
-      "country": "YE",
-      "timezone": "Asia/Aden"
-    },
-    {
-      "icao": "OYHD",
-      "name": "Hodeida International Airport",
       "country": "YE",
       "timezone": "Asia/Aden"
     },
@@ -61922,12 +61790,6 @@
       "name": "Daniel K Inouye International Airport",
       "country": "US",
       "timezone": "Pacific/Honolulu"
-    },
-    {
-      "icao": "PHNP",
-      "name": "Ford Island Naval Auxiliary Landing Field",
-      "country": "US",
-      "timezone": "America/New_York"
     },
     {
       "icao": "PHNY",
@@ -66290,12 +66152,6 @@
       "name": "Presidente Itamar Franco Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
-    },
-    {
-      "icao": "SCAA",
-      "name": "Añorada Airport",
-      "country": "CL",
-      "timezone": "America/Santiago"
     },
     {
       "icao": "SCAB",
@@ -70758,12 +70614,6 @@
     {
       "icao": "SDUD",
       "name": "Usina Santa Adélia Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
-      "icao": "SDUF",
-      "name": "Fazenda Touro Peru Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -78544,12 +78394,6 @@
       "timezone": "America/Sao_Paulo"
     },
     {
-      "icao": "SJVH",
-      "name": "Condomínio Edifício Mansão Macedo Heliport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
       "icao": "SJVI",
       "name": "Zona 01 Heliport",
       "country": "BR",
@@ -82686,12 +82530,6 @@
     {
       "icao": "SNNX",
       "name": "Fazenda Boa Vista Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
-      "icao": "SNOB",
-      "name": "Sobral Public Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -87568,20 +87406,8 @@
       "timezone": "America/Sao_Paulo"
     },
     {
-      "icao": "SSYU",
-      "name": "Fazenda Três Pontes Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
       "icao": "SSYV",
       "name": "Fazenda Progresso Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
-      "icao": "SSYW",
-      "name": "Fazenda Terra Forte Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -90430,12 +90256,6 @@
       "timezone": "America/Sao_Paulo"
     },
     {
-      "icao": "SWDG",
-      "name": "Fazenda São José Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
       "icao": "SWDH",
       "name": "Damha Golfe Heliport",
       "country": "BR",
@@ -92140,12 +91960,6 @@
       "timezone": "America/Sao_Paulo"
     },
     {
-      "icao": "SWUX",
-      "name": "Fazenda 4 Amigos Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
       "icao": "SWUZ",
       "name": "Brigadeiro Araripe Macedo Airport",
       "country": "BR",
@@ -92202,12 +92016,6 @@
     {
       "icao": "SWVN",
       "name": "Nova Era & Thomazi Agropecuárias Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
-      "icao": "SWVR",
-      "name": "Aeródromo do Canarinho",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -94630,12 +94438,6 @@
       "timezone": "Europe/Moscow"
     },
     {
-      "icao": "UHQC",
-      "name": "Voyampolka Airfield",
-      "country": "RU",
-      "timezone": "Europe/Moscow"
-    },
-    {
       "icao": "UHQE",
       "name": "Slautnoye Airfield",
       "country": "RU",
@@ -95004,12 +94806,6 @@
     {
       "icao": "UKFP",
       "name": "Yukharina Balka Airfield",
-      "country": "UA",
-      "timezone": "Europe/Kiev"
-    },
-    {
-      "icao": "UKFV",
-      "name": "Yevpatoriya Airport",
       "country": "UA",
       "timezone": "Europe/Kiev"
     },
@@ -106174,12 +105970,6 @@
       "timezone": "Australia/Sydney"
     },
     {
-      "icao": "YGHG",
-      "name": "Glen Harding Airport",
-      "country": "AU",
-      "timezone": "Australia/Sydney"
-    },
-    {
       "icao": "YGHP",
       "name": "Glenample Heliport",
       "country": "AU",
@@ -116140,5 +115930,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-09-23T22:49:48"
+  "released_at": "2025-09-25T07:17:14"
 }
