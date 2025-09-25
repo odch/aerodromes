@@ -4,15 +4,24 @@
 ------------------------------------------------------------
 📊 Summary:
    Production aerodromes: 19356
-   Staging aerodromes: 19356
-   Net change: +0
+   Staging aerodromes: 19321
+   Net change: -35
 
-🔄 CHANGED AERODROMES (1):
-   ~ SWVR: Canarinho Airport
-     name: 'Aeródromo do Canarinho' → 'Canarinho Airport'
+❌ REMOVED AERODROMES (35):
+   - CYZD: Downsview Airport (CA)
+   - DFCY: Yako Airport (BF)
+   - EDCF: Friedersdorf Glider Field (DE)
+   - EENI: Nurmsi Airfield (EE)
+   - EIGM: Gormanston Camp Airfield (IE)
+   - EKML: Måløv Ultralight Airfield (DK)
+   - ETOR: Coleman Army Air Field (DE)
+   - FALK: Lusikisiki Airport (ZA)
+   - FASR: Standerton Airport (ZA)
+   - FAWP: Wepener Airport (ZA)
+   ... and 25 more
 
-🕐 Staging last updated: 2025-09-25T06:21:51
+🕐 Staging last updated: 2025-09-25T06:48:25
 🕐 Production last updated: 2025-09-23T22:44:58
 ------------------------------------------------------------
-📋 Total changes: 1
+📋 Total changes: 35
 💡 To release these changes, run: python3 release.py
