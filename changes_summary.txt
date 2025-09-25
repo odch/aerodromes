@@ -20,7 +20,7 @@
    - FAWP: Wepener Airport (ZA)
    ... and 25 more
 
-🕐 Staging last updated: 2025-09-25T07:01:45
+🕐 Staging last updated: 2025-09-25T07:10:34
 🕐 Production last updated: 2025-09-23T22:44:58
 ------------------------------------------------------------
 📋 Total changes: 35
