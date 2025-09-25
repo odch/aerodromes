@@ -43,11 +43,15 @@ def extract_icao_code(row: Dict[str, str]) -> str:
     return None
 
 def process_ourairports_data(data: str) -> Dict[str, Dict[str, str]]:
-    """Process OurAirports CSV data and extract airports with valid ICAO codes."""
+    """Process OurAirports CSV data and extract active airports with valid ICAO codes."""
     airports = {}
     reader = csv.DictReader(data.splitlines())
     
     for row in reader:
+        # Skip closed airports - they're not useful for active flight logging
+        if row.get('type', '').strip() == 'closed':
+            continue
+            
         icao = extract_icao_code(row)
         if icao:
             airports[icao] = {
