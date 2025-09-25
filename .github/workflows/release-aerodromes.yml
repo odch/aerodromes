@@ -53,7 +53,7 @@ jobs:
       with:
         script: |
           const action = '${{ steps.parse.outputs.action }}';
-          const reaction = action === 'release' ? '🚀' : '❌';
+          const reaction = action === 'release' ? 'rocket' : 'confused';
           
           await github.rest.reactions.createForIssueComment({
             owner: context.repo.owner,
