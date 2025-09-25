@@ -113,6 +113,53 @@ jobs:
         script: |
           const fs = require('fs');
           
+          // Close any existing open automated-sync issues first
+          console.log("🔍 Checking for existing open automated-sync issues...");
+          const existingIssues = await github.rest.issues.listForRepo({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            state: 'open',
+            labels: 'automated-sync'
+          });
+          
+          if (existingIssues.data.length > 0) {
+            console.log(`📝 Found ${existingIssues.data.length} existing open automated-sync issues`);
+            
+            for (const issue of existingIssues.data) {
+              console.log(`🔒 Closing stale issue #${issue.number}: ${issue.title}`);
+              
+              // Add a comment explaining why it's being closed
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                body: `## 🔄 Superseded by Newer Sync
+                
+                This issue has been automatically closed because a newer sync has detected changes.
+                
+                **Only the latest staging data is relevant for releases.**
+                
+                ➡️ Please refer to the newest automated-sync issue for current changes.
+                
+                ---
+                *🤖 Auto-closed by sync workflow*`
+              });
+              
+              // Close the issue
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                state: 'closed',
+                labels: ['automated-sync', 'superseded']
+              });
+            }
+            
+            console.log("✅ All previous automated-sync issues have been closed");
+          } else {
+            console.log("✅ No existing open automated-sync issues found");
+          }
+          
           let changesSummary = "Changes summary not available";
           try {
             changesSummary = fs.readFileSync('changes_summary.txt', 'utf8');
