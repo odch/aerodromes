@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "last_updated": "2025-09-25T07:10:34",
+  "version": "1.0.2",
+  "last_updated": "2025-09-26T06:21:18",
   "total_count": 19321,
   "aerodromes": [
     {
@@ -27376,14 +27376,14 @@
       "timezone": "Africa/Cairo"
     },
     {
-      "icao": "HEAZ",
-      "name": "Almaza Air Force Base",
+      "icao": "HEAX",
+      "name": "Alexandria International Airport",
       "country": "EG",
       "timezone": "Africa/Cairo"
     },
     {
-      "icao": "HEBA",
-      "name": "Borj El Arab International Airport",
+      "icao": "HEAZ",
+      "name": "Almaza Air Force Base",
       "country": "EG",
       "timezone": "Africa/Cairo"
     },
@@ -115930,5 +115930,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-09-25T07:17:14"
+  "released_at": "2025-09-26T07:45:05"
 }
