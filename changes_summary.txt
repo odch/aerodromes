@@ -3,25 +3,18 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19356
+   Production aerodromes: 19321
    Staging aerodromes: 19321
-   Net change: -35
+   Net change: +0
 
-❌ REMOVED AERODROMES (35):
-   - CYZD: Downsview Airport (CA)
-   - DFCY: Yako Airport (BF)
-   - EDCF: Friedersdorf Glider Field (DE)
-   - EENI: Nurmsi Airfield (EE)
-   - EIGM: Gormanston Camp Airfield (IE)
-   - EKML: Måløv Ultralight Airfield (DK)
-   - ETOR: Coleman Army Air Field (DE)
-   - FALK: Lusikisiki Airport (ZA)
-   - FASR: Standerton Airport (ZA)
-   - FAWP: Wepener Airport (ZA)
-   ... and 25 more
+✅ NEW AERODROMES (1):
+   + HEAX: Alexandria International Airport (EG)
 
-🕐 Staging last updated: 2025-09-25T07:10:34
-🕐 Production last updated: 2025-09-23T22:44:58
+❌ REMOVED AERODROMES (1):
+   - HEBA: Borj El Arab International Airport (EG)
+
+🕐 Staging last updated: 2025-09-26T06:21:18
+🕐 Production last updated: 2025-09-25T07:10:34
 ------------------------------------------------------------
-📋 Total changes: 35
+📋 Total changes: 2
 💡 To release these changes, run: python3 release.py
