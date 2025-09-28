@@ -7,14 +7,16 @@
    Staging aerodromes: 19321
    Net change: +0
 
-✅ NEW AERODROMES (1):
-   + HEAX: Alexandria International Airport (EG)
+🔄 CHANGED AERODROMES (3):
+   ~ WAES: Emalamo Airport
+     name: 'Emalamo Sanana Airport' → 'Emalamo Airport'
+   ~ WASK: Utarom Airport
+     name: 'Kaimana Airport' → 'Utarom Airport'
+   ~ WIAK: Sulaiman Airport
+     name: 'Margahayu Airport' → 'Sulaiman Airport'
 
-❌ REMOVED AERODROMES (1):
-   - HEBA: Borj El Arab International Airport (EG)
-
-🕐 Staging last updated: 2025-09-26T06:21:18
-🕐 Production last updated: 2025-09-25T07:10:34
+🕐 Staging last updated: 2025-09-28T06:19:35
+🕐 Production last updated: 2025-09-26T06:21:18
 ------------------------------------------------------------
-📋 Total changes: 2
+📋 Total changes: 3
 💡 To release these changes, run: python3 release.py
