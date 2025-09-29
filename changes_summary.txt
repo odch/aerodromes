@@ -4,19 +4,14 @@
 ------------------------------------------------------------
 📊 Summary:
    Production aerodromes: 19321
-   Staging aerodromes: 19321
-   Net change: +0
+   Staging aerodromes: 19322
+   Net change: +1
 
-🔄 CHANGED AERODROMES (3):
-   ~ WAES: Emalamo Airport
-     name: 'Emalamo Sanana Airport' → 'Emalamo Airport'
-   ~ WASK: Utarom Airport
-     name: 'Kaimana Airport' → 'Utarom Airport'
-   ~ WIAK: Sulaiman Airport
-     name: 'Margahayu Airport' → 'Sulaiman Airport'
+✅ NEW AERODROMES (1):
+   + UENL: Ilbenge Airfield (RU)
 
-🕐 Staging last updated: 2025-09-28T06:19:35
-🕐 Production last updated: 2025-09-26T06:21:18
+🕐 Staging last updated: 2025-09-29T06:23:24
+🕐 Production last updated: 2025-09-28T06:19:35
 ------------------------------------------------------------
-📋 Total changes: 3
+📋 Total changes: 1
 💡 To release these changes, run: python3 release.py
