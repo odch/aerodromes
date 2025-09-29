@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "last_updated": "2025-09-28T06:19:35",
-  "total_count": 19321,
+  "version": "1.0.4",
+  "last_updated": "2025-09-29T06:23:24",
+  "total_count": 19322,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -93748,6 +93748,12 @@
       "timezone": "Europe/Moscow"
     },
     {
+      "icao": "UENL",
+      "name": "Ilbenge Airfield",
+      "country": "RU",
+      "timezone": "Europe/Moscow"
+    },
+    {
       "icao": "UENN",
       "name": "Nyurba Airport",
       "country": "RU",
@@ -115930,5 +115936,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-09-28T06:33:16"
+  "released_at": "2025-09-29T13:44:55"
 }
