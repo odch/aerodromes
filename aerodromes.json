@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "last_updated": "2025-09-29T06:23:24",
-  "total_count": 19322,
+  "version": "1.0.5",
+  "last_updated": "2025-09-30T06:22:04",
+  "total_count": 19321,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -99094,12 +99094,6 @@
       "timezone": "Asia/Bangkok"
     },
     {
-      "icao": "VTPU",
-      "name": "Uttaradit Airport",
-      "country": "TH",
-      "timezone": "Asia/Bangkok"
-    },
-    {
       "icao": "VTPY",
       "name": "Khunan Phumipol Airport",
       "country": "TH",
@@ -115936,5 +115930,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-09-29T13:44:55"
+  "released_at": "2025-09-30T08:00:57"
 }
