@@ -13,6 +13,8 @@ Data Sources:
 """
 import csv
 import json
+import os
+import glob
 import urllib.request
 from datetime import datetime
 from typing import Dict, List
@@ -48,7 +50,6 @@ def process_ourairports_data(data: str) -> Dict[str, Dict[str, str]]:
     reader = csv.DictReader(data.splitlines())
     
     for row in reader:
-        # Skip closed airports - they're not useful for active flight logging
         if row.get('type', '').strip() == 'closed':
             continue
             
@@ -84,28 +85,81 @@ def process_openflights_data(data: str) -> Dict[str, str]:
     
     return timezones
 
-def build_registry(airports: Dict[str, Dict[str, str]], timezones: Dict[str, str]) -> List[Dict[str, str]]:
-    """Build the final aerodrome registry with timezone assignment."""
+def load_aerodrome_overrides() -> List[Dict[str, str]]:
+    """Load aerodrome overrides from modifications/overrides/ directory."""
+    overrides = []
+    overrides_dir = 'modifications/overrides'
+    
+    if not os.path.exists(overrides_dir):
+        print(f"📝 No overrides directory found at {overrides_dir}")
+        return overrides
+    
+    json_files = glob.glob(os.path.join(overrides_dir, '*.json'))
+    
+    for file_path in json_files:
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                file_overrides = json.load(f)
+                if isinstance(file_overrides, list):
+                    overrides.extend(file_overrides)
+                    print(f"📝 Loaded {len(file_overrides)} overrides from {os.path.basename(file_path)}")
+                else:
+                    print(f"⚠️  Skipping {file_path}: expected JSON array")
+        except (json.JSONDecodeError, FileNotFoundError) as e:
+            print(f"⚠️  Error loading {file_path}: {e}")
+    
+    return overrides
+
+def build_registry(airports: Dict[str, Dict[str, str]], timezones: Dict[str, str], overrides: List[Dict[str, str]] = None) -> List[Dict[str, str]]:
+    """Build the final aerodrome registry with timezone assignment, including overrides."""
     registry = []
-    timezone_stats = {'matched': 0, 'fallback': 0}
+    stats = {'matched': 0, 'fallback': 0, 'overrides': 0, 'overridden': 0}
+    
+    override_lookup = {override['icao']: override for override in (overrides or []) if 'icao' in override}
     
     for icao, data in airports.items():
-        timezone = timezones.get(icao)
-        if timezone:
-            timezone_stats['matched'] += 1
+        if icao in override_lookup:
+            override_data = override_lookup[icao]
+            entry = {
+                'icao': icao,
+                'name': override_data.get('name', data['name']),
+                'country': override_data.get('country', data['country_code']),
+                'timezone': override_data.get('timezone', 'UTC')
+            }
+            stats['overridden'] += 1
+            print(f"🔄 Overriding {icao} with custom data")
         else:
-            timezone = get_fallback_timezone(data['country_code'])
-            timezone_stats['fallback'] += 1
+            timezone = timezones.get(icao)
+            if timezone:
+                stats['matched'] += 1
+            else:
+                timezone = get_fallback_timezone(data['country_code'])
+                stats['fallback'] += 1
+            
+            entry = {
+                'icao': icao,
+                'name': data['name'],
+                'country': data['country_code'],
+                'timezone': timezone
+            }
         
-        registry.append({
-            'icao': icao,
-            'name': data['name'],
-            'country': data['country_code'],
-            'timezone': timezone
-        })
+        registry.append(entry)
+    
+    existing_icaos = {entry['icao'] for entry in registry}
+    for override in (overrides or []):
+        if 'icao' in override and override['icao'] not in existing_icaos:
+            entry = {
+                'icao': override['icao'],
+                'name': override.get('name', ''),
+                'country': override.get('country', ''),
+                'timezone': override.get('timezone', 'UTC')
+            }
+            registry.append(entry)
+            stats['overrides'] += 1
+            print(f"➕ Adding new aerodrome {override['icao']} from overrides")
     
     registry.sort(key=lambda x: x['icao'])
-    return registry, timezone_stats
+    return registry, stats
 
 def main():
     """Main sync process."""
@@ -123,15 +177,17 @@ def main():
     timezones = process_openflights_data(openflights_data)
     print(f"📊 Found {len(timezones)} airports with timezone data")
     
-    print("🏗️ Building aerodrome registry...")
-    aerodromes, stats = build_registry(airports, timezones)
+    print("📝 Loading aerodrome overrides...")
+    overrides = load_aerodrome_overrides()
     
-    # Read version from VERSION file
+    print("🏗️ Building aerodrome registry...")
+    aerodromes, stats = build_registry(airports, timezones, overrides)
+    
     try:
         with open('VERSION', 'r') as f:
             version = f.read().strip()
     except FileNotFoundError:
-        version = '1.0.0'  # Fallback if VERSION file missing
+        version = '1.0.0'
     
     registry = {
         'version': version,
@@ -148,6 +204,8 @@ def main():
     print(f"📈 Total aerodromes: {len(aerodromes)}")
     print(f"🕒 Timezone matched from OpenFlights: {stats['matched']}")
     print(f"🌍 Timezone from country fallback: {stats['fallback']}")
+    print(f"🔄 Existing aerodromes overridden: {stats['overridden']}")
+    print(f"➕ New aerodromes from overrides: {stats['overrides']}")
     print(f"💾 Registry saved to: {output_file}")
 
 if __name__ == "__main__":
