@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Gstellihorn",
+    "icao": "LSYG",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Gumm",
+    "icao": "LSVM",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Susten Steingletscher",
+    "icao": "LSYH",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Kanderfirn",
+    "icao": "LSYK",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Petersgrat",
+    "icao": "LSVP",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Rosenegg-West",
+    "icao": "LSYO",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Staldenhorn",
+    "icao": "LSVN",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Sustenlimmi",
+    "icao": "LSVS",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Vordere Walig",
+    "icao": "LSVW",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Glärnischfirn",
+    "icao": "LSVK",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Limmerenfirn",
+    "icao": "LSYI",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Vorabgletscher",
+    "icao": "LSVV",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Clariden-Hüfifirn",
+    "icao": "LSVD",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Alpe Foppa",
+    "icao": "LSVJ",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Aeschhorn",
+    "icao": "LSVE",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Alphubel",
+    "icao": "LSVF",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Arolla",
+    "icao": "LSVI",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Bec de Nendaz",
+    "icao": "LSYD",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Croix de Coeur",
+    "icao": "LSYQ",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Ebnefluh",
+    "icao": "LSYE",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Glacier du Brenay",
+    "icao": "LSYY",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Glacier du Trient",
+    "icao": "LSYX",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Glacier de Tsanfleuron",
+    "icao": "LSYZ",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Grimentz",
+    "icao": "LSVG",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Jungfraujoch",
+    "icao": "LSYJ",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Langgletscher",
+    "icao": "LSYN",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Monte Rosa",
+    "icao": "LSVQ",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Petit Combin",
+    "icao": "LSYP",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Rosa Blanche",
+    "icao": "LSYR",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Theodulgletscher",
+    "icao": "LSYT",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Unterrothorn",
+    "icao": "LSYU",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Wildhorn",
+    "icao": "LSYW",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Col des Mosses",
+    "icao": "LSVC",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Alp Trida",
+    "icao": "LSYA",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Crap Sogn Gion",
+    "icao": "LSYC",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Fuorcla Chamuotsch",
+    "icao": "LSYF",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Fuorcla Grischa",
+    "icao": "LSVH",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Madrisahorn",
+    "icao": "LSVO",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Vadret dal Corvatsch",
+    "icao": "LSYV",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Vadret Pers",
+    "icao": "LSVR",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Blüemlisalp",
+    "icao": "LSYB",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  },
+  {
+    "name": "Arosa",
+    "icao": "LSVA",
+    "country": "CH",
+    "timezone": "Europe/Zurich"
+  }
+]
