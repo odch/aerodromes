@@ -3,15 +3,41 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19322
-   Staging aerodromes: 19321
-   Net change: -1
+   Production aerodromes: 19321
+   Staging aerodromes: 19356
+   Net change: +35
 
-❌ REMOVED AERODROMES (1):
-   - VTPU: Uttaradit Airport (TH)
+✅ NEW AERODROMES (35):
+   + LSVA: Arosa (CH)
+   + LSVC: Col des Mosses (CH)
+   + LSVE: Aeschhorn (CH)
+   + LSVF: Alphubel (CH)
+   + LSVG: Grimentz (CH)
+   + LSVH: Fuorcla Grischa (CH)
+   + LSVI: Arolla (CH)
+   + LSVJ: Alpe Foppa (CH)
+   + LSVK: Glärnischfirn (CH)
+   + LSVM: Gumm (CH)
+   ... and 25 more
 
-🕐 Staging last updated: 2025-09-30T06:22:04
-🕐 Production last updated: 2025-09-29T06:23:24
+🔄 CHANGED AERODROMES (7):
+   ~ LSVD: Clariden-Hüfifirn
+     name: 'Clariden-Hüfifirn Mountain Landing Site' → 'Clariden-Hüfifirn'
+   ~ LSVP: Petersgrat
+     name: 'Petersgrat Mountain Landing Site' → 'Petersgrat'
+   ~ LSVV: Vorabgletscher
+     name: 'Vorabgletscher Mountain Landing Site' → 'Vorabgletscher'
+   ~ LSYI: Limmerenfirn
+     name: 'Limmerenfirn Mountain Landing Site' → 'Limmerenfirn'
+   ~ LSYK: Kanderfirn
+     name: 'Kanderfirn Mountain Landing Site' → 'Kanderfirn'
+   ~ LSYR: Rosa Blanche
+     name: 'Rosa Blanche Mountain Landing Site' → 'Rosa Blanche'
+   ~ LSYX: Glacier du Trient
+     name: 'Glacier du Trient Mountain Landing Site' → 'Glacier du Trient'
+
+🕐 Staging last updated: 2025-10-02T20:05:57
+🕐 Production last updated: 2025-09-30T06:22:04
 ------------------------------------------------------------
-📋 Total changes: 1
+📋 Total changes: 42
 💡 To release these changes, run: python3 release.py

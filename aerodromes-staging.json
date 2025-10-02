@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "last_updated": "2025-09-30T06:22:04",
-  "total_count": 19321,
+  "version": "1.0.5",
+  "last_updated": "2025-10-02T20:05:57",
+  "total_count": 19356,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -50896,20 +50896,116 @@
       "timezone": "Europe/Zurich"
     },
     {
+      "icao": "LSVA",
+      "name": "Arosa",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVC",
+      "name": "Col des Mosses",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
       "icao": "LSVD",
-      "name": "Clariden-Hüfifirn Mountain Landing Site",
+      "name": "Clariden-Hüfifirn",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVE",
+      "name": "Aeschhorn",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVF",
+      "name": "Alphubel",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVG",
+      "name": "Grimentz",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVH",
+      "name": "Fuorcla Grischa",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVI",
+      "name": "Arolla",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVJ",
+      "name": "Alpe Foppa",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVK",
+      "name": "Glärnischfirn",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVM",
+      "name": "Gumm",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVN",
+      "name": "Staldenhorn",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVO",
+      "name": "Madrisahorn",
       "country": "CH",
       "timezone": "Europe/Zurich"
     },
     {
       "icao": "LSVP",
-      "name": "Petersgrat Mountain Landing Site",
+      "name": "Petersgrat",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVQ",
+      "name": "Monte Rosa",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVR",
+      "name": "Vadret Pers",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVS",
+      "name": "Sustenlimmi",
       "country": "CH",
       "timezone": "Europe/Zurich"
     },
     {
       "icao": "LSVV",
-      "name": "Vorabgletscher Mountain Landing Site",
+      "name": "Vorabgletscher",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSVW",
+      "name": "Vordere Walig",
       "country": "CH",
       "timezone": "Europe/Zurich"
     },
@@ -50992,26 +51088,140 @@
       "timezone": "Europe/Zurich"
     },
     {
+      "icao": "LSYA",
+      "name": "Alp Trida",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYB",
+      "name": "Blüemlisalp",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYC",
+      "name": "Crap Sogn Gion",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYD",
+      "name": "Bec de Nendaz",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYE",
+      "name": "Ebnefluh",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYF",
+      "name": "Fuorcla Chamuotsch",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYG",
+      "name": "Gstellihorn",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYH",
+      "name": "Susten Steingletscher",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
       "icao": "LSYI",
-      "name": "Limmerenfirn Mountain Landing Site",
+      "name": "Limmerenfirn",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYJ",
+      "name": "Jungfraujoch",
       "country": "CH",
       "timezone": "Europe/Zurich"
     },
     {
       "icao": "LSYK",
-      "name": "Kanderfirn Mountain Landing Site",
+      "name": "Kanderfirn",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYN",
+      "name": "Langgletscher",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYO",
+      "name": "Rosenegg-West",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYP",
+      "name": "Petit Combin",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYQ",
+      "name": "Croix de Coeur",
       "country": "CH",
       "timezone": "Europe/Zurich"
     },
     {
       "icao": "LSYR",
-      "name": "Rosa Blanche Mountain Landing Site",
+      "name": "Rosa Blanche",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYT",
+      "name": "Theodulgletscher",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYU",
+      "name": "Unterrothorn",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYV",
+      "name": "Vadret dal Corvatsch",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYW",
+      "name": "Wildhorn",
       "country": "CH",
       "timezone": "Europe/Zurich"
     },
     {
       "icao": "LSYX",
-      "name": "Glacier du Trient Mountain Landing Site",
+      "name": "Glacier du Trient",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYY",
+      "name": "Glacier du Brenay",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSYZ",
+      "name": "Glacier de Tsanfleuron",
       "country": "CH",
       "timezone": "Europe/Zurich"
     },
