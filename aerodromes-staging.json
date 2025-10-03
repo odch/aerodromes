@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "last_updated": "2025-10-02T20:05:57",
-  "total_count": 19356,
+  "version": "1.0.6",
+  "last_updated": "2025-10-03T06:20:34",
+  "total_count": 19357,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -94940,6 +94940,12 @@
       "name": "Baikal International Airport",
       "country": "RU",
       "timezone": "Asia/Irkutsk"
+    },
+    {
+      "icao": "UKBA",
+      "name": "Oleksandriya Helicopter Base",
+      "country": "UA",
+      "timezone": "Europe/Kiev"
     },
     {
       "icao": "UKBB",
