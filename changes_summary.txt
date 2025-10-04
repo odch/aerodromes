@@ -3,15 +3,25 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19356
-   Staging aerodromes: 19357
-   Net change: +1
+   Production aerodromes: 19357
+   Staging aerodromes: 19356
+   Net change: -1
 
-✅ NEW AERODROMES (1):
-   + UKBA: Oleksandriya Helicopter Base (UA)
+✅ NEW AERODROMES (4):
+   + UZFA: Andizhan Airport (UZ)
+   + UZFF: Fergana International Airport (UZ)
+   + UZTP: Tashkent East Airport (UZ)
+   + UZTT: Tashkent International Airport (UZ)
 
-🕐 Staging last updated: 2025-10-03T06:20:34
-🕐 Production last updated: 2025-10-02T20:05:57
+❌ REMOVED AERODROMES (5):
+   - EGBN: Nottingham City Airport (GB)
+   - UTFF: Fergana International Airport (UZ)
+   - UTKA: Andizhan Airport (UZ)
+   - UTTP: Tashkent East Airport (UZ)
+   - UTTT: Tashkent International Airport (UZ)
+
+🕐 Staging last updated: 2025-10-04T06:18:45
+🕐 Production last updated: 2025-10-03T06:20:34
 ------------------------------------------------------------
-📋 Total changes: 1
+📋 Total changes: 9
 💡 To release these changes, run: python3 release.py

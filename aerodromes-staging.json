@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "last_updated": "2025-10-03T06:20:34",
-  "total_count": 19357,
+  "version": "1.0.7",
+  "last_updated": "2025-10-04T06:18:45",
+  "total_count": 19356,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -12018,12 +12018,6 @@
     {
       "icao": "EGBM",
       "name": "Tatenhill Airfield",
-      "country": "GB",
-      "timezone": "Europe/London"
-    },
-    {
-      "icao": "EGBN",
-      "name": "Nottingham City Airport",
       "country": "GB",
       "timezone": "Europe/London"
     },
@@ -96406,22 +96400,10 @@
       "timezone": "Asia/Dushanbe"
     },
     {
-      "icao": "UTFF",
-      "name": "Fergana International Airport",
-      "country": "UZ",
-      "timezone": "Asia/Tashkent"
-    },
-    {
       "icao": "UTFN",
       "name": "Namangan Airport",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
-    },
-    {
-      "icao": "UTKA",
-      "name": "Andizhan Airport",
-      "country": "UZ",
-      "timezone": "Asia/Samarkand"
     },
     {
       "icao": "UTKK",
@@ -96518,18 +96500,6 @@
       "name": "Uchkuduk Airport",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
-    },
-    {
-      "icao": "UTTP",
-      "name": "Tashkent East Airport",
-      "country": "UZ",
-      "timezone": "Asia/Tashkent"
-    },
-    {
-      "icao": "UTTT",
-      "name": "Tashkent International Airport",
-      "country": "UZ",
-      "timezone": "Asia/Samarkand"
     },
     {
       "icao": "UTTZ",
@@ -97028,6 +96998,30 @@
       "name": "Kurumoch International Airport",
       "country": "RU",
       "timezone": "Europe/Samara"
+    },
+    {
+      "icao": "UZFA",
+      "name": "Andizhan Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZFF",
+      "name": "Fergana International Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZTP",
+      "name": "Tashkent East Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZTT",
+      "name": "Tashkent International Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
     },
     {
       "icao": "VAAH",
