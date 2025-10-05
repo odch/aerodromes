@@ -20,7 +20,7 @@
    - UTTP: Tashkent East Airport (UZ)
    - UTTT: Tashkent International Airport (UZ)
 
-🕐 Staging last updated: 2025-10-04T06:18:45
+🕐 Staging last updated: 2025-10-05T06:18:55
 🕐 Production last updated: 2025-10-03T06:20:34
 ------------------------------------------------------------
 📋 Total changes: 9
