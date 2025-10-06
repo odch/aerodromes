@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "last_updated": "2025-10-05T06:18:55",
-  "total_count": 19356,
+  "version": "1.0.9",
+  "last_updated": "2025-10-06T06:22:08",
+  "total_count": 19357,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -95200,6 +95200,12 @@
       "timezone": "Europe/Kiev"
     },
     {
+      "icao": "UKVE",
+      "name": "Zaporizhzhia/Motor Heliport",
+      "country": "UA",
+      "timezone": "Europe/Kiev"
+    },
+    {
       "icao": "UKVN",
       "name": "Nalyvaikivka Airfield",
       "country": "UA",
@@ -116140,5 +116146,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-10-05T07:02:26"
+  "released_at": "2025-10-06T06:40:45"
 }
