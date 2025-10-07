@@ -3,15 +3,19 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19356
-   Staging aerodromes: 19357
+   Production aerodromes: 19357
+   Staging aerodromes: 19358
    Net change: +1
 
 ✅ NEW AERODROMES (1):
-   + UKVE: Zaporizhzhia/Motor Heliport (UA)
+   + SOOK: Kourou Airport (GF)
 
-🕐 Staging last updated: 2025-10-06T06:22:08
-🕐 Production last updated: 2025-10-05T06:18:55
+🔄 CHANGED AERODROMES (1):
+   ~ PTRO: Palau International Airport
+     name: 'Babelthuap Airport' → 'Palau International Airport'
+
+🕐 Staging last updated: 2025-10-07T06:21:07
+🕐 Production last updated: 2025-10-06T06:22:08
 ------------------------------------------------------------
-📋 Total changes: 1
+📋 Total changes: 2
 💡 To release these changes, run: python3 release.py

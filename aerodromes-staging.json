@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "last_updated": "2025-10-06T06:22:08",
-  "total_count": 19357,
+  "version": "1.0.9",
+  "last_updated": "2025-10-07T06:21:07",
+  "total_count": 19358,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -62111,7 +62111,7 @@
     },
     {
       "icao": "PTRO",
-      "name": "Babelthuap Airport",
+      "name": "Palau International Airport",
       "country": "PW",
       "timezone": "Pacific/Palau"
     },
@@ -84024,6 +84024,12 @@
     {
       "icao": "SOOG",
       "name": "Saint-Georges-de-l'Oyapock Airport",
+      "country": "GF",
+      "timezone": "America/Cayenne"
+    },
+    {
+      "icao": "SOOK",
+      "name": "Kourou Airport",
       "country": "GF",
       "timezone": "America/Cayenne"
     },
