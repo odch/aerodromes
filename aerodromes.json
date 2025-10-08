@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "last_updated": "2025-10-07T06:21:07",
+  "version": "1.0.11",
+  "last_updated": "2025-10-08T06:21:40",
   "total_count": 19358,
   "aerodromes": [
     {
@@ -96412,12 +96412,6 @@
       "timezone": "Asia/Dushanbe"
     },
     {
-      "icao": "UTFN",
-      "name": "Namangan Airport",
-      "country": "UZ",
-      "timezone": "Asia/Tashkent"
-    },
-    {
       "icao": "UTKK",
       "name": "Kokand Airport",
       "country": "UZ",
@@ -96430,44 +96424,14 @@
       "timezone": "Asia/Tashkent"
     },
     {
-      "icao": "UTNN",
-      "name": "Nukus Airport",
-      "country": "UZ",
-      "timezone": "Asia/Samarkand"
-    },
-    {
       "icao": "UTNT",
       "name": "Turtkul Airport",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
     },
     {
-      "icao": "UTNU",
-      "name": "Urgench Airport",
-      "country": "UZ",
-      "timezone": "Asia/Samarkand"
-    },
-    {
-      "icao": "UTSA",
-      "name": "Navoi Airport",
-      "country": "UZ",
-      "timezone": "Asia/Samarkand"
-    },
-    {
-      "icao": "UTSB",
-      "name": "Bukhara International Airport",
-      "country": "UZ",
-      "timezone": "Asia/Samarkand"
-    },
-    {
       "icao": "UTSH",
       "name": "Shahrisabz Airport",
-      "country": "UZ",
-      "timezone": "Asia/Tashkent"
-    },
-    {
-      "icao": "UTSK",
-      "name": "Karshi Airport",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
     },
@@ -96494,18 +96458,6 @@
       "name": "Sariasiya Airport",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
-    },
-    {
-      "icao": "UTSS",
-      "name": "Samarkand Airport",
-      "country": "UZ",
-      "timezone": "Asia/Samarkand"
-    },
-    {
-      "icao": "UTST",
-      "name": "Termez Airport",
-      "country": "UZ",
-      "timezone": "Asia/Samarkand"
     },
     {
       "icao": "UTSU",
@@ -97020,6 +96972,54 @@
     {
       "icao": "UZFF",
       "name": "Fergana International Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZFN",
+      "name": "Namangan Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZNN",
+      "name": "Nukus Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZNU",
+      "name": "Urgench Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZSA",
+      "name": "Navoi Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZSB",
+      "name": "Bukhara International Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZSK",
+      "name": "Karshi Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZSS",
+      "name": "Samarkand Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZST",
+      "name": "Termez Airport",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
     },
@@ -116152,5 +116152,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-10-07T06:27:56"
+  "released_at": "2025-10-08T06:50:30"
 }
