@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "last_updated": "2025-10-08T06:21:40",
+  "version": "1.0.12",
+  "last_updated": "2025-10-09T06:21:51",
   "total_count": 19358,
   "aerodromes": [
     {
@@ -15791,7 +15791,7 @@
     },
     {
       "icao": "ENWA",
-      "name": "Alvheim FPSO",
+      "name": "Alvheim FPSO Helideck",
       "country": "NO",
       "timezone": "Europe/Oslo"
     },
@@ -116152,5 +116152,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-10-08T06:50:30"
+  "released_at": "2025-10-09T06:40:58"
 }
