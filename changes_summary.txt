@@ -7,28 +7,12 @@
    Staging aerodromes: 19358
    Net change: +0
 
-✅ NEW AERODROMES (8):
-   + UZFN: Namangan Airport (UZ)
-   + UZNN: Nukus Airport (UZ)
-   + UZNU: Urgench Airport (UZ)
-   + UZSA: Navoi Airport (UZ)
-   + UZSB: Bukhara International Airport (UZ)
-   + UZSK: Karshi Airport (UZ)
-   + UZSS: Samarkand Airport (UZ)
-   + UZST: Termez Airport (UZ)
+🔄 CHANGED AERODROMES (1):
+   ~ ENWA: Alvheim FPSO Helideck
+     name: 'Alvheim FPSO' → 'Alvheim FPSO Helideck'
 
-❌ REMOVED AERODROMES (8):
-   - UTFN: Namangan Airport (UZ)
-   - UTNN: Nukus Airport (UZ)
-   - UTNU: Urgench Airport (UZ)
-   - UTSA: Navoi Airport (UZ)
-   - UTSB: Bukhara International Airport (UZ)
-   - UTSK: Karshi Airport (UZ)
-   - UTSS: Samarkand Airport (UZ)
-   - UTST: Termez Airport (UZ)
-
-🕐 Staging last updated: 2025-10-08T06:21:40
-🕐 Production last updated: 2025-10-07T06:21:07
+🕐 Staging last updated: 2025-10-09T06:21:51
+🕐 Production last updated: 2025-10-08T06:21:40
 ------------------------------------------------------------
-📋 Total changes: 16
+📋 Total changes: 1
 💡 To release these changes, run: python3 release.py
