@@ -4,15 +4,14 @@
 ------------------------------------------------------------
 📊 Summary:
    Production aerodromes: 19358
-   Staging aerodromes: 19358
-   Net change: +0
+   Staging aerodromes: 19359
+   Net change: +1
 
-🔄 CHANGED AERODROMES (1):
-   ~ ENWA: Alvheim FPSO Helideck
-     name: 'Alvheim FPSO' → 'Alvheim FPSO Helideck'
+✅ NEW AERODROMES (1):
+   + MZHR: Belize Dive Haven Airstrip (BZ)
 
-🕐 Staging last updated: 2025-10-09T06:21:51
-🕐 Production last updated: 2025-10-08T06:21:40
+🕐 Staging last updated: 2025-10-10T06:21:32
+🕐 Production last updated: 2025-10-09T06:21:51
 ------------------------------------------------------------
 📋 Total changes: 1
 💡 To release these changes, run: python3 release.py
