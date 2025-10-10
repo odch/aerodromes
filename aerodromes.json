@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
-  "last_updated": "2025-10-09T06:21:51",
-  "total_count": 19358,
+  "version": "1.0.13",
+  "last_updated": "2025-10-10T06:21:32",
+  "total_count": 19359,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -55920,6 +55920,12 @@
     {
       "icao": "MZBZ",
       "name": "Philip S. W. Goldson International Airport",
+      "country": "BZ",
+      "timezone": "America/Belize"
+    },
+    {
+      "icao": "MZHR",
+      "name": "Belize Dive Haven Airstrip",
       "country": "BZ",
       "timezone": "America/Belize"
     },
@@ -116152,5 +116158,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-10-09T06:40:58"
+  "released_at": "2025-10-10T07:49:00"
 }
