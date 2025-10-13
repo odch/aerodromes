@@ -1,6 +1,6 @@
 {
-  "version": "1.0.13",
-  "last_updated": "2025-10-10T06:21:32",
+  "version": "1.0.14",
+  "last_updated": "2025-10-13T06:23:09",
   "total_count": 19359,
   "aerodromes": [
     {
@@ -83074,6 +83074,12 @@
       "timezone": "America/Sao_Paulo"
     },
     {
+      "icao": "SNRA",
+      "name": "Nossa Senhora da Abadia Airport",
+      "country": "BR",
+      "timezone": "America/Sao_Paulo"
+    },
+    {
       "icao": "SNRB",
       "name": "Fazenda Rosa de Maio Airport",
       "country": "BR",
@@ -83292,12 +83298,6 @@
     {
       "icao": "SNSX",
       "name": "Fazenda São Martinho Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
-      "icao": "SNSY",
-      "name": "Fazenda São José Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -116158,5 +116158,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-10-10T07:49:00"
+  "released_at": "2025-10-13T06:52:17"
 }
