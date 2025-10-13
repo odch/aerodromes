@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
-  "last_updated": "2025-10-13T06:23:09",
-  "total_count": 19359,
+  "version": "1.0.15",
+  "last_updated": "2025-10-13T20:37:43",
+  "total_count": 19360,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -50838,6 +50838,12 @@
     {
       "icao": "LSPO",
       "name": "Olten Airfield",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSPR",
+      "name": "Lodrino Airfield",
       "country": "CH",
       "timezone": "Europe/Zurich"
     },
@@ -116158,5 +116164,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-10-13T06:52:17"
+  "released_at": "2025-10-13T20:39:27"
 }
