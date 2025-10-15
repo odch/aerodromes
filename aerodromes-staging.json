@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
-  "last_updated": "2025-10-13T20:37:43",
-  "total_count": 19360,
+  "version": "1.0.15",
+  "last_updated": "2025-10-15T06:21:48",
+  "total_count": 19367,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -28150,6 +28150,12 @@
       "timezone": "Africa/Kigali"
     },
     {
+      "icao": "HRYN",
+      "name": "Nemba Airport",
+      "country": "RW",
+      "timezone": "Africa/Kigali"
+    },
+    {
       "icao": "HRYO",
       "name": "Gabiro Airport",
       "country": "RW",
@@ -28994,12 +29000,6 @@
       "name": "Tororo Airport",
       "country": "UG",
       "timezone": "Africa/Kampala"
-    },
-    {
-      "icao": "HYRN",
-      "name": "Nemba Airport",
-      "country": "RW",
-      "timezone": "Africa/Kigali"
     },
     {
       "icao": "JZRO",
@@ -59878,6 +59878,12 @@
       "timezone": "Asia/Karachi"
     },
     {
+      "icao": "OPBT",
+      "name": "Jam Nida Northwest Airport",
+      "country": "PK",
+      "timezone": "Asia/Karachi"
+    },
+    {
       "icao": "OPBW",
       "name": "Bahawalpur Airport",
       "country": "PK",
@@ -59933,7 +59939,7 @@
     },
     {
       "icao": "OPGD",
-      "name": "New Gwadar International Airport",
+      "name": "Gwadar International Airport",
       "country": "PK",
       "timezone": "Asia/Karachi"
     },
@@ -59945,7 +59951,7 @@
     },
     {
       "icao": "OPGW",
-      "name": "Gwadar International Airport",
+      "name": "New Gwadar International Airport",
       "country": "PK",
       "timezone": "Asia/Karachi"
     },
@@ -59958,6 +59964,12 @@
     {
       "icao": "OPJA",
       "name": "Shahbaz Air Base",
+      "country": "PK",
+      "timezone": "Asia/Karachi"
+    },
+    {
+      "icao": "OPJI",
+      "name": "Jiwani Airport (INACTIVE}",
       "country": "PK",
       "timezone": "Asia/Karachi"
     },
@@ -60004,14 +60016,14 @@
       "timezone": "Asia/Karachi"
     },
     {
-      "icao": "OPLA",
-      "name": "Allama Iqbal International Airport",
+      "icao": "OPKW",
+      "name": "Thar Airport",
       "country": "PK",
       "timezone": "Asia/Karachi"
     },
     {
-      "icao": "OPLH",
-      "name": "Walton Airport",
+      "icao": "OPLA",
+      "name": "Allama Iqbal International Airport",
       "country": "PK",
       "timezone": "Asia/Karachi"
     },
@@ -60268,8 +60280,26 @@
       "timezone": "Asia/Karachi"
     },
     {
+      "icao": "OPZM",
+      "name": "Zamzama Heliport",
+      "country": "PK",
+      "timezone": "Asia/Karachi"
+    },
+    {
       "icao": "ORAA",
       "name": "Al Asad Air Base",
+      "country": "IQ",
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "icao": "ORAI",
+      "name": "Al Iskandariyah Airport",
+      "country": "IQ",
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "icao": "ORAN",
+      "name": "An Numaniyah Air Base",
       "country": "IQ",
       "timezone": "Asia/Baghdad"
     },
@@ -60370,8 +60400,20 @@
       "timezone": "Asia/Baghdad"
     },
     {
+      "icao": "ORTK",
+      "name": "Tikrit East Airport",
+      "country": "IQ",
+      "timezone": "Asia/Baghdad"
+    },
+    {
       "icao": "ORTL",
       "name": "Ali Air Base",
+      "country": "IQ",
+      "timezone": "Asia/Baghdad"
+    },
+    {
+      "icao": "ORTS",
+      "name": "Tikrit South Airport",
       "country": "IQ",
       "timezone": "Asia/Baghdad"
     },
