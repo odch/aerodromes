@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "last_updated": "2025-10-15T06:21:48",
-  "total_count": 19367,
+  "version": "1.0.17",
+  "last_updated": "2025-10-22T06:22:30",
+  "total_count": 19368,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -106492,6 +106492,12 @@
       "timezone": "Australia/Sydney"
     },
     {
+      "icao": "YGSD",
+      "name": "Greenside Airstrip",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
       "icao": "YGSN",
       "name": "Mount Gibson Airstrip",
       "country": "AU",
@@ -116206,5 +116212,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-10-15T06:52:38"
+  "released_at": "2025-10-22T06:27:22"
 }
