@@ -3,33 +3,15 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19360
-   Staging aerodromes: 19367
-   Net change: +7
+   Production aerodromes: 19367
+   Staging aerodromes: 19368
+   Net change: +1
 
-✅ NEW AERODROMES (9):
-   + HRYN: Nemba Airport (RW)
-   + OPBT: Jam Nida Northwest Airport (PK)
-   + OPJI: Jiwani Airport (INACTIVE} (PK)
-   + OPKW: Thar Airport (PK)
-   + OPZM: Zamzama Heliport (PK)
-   + ORAI: Al Iskandariyah Airport (IQ)
-   + ORAN: An Numaniyah Air Base (IQ)
-   + ORTK: Tikrit East Airport (IQ)
-   + ORTS: Tikrit South Airport (IQ)
+✅ NEW AERODROMES (1):
+   + YGSD: Greenside Airstrip (AU)
 
-❌ REMOVED AERODROMES (2):
-   - HYRN: Nemba Airport (RW)
-   - OPLH: Walton Airport (PK)
-
-🔄 CHANGED AERODROMES (2):
-   ~ OPGD: Gwadar International Airport
-     name: 'New Gwadar International Airport' → 'Gwadar International Airport'
-   ~ OPGW: New Gwadar International Airport
-     name: 'Gwadar International Airport' → 'New Gwadar International Airport'
-
-🕐 Staging last updated: 2025-10-15T06:21:48
-🕐 Production last updated: 2025-10-13T20:37:43
+🕐 Staging last updated: 2025-10-22T06:22:30
+🕐 Production last updated: 2025-10-15T06:21:48
 ------------------------------------------------------------
-📋 Total changes: 13
+📋 Total changes: 1
 💡 To release these changes, run: python3 release.py

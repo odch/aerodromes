@@ -1,7 +1,7 @@
 {
-  "version": "1.0.15",
-  "last_updated": "2025-10-15T06:21:48",
-  "total_count": 19367,
+  "version": "1.0.16",
+  "last_updated": "2025-10-22T06:22:30",
+  "total_count": 19368,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -106488,6 +106488,12 @@
     {
       "icao": "YGSC",
       "name": "Gascoyne Junction Airport",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "icao": "YGSD",
+      "name": "Greenside Airstrip",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
