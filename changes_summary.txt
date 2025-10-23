@@ -3,15 +3,22 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19367
-   Staging aerodromes: 19368
-   Net change: +1
+   Production aerodromes: 19368
+   Staging aerodromes: 19372
+   Net change: +4
 
-✅ NEW AERODROMES (1):
-   + YGSD: Greenside Airstrip (AU)
+✅ NEW AERODROMES (4):
+   + YAOC: Dunmore/Opal Creek Airport (AU)
+   + YARE: Redford Airstrip (AU)
+   + YGNI: Green Island Helipad (AU)
+   + YGNR: Glenore Airport (AU)
 
-🕐 Staging last updated: 2025-10-22T06:22:30
-🕐 Production last updated: 2025-10-15T06:21:48
+🔄 CHANGED AERODROMES (1):
+   ~ NZSP: Amundsen–Scott South Pole Station Airport
+     name: 'Amundsen–Scott south Pole Station Airport' → 'Amundsen–Scott South Pole Station Airport'
+
+🕐 Staging last updated: 2025-10-23T06:21:54
+🕐 Production last updated: 2025-10-22T06:22:30
 ------------------------------------------------------------
-📋 Total changes: 1
+📋 Total changes: 5
 💡 To release these changes, run: python3 release.py

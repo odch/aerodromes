@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "last_updated": "2025-10-22T06:22:30",
-  "total_count": 19368,
+  "version": "1.0.17",
+  "last_updated": "2025-10-23T06:21:54",
+  "total_count": 19372,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -57965,7 +57965,7 @@
     },
     {
       "icao": "NZSP",
-      "name": "Amundsen–Scott south Pole Station Airport",
+      "name": "Amundsen–Scott South Pole Station Airport",
       "country": "AQ",
       "timezone": "Antarctica/South_Pole"
     },
@@ -102898,6 +102898,12 @@
       "timezone": "Australia/Sydney"
     },
     {
+      "icao": "YAOC",
+      "name": "Dunmore/Opal Creek Airport",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
       "icao": "YAOD",
       "name": "Australian Age of Dinosaurs Helicopter Landing Site",
       "country": "AU",
@@ -102942,6 +102948,12 @@
     {
       "icao": "YARD",
       "name": "Argadargada Airport",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "icao": "YARE",
+      "name": "Redford Airstrip",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
@@ -106426,8 +106438,20 @@
       "timezone": "Australia/Sydney"
     },
     {
+      "icao": "YGNI",
+      "name": "Green Island Helipad",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
       "icao": "YGNO",
       "name": "Goonoo Feedlot Airstrip",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "icao": "YGNR",
+      "name": "Glenore Airport",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
