@@ -1,6 +1,6 @@
 {
-  "version": "1.0.18",
-  "last_updated": "2025-10-23T06:21:54",
+  "version": "1.0.19",
+  "last_updated": "2025-10-26T06:20:02",
   "total_count": 19372,
   "aerodromes": [
     {
@@ -3809,7 +3809,7 @@
     },
     {
       "icao": "CHQE",
-      "name": "Halifax (Queen Elizabeth II Health Science Centre) Heliport",
+      "name": "Queen Elizabeth II Health Science Centre Helipad",
       "country": "CA",
       "timezone": "America/Toronto"
     },
@@ -116236,5 +116236,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-10-23T06:52:33"
+  "released_at": "2025-10-26T07:00:15"
 }
