@@ -3,22 +3,16 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19368
+   Production aerodromes: 19372
    Staging aerodromes: 19372
-   Net change: +4
-
-✅ NEW AERODROMES (4):
-   + YAOC: Dunmore/Opal Creek Airport (AU)
-   + YARE: Redford Airstrip (AU)
-   + YGNI: Green Island Helipad (AU)
-   + YGNR: Glenore Airport (AU)
+   Net change: +0
 
 🔄 CHANGED AERODROMES (1):
-   ~ NZSP: Amundsen–Scott South Pole Station Airport
-     name: 'Amundsen–Scott south Pole Station Airport' → 'Amundsen–Scott South Pole Station Airport'
+   ~ CHQE: Queen Elizabeth II Health Science Centre Helipad
+     name: 'Halifax (Queen Elizabeth II Health Science Centre) Heliport' → 'Queen Elizabeth II Health Science Centre Helipad'
 
-🕐 Staging last updated: 2025-10-23T06:21:54
-🕐 Production last updated: 2025-10-22T06:22:30
+🕐 Staging last updated: 2025-10-26T06:20:02
+🕐 Production last updated: 2025-10-23T06:21:54
 ------------------------------------------------------------
-📋 Total changes: 5
+📋 Total changes: 1
 💡 To release these changes, run: python3 release.py
