@@ -1,7 +1,7 @@
 {
-  "version": "1.0.18",
-  "last_updated": "2025-10-26T06:20:02",
-  "total_count": 19372,
+  "version": "1.0.19",
+  "last_updated": "2025-10-27T06:24:45",
+  "total_count": 19373,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -75768,6 +75768,12 @@
     {
       "icao": "SISM",
       "name": "Hospital Miguel Arraes Helipad",
+      "country": "BR",
+      "timezone": "America/Sao_Paulo"
+    },
+    {
+      "icao": "SISN",
+      "name": "Fazenda Valiosa Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },

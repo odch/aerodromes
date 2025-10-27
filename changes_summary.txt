@@ -4,15 +4,14 @@
 ------------------------------------------------------------
 📊 Summary:
    Production aerodromes: 19372
-   Staging aerodromes: 19372
-   Net change: +0
+   Staging aerodromes: 19373
+   Net change: +1
 
-🔄 CHANGED AERODROMES (1):
-   ~ CHQE: Queen Elizabeth II Health Science Centre Helipad
-     name: 'Halifax (Queen Elizabeth II Health Science Centre) Heliport' → 'Queen Elizabeth II Health Science Centre Helipad'
+✅ NEW AERODROMES (1):
+   + SISN: Fazenda Valiosa Airport (BR)
 
-🕐 Staging last updated: 2025-10-26T06:20:02
-🕐 Production last updated: 2025-10-23T06:21:54
+🕐 Staging last updated: 2025-10-27T06:24:45
+🕐 Production last updated: 2025-10-26T06:20:02
 ------------------------------------------------------------
 📋 Total changes: 1
 💡 To release these changes, run: python3 release.py
