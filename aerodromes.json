@@ -1,7 +1,7 @@
 {
-  "version": "1.0.19",
-  "last_updated": "2025-10-26T06:20:02",
-  "total_count": 19372,
+  "version": "1.0.20",
+  "last_updated": "2025-10-27T06:24:45",
+  "total_count": 19373,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -75772,6 +75772,12 @@
       "timezone": "America/Sao_Paulo"
     },
     {
+      "icao": "SISN",
+      "name": "Fazenda Valiosa Airport",
+      "country": "BR",
+      "timezone": "America/Sao_Paulo"
+    },
+    {
       "icao": "SISO",
       "name": "Fazenda Santo Ambrósio Airport",
       "country": "BR",
@@ -116236,5 +116242,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-10-26T07:00:15"
+  "released_at": "2025-10-27T06:51:08"
 }
