@@ -1,7 +1,7 @@
 {
-  "version": "1.0.21",
-  "last_updated": "2025-10-28T06:23:04",
-  "total_count": 19374,
+  "version": "1.0.22",
+  "last_updated": "2025-11-29T06:21:35",
+  "total_count": 19371,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -14332,6 +14332,12 @@
       "timezone": "Europe/Dublin"
     },
     {
+      "icao": "EKAB",
+      "name": "Arnborg Gliding Center",
+      "country": "DK",
+      "timezone": "Europe/Copenhagen"
+    },
+    {
       "icao": "EKAC",
       "name": "Aarhus Seaplane Terminal",
       "country": "DK",
@@ -14345,7 +14351,7 @@
     },
     {
       "icao": "EKAF",
-      "name": "A6A",
+      "name": "A6A Helideck",
       "country": "DK",
       "timezone": "Europe/Copenhagen"
     },
@@ -14356,20 +14362,32 @@
       "timezone": "Europe/Copenhagen"
     },
     {
+      "icao": "EKAN",
+      "name": "Syd Arne Nord Helideck",
+      "country": "DK",
+      "timezone": "Europe/Copenhagen"
+    },
+    {
+      "icao": "EKAO",
+      "name": "Ærø Heliport",
+      "country": "DK",
+      "timezone": "Europe/Copenhagen"
+    },
+    {
       "icao": "EKAR",
       "name": "South (Syd) Arne Helideck",
       "country": "DK",
       "timezone": "Europe/Copenhagen"
     },
     {
-      "icao": "EKAT",
-      "name": "Anholt Airfield",
+      "icao": "EKAS",
+      "name": "Aarhus University Hospital Helipad",
       "country": "DK",
       "timezone": "Europe/Copenhagen"
     },
     {
-      "icao": "EKBH",
-      "name": "Arnborg Gliding Center",
+      "icao": "EKAT",
+      "name": "Anholt Airfield",
       "country": "DK",
       "timezone": "Europe/Copenhagen"
     },
@@ -26500,14 +26518,14 @@
       "timezone": "Africa/Dakar"
     },
     {
-      "icao": "GOGG",
-      "name": "Ziguinchor Airport",
+      "icao": "GODK",
+      "name": "Kolda Airport",
       "country": "SN",
       "timezone": "Africa/Dakar"
     },
     {
-      "icao": "GOGK",
-      "name": "Kolda Airport",
+      "icao": "GOGG",
+      "name": "Ziguinchor Airport",
       "country": "SN",
       "timezone": "Africa/Dakar"
     },
@@ -29134,6 +29152,12 @@
       "timezone": "America/New_York"
     },
     {
+      "icao": "KADF",
+      "name": "Dexter B Florence Memorial Field",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
       "icao": "KADG",
       "name": "Lenawee County Airport",
       "country": "US",
@@ -30498,6 +30522,12 @@
     {
       "icao": "KBOW",
       "name": "Bartow Executive Airport",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
+      "icao": "KBPD",
+      "name": "Big Pine Sands STOLGround",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -33322,6 +33352,12 @@
       "timezone": "America/New_York"
     },
     {
+      "icao": "KFLR",
+      "name": "Homestead East Airstrip",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
       "icao": "KFLV",
       "name": "Sherman Army Air Field",
       "country": "US",
@@ -33335,7 +33371,7 @@
     },
     {
       "icao": "KFME",
-      "name": "Tipton Airport",
+      "name": "Fort Meade Executive Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -61156,6 +61192,12 @@
       "timezone": "America/Anchorage"
     },
     {
+      "icao": "PAKC",
+      "name": "Coffman Cove Seaplane Base",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
       "icao": "PAKD",
       "name": "Kodiak Municipal Airport",
       "country": "US",
@@ -62144,6 +62186,18 @@
       "name": "Henderson Field",
       "country": "UM",
       "timezone": "Pacific/Midway"
+    },
+    {
+      "icao": "POLI",
+      "name": "Oliktok Point Long Range Radar Station Airport",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
+      "icao": "PPCT",
+      "name": "Takotna Airport",
+      "country": "US",
+      "timezone": "America/New_York"
     },
     {
       "icao": "PPIZ",
@@ -88048,8 +88102,20 @@
       "timezone": "America/Caracas"
     },
     {
+      "icao": "SVAB",
+      "name": "Antabare Airport",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
       "icao": "SVAC",
       "name": "Oswaldo Guevara Mujica Airport",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
+      "icao": "SVAD",
+      "name": "Adícora Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -88110,12 +88176,6 @@
     {
       "icao": "SVAQ",
       "name": "Mata Oscura Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
-      "icao": "SVAR",
-      "name": "Adícora Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -88288,12 +88348,6 @@
       "timezone": "America/Caracas"
     },
     {
-      "icao": "SVCE",
-      "name": "Zaraza Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
       "icao": "SVCG",
       "name": "Casigua El Cubo Airport",
       "country": "VE",
@@ -88360,14 +88414,8 @@
       "timezone": "America/Caracas"
     },
     {
-      "icao": "SVCT",
-      "name": "Caujarito Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
       "icao": "SVCU",
-      "name": "Cumaná (Antonio José de Sucre) Airport",
+      "name": "Antonio José de Sucre Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -88402,12 +88450,6 @@
       "timezone": "America/Caracas"
     },
     {
-      "icao": "SVDA",
-      "name": "La Tortuga Punta Delgada Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
       "icao": "SVDB",
       "name": "Doña Bella Airport",
       "country": "VE",
@@ -88432,14 +88474,8 @@
       "timezone": "America/Caracas"
     },
     {
-      "icao": "SVDM",
-      "name": "Dos Mosquises Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
       "icao": "SVDP",
-      "name": "La Divina Pastora Airport",
+      "name": "Hato Divina Pastora Airstrip",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -88451,7 +88487,7 @@
     },
     {
       "icao": "SVDS",
-      "name": "Codsa Airport",
+      "name": "CODSA Airstrip",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -88464,18 +88500,6 @@
     {
       "icao": "SVDV",
       "name": "Hato Veladero Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
-      "icao": "SVDW",
-      "name": "Ciudad Piar Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
-      "icao": "SVDX",
-      "name": "Hato Puga Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -88510,20 +88534,8 @@
       "timezone": "America/Caracas"
     },
     {
-      "icao": "SVEJ",
-      "name": "El Jabillal Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
       "icao": "SVEK",
       "name": "El Capitán Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
-      "icao": "SVEL",
-      "name": "El Callao (El Perú) Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -88661,7 +88673,7 @@
     },
     {
       "icao": "SVGA",
-      "name": "Agropecuaria Gamma Airport",
+      "name": "La Paragua Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -88745,7 +88757,7 @@
     },
     {
       "icao": "SVHA",
-      "name": "Hato Altamira de Bolívar Airport",
+      "name": "Ávila Heliport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -88847,7 +88859,13 @@
     },
     {
       "icao": "SVIC",
-      "name": "Icabarú Airport",
+      "name": "Ikabaru Airport",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
+      "icao": "SVID",
+      "name": "Dos Mosquises Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -88860,6 +88878,12 @@
     {
       "icao": "SVIM",
       "name": "Hato El Caimán Airport",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
+      "icao": "SVIT",
+      "name": "La Tortuga Punta Delgada Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -88912,6 +88936,12 @@
       "timezone": "America/Caracas"
     },
     {
+      "icao": "SVJT",
+      "name": "Caujarito Airport",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
       "icao": "SVJU",
       "name": "Hato La Laguna del Junco Airport",
       "country": "VE",
@@ -88932,6 +88962,12 @@
     {
       "icao": "SVKC",
       "name": "El Carrao Airport",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
+      "icao": "SVKD",
+      "name": "Fuerte Escamoto HLS",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -88960,6 +88996,12 @@
       "timezone": "America/Caracas"
     },
     {
+      "icao": "SVKR",
+      "name": "Aeroservicios Ranger  HLS",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
       "icao": "SVLA",
       "name": "Las Adjuntas Airport",
       "country": "VE",
@@ -88973,13 +89015,19 @@
     },
     {
       "icao": "SVLC",
-      "name": "El Lucero de Apure Airport",
+      "name": "La Centella Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
     {
       "icao": "SVLD",
       "name": "Las Brisas Airport",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
+      "icao": "SVLE",
+      "name": "La Esmeralda Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89225,7 +89273,7 @@
     },
     {
       "icao": "SVMY",
-      "name": "Manapiare Airstrip",
+      "name": "Mayupa Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89261,7 +89309,7 @@
     },
     {
       "icao": "SVNH",
-      "name": "El Nido del Halcon Heliport",
+      "name": "Nido del Halcón Heliport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89328,18 +89376,6 @@
     {
       "icao": "SVOD",
       "name": "BOD Tower Helipad",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
-      "icao": "SVOE",
-      "name": "Sabaneta Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
-      "icao": "SVOF",
-      "name": "Santa Bárbara de Monagas Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89417,7 +89453,7 @@
     },
     {
       "icao": "SVOT",
-      "name": "San Pablo De Barinas Airport",
+      "name": "San Pablo de Barinas Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89464,26 +89500,14 @@
       "timezone": "America/Caracas"
     },
     {
-      "icao": "SVPF",
-      "name": "Pariaguán Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
       "icao": "SVPG",
       "name": "El Progreso Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
     {
-      "icao": "SVPH",
-      "name": "Perai-Tepuy Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
       "icao": "SVPI",
-      "name": "El Paují Airport",
+      "name": "El Pauji Airstrip",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89496,12 +89520,6 @@
     {
       "icao": "SVPK",
       "name": "Las Palmeras Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
-      "icao": "SVPL",
-      "name": "El Pueblito Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89548,12 +89566,6 @@
       "timezone": "America/Caracas"
     },
     {
-      "icao": "SVPU",
-      "name": "La Paragua Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
       "icao": "SVPV",
       "name": "Pedraza La Vieja Airport",
       "country": "VE",
@@ -89562,6 +89574,12 @@
     {
       "icao": "SVPW",
       "name": "Pelayo Airport",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
+      "icao": "SVPX",
+      "name": "Paraitepuy Airstrip",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89609,7 +89627,7 @@
     },
     {
       "icao": "SVQJ",
-      "name": "La Trinidad De Apure Airport",
+      "name": "La Trinidad de Apure Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89621,7 +89639,7 @@
     },
     {
       "icao": "SVQL",
-      "name": "Tocomita Airport",
+      "name": "El Jabillal Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89657,7 +89675,7 @@
     },
     {
       "icao": "SVQT",
-      "name": "Los Quitasoles Airport",
+      "name": "El Terrón Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89710,6 +89728,12 @@
       "timezone": "America/Caracas"
     },
     {
+      "icao": "SVRD",
+      "name": "El Remanso del Cinaruco Pedroc Airport",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
       "icao": "SVRE",
       "name": "Aracay Abajo Airport",
       "country": "VE",
@@ -89748,18 +89772,6 @@
     {
       "icao": "SVRM",
       "name": "Hato La Romereña Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
-      "icao": "SVRN",
-      "name": "El Terrón Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
-      "icao": "SVRO",
-      "name": "El Rosario Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89806,12 +89818,6 @@
       "timezone": "America/Caracas"
     },
     {
-      "icao": "SVRY",
-      "name": "El Merey Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
       "icao": "SVRZ",
       "name": "El Corozo Airport",
       "country": "VE",
@@ -89819,7 +89825,7 @@
     },
     {
       "icao": "SVSA",
-      "name": "San Antonio Del Tachira Airport",
+      "name": "Juan Vicente Gómez International Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89843,7 +89849,7 @@
     },
     {
       "icao": "SVSE",
-      "name": "Santa Elena de Uairen Airport",
+      "name": "Santa Elena de Uairén Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -89974,12 +89980,6 @@
       "timezone": "America/Caracas"
     },
     {
-      "icao": "SVTE",
-      "name": "Antabare Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
       "icao": "SVTF",
       "name": "La Trinidad de Ferro Airport",
       "country": "VE",
@@ -90004,12 +90004,6 @@
       "timezone": "America/Caracas"
     },
     {
-      "icao": "SVTL",
-      "name": "La Centella Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
       "icao": "SVTM",
       "name": "Tumeremo Airport",
       "country": "VE",
@@ -90017,7 +90011,7 @@
     },
     {
       "icao": "SVTN",
-      "name": "La Trinidad de Barinas Airport",
+      "name": "Turen Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -90034,12 +90028,6 @@
       "timezone": "America/Caracas"
     },
     {
-      "icao": "SVTR",
-      "name": "Temblador Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
       "icao": "SVTT",
       "name": "La Torta Airport",
       "country": "VE",
@@ -90052,20 +90040,8 @@
       "timezone": "America/Caracas"
     },
     {
-      "icao": "SVTV",
-      "name": "Turen Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
       "icao": "SVTY",
       "name": "Toromacho Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
-      "icao": "SVUA",
-      "name": "Mayupa Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -90090,6 +90066,12 @@
     {
       "icao": "SVUQ",
       "name": "Uon Quen Airport",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
+      "icao": "SVUR",
+      "name": "Cuenca de Unare Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -90216,6 +90198,24 @@
     {
       "icao": "SVXF",
       "name": "Hato Santa Clara Airport",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
+      "icao": "SVXG",
+      "name": "PDVSA Guaraguao Heliport",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
+      "icao": "SVXJ",
+      "name": "José Heliport",
+      "country": "VE",
+      "timezone": "America/Caracas"
+    },
+    {
+      "icao": "SVXU",
+      "name": "La Guacamaya Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -92075,7 +92075,7 @@
     },
     {
       "icao": "SWTH",
-      "name": "Fazenda Smith",
+      "name": "Fazenda Smith Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -97444,12 +97444,6 @@
       "timezone": "Asia/Phnom_Penh"
     },
     {
-      "icao": "VDKH",
-      "name": "Kampong Chhnang Airport",
-      "country": "KH",
-      "timezone": "Asia/Phnom_Penh"
-    },
-    {
       "icao": "VDKK",
       "name": "Koh Kong Airport",
       "country": "KH",
@@ -99240,12 +99234,6 @@
     {
       "icao": "VTBW",
       "name": "Watthana Nakhon Airport",
-      "country": "TH",
-      "timezone": "Asia/Bangkok"
-    },
-    {
-      "icao": "VTCB",
-      "name": "Phayao Ban Chiang Kham Airport",
       "country": "TH",
       "timezone": "Asia/Bangkok"
     },
@@ -102786,12 +102774,6 @@
     {
       "icao": "YALP",
       "name": "Alpurrurulam Airport",
-      "country": "AU",
-      "timezone": "Australia/Sydney"
-    },
-    {
-      "icao": "YALT",
-      "name": "Althorpe Island Airstrip",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
@@ -114431,7 +114413,7 @@
     },
     {
       "icao": "ZBYC",
-      "name": "Yuncheng Zhangxiao Airport",
+      "name": "Yuncheng Yanhu International Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
@@ -116248,5 +116230,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-10-28T06:42:38"
+  "released_at": "2025-11-29T07:41:13"
 }
