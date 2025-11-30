@@ -3,61 +3,19 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19374
-   Staging aerodromes: 19371
-   Net change: -3
+   Production aerodromes: 19371
+   Staging aerodromes: 19372
+   Net change: +1
 
-✅ NEW AERODROMES (25):
-   + EKAB: Arnborg Gliding Center (DK)
-   + EKAN: Syd Arne Nord Helideck (DK)
-   + EKAO: Ærø Heliport (DK)
-   + EKAS: Aarhus University Hospital Helipad (DK)
-   + GODK: Kolda Airport (SN)
-   + KADF: Dexter B Florence Memorial Field (US)
-   + KBPD: Big Pine Sands STOLGround (US)
-   + KFLR: Homestead East Airstrip (US)
-   + PAKC: Coffman Cove Seaplane Base (US)
-   + POLI: Oliktok Point Long Range Radar Station Airport (US)
-   ... and 15 more
+✅ NEW AERODROMES (2):
+   + LZKA: Komoča ULM (SK)
+   + UZTC: Chirchik Airport (UZ)
 
-❌ REMOVED AERODROMES (28):
-   - EKBH: Arnborg Gliding Center (DK)
-   - GOGK: Kolda Airport (SN)
-   - SVAR: Adícora Airport (VE)
-   - SVCE: Zaraza Airport (VE)
-   - SVCT: Caujarito Airport (VE)
-   - SVDA: La Tortuga Punta Delgada Airport (VE)
-   - SVDM: Dos Mosquises Airport (VE)
-   - SVDW: Ciudad Piar Airport (VE)
-   - SVDX: Hato Puga Airport (VE)
-   - SVEJ: El Jabillal Airport (VE)
-   ... and 18 more
+❌ REMOVED AERODROMES (1):
+   - CCAA: Ok365comdev (VN)
 
-🔄 CHANGED AERODROMES (21):
-   ~ EKAF: A6A Helideck
-     name: 'A6A' → 'A6A Helideck'
-   ~ KFME: Fort Meade Executive Airport
-     name: 'Tipton Airport' → 'Fort Meade Executive Airport'
-   ~ SVCU: Antonio José de Sucre Airport
-     name: 'Cumaná (Antonio José de Sucre) Airport' → 'Antonio José de Sucre Airport'
-   ~ SVDP: Hato Divina Pastora Airstrip
-     name: 'La Divina Pastora Airport' → 'Hato Divina Pastora Airstrip'
-   ~ SVDS: CODSA Airstrip
-     name: 'Codsa Airport' → 'CODSA Airstrip'
-   ~ SVGA: La Paragua Airport
-     name: 'Agropecuaria Gamma Airport' → 'La Paragua Airport'
-   ~ SVHA: Ávila Heliport
-     name: 'Hato Altamira de Bolívar Airport' → 'Ávila Heliport'
-   ~ SVIC: Ikabaru Airport
-     name: 'Icabarú Airport' → 'Ikabaru Airport'
-   ~ SVLC: La Centella Airport
-     name: 'El Lucero de Apure Airport' → 'La Centella Airport'
-   ~ SVMY: Mayupa Airport
-     name: 'Manapiare Airstrip' → 'Mayupa Airport'
-   ... and 11 more
-
-🕐 Staging last updated: 2025-11-29T06:21:35
-🕐 Production last updated: 2025-10-28T06:23:04
+🕐 Staging last updated: 2025-11-30T06:22:09
+🕐 Production last updated: 2025-11-29T06:21:35
 ------------------------------------------------------------
-📋 Total changes: 74
+📋 Total changes: 3
 💡 To release these changes, run: python3 release.py

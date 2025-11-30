@@ -1,7 +1,7 @@
 {
-  "version": "1.0.21",
-  "last_updated": "2025-11-29T06:21:35",
-  "total_count": 19371,
+  "version": "1.0.22",
+  "last_updated": "2025-11-30T06:22:09",
+  "total_count": 19372,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -3800,12 +3800,6 @@
       "name": "Bella Bella (Campbell Island) Airport",
       "country": "CA",
       "timezone": "America/Toronto"
-    },
-    {
-      "icao": "CCAA",
-      "name": "Ok365comdev",
-      "country": "VN",
-      "timezone": "Asia/Ho_Chi_Minh"
     },
     {
       "icao": "CHQE",
@@ -52210,6 +52204,12 @@
       "timezone": "Europe/Bratislava"
     },
     {
+      "icao": "LZKA",
+      "name": "Komoča ULM",
+      "country": "SK",
+      "timezone": "Europe/Bratislava"
+    },
+    {
       "icao": "LZKC",
       "name": "Kamenica nad Cirochou Airfield",
       "country": "SK",
@@ -97086,6 +97086,12 @@
     {
       "icao": "UZST",
       "name": "Termez Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZTC",
+      "name": "Chirchik Airport",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
     },
