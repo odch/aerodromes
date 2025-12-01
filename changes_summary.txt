@@ -3,19 +3,16 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19371
+   Production aerodromes: 19372
    Staging aerodromes: 19372
-   Net change: +1
+   Net change: +0
 
-✅ NEW AERODROMES (2):
-   + LZKA: Komoča ULM (SK)
-   + UZTC: Chirchik Airport (UZ)
+🔄 CHANGED AERODROMES (1):
+   ~ VTBE: Pak Phreaw Heliport
+     name: 'Pak Phreaw Airport' → 'Pak Phreaw Heliport'
 
-❌ REMOVED AERODROMES (1):
-   - CCAA: Ok365comdev (VN)
-
-🕐 Staging last updated: 2025-11-30T06:22:09
-🕐 Production last updated: 2025-11-29T06:21:35
+🕐 Staging last updated: 2025-12-01T06:26:12
+🕐 Production last updated: 2025-11-30T06:22:09
 ------------------------------------------------------------
-📋 Total changes: 3
+📋 Total changes: 1
 💡 To release these changes, run: python3 release.py
