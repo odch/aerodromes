@@ -1,7 +1,7 @@
 {
-  "version": "1.0.24",
-  "last_updated": "2025-12-01T06:26:12",
-  "total_count": 19372,
+  "version": "1.0.25",
+  "last_updated": "2025-12-02T06:24:42",
+  "total_count": 19371,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -85888,12 +85888,6 @@
       "timezone": "America/Sao_Paulo"
     },
     {
-      "icao": "SSHR",
-      "name": "Horus Heliport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
       "icao": "SSHS",
       "name": "Helisul IV Heliport",
       "country": "BR",
@@ -116236,5 +116230,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-12-01T07:01:21"
+  "released_at": "2025-12-02T07:36:59"
 }
