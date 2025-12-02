@@ -4,15 +4,14 @@
 ------------------------------------------------------------
 📊 Summary:
    Production aerodromes: 19372
-   Staging aerodromes: 19372
-   Net change: +0
+   Staging aerodromes: 19371
+   Net change: -1
 
-🔄 CHANGED AERODROMES (1):
-   ~ VTBE: Pak Phreaw Heliport
-     name: 'Pak Phreaw Airport' → 'Pak Phreaw Heliport'
+❌ REMOVED AERODROMES (1):
+   - SSHR: Horus Heliport (BR)
 
-🕐 Staging last updated: 2025-12-01T06:26:12
-🕐 Production last updated: 2025-11-30T06:22:09
+🕐 Staging last updated: 2025-12-02T06:24:42
+🕐 Production last updated: 2025-12-01T06:26:12
 ------------------------------------------------------------
 📋 Total changes: 1
 💡 To release these changes, run: python3 release.py
