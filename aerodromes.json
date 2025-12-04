@@ -1,7 +1,7 @@
 {
-  "version": "1.0.25",
-  "last_updated": "2025-12-02T06:24:42",
-  "total_count": 19371,
+  "version": "1.0.26",
+  "last_updated": "2025-12-04T06:24:19",
+  "total_count": 19372,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -80170,6 +80170,12 @@
       "timezone": "America/La_Paz"
     },
     {
+      "icao": "SLCH",
+      "name": "Carol Marghata Airport",
+      "country": "BO",
+      "timezone": "America/La_Paz"
+    },
+    {
       "icao": "SLCI",
       "name": "Caigua Airport",
       "country": "BO",
@@ -80885,7 +80891,7 @@
     },
     {
       "icao": "SLSR",
-      "name": "Santa Rosa De Yacuma Airport",
+      "name": "Santa Rosa de Yacuma Airport",
       "country": "BO",
       "timezone": "America/La_Paz"
     },
@@ -80897,7 +80903,7 @@
     },
     {
       "icao": "SLSU",
-      "name": "Juana Azurduy De Padilla Airport",
+      "name": "Juana Azurduy de Padilla Airport",
       "country": "BO",
       "timezone": "America/La_Paz"
     },
@@ -116230,5 +116236,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-12-02T07:36:59"
+  "released_at": "2025-12-04T08:41:14"
 }
