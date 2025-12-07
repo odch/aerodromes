@@ -3,21 +3,21 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19371
-   Staging aerodromes: 19372
+   Production aerodromes: 19372
+   Staging aerodromes: 19373
    Net change: +1
 
 ✅ NEW AERODROMES (1):
-   + SLCH: Carol Marghata Airport (BO)
+   + YSKR: Skardon River Airport (AU)
 
 🔄 CHANGED AERODROMES (2):
-   ~ SLSR: Santa Rosa de Yacuma Airport
-     name: 'Santa Rosa De Yacuma Airport' → 'Santa Rosa de Yacuma Airport'
-   ~ SLSU: Juana Azurduy de Padilla Airport
-     name: 'Juana Azurduy De Padilla Airport' → 'Juana Azurduy de Padilla Airport'
+   ~ YBLO: Bullio Airport (Closed}
+     name: 'Bullio Airport' → 'Bullio Airport (Closed}'
+   ~ YMAV: Melbourne Avalon International Airport
+     name: 'Avalon Airport' → 'Melbourne Avalon International Airport'
 
-🕐 Staging last updated: 2025-12-04T06:24:19
-🕐 Production last updated: 2025-12-02T06:24:42
+🕐 Staging last updated: 2025-12-07T06:21:03
+🕐 Production last updated: 2025-12-04T06:24:19
 ------------------------------------------------------------
 📋 Total changes: 3
 💡 To release these changes, run: python3 release.py
