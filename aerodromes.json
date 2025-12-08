@@ -1,7 +1,7 @@
 {
-  "version": "1.0.27",
-  "last_updated": "2025-12-07T06:21:03",
-  "total_count": 19373,
+  "version": "1.0.28",
+  "last_updated": "2025-12-08T06:26:59",
+  "total_count": 19377,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -33467,7 +33467,7 @@
     },
     {
       "icao": "KFPR",
-      "name": "St Lucie County International Airport",
+      "name": "Treasure Coast International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -47512,6 +47512,12 @@
       "timezone": "Europe/Rome"
     },
     {
+      "icao": "LICK",
+      "name": "Scalea Airport",
+      "country": "IT",
+      "timezone": "Europe/Rome"
+    },
+    {
       "icao": "LICN",
       "name": "Calatabiano (Aviosuperficie Angelo D'Arrigo)",
       "country": "IT",
@@ -47530,8 +47536,20 @@
       "timezone": "Europe/Rome"
     },
     {
+      "icao": "LICS",
+      "name": "AvioSciacca Airfield",
+      "country": "IT",
+      "timezone": "Europe/Rome"
+    },
+    {
       "icao": "LICT",
       "name": "Vincenzo Florio Airport Trapani-Birgi",
+      "country": "IT",
+      "timezone": "Europe/Rome"
+    },
+    {
+      "icao": "LICU",
+      "name": "Ustica Heliport",
       "country": "IT",
       "timezone": "Europe/Rome"
     },
@@ -47658,6 +47676,12 @@
     {
       "icao": "LIEO",
       "name": "Olbia Costa Smeralda Airport",
+      "country": "IT",
+      "timezone": "Europe/Rome"
+    },
+    {
+      "icao": "LIEP",
+      "name": "Aliquirra Airfield",
       "country": "IT",
       "timezone": "Europe/Rome"
     },
@@ -116242,5 +116266,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-12-07T07:30:16"
+  "released_at": "2025-12-08T07:47:17"
 }
