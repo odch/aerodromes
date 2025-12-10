@@ -3,22 +3,29 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19373
-   Staging aerodromes: 19377
-   Net change: +4
+   Production aerodromes: 19377
+   Staging aerodromes: 19391
+   Net change: +14
 
-✅ NEW AERODROMES (4):
-   + LICK: Scalea Airport (IT)
-   + LICS: AvioSciacca Airfield (IT)
-   + LICU: Ustica Heliport (IT)
-   + LIEP: Aliquirra Airfield (IT)
+✅ NEW AERODROMES (14):
+   + FYAD: Aandster Airstrip (NA)
+   + FYAG: Anib Lodge Landing Site (NA)
+   + FYAH: Okombahe Airfield (NA)
+   + FYAI: Ameib Ranch Airstrip (NA)
+   + FYAL: Auob Lodge Airport (NA)
+   + FYAN: Aranos Airport (NA)
+   + FYAT: Autabib Airfield (NA)
+   + FYBE: Betesda Airstrip (NA)
+   + FYBI: Arabi Hunting Farm Airfield (NA)
+   + FYBK: Brukkaros Landing Strip (NA)
+   ... and 4 more
 
 🔄 CHANGED AERODROMES (1):
-   ~ KFPR: Treasure Coast International Airport
-     name: 'St Lucie County International Airport' → 'Treasure Coast International Airport'
+   ~ FYAV: Ariamsvlei Airport
+     name: 'Ariamsvley Airport' → 'Ariamsvlei Airport'
 
-🕐 Staging last updated: 2025-12-08T06:26:59
-🕐 Production last updated: 2025-12-07T06:21:03
+🕐 Staging last updated: 2025-12-10T06:25:33
+🕐 Production last updated: 2025-12-08T06:26:59
 ------------------------------------------------------------
-📋 Total changes: 5
+📋 Total changes: 15
 💡 To release these changes, run: python3 release.py
