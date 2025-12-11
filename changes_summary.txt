@@ -3,29 +3,15 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19377
-   Staging aerodromes: 19391
-   Net change: +14
+   Production aerodromes: 19391
+   Staging aerodromes: 19390
+   Net change: -1
 
-✅ NEW AERODROMES (14):
-   + FYAD: Aandster Airstrip (NA)
-   + FYAG: Anib Lodge Landing Site (NA)
-   + FYAH: Okombahe Airfield (NA)
-   + FYAI: Ameib Ranch Airstrip (NA)
-   + FYAL: Auob Lodge Airport (NA)
-   + FYAN: Aranos Airport (NA)
-   + FYAT: Autabib Airfield (NA)
-   + FYBE: Betesda Airstrip (NA)
-   + FYBI: Arabi Hunting Farm Airfield (NA)
-   + FYBK: Brukkaros Landing Strip (NA)
-   ... and 4 more
+❌ REMOVED AERODROMES (1):
+   - YBLO: Bullio Airport (Closed} (AU)
 
-🔄 CHANGED AERODROMES (1):
-   ~ FYAV: Ariamsvlei Airport
-     name: 'Ariamsvley Airport' → 'Ariamsvlei Airport'
-
-🕐 Staging last updated: 2025-12-10T06:25:33
-🕐 Production last updated: 2025-12-08T06:26:59
+🕐 Staging last updated: 2025-12-11T06:26:10
+🕐 Production last updated: 2025-12-10T06:25:33
 ------------------------------------------------------------
-📋 Total changes: 15
+📋 Total changes: 1
 💡 To release these changes, run: python3 release.py
