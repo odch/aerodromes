@@ -1,6 +1,6 @@
 {
-  "version": "1.0.29",
-  "last_updated": "2025-12-10T06:25:33",
+  "version": "1.0.30",
+  "last_updated": "2025-12-12T06:25:25",
   "total_count": 19391,
   "aerodromes": [
     {
@@ -103727,7 +103727,7 @@
     },
     {
       "icao": "YBLO",
-      "name": "Bullio Airport (Closed}",
+      "name": "Bullio Airport",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
@@ -116350,5 +116350,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-12-10T19:37:34"
+  "released_at": "2025-12-12T08:28:48"
 }
