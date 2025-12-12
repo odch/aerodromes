@@ -4,13 +4,14 @@
 ------------------------------------------------------------
 📊 Summary:
    Production aerodromes: 19391
-   Staging aerodromes: 19390
-   Net change: -1
+   Staging aerodromes: 19391
+   Net change: +0
 
-❌ REMOVED AERODROMES (1):
-   - YBLO: Bullio Airport (Closed} (AU)
+🔄 CHANGED AERODROMES (1):
+   ~ YBLO: Bullio Airport
+     name: 'Bullio Airport (Closed}' → 'Bullio Airport'
 
-🕐 Staging last updated: 2025-12-11T06:26:10
+🕐 Staging last updated: 2025-12-12T06:25:25
 🕐 Production last updated: 2025-12-10T06:25:33
 ------------------------------------------------------------
 📋 Total changes: 1

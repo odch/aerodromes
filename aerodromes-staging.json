@@ -1,7 +1,7 @@
 {
   "version": "1.0.29",
-  "last_updated": "2025-12-11T06:26:10",
-  "total_count": 19390,
+  "last_updated": "2025-12-12T06:25:25",
+  "total_count": 19391,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -103724,6 +103724,12 @@
       "name": "Busselton Margaret River Regional Airport",
       "country": "AU",
       "timezone": "Australia/Perth"
+    },
+    {
+      "icao": "YBLO",
+      "name": "Bullio Airport",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
     },
     {
       "icao": "YBLT",
