@@ -4,15 +4,34 @@
 ------------------------------------------------------------
 📊 Summary:
    Production aerodromes: 19391
-   Staging aerodromes: 19391
-   Net change: +0
+   Staging aerodromes: 19400
+   Net change: +9
 
-🔄 CHANGED AERODROMES (1):
-   ~ YBLO: Bullio Airport
-     name: 'Bullio Airport (Closed}' → 'Bullio Airport'
+✅ NEW AERODROMES (11):
+   + BISL: Skaftafell Airport (IS)
+   + OEAD: Aradah Airport (SA)
+   + OEBT: Batha Airport (SA)
+   + OEJL: King Abdulaziz Naval Base (SA)
+   + OEKJ: Al Kharj Airport (SA)
+   + OEKN: Khurais Airport (SA)
+   + OESN: King Salman Air Base (SA)
+   + OEST: Shubaytah Airport (SA)
+   + OJKA: King Abdullah II Air Base (JO)
+   + OJKF: King Feisal Air Base (JO)
+   ... and 1 more
 
-🕐 Staging last updated: 2025-12-12T06:25:25
-🕐 Production last updated: 2025-12-10T06:25:33
+❌ REMOVED AERODROMES (2):
+   - OERY: King Salman Air Base (SA)
+   - OJHF: Prince Hassan Air Base (JO)
+
+🔄 CHANGED AERODROMES (2):
+   ~ BISA: Sauðárflugvöllur
+     name: 'Sandá Airport' → 'Sauðárflugvöllur'
+   ~ OEPK: IPSA 3 Airport
+     name: 'Ipsa 3 Airport' → 'IPSA 3 Airport'
+
+🕐 Staging last updated: 2025-12-15T06:39:45
+🕐 Production last updated: 2025-12-12T06:25:25
 ------------------------------------------------------------
-📋 Total changes: 1
+📋 Total changes: 15
 💡 To release these changes, run: python3 release.py

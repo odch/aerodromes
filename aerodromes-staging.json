@@ -1,7 +1,7 @@
 {
-  "version": "1.0.29",
-  "last_updated": "2025-12-12T06:25:25",
-  "total_count": 19391,
+  "version": "1.0.30",
+  "last_updated": "2025-12-15T06:39:45",
+  "total_count": 19400,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -3653,7 +3653,7 @@
     },
     {
       "icao": "BISA",
-      "name": "Sandá Airport",
+      "name": "Sauðárflugvöllur",
       "country": "IS",
       "timezone": "Atlantic/Reykjavik"
     },
@@ -3684,6 +3684,12 @@
     {
       "icao": "BISK",
       "name": "Skógasandur Airport",
+      "country": "IS",
+      "timezone": "Atlantic/Reykjavik"
+    },
+    {
+      "icao": "BISL",
+      "name": "Skaftafell Airport",
       "country": "IS",
       "timezone": "Atlantic/Reykjavik"
     },
@@ -58702,6 +58708,12 @@
       "timezone": "Asia/Riyadh"
     },
     {
+      "icao": "OEAD",
+      "name": "Aradah Airport",
+      "country": "SA",
+      "timezone": "Asia/Riyadh"
+    },
+    {
       "icao": "OEAH",
       "name": "Al-Ahsa International Airport",
       "country": "SA",
@@ -58734,6 +58746,12 @@
     {
       "icao": "OEBQ",
       "name": "Abqaiq Airport",
+      "country": "SA",
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "icao": "OEBT",
+      "name": "Batha Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
@@ -58804,6 +58822,12 @@
       "timezone": "Asia/Riyadh"
     },
     {
+      "icao": "OEJL",
+      "name": "King Abdulaziz Naval Base",
+      "country": "SA",
+      "timezone": "Asia/Riyadh"
+    },
+    {
       "icao": "OEJN",
       "name": "King Abdulaziz International Airport",
       "country": "SA",
@@ -58816,6 +58840,12 @@
       "timezone": "Asia/Riyadh"
     },
     {
+      "icao": "OEKJ",
+      "name": "Al Kharj Airport",
+      "country": "SA",
+      "timezone": "Asia/Riyadh"
+    },
+    {
       "icao": "OEKK",
       "name": "King Khaled Military City Airport",
       "country": "SA",
@@ -58824,6 +58854,12 @@
     {
       "icao": "OEKM",
       "name": "King Khalid Air Base",
+      "country": "SA",
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "icao": "OEKN",
+      "name": "Khurais Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
@@ -58901,7 +58937,7 @@
     },
     {
       "icao": "OEPK",
-      "name": "Ipsa 3 Airport",
+      "name": "IPSA 3 Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
@@ -58954,12 +58990,6 @@
       "timezone": "Asia/Riyadh"
     },
     {
-      "icao": "OERY",
-      "name": "King Salman Air Base",
-      "country": "SA",
-      "timezone": "Asia/Riyadh"
-    },
-    {
       "icao": "OESB",
       "name": "Shaibah Airport",
       "country": "SA",
@@ -58984,8 +59014,20 @@
       "timezone": "Asia/Riyadh"
     },
     {
+      "icao": "OESN",
+      "name": "King Salman Air Base",
+      "country": "SA",
+      "timezone": "Asia/Riyadh"
+    },
+    {
       "icao": "OESS",
       "name": "Soltana Al-Ghat Airport",
+      "country": "SA",
+      "timezone": "Asia/Riyadh"
+    },
+    {
+      "icao": "OEST",
+      "name": "Shubaytah Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
@@ -59662,14 +59704,20 @@
       "timezone": "Asia/Amman"
     },
     {
-      "icao": "OJHF",
-      "name": "Prince Hassan Air Base",
+      "icao": "OJHR",
+      "name": "H4 Air Base",
       "country": "JO",
       "timezone": "Asia/Amman"
     },
     {
-      "icao": "OJHR",
-      "name": "H4 Air Base",
+      "icao": "OJKA",
+      "name": "King Abdullah II Air Base",
+      "country": "JO",
+      "timezone": "Asia/Amman"
+    },
+    {
+      "icao": "OJKF",
+      "name": "King Feisal Air Base",
       "country": "JO",
       "timezone": "Asia/Amman"
     },
@@ -59682,6 +59730,12 @@
     {
       "icao": "OJMS",
       "name": "Muwaffaq Salti Air Base",
+      "country": "JO",
+      "timezone": "Asia/Amman"
+    },
+    {
+      "icao": "OJPH",
+      "name": "Prince Hassan Air Base",
       "country": "JO",
       "timezone": "Asia/Amman"
     },
