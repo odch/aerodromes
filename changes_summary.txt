@@ -3,35 +3,34 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19391
-   Staging aerodromes: 19400
-   Net change: +9
+   Production aerodromes: 19400
+   Staging aerodromes: 19422
+   Net change: +22
 
-✅ NEW AERODROMES (11):
-   + BISL: Skaftafell Airport (IS)
-   + OEAD: Aradah Airport (SA)
-   + OEBT: Batha Airport (SA)
-   + OEJL: King Abdulaziz Naval Base (SA)
-   + OEKJ: Al Kharj Airport (SA)
-   + OEKN: Khurais Airport (SA)
-   + OESN: King Salman Air Base (SA)
-   + OEST: Shubaytah Airport (SA)
-   + OJKA: King Abdullah II Air Base (JO)
-   + OJKF: King Feisal Air Base (JO)
-   ... and 1 more
+✅ NEW AERODROMES (23):
+   + FYKR: Okorusu Mine Airstrip (NA)
+   + FYKS: Koes Airport (NA)
+   + FYKU: Kuidas Airstrip (NA)
+   + FYKW: Okangwati Airport (NA)
+   + FYKY: Uitkyk Airport (NA)
+   + FYKZ: Kuzikus Airstrip (NA)
+   + FYLO: Lodge Okajo Airstrip (NA)
+   + FYLR: La Rochelle Airfield (NA)
+   + FYLV: Leonardville Airport (NA)
+   + FYLW: Langverwacht Airstrip (NA)
+   ... and 13 more
 
-❌ REMOVED AERODROMES (2):
-   - OERY: King Salman Air Base (SA)
-   - OJHF: Prince Hassan Air Base (JO)
+❌ REMOVED AERODROMES (1):
+   - MULM: La Coloma Airport (CU)
 
 🔄 CHANGED AERODROMES (2):
-   ~ BISA: Sauðárflugvöllur
-     name: 'Sandá Airport' → 'Sauðárflugvöllur'
-   ~ OEPK: IPSA 3 Airport
-     name: 'Ipsa 3 Airport' → 'IPSA 3 Airport'
+   ~ KLAL: Lakeland Linder International/Regional Airport
+     name: 'Lakeland Linder International Airport' → 'Lakeland Linder International/Regional Airport'
+   ~ SGCO: Lieutenant Colonel Carmelo Peralta National Airport
+     name: 'Aeropuerto Nacional Tte. Cnel. Carmelo Peralta' → 'Lieutenant Colonel Carmelo Peralta National Airport'
 
-🕐 Staging last updated: 2025-12-15T06:39:45
-🕐 Production last updated: 2025-12-12T06:25:25
+🕐 Staging last updated: 2025-12-22T06:39:08
+🕐 Production last updated: 2025-12-15T06:39:45
 ------------------------------------------------------------
-📋 Total changes: 15
+📋 Total changes: 26
 💡 To release these changes, run: python3 release.py
