@@ -1,7 +1,7 @@
 {
-  "version": "1.0.31",
-  "last_updated": "2025-12-15T06:39:45",
-  "total_count": 19400,
+  "version": "1.0.32",
+  "last_updated": "2025-12-22T06:39:08",
+  "total_count": 19422,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -24268,8 +24268,32 @@
       "timezone": "Africa/Windhoek"
     },
     {
+      "icao": "FYKR",
+      "name": "Okorusu Mine Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYKS",
+      "name": "Koes Airport",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
       "icao": "FYKT",
       "name": "Keetmanshoop Airport",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYKU",
+      "name": "Kuidas Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYKW",
+      "name": "Okangwati Airport",
       "country": "NA",
       "timezone": "Africa/Windhoek"
     },
@@ -24280,8 +24304,44 @@
       "timezone": "Africa/Windhoek"
     },
     {
+      "icao": "FYKY",
+      "name": "Uitkyk Airport",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYKZ",
+      "name": "Kuzikus Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYLO",
+      "name": "Lodge Okajo Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYLR",
+      "name": "La Rochelle Airfield",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
       "icao": "FYLS",
       "name": "Lianshulu Lodge Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYLV",
+      "name": "Leonardville Airport",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYLW",
+      "name": "Langverwacht Airstrip",
       "country": "NA",
       "timezone": "Africa/Windhoek"
     },
@@ -24316,14 +24376,38 @@
       "timezone": "Africa/Windhoek"
     },
     {
+      "icao": "FYMI",
+      "name": "Mile 72 Airfield",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYMK",
+      "name": "Kunene Mouth Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
       "icao": "FYML",
       "name": "Mariental Airport",
       "country": "NA",
       "timezone": "Africa/Windhoek"
     },
     {
+      "icao": "FYMM",
+      "name": "Omatako Hunting Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
       "icao": "FYMO",
       "name": "Mokuti Lodge Airport",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYMP",
+      "name": "Okamapu Landing Site",
       "country": "NA",
       "timezone": "Africa/Windhoek"
     },
@@ -24336,6 +24420,12 @@
     {
       "icao": "FYNA",
       "name": "Namutoni Airport",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYNB",
+      "name": "Kansimba Landing Site",
       "country": "NA",
       "timezone": "Africa/Windhoek"
     },
@@ -24574,8 +24664,26 @@
       "timezone": "Africa/Windhoek"
     },
     {
+      "icao": "FYWL",
+      "name": "Wabi Lodge Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYWN",
+      "name": "Waterberg Wilderness Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
       "icao": "FYXX",
       "name": "Canon Lodge Airport",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYZR",
+      "name": "Zebra River Lodge Airstrip",
       "country": "NA",
       "timezone": "Africa/Windhoek"
     },
@@ -35933,7 +36041,7 @@
     },
     {
       "icao": "KLAL",
-      "name": "Lakeland Linder International Airport",
+      "name": "Lakeland Linder International/Regional Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -47890,6 +47998,12 @@
       "timezone": "Europe/Rome"
     },
     {
+      "icao": "LILU",
+      "name": "Ferrero Heliport",
+      "country": "IT",
+      "timezone": "Europe/Rome"
+    },
+    {
       "icao": "LILV",
       "name": "Valbrembo Airfield",
       "country": "IT",
@@ -47992,8 +48106,26 @@
       "timezone": "Europe/Rome"
     },
     {
+      "icao": "LINA",
+      "name": "Alidaunia Foggia Heliport",
+      "country": "IT",
+      "timezone": "Europe/Rome"
+    },
+    {
+      "icao": "LINB",
+      "name": "Corte Airfield",
+      "country": "IT",
+      "timezone": "Europe/Rome"
+    },
+    {
       "icao": "LINF",
       "name": "Fermano Airfield",
+      "country": "IT",
+      "timezone": "Europe/Rome"
+    },
+    {
+      "icao": "LINI",
+      "name": "San Domino Island Heliport",
       "country": "IT",
       "timezone": "Europe/Rome"
     },
@@ -55620,12 +55752,6 @@
     {
       "icao": "MULB",
       "name": "Ciudad Libertad Airport",
-      "country": "CU",
-      "timezone": "America/Havana"
-    },
-    {
-      "icao": "MULM",
-      "name": "La Coloma Airport",
       "country": "CU",
       "timezone": "America/Havana"
     },
@@ -73373,7 +73499,7 @@
     },
     {
       "icao": "SGCO",
-      "name": "Aeropuerto Nacional Tte. Cnel. Carmelo Peralta",
+      "name": "Lieutenant Colonel Carmelo Peralta National Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
@@ -92394,6 +92520,12 @@
     {
       "icao": "SWUW",
       "name": "Fazenda Okuhara Airport",
+      "country": "BR",
+      "timezone": "America/Sao_Paulo"
+    },
+    {
+      "icao": "SWUX",
+      "name": "Fazenda 4 Amigos Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -116404,5 +116536,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2025-12-17T07:17:50"
+  "released_at": "2025-12-22T12:02:08"
 }
