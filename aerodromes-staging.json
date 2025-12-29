@@ -1,7 +1,7 @@
 {
-  "version": "1.0.31",
-  "last_updated": "2025-12-22T06:39:08",
-  "total_count": 19422,
+  "version": "1.0.32",
+  "last_updated": "2025-12-29T06:39:57",
+  "total_count": 19424,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -2999,7 +2999,7 @@
     },
     {
       "icao": "BGGH",
-      "name": "Nuuk Airport",
+      "name": "Nuuk International Airport",
       "country": "GL",
       "timezone": "America/Godthab"
     },
@@ -3215,7 +3215,7 @@
     },
     {
       "icao": "BGSF",
-      "name": "Kangerlussuaq Airport",
+      "name": "Kangerlussuaq International Airport",
       "country": "GL",
       "timezone": "America/Godthab"
     },
@@ -3323,7 +3323,7 @@
     },
     {
       "icao": "BIAR",
-      "name": "Akureyri Airport",
+      "name": "Akureyri International Airport",
       "country": "IS",
       "timezone": "Atlantic/Reykjavik"
     },
@@ -6353,7 +6353,7 @@
     },
     {
       "icao": "DAAN",
-      "name": "Reggane Airport",
+      "name": "Reggane Air Base",
       "country": "DZ",
       "timezone": "Africa/Algiers"
     },
@@ -6545,7 +6545,7 @@
     },
     {
       "icao": "DAUA",
-      "name": "Touat Cheikh Sidi Mohamed Belkebir Airport",
+      "name": "Touat-Cheikh Sidi Mohamed Belkebir Airport",
       "country": "DZ",
       "timezone": "Africa/Algiers"
     },
@@ -6617,7 +6617,7 @@
     },
     {
       "icao": "DBBB",
-      "name": "Cadjehoun Airport",
+      "name": "Cotonou Cadjehoun International Airport",
       "country": "BJ",
       "timezone": "Africa/Porto-Novo"
     },
@@ -6995,7 +6995,7 @@
     },
     {
       "icao": "DGSI",
-      "name": "Kumasi Airport",
+      "name": "Prempeh I International Airport",
       "country": "GH",
       "timezone": "Africa/Accra"
     },
@@ -7151,7 +7151,7 @@
     },
     {
       "icao": "DIYO",
-      "name": "Yamoussoukro Airport",
+      "name": "Yamoussoukro International Airport",
       "country": "CI",
       "timezone": "Africa/Abidjan"
     },
@@ -19786,12 +19786,6 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FATP",
-      "name": "New Tempe Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FATR",
       "name": "Trennery's Airport",
       "country": "ZA",
@@ -20501,7 +20495,7 @@
     },
     {
       "icao": "FCBB",
-      "name": "Maya-Maya Airport",
+      "name": "Maya-Maya International Airport",
       "country": "CG",
       "timezone": "Africa/Brazzaville"
     },
@@ -21287,7 +21281,7 @@
     },
     {
       "icao": "FKKY",
-      "name": "Yaoundé Airport",
+      "name": "Yaoundé Ville Airport",
       "country": "CM",
       "timezone": "Africa/Douala"
     },
@@ -22643,7 +22637,7 @@
     },
     {
       "icao": "FOOG",
-      "name": "Port Gentil Airport",
+      "name": "Port Gentil International Airport",
       "country": "GA",
       "timezone": "Africa/Libreville"
     },
@@ -22733,7 +22727,7 @@
     },
     {
       "icao": "FQBR",
-      "name": "Beira Airport",
+      "name": "Beira International Airport",
       "country": "MZ",
       "timezone": "Africa/Maputo"
     },
@@ -24130,6 +24124,24 @@
       "timezone": "Africa/Windhoek"
     },
     {
+      "icao": "FYEF",
+      "name": "Epupa Falls Airstrip.",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYEG",
+      "name": "Erongo Mountain Ombu Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYEH",
+      "name": "Ehomba Airport",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
       "icao": "FYEK",
       "name": "Epukiro Airport",
       "country": "NA",
@@ -24552,6 +24564,12 @@
     {
       "icao": "FYSF",
       "name": "Sesfontein Airport",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYSI",
+      "name": "Ndonga Linena Airstrip",
       "country": "NA",
       "timezone": "Africa/Windhoek"
     },
@@ -27911,7 +27929,7 @@
     },
     {
       "icao": "HKKI",
-      "name": "Kisumu Airport",
+      "name": "Kisumu International Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -28049,7 +28067,7 @@
     },
     {
       "icao": "HKNK",
-      "name": "Nakuru Airport",
+      "name": "Lanet Military Airstrip",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -36233,7 +36251,7 @@
     },
     {
       "icao": "KLGB",
-      "name": "Long Beach Airport (Daugherty Field)",
+      "name": "Long Beach International Airport",
       "country": "US",
       "timezone": "America/Los_Angeles"
     },
@@ -49402,12 +49420,6 @@
       "timezone": "Asia/Jerusalem"
     },
     {
-      "icao": "LLYT",
-      "name": "Yotvata Airfield",
-      "country": "IL",
-      "timezone": "Asia/Jerusalem"
-    },
-    {
       "icao": "LMMG",
       "name": "Xewkija Heliport",
       "country": "MT",
@@ -59093,7 +59105,7 @@
     },
     {
       "icao": "OERK",
-      "name": "King Khaled International Airport",
+      "name": "King Khalid International Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
@@ -91511,7 +91523,7 @@
     },
     {
       "icao": "SWKO",
-      "name": "Coari Airport",
+      "name": "Danilson Municipal Airport",
       "country": "BR",
       "timezone": "America/Boa_Vista"
     },
@@ -93485,7 +93497,7 @@
     },
     {
       "icao": "TJPS",
-      "name": "Mercedita Airport",
+      "name": "Mercedita International Airport",
       "country": "PR",
       "timezone": "America/Puerto_Rico"
     },
@@ -94025,7 +94037,7 @@
     },
     {
       "icao": "UCFO",
-      "name": "Osh Airport",
+      "name": "Osh International Airport",
       "country": "KG",
       "timezone": "Asia/Bishkek"
     },
@@ -97595,7 +97607,7 @@
     },
     {
       "icao": "VAPO",
-      "name": "Pune Airport / Lohagaon Air Force Station",
+      "name": "Pune International Airport",
       "country": "IN",
       "timezone": "Asia/Calcutta"
     },
@@ -99029,7 +99041,7 @@
     },
     {
       "icao": "VOBL",
-      "name": "Kempegowda International Airport",
+      "name": "Kempegowda International Airport Bengaluru",
       "country": "IN",
       "timezone": "Asia/Calcutta"
     },
@@ -99113,7 +99125,7 @@
     },
     {
       "icao": "VOHB",
-      "name": "Hubli Airport",
+      "name": "Hubballi Airport",
       "country": "IN",
       "timezone": "Asia/Kolkata"
     },
@@ -116357,7 +116369,7 @@
     },
     {
       "icao": "ZYDD",
-      "name": "Dandong Langtou Airport",
+      "name": "Dandong Langtou International Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },

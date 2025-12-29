@@ -3,34 +3,45 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19400
-   Staging aerodromes: 19422
-   Net change: +22
+   Production aerodromes: 19422
+   Staging aerodromes: 19424
+   Net change: +2
 
-✅ NEW AERODROMES (23):
-   + FYKR: Okorusu Mine Airstrip (NA)
-   + FYKS: Koes Airport (NA)
-   + FYKU: Kuidas Airstrip (NA)
-   + FYKW: Okangwati Airport (NA)
-   + FYKY: Uitkyk Airport (NA)
-   + FYKZ: Kuzikus Airstrip (NA)
-   + FYLO: Lodge Okajo Airstrip (NA)
-   + FYLR: La Rochelle Airfield (NA)
-   + FYLV: Leonardville Airport (NA)
-   + FYLW: Langverwacht Airstrip (NA)
+✅ NEW AERODROMES (4):
+   + FYEF: Epupa Falls Airstrip. (NA)
+   + FYEG: Erongo Mountain Ombu Airstrip (NA)
+   + FYEH: Ehomba Airport (NA)
+   + FYSI: Ndonga Linena Airstrip (NA)
+
+❌ REMOVED AERODROMES (2):
+   - FATP: New Tempe Airport (ZA)
+   - LLYT: Yotvata Airfield (IL)
+
+🔄 CHANGED AERODROMES (23):
+   ~ BGGH: Nuuk International Airport
+     name: 'Nuuk Airport' → 'Nuuk International Airport'
+   ~ BGSF: Kangerlussuaq International Airport
+     name: 'Kangerlussuaq Airport' → 'Kangerlussuaq International Airport'
+   ~ BIAR: Akureyri International Airport
+     name: 'Akureyri Airport' → 'Akureyri International Airport'
+   ~ DAAN: Reggane Air Base
+     name: 'Reggane Airport' → 'Reggane Air Base'
+   ~ DAUA: Touat-Cheikh Sidi Mohamed Belkebir Airport
+     name: 'Touat Cheikh Sidi Mohamed Belkebir Airport' → 'Touat-Cheikh Sidi Mohamed Belkebir Airport'
+   ~ DBBB: Cotonou Cadjehoun International Airport
+     name: 'Cadjehoun Airport' → 'Cotonou Cadjehoun International Airport'
+   ~ DGSI: Prempeh I International Airport
+     name: 'Kumasi Airport' → 'Prempeh I International Airport'
+   ~ DIYO: Yamoussoukro International Airport
+     name: 'Yamoussoukro Airport' → 'Yamoussoukro International Airport'
+   ~ FCBB: Maya-Maya International Airport
+     name: 'Maya-Maya Airport' → 'Maya-Maya International Airport'
+   ~ FKKY: Yaoundé Ville Airport
+     name: 'Yaoundé Airport' → 'Yaoundé Ville Airport'
    ... and 13 more
 
-❌ REMOVED AERODROMES (1):
-   - MULM: La Coloma Airport (CU)
-
-🔄 CHANGED AERODROMES (2):
-   ~ KLAL: Lakeland Linder International/Regional Airport
-     name: 'Lakeland Linder International Airport' → 'Lakeland Linder International/Regional Airport'
-   ~ SGCO: Lieutenant Colonel Carmelo Peralta National Airport
-     name: 'Aeropuerto Nacional Tte. Cnel. Carmelo Peralta' → 'Lieutenant Colonel Carmelo Peralta National Airport'
-
-🕐 Staging last updated: 2025-12-22T06:39:08
-🕐 Production last updated: 2025-12-15T06:39:45
+🕐 Staging last updated: 2025-12-29T06:39:57
+🕐 Production last updated: 2025-12-22T06:39:08
 ------------------------------------------------------------
-📋 Total changes: 26
+📋 Total changes: 29
 💡 To release these changes, run: python3 release.py
