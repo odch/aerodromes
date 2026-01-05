@@ -3,45 +3,37 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19422
-   Staging aerodromes: 19424
-   Net change: +2
+   Production aerodromes: 19424
+   Staging aerodromes: 19432
+   Net change: +8
 
-✅ NEW AERODROMES (4):
-   + FYEF: Epupa Falls Airstrip. (NA)
-   + FYEG: Erongo Mountain Ombu Airstrip (NA)
-   + FYEH: Ehomba Airport (NA)
-   + FYSI: Ndonga Linena Airstrip (NA)
+✅ NEW AERODROMES (10):
+   + DAEF: Tin Fouye Tabankort Airport (DZ)
+   + DAEN: Rhoud Nouss Airport (DZ)
+   + DAOH: Chenachene Airport (DZ)
+   + DAOM: Hamaguir Airport (DZ)
+   + EBLB: Elsenborn Air Base (BE)
+   + KCFO: Colorado Air and Space Port (US)
+   + KFLY: Meadow Lake Airport (US)
+   + KRCE: Clarence E Page Municipal Airport (US)
+   + YJUR: Jurien Bay Airport (AU)
+   + YMQI: Macquarie Island Station Heliport (AU)
 
 ❌ REMOVED AERODROMES (2):
-   - FATP: New Tempe Airport (ZA)
-   - LLYT: Yotvata Airfield (IL)
+   - KFTG: Colorado Air and Space Port (US)
+   - YJNB: Jurien Bay Airport (AU)
 
-🔄 CHANGED AERODROMES (23):
-   ~ BGGH: Nuuk International Airport
-     name: 'Nuuk Airport' → 'Nuuk International Airport'
-   ~ BGSF: Kangerlussuaq International Airport
-     name: 'Kangerlussuaq Airport' → 'Kangerlussuaq International Airport'
-   ~ BIAR: Akureyri International Airport
-     name: 'Akureyri Airport' → 'Akureyri International Airport'
-   ~ DAAN: Reggane Air Base
-     name: 'Reggane Airport' → 'Reggane Air Base'
-   ~ DAUA: Touat-Cheikh Sidi Mohamed Belkebir Airport
-     name: 'Touat Cheikh Sidi Mohamed Belkebir Airport' → 'Touat-Cheikh Sidi Mohamed Belkebir Airport'
-   ~ DBBB: Cotonou Cadjehoun International Airport
-     name: 'Cadjehoun Airport' → 'Cotonou Cadjehoun International Airport'
-   ~ DGSI: Prempeh I International Airport
-     name: 'Kumasi Airport' → 'Prempeh I International Airport'
-   ~ DIYO: Yamoussoukro International Airport
-     name: 'Yamoussoukro Airport' → 'Yamoussoukro International Airport'
-   ~ FCBB: Maya-Maya International Airport
-     name: 'Maya-Maya Airport' → 'Maya-Maya International Airport'
-   ~ FKKY: Yaoundé Ville Airport
-     name: 'Yaoundé Airport' → 'Yaoundé Ville Airport'
-   ... and 13 more
+🔄 CHANGED AERODROMES (3):
+   ~ ENGM: Oslo-Gardermoen International Airport
+     name: 'Oslo Airport, Gardermoen' → 'Oslo-Gardermoen International Airport'
+   ~ HCMW: Garowe Airport
+     country: 'SO' → 'UM'
+     timezone: 'Africa/Mogadishu' → 'Pacific/Wake'
+   ~ KBAZ: New Braunfels National Airport
+     name: 'New Braunfels Municipal Airport' → 'New Braunfels National Airport'
 
-🕐 Staging last updated: 2025-12-29T06:39:57
-🕐 Production last updated: 2025-12-22T06:39:08
+🕐 Staging last updated: 2026-01-05T06:42:50
+🕐 Production last updated: 2025-12-29T06:39:57
 ------------------------------------------------------------
-📋 Total changes: 29
+📋 Total changes: 15
 💡 To release these changes, run: python3 release.py

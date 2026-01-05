@@ -1,7 +1,7 @@
 {
-  "version": "1.0.32",
-  "last_updated": "2025-12-29T06:39:57",
-  "total_count": 19424,
+  "version": "1.0.33",
+  "last_updated": "2026-01-05T06:42:50",
+  "total_count": 19432,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -6442,6 +6442,18 @@
       "timezone": "Africa/Algiers"
     },
     {
+      "icao": "DAEF",
+      "name": "Tin Fouye Tabankort Airport",
+      "country": "DZ",
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "icao": "DAEN",
+      "name": "Rhoud Nouss Airport",
+      "country": "DZ",
+      "timezone": "Africa/Algiers"
+    },
+    {
       "icao": "DAFH",
       "name": "Hassi R'Mel Airport",
       "country": "DZ",
@@ -6484,6 +6496,12 @@
       "timezone": "Africa/Algiers"
     },
     {
+      "icao": "DAOH",
+      "name": "Chenachene Airport",
+      "country": "DZ",
+      "timezone": "Africa/Algiers"
+    },
+    {
       "icao": "DAOI",
       "name": "Chlef Aboubakr Belkaid International Airport",
       "country": "DZ",
@@ -6492,6 +6510,12 @@
     {
       "icao": "DAOL",
       "name": "Oran Tafraoui Airport",
+      "country": "DZ",
+      "timezone": "Africa/Algiers"
+    },
+    {
+      "icao": "DAOM",
+      "name": "Hamaguir Airport",
       "country": "DZ",
       "timezone": "Africa/Algiers"
     },
@@ -7980,6 +8004,12 @@
     {
       "icao": "EBKZ",
       "name": "Zeno General Hospital Knokke-Heist Campus Heliport",
+      "country": "BE",
+      "timezone": "Europe/Brussels"
+    },
+    {
+      "icao": "EBLB",
+      "name": "Elsenborn Air Base",
       "country": "BE",
       "timezone": "Europe/Brussels"
     },
@@ -15155,7 +15185,7 @@
     },
     {
       "icao": "ENGM",
-      "name": "Oslo Airport, Gardermoen",
+      "name": "Oslo-Gardermoen International Airport",
       "country": "NO",
       "timezone": "Europe/Oslo"
     },
@@ -27528,8 +27558,8 @@
     {
       "icao": "HCMW",
       "name": "Garowe Airport",
-      "country": "SO",
-      "timezone": "Africa/Mogadishu"
+      "country": "UM",
+      "timezone": "Pacific/Wake"
     },
     {
       "icao": "HDAG",
@@ -30227,7 +30257,7 @@
     },
     {
       "icao": "KBAZ",
-      "name": "New Braunfels Municipal Airport",
+      "name": "New Braunfels National Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -31260,6 +31290,12 @@
     {
       "icao": "KCFJ",
       "name": "Crawfordsville Regional Airport",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
+      "icao": "KCFO",
+      "name": "Colorado Air and Space Port",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -33580,6 +33616,12 @@
       "timezone": "America/New_York"
     },
     {
+      "icao": "KFLY",
+      "name": "Meadow Lake Airport",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
       "icao": "KFME",
       "name": "Fort Meade Executive Airport",
       "country": "US",
@@ -33774,12 +33816,6 @@
     {
       "icao": "KFSW",
       "name": "Fort Madison Municipal Airport",
-      "country": "US",
-      "timezone": "America/New_York"
-    },
-    {
-      "icao": "KFTG",
-      "name": "Colorado Air and Space Port",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -39812,6 +39848,12 @@
       "name": "Ellsworth Air Force Base",
       "country": "US",
       "timezone": "America/Denver"
+    },
+    {
+      "icao": "KRCE",
+      "name": "Clarence E Page Municipal Airport",
+      "country": "US",
+      "timezone": "America/New_York"
     },
     {
       "icao": "KRCK",
@@ -107530,12 +107572,6 @@
       "timezone": "Australia/Brisbane"
     },
     {
-      "icao": "YJNB",
-      "name": "Jurien Bay Airport",
-      "country": "AU",
-      "timezone": "Australia/Sydney"
-    },
-    {
       "icao": "YJNK",
       "name": "Jinka Airport",
       "country": "AU",
@@ -107568,6 +107604,12 @@
     {
       "icao": "YJUN",
       "name": "Jundee Airport",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "icao": "YJUR",
+      "name": "Jurien Bay Airport",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
@@ -109452,6 +109494,12 @@
     {
       "icao": "YMQA",
       "name": "Marqua Airport",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "icao": "YMQI",
+      "name": "Macquarie Island Station Heliport",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
