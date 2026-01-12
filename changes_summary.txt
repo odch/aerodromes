@@ -3,37 +3,46 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19424
-   Staging aerodromes: 19432
-   Net change: +8
+   Production aerodromes: 19432
+   Staging aerodromes: 19433
+   Net change: +1
 
-✅ NEW AERODROMES (10):
-   + DAEF: Tin Fouye Tabankort Airport (DZ)
-   + DAEN: Rhoud Nouss Airport (DZ)
-   + DAOH: Chenachene Airport (DZ)
-   + DAOM: Hamaguir Airport (DZ)
-   + EBLB: Elsenborn Air Base (BE)
-   + KCFO: Colorado Air and Space Port (US)
-   + KFLY: Meadow Lake Airport (US)
-   + KRCE: Clarence E Page Municipal Airport (US)
-   + YJUR: Jurien Bay Airport (AU)
-   + YMQI: Macquarie Island Station Heliport (AU)
+✅ NEW AERODROMES (4):
+   + EGBN: Nottingham City Airport (GB)
+   + EGTN: Enstone Aerodrome (GB)
+   + GAGL: Aguelhok Heliport (ML)
+   + SPBJ: Buncuyo (PE)
 
-❌ REMOVED AERODROMES (2):
-   - KFTG: Colorado Air and Space Port (US)
-   - YJNB: Jurien Bay Airport (AU)
+❌ REMOVED AERODROMES (3):
+   - EICM: Galway Airport (IE)
+   - FVIN: Induna Airport (ZW)
+   - UUMO: Ostafyevo International Airport (RU)
 
-🔄 CHANGED AERODROMES (3):
-   ~ ENGM: Oslo-Gardermoen International Airport
-     name: 'Oslo Airport, Gardermoen' → 'Oslo-Gardermoen International Airport'
-   ~ HCMW: Garowe Airport
-     country: 'SO' → 'UM'
-     timezone: 'Africa/Mogadishu' → 'Pacific/Wake'
-   ~ KBAZ: New Braunfels National Airport
-     name: 'New Braunfels Municipal Airport' → 'New Braunfels National Airport'
+🔄 CHANGED AERODROMES (121):
+   ~ CYBG: Saguenay-Bagotville Airport
+     name: 'CFB Bagotville / Saguenay-Bagotville Airport' → 'Saguenay-Bagotville Airport'
+   ~ CYFC: Fredericton International Airport
+     name: 'Fredericton Airport' → 'Fredericton International Airport'
+   ~ CYJT: Stephenville Dymond International Airport
+     name: 'Dymond Airport' → 'Stephenville Dymond International Airport'
+   ~ CYMM: Fort McMurray International Airport
+     name: 'Fort McMurray Airport' → 'Fort McMurray International Airport'
+   ~ CYMX: Montreal Mirabel International Airport
+     name: 'Montreal International (Mirabel) Airport' → 'Montreal Mirabel International Airport'
+   ~ CYQG: Windsor International Airport
+     name: 'Windsor Airport' → 'Windsor International Airport'
+   ~ CYQT: Thunder Bay International Airport
+     name: 'Thunder Bay Airport' → 'Thunder Bay International Airport'
+   ~ CYQX: Gander International Airport
+     name: 'Gander International Airport / CFB Gander' → 'Gander International Airport'
+   ~ CYTZ: Billy Bishop Toronto City Airport
+     name: 'Billy Bishop Toronto City Centre Airport' → 'Billy Bishop Toronto City Airport'
+   ~ CYXS: Prince George (Intl) Airport
+     name: 'Prince George Airport' → 'Prince George (Intl) Airport'
+   ... and 111 more
 
-🕐 Staging last updated: 2026-01-05T06:42:50
-🕐 Production last updated: 2025-12-29T06:39:57
+🕐 Staging last updated: 2026-01-12T06:41:19
+🕐 Production last updated: 2026-01-05T06:42:50
 ------------------------------------------------------------
-📋 Total changes: 15
+📋 Total changes: 128
 💡 To release these changes, run: python3 release.py
