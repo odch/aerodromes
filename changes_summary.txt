@@ -3,46 +3,44 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19432
-   Staging aerodromes: 19433
-   Net change: +1
+   Production aerodromes: 19433
+   Staging aerodromes: 19436
+   Net change: +3
 
 ✅ NEW AERODROMES (4):
-   + EGBN: Nottingham City Airport (GB)
-   + EGTN: Enstone Aerodrome (GB)
-   + GAGL: Aguelhok Heliport (ML)
-   + SPBJ: Buncuyo (PE)
+   + TUPG: Virgin Gorda North Sound Water Aerodrome (VG)
+   + ULAD: Severodvinsk Heliport (RU)
+   + UUOQ: Parus Airfield (RU)
+   + YNKR: Nackeroo Airfield (AU)
 
-❌ REMOVED AERODROMES (3):
-   - EICM: Galway Airport (IE)
-   - FVIN: Induna Airport (ZW)
-   - UUMO: Ostafyevo International Airport (RU)
+❌ REMOVED AERODROMES (1):
+   - FAHT: Hoedspruit Airport (ZA)
 
-🔄 CHANGED AERODROMES (121):
-   ~ CYBG: Saguenay-Bagotville Airport
-     name: 'CFB Bagotville / Saguenay-Bagotville Airport' → 'Saguenay-Bagotville Airport'
-   ~ CYFC: Fredericton International Airport
-     name: 'Fredericton Airport' → 'Fredericton International Airport'
-   ~ CYJT: Stephenville Dymond International Airport
-     name: 'Dymond Airport' → 'Stephenville Dymond International Airport'
-   ~ CYMM: Fort McMurray International Airport
-     name: 'Fort McMurray Airport' → 'Fort McMurray International Airport'
-   ~ CYMX: Montreal Mirabel International Airport
-     name: 'Montreal International (Mirabel) Airport' → 'Montreal Mirabel International Airport'
-   ~ CYQG: Windsor International Airport
-     name: 'Windsor Airport' → 'Windsor International Airport'
-   ~ CYQT: Thunder Bay International Airport
-     name: 'Thunder Bay Airport' → 'Thunder Bay International Airport'
-   ~ CYQX: Gander International Airport
-     name: 'Gander International Airport / CFB Gander' → 'Gander International Airport'
-   ~ CYTZ: Billy Bishop Toronto City Airport
-     name: 'Billy Bishop Toronto City Centre Airport' → 'Billy Bishop Toronto City Airport'
-   ~ CYXS: Prince George (Intl) Airport
-     name: 'Prince George Airport' → 'Prince George (Intl) Airport'
-   ... and 111 more
+🔄 CHANGED AERODROMES (113):
+   ~ BGBW: Narsarsuaq International Airport
+     name: 'Narsarsuaq Airport' → 'Narsarsuaq International Airport'
+   ~ CYPK: Pitt Meadows Regional Airport
+     name: 'Pitt Meadows Airport' → 'Pitt Meadows Regional Airport'
+   ~ CYQQ: Comox Valley International Airport / CFB Comox
+     name: 'Comox Valley Airport / CFB Comox' → 'Comox Valley International Airport / CFB Comox'
+   ~ DNBC: Sir Abubakar Tafawa Balewa Bauchi State International Airport
+     name: 'Sir Abubakar Tafawa Balewa International Airport' → 'Sir Abubakar Tafawa Balewa Bauchi State International Airport'
+   ~ DNBK: Sir Ahmadu Bello International Airport
+     name: 'Srr Ahmadu Bello International Airport' → 'Sir Ahmadu Bello International Airport'
+   ~ DNIL: General Tunde Idiagbon International Airport
+     name: 'Ilorin International Airport' → 'General Tunde Idiagbon International Airport'
+   ~ DNKA: Kaduna International Airport
+     name: 'Kaduna Airport' → 'Kaduna International Airport'
+   ~ DNKN: Mallam Aminu Kano International Airport
+     name: 'Mallam Aminu International Airport' → 'Mallam Aminu Kano International Airport'
+   ~ DNKT: Umaru Musa Yar'adua Airport
+     name: 'Katsina Airport' → 'Umaru Musa Yar'adua Airport'
+   ~ EGYP: Mount Pleasant Airport / RAF Mount Pleasant
+     name: 'Mount Pleasant Airport' → 'Mount Pleasant Airport / RAF Mount Pleasant'
+   ... and 103 more
 
-🕐 Staging last updated: 2026-01-12T06:41:19
-🕐 Production last updated: 2026-01-05T06:42:50
+🕐 Staging last updated: 2026-01-19T06:42:43
+🕐 Production last updated: 2026-01-12T06:41:19
 ------------------------------------------------------------
-📋 Total changes: 128
+📋 Total changes: 118
 💡 To release these changes, run: python3 release.py

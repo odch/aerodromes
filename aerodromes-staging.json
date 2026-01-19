@@ -1,7 +1,7 @@
 {
-  "version": "1.0.34",
-  "last_updated": "2026-01-12T06:41:19",
-  "total_count": 19433,
+  "version": "1.0.35",
+  "last_updated": "2026-01-19T06:42:43",
+  "total_count": 19436,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -2951,7 +2951,7 @@
     },
     {
       "icao": "BGBW",
-      "name": "Narsarsuaq Airport",
+      "name": "Narsarsuaq International Airport",
       "country": "GL",
       "timezone": "America/Godthab"
     },
@@ -5105,7 +5105,7 @@
     },
     {
       "icao": "CYPK",
-      "name": "Pitt Meadows Airport",
+      "name": "Pitt Meadows Regional Airport",
       "country": "CA",
       "timezone": "America/Vancouver"
     },
@@ -5261,7 +5261,7 @@
     },
     {
       "icao": "CYQQ",
-      "name": "Comox Valley Airport / CFB Comox",
+      "name": "Comox Valley International Airport / CFB Comox",
       "country": "CA",
       "timezone": "America/Vancouver"
     },
@@ -7229,7 +7229,7 @@
     },
     {
       "icao": "DNBC",
-      "name": "Sir Abubakar Tafawa Balewa International Airport",
+      "name": "Sir Abubakar Tafawa Balewa Bauchi State International Airport",
       "country": "NG",
       "timezone": "Africa/Lagos"
     },
@@ -7247,7 +7247,7 @@
     },
     {
       "icao": "DNBK",
-      "name": "Srr Ahmadu Bello International Airport",
+      "name": "Sir Ahmadu Bello International Airport",
       "country": "NG",
       "timezone": "Africa/Lagos"
     },
@@ -7319,7 +7319,7 @@
     },
     {
       "icao": "DNIL",
-      "name": "Ilorin International Airport",
+      "name": "General Tunde Idiagbon International Airport",
       "country": "NG",
       "timezone": "Africa/Lagos"
     },
@@ -7343,19 +7343,19 @@
     },
     {
       "icao": "DNKA",
-      "name": "Kaduna Airport",
+      "name": "Kaduna International Airport",
       "country": "NG",
       "timezone": "Africa/Lagos"
     },
     {
       "icao": "DNKN",
-      "name": "Mallam Aminu International Airport",
+      "name": "Mallam Aminu Kano International Airport",
       "country": "NG",
       "timezone": "Africa/Lagos"
     },
     {
       "icao": "DNKT",
-      "name": "Katsina Airport",
+      "name": "Umaru Musa Yar'adua Airport",
       "country": "NG",
       "timezone": "Africa/Lagos"
     },
@@ -13331,7 +13331,7 @@
     },
     {
       "icao": "EGYP",
-      "name": "Mount Pleasant Airport",
+      "name": "Mount Pleasant Airport / RAF Mount Pleasant",
       "country": "FK",
       "timezone": "Atlantic/Stanley"
     },
@@ -14273,7 +14273,7 @@
     },
     {
       "icao": "EIKN",
-      "name": "Ireland West Knock Airport",
+      "name": "Ireland West Airport Knock",
       "country": "IE",
       "timezone": "Europe/Dublin"
     },
@@ -15623,7 +15623,7 @@
     },
     {
       "icao": "ENSB",
-      "name": "Svalbard Airport, Longyear",
+      "name": "Svalbard Airport",
       "country": "NO",
       "timezone": "Europe/Oslo"
     },
@@ -16055,7 +16055,7 @@
     },
     {
       "icao": "EPBY",
-      "name": "Bydgoszcz Ignacy Jan Paderewski Airport",
+      "name": "Ignacy Jan Paderewski Bydgoszcz Airport",
       "country": "PL",
       "timezone": "Europe/Warsaw"
     },
@@ -16355,7 +16355,7 @@
     },
     {
       "icao": "EPMO",
-      "name": "Modlin Airport",
+      "name": "Warsaw Modlin Airport",
       "country": "PL",
       "timezone": "Europe/Warsaw"
     },
@@ -18911,13 +18911,7 @@
     },
     {
       "icao": "FAHS",
-      "name": "Hoedspruit Air Force Base Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAHT",
-      "name": "Hoedspruit Airport",
+      "name": "Eastgate Airport / Air Force Base Hoedspruit",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -20249,7 +20243,7 @@
     },
     {
       "icao": "FBKE",
-      "name": "Kasane Airport",
+      "name": "Kasane International Airport",
       "country": "BW",
       "timezone": "Africa/Gaborone"
     },
@@ -20327,7 +20321,7 @@
     },
     {
       "icao": "FBMN",
-      "name": "Maun Airport",
+      "name": "Maun International Airport",
       "country": "BW",
       "timezone": "Africa/Gaborone"
     },
@@ -20399,7 +20393,7 @@
     },
     {
       "icao": "FBPM",
-      "name": "P G Matante Intl",
+      "name": "Phillip Gaonwe Matante International Airport",
       "country": "BW",
       "timezone": "Africa/Gaborone"
     },
@@ -21149,7 +21143,7 @@
     },
     {
       "icao": "FHSH",
-      "name": "Saint Helena Airport",
+      "name": "Saint Helena International Airport",
       "country": "SH",
       "timezone": "Atlantic/St_Helena"
     },
@@ -22523,7 +22517,7 @@
     },
     {
       "icao": "FNUB",
-      "name": "Lubango Airport",
+      "name": "Lubango Mukanka International Airport",
       "country": "AO",
       "timezone": "Africa/Luanda"
     },
@@ -30119,7 +30113,7 @@
     },
     {
       "icao": "KAVP",
-      "name": "Wilkes Barre Scranton International Airport",
+      "name": "Wilkes-Barre/Scranton International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -30221,7 +30215,7 @@
     },
     {
       "icao": "KAZO",
-      "name": "Kalamazoo Battle Creek International Airport",
+      "name": "Kalamazoo/Battle Creek International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -30425,7 +30419,7 @@
     },
     {
       "icao": "KBFI",
-      "name": "Boeing Field King County International Airport",
+      "name": "King County International Airport - Boeing Field",
       "country": "US",
       "timezone": "America/Los_Angeles"
     },
@@ -30761,7 +30755,7 @@
     },
     {
       "icao": "KBOS",
-      "name": "Logan International Airport",
+      "name": "General Edward Lawrence Logan International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -31871,7 +31865,7 @@
     },
     {
       "icao": "KCSG",
-      "name": "Columbus Metropolitan Airport",
+      "name": "Columbus Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -32159,7 +32153,7 @@
     },
     {
       "icao": "KDAY",
-      "name": "James M Cox Dayton International Airport",
+      "name": "James M. Cox Dayton International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -32423,7 +32417,7 @@
     },
     {
       "icao": "KDOV",
-      "name": "Dover Air Force Base",
+      "name": "Dover Civil Air Terminal/Dover Air Force Base",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -33209,7 +33203,7 @@
     },
     {
       "icao": "KEUG",
-      "name": "Mahlon Sweet Field",
+      "name": "Eugene Airport",
       "country": "US",
       "timezone": "America/Los_Angeles"
     },
@@ -33773,7 +33767,7 @@
     },
     {
       "icao": "KFSD",
-      "name": "Sioux Falls Regional Airport / Joe Foss Field",
+      "name": "Sioux Falls Regional Airport",
       "country": "US",
       "timezone": "America/Chicago"
     },
@@ -34481,7 +34475,7 @@
     },
     {
       "icao": "KGSP",
-      "name": "Greenville Spartanburg International Airport",
+      "name": "Greenville-Spartanburg International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -35051,7 +35045,7 @@
     },
     {
       "icao": "KHOU",
-      "name": "William P Hobby Airport",
+      "name": "William P. Hobby Airport",
       "country": "US",
       "timezone": "America/Chicago"
     },
@@ -35195,7 +35189,7 @@
     },
     {
       "icao": "KHSV",
-      "name": "Huntsville International Carl T Jones Field",
+      "name": "Huntsville International Airport",
       "country": "US",
       "timezone": "America/Chicago"
     },
@@ -35417,7 +35411,7 @@
     },
     {
       "icao": "KIAH",
-      "name": "George Bush Intercontinental Houston Airport",
+      "name": "George Bush Intercontinental Airport",
       "country": "US",
       "timezone": "America/Chicago"
     },
@@ -35441,7 +35435,7 @@
     },
     {
       "icao": "KICT",
-      "name": "Wichita Eisenhower National Airport",
+      "name": "Wichita Dwight D. Eisenhower National Airport",
       "country": "US",
       "timezone": "America/Chicago"
     },
@@ -35711,7 +35705,7 @@
     },
     {
       "icao": "KISP",
-      "name": "Long Island Mac Arthur Airport",
+      "name": "Long Island MacArthur Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -35873,7 +35867,7 @@
     },
     {
       "icao": "KJFK",
-      "name": "John F Kennedy International Airport",
+      "name": "John F. Kennedy International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -36101,7 +36095,7 @@
     },
     {
       "icao": "KLAL",
-      "name": "Lakeland Linder International/Regional Airport",
+      "name": "Lakeland Linder International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -36113,7 +36107,7 @@
     },
     {
       "icao": "KLAN",
-      "name": "Capital City Airport",
+      "name": "Capital Region International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -37121,7 +37115,7 @@
     },
     {
       "icao": "KMFR",
-      "name": "Rogue Valley International Medford Airport",
+      "name": "Rogue Valley International-Medford Airport",
       "country": "US",
       "timezone": "America/Los_Angeles"
     },
@@ -37691,7 +37685,7 @@
     },
     {
       "icao": "KMSO",
-      "name": "Missoula International Airport",
+      "name": "Missoula Montana Airport",
       "country": "US",
       "timezone": "America/Denver"
     },
@@ -37727,7 +37721,7 @@
     },
     {
       "icao": "KMTH",
-      "name": "The Florida Keys Marathon Airport",
+      "name": "Florida Keys Marathon International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -38495,7 +38489,7 @@
     },
     {
       "icao": "KOKC",
-      "name": "Will Rogers World Airport",
+      "name": "OKC Will Rogers World Airport",
       "country": "US",
       "timezone": "America/Chicago"
     },
@@ -39539,7 +39533,7 @@
     },
     {
       "icao": "KPSM",
-      "name": "Portsmouth International at Pease Airport",
+      "name": "Portsmouth International Airport at Pease",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -39653,7 +39647,7 @@
     },
     {
       "icao": "KPVD",
-      "name": "Theodore Francis Green State Airport",
+      "name": "Rhode Island T. F. Green International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -39935,7 +39929,7 @@
     },
     {
       "icao": "KRDU",
-      "name": "Raleigh Durham International Airport",
+      "name": "Raleigh-Durham International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -40523,7 +40517,7 @@
     },
     {
       "icao": "KSBN",
-      "name": "South Bend Regional Airport",
+      "name": "South Bend International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -41627,7 +41621,7 @@
     },
     {
       "icao": "KTLH",
-      "name": "Tallahassee Regional Airport",
+      "name": "Tallahassee International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -45569,7 +45563,7 @@
     },
     {
       "icao": "LFKB",
-      "name": "Bastia Poretta airport",
+      "name": "Bastia-Poretta International airport",
       "country": "FR",
       "timezone": "Europe/Paris"
     },
@@ -46067,7 +46061,7 @@
     },
     {
       "icao": "LFOB",
-      "name": "Beauvais Tillé airport",
+      "name": "Beauvais-Tillé airport",
       "country": "FR",
       "timezone": "Europe/Paris"
     },
@@ -48101,7 +48095,7 @@
     },
     {
       "icao": "LIME",
-      "name": "Milan Bergamo Airport / Antonio Locatelli Air Base",
+      "name": "Il Caravaggio International Airport",
       "country": "IT",
       "timezone": "Europe/Rome"
     },
@@ -48251,7 +48245,7 @@
     },
     {
       "icao": "LIPH",
-      "name": "Treviso Antonio Canova Airport",
+      "name": "Treviso Airport",
       "country": "IT",
       "timezone": "Europe/Rome"
     },
@@ -48263,7 +48257,7 @@
     },
     {
       "icao": "LIPK",
-      "name": "Forlì Luigi Ridolfi Airport",
+      "name": "Forlì-Luigi Ridolfi International Airport",
       "country": "IT",
       "timezone": "Europe/Rome"
     },
@@ -50351,7 +50345,7 @@
     },
     {
       "icao": "LPMA",
-      "name": "Madeira International Airport Cristiano Ronaldo",
+      "name": "Cristiano Ronaldo International Airport",
       "country": "PT",
       "timezone": "Europe/Lisbon"
     },
@@ -50783,7 +50777,7 @@
     },
     {
       "icao": "LRCL",
-      "name": "Cluj Avram Iancu International Airport",
+      "name": "Avram Iancu Cluj International Airport",
       "country": "RO",
       "timezone": "Europe/Bucharest"
     },
@@ -50843,7 +50837,7 @@
     },
     {
       "icao": "LRIA",
-      "name": "Iaşi Airport",
+      "name": "Iaşi International Airport",
       "country": "RO",
       "timezone": "Europe/Bucharest"
     },
@@ -50939,7 +50933,7 @@
     },
     {
       "icao": "LRSV",
-      "name": "Suceava Stefan cel Mare Airport",
+      "name": "Suceava Ștefan cel Mare International Airport",
       "country": "RO",
       "timezone": "Europe/Bucharest"
     },
@@ -51755,7 +51749,7 @@
     },
     {
       "icao": "LTAJ",
-      "name": "Gaziantep International Airport",
+      "name": "Gaziantep Oğuzeli International Airport",
       "country": "TR",
       "timezone": "Europe/Istanbul"
     },
@@ -51803,7 +51797,7 @@
     },
     {
       "icao": "LTAU",
-      "name": "Kayseri Erkilet Airport",
+      "name": "Kayseri Erkilet International Airport",
       "country": "TR",
       "timezone": "Europe/Istanbul"
     },
@@ -52931,7 +52925,7 @@
     },
     {
       "icao": "MGGT",
-      "name": "La Aurora Airport",
+      "name": "La Aurora International Airport",
       "country": "GT",
       "timezone": "America/Guatemala"
     },
@@ -53357,7 +53351,7 @@
     },
     {
       "icao": "MHLC",
-      "name": "Goloson International Airport",
+      "name": "Golosón International Airport",
       "country": "HN",
       "timezone": "America/Tegucigalpa"
     },
@@ -54023,7 +54017,7 @@
     },
     {
       "icao": "MMHO",
-      "name": "General Ignacio P. Garcia International Airport",
+      "name": "General Ignacio L. Pesqueira International Airport",
       "country": "MX",
       "timezone": "America/Hermosillo"
     },
@@ -54077,7 +54071,7 @@
     },
     {
       "icao": "MMLO",
-      "name": "Del Bajío International Airport",
+      "name": "Guanajuato International Airport",
       "country": "MX",
       "timezone": "America/Mexico_City"
     },
@@ -54323,7 +54317,7 @@
     },
     {
       "icao": "MMTL",
-      "name": "Felipe Carrillo Puerto International Airport",
+      "name": "Felipe Carrillo Puerto International Airport Tulum",
       "country": "MX",
       "timezone": "America/Mexico_City"
     },
@@ -55607,7 +55601,7 @@
     },
     {
       "icao": "MSLP",
-      "name": "Monseñor Óscar Arnulfo Romero International Airport",
+      "name": "El Salvador International Airport Saint Óscar Arnulfo Romero y Galdámez",
       "country": "SV",
       "timezone": "America/El_Salvador"
     },
@@ -55877,7 +55871,7 @@
     },
     {
       "icao": "MUSC",
-      "name": "Abel Santamaria Airport",
+      "name": "Abel Santamaria International Airport",
       "country": "CU",
       "timezone": "America/Havana"
     },
@@ -56735,7 +56729,7 @@
     },
     {
       "icao": "NTAA",
-      "name": "Faa'a International Airport",
+      "name": "Fa'a'ā International Airport",
       "country": "PF",
       "timezone": "Pacific/Tahiti"
     },
@@ -62405,7 +62399,7 @@
     },
     {
       "icao": "PHKO",
-      "name": "Ellison Onizuka Kona International Airport at Keahole",
+      "name": "Ellison Onizuka Kona International Airport at Keāhole",
       "country": "US",
       "timezone": "Pacific/Honolulu"
     },
@@ -62441,7 +62435,7 @@
     },
     {
       "icao": "PHNL",
-      "name": "Daniel K Inouye International Airport",
+      "name": "Daniel K. Inouye International Airport",
       "country": "US",
       "timezone": "Pacific/Honolulu"
     },
@@ -62573,7 +62567,7 @@
     },
     {
       "icao": "PTRO",
-      "name": "Palau International Airport",
+      "name": "Roman Tmetuchl International Airport",
       "country": "PW",
       "timezone": "Pacific/Palau"
     },
@@ -64655,7 +64649,7 @@
     },
     {
       "icao": "SABE",
-      "name": "Jorge Newbery Airpark",
+      "name": "Aeroparque Jorge Newbery",
       "country": "AR",
       "timezone": "America/Buenos_Aires"
     },
@@ -64709,7 +64703,7 @@
     },
     {
       "icao": "SACO",
-      "name": "Ingeniero Ambrosio Taravella Airport",
+      "name": "Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport",
       "country": "AR",
       "timezone": "America/Cordoba"
     },
@@ -64799,7 +64793,7 @@
     },
     {
       "icao": "SAEZ",
-      "name": "Minister Pistarini International Airport",
+      "name": "Ezeiza International Airport - Ministro Pistarini",
       "country": "AR",
       "timezone": "America/Buenos_Aires"
     },
@@ -65189,7 +65183,7 @@
     },
     {
       "icao": "SAVC",
-      "name": "General E. Mosconi Airport",
+      "name": "General Enrique Mosconi International Airport",
       "country": "AR",
       "timezone": "America/Catamarca"
     },
@@ -65291,13 +65285,13 @@
     },
     {
       "icao": "SAWE",
-      "name": "Gobernador Ramón Trejo Noel International Airport",
+      "name": "Hermes Quijada International Airport",
       "country": "AR",
       "timezone": "America/Argentina/Ushuaia"
     },
     {
       "icao": "SAWG",
-      "name": "Piloto Civil N. Fernández Airport",
+      "name": "Piloto Civil Norberto Fernández International Airport",
       "country": "AR",
       "timezone": "America/Argentina/Rio_Gallegos"
     },
@@ -65765,7 +65759,7 @@
     },
     {
       "icao": "SBCT",
-      "name": "Afonso Pena Airport",
+      "name": "Curitiba-Afonso Pena International Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -65891,7 +65885,7 @@
     },
     {
       "icao": "SBGO",
-      "name": "Santa Genoveva Airport",
+      "name": "Santa Genoveva International Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -65903,7 +65897,7 @@
     },
     {
       "icao": "SBGR",
-      "name": "Guarulhos - Governador André Franco Montoro International Airport",
+      "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -66137,7 +66131,7 @@
     },
     {
       "icao": "SBMO",
-      "name": "Zumbi dos Palmares Airport",
+      "name": "Zumbi dos Palmares International Airport",
       "country": "BR",
       "timezone": "America/Fortaleza"
     },
@@ -66323,7 +66317,7 @@
     },
     {
       "icao": "SBPA",
-      "name": "Salgado Filho International Airport",
+      "name": "Porto Alegre-Salgado Filho International Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -66593,7 +66587,7 @@
     },
     {
       "icao": "SBSG",
-      "name": "São Gonçalo do Amarante - Governador Aluízio Alves International Airport",
+      "name": "Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport",
       "country": "BR",
       "timezone": "America/Fortaleza"
     },
@@ -67079,7 +67073,7 @@
     },
     {
       "icao": "SCCI",
-      "name": "President Carlos Ibañez del Campo International Airport",
+      "name": "President Carlos Ibáñez International Airport",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -67625,7 +67619,7 @@
     },
     {
       "icao": "SCIE",
-      "name": "Carriel Sur Airport",
+      "name": "Carriel Sur International Airport",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -67679,7 +67673,7 @@
     },
     {
       "icao": "SCIP",
-      "name": "Mataveri Airport",
+      "name": "Mataveri International Airport",
       "country": "CL",
       "timezone": "Pacific/Easter"
     },
@@ -68693,7 +68687,7 @@
     },
     {
       "icao": "SCTE",
-      "name": "El Tepual Airport",
+      "name": "El Tepual International Airport",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -73025,7 +73019,7 @@
     },
     {
       "icao": "SESA",
-      "name": "General Ulpiano Paez Airport",
+      "name": "General Ulpiano Paez International Airport",
       "country": "EC",
       "timezone": "America/Guayaquil"
     },
@@ -73673,7 +73667,7 @@
     },
     {
       "icao": "SGST",
-      "name": "Aeropuerto Nacional de Santa Teresa",
+      "name": "Santa Teresa Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
@@ -79835,7 +79829,7 @@
     },
     {
       "icao": "SKGP",
-      "name": "Juan Casiano Airport",
+      "name": "Guapi Airport",
       "country": "CO",
       "timezone": "America/Bogota"
     },
@@ -80393,7 +80387,7 @@
     },
     {
       "icao": "SLAL",
-      "name": "Alcantarí Airport",
+      "name": "Alcantarí International Airport",
       "country": "BO",
       "timezone": "America/La_Paz"
     },
@@ -81251,7 +81245,7 @@
     },
     {
       "icao": "SLSU",
-      "name": "Juana Azurduy de Padilla Airport",
+      "name": "Juana Azurduy de Padilla Air Force Base",
       "country": "BO",
       "timezone": "America/La_Paz"
     },
@@ -83993,7 +83987,7 @@
     },
     {
       "icao": "SNVF",
-      "name": "Banco Itaú Heliport",
+      "name": "Banco Itaú Helistop",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -85211,7 +85205,7 @@
     },
     {
       "icao": "SPRU",
-      "name": "Capitan FAP Carlos Martinez De Pinillos International Airport",
+      "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
       "country": "PE",
       "timezone": "America/Lima"
     },
@@ -86141,7 +86135,7 @@
     },
     {
       "icao": "SSGP",
-      "name": "Piquet Airport",
+      "name": "Piquet Airport (Closed?)",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -93395,7 +93389,7 @@
     },
     {
       "icao": "TAPA",
-      "name": "V C Bird International Airport",
+      "name": "V. C. Bird International Airport",
       "country": "AG",
       "timezone": "America/Antigua"
     },
@@ -93473,7 +93467,7 @@
     },
     {
       "icao": "TFFJ",
-      "name": "Saint Barthélemy - Gustaf III Airport",
+      "name": "St. Jean Airport",
       "country": "BL",
       "timezone": "America/St_Barthelemy"
     },
@@ -93485,7 +93479,7 @@
     },
     {
       "icao": "TFFR",
-      "name": "Guadeloupe - Maryse Condé International Airport",
+      "name": "Maryse Condé International Airport",
       "country": "GP",
       "timezone": "America/Guadeloupe"
     },
@@ -93515,7 +93509,7 @@
     },
     {
       "icao": "TISX",
-      "name": "Henry E Rohlsen Airport",
+      "name": "Henry E. Rohlsen Airport",
       "country": "VI",
       "timezone": "America/St_Thomas"
     },
@@ -93635,7 +93629,7 @@
     },
     {
       "icao": "TQPF",
-      "name": "Clayton J Lloyd International Airport",
+      "name": "Clayton J. Lloyd International Airport",
       "country": "AI",
       "timezone": "America/Anguilla"
     },
@@ -93660,6 +93654,12 @@
     {
       "icao": "TUPA",
       "name": "Captain Auguste George Airport",
+      "country": "VG",
+      "timezone": "America/Tortola"
+    },
+    {
+      "icao": "TUPG",
+      "name": "Virgin Gorda North Sound Water Aerodrome",
       "country": "VG",
       "timezone": "America/Tortola"
     },
@@ -93773,7 +93773,7 @@
     },
     {
       "icao": "UADD",
-      "name": "Taraz Airport",
+      "name": "Taraz International Airport",
       "country": "KZ",
       "timezone": "Asia/Qyzylorda"
     },
@@ -93839,7 +93839,7 @@
     },
     {
       "icao": "UARR",
-      "name": "Uralsk International Airport",
+      "name": "Manshuk Mametova International Airport",
       "country": "KZ",
       "timezone": "Asia/Oral"
     },
@@ -95656,6 +95656,12 @@
       "timezone": "Europe/Moscow"
     },
     {
+      "icao": "ULAD",
+      "name": "Severodvinsk Heliport",
+      "country": "RU",
+      "timezone": "Europe/Moscow"
+    },
+    {
       "icao": "ULAH",
       "name": "Vaskovo Airport",
       "country": "RU",
@@ -95825,7 +95831,7 @@
     },
     {
       "icao": "ULPB",
-      "name": "Petrozavodsk International Airport",
+      "name": "Petrozavodsk Airport",
       "country": "RU",
       "timezone": "Europe/Moscow"
     },
@@ -95897,7 +95903,7 @@
     },
     {
       "icao": "UMBB",
-      "name": "Brest Airport",
+      "name": "Brest International Airport",
       "country": "BY",
       "timezone": "Europe/Minsk"
     },
@@ -97048,6 +97054,12 @@
       "timezone": "Europe/Moscow"
     },
     {
+      "icao": "UUOQ",
+      "name": "Parus Airfield",
+      "country": "RU",
+      "timezone": "Europe/Moscow"
+    },
+    {
       "icao": "UUOT",
       "name": "Donskoye Airport",
       "country": "RU",
@@ -97403,7 +97415,7 @@
     },
     {
       "icao": "UZNN",
-      "name": "Nukus Airport",
+      "name": "Nukus International Airport",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
     },
@@ -97415,7 +97427,7 @@
     },
     {
       "icao": "UZSA",
-      "name": "Navoi Airport",
+      "name": "Navoi International Airport",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
     },
@@ -97493,7 +97505,7 @@
     },
     {
       "icao": "VABB",
-      "name": "Chhatrapati Shivaji International Airport",
+      "name": "Chhatrapati Shivaji Maharaj International Airport",
       "country": "IN",
       "timezone": "Asia/Calcutta"
     },
@@ -97841,7 +97853,7 @@
     },
     {
       "icao": "VDSV",
-      "name": "Sihanoukville International Airport",
+      "name": "Sihanouk International Airport",
       "country": "KH",
       "timezone": "Asia/Phnom_Penh"
     },
@@ -99455,7 +99467,7 @@
     },
     {
       "icao": "VRMH",
-      "name": "Hanimaadhoo Airport",
+      "name": "Hanimaadhoo International Airport",
       "country": "MV",
       "timezone": "Indian/Maldives"
     },
@@ -99683,7 +99695,7 @@
     },
     {
       "icao": "VTPI",
-      "name": "Takhli Airport",
+      "name": "Takhli Royal Thai Air Force Base",
       "country": "TH",
       "timezone": "Asia/Bangkok"
     },
@@ -100019,7 +100031,7 @@
     },
     {
       "icao": "VVPQ",
-      "name": "Phu Quoc International Airport",
+      "name": "Phú Quốc International Airport",
       "country": "VN",
       "timezone": "Asia/Saigon"
     },
@@ -102425,7 +102437,7 @@
     },
     {
       "icao": "WMAB",
-      "name": "Batu Pahat Airport",
+      "name": "Batu Pahat Airstrip",
       "country": "MY",
       "timezone": "Asia/Kuala_Lumpur"
     },
@@ -102671,7 +102683,7 @@
     },
     {
       "icao": "WPEC",
-      "name": "Cakung Airport",
+      "name": "Baucau Airport",
       "country": "TL",
       "timezone": "Asia/Dili"
     },
@@ -110002,6 +110014,12 @@
       "timezone": "Australia/Sydney"
     },
     {
+      "icao": "YNKR",
+      "name": "Nackeroo Airfield",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
       "icao": "YNMN",
       "name": "New Moon Airport",
       "country": "AU",
@@ -110981,7 +110999,7 @@
     },
     {
       "icao": "YPXM",
-      "name": "Christmas Island Airport",
+      "name": "Christmas Island International Airport",
       "country": "CX",
       "timezone": "Indian/Christmas"
     },
@@ -116411,7 +116429,7 @@
     },
     {
       "icao": "ZYCH",
-      "name": "Changhai Airport",
+      "name": "Changhai Dachangshandao Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
