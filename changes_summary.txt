@@ -3,44 +3,52 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19433
-   Staging aerodromes: 19436
-   Net change: +3
+   Production aerodromes: 19436
+   Staging aerodromes: 19446
+   Net change: +10
 
-✅ NEW AERODROMES (4):
-   + TUPG: Virgin Gorda North Sound Water Aerodrome (VG)
-   + ULAD: Severodvinsk Heliport (RU)
-   + UUOQ: Parus Airfield (RU)
-   + YNKR: Nackeroo Airfield (AU)
+✅ NEW AERODROMES (12):
+   + AYDA: Dahamo Airstrip (PG)
+   + AYDM: Duranmin Airstrip (PG)
+   + EPKG: Kołobrzeg-Bagicz Airfield (PL)
+   + HKBA: Busia Airport (KE)
+   + HKCD: Crocodile Camp Airport (KE)
+   + KKYL: Port Largo Airport (US)
+   + OYHD: Hodeida International Airport (YE)
+   + OYMK: Mokha International Airport (YE)
+   + VVLT: Long Thanh International Airport (Under Construction) (VN)
+   + WAQX: Pulau Sapi Airstrip (ID)
+   ... and 2 more
 
-❌ REMOVED AERODROMES (1):
-   - FAHT: Hoedspruit Airport (ZA)
+❌ REMOVED AERODROMES (2):
+   - EGEG: Glasgow City Heliport (GB)
+   - YCBY: Daintree Airport (AU)
 
-🔄 CHANGED AERODROMES (113):
-   ~ BGBW: Narsarsuaq International Airport
-     name: 'Narsarsuaq Airport' → 'Narsarsuaq International Airport'
-   ~ CYPK: Pitt Meadows Regional Airport
-     name: 'Pitt Meadows Airport' → 'Pitt Meadows Regional Airport'
-   ~ CYQQ: Comox Valley International Airport / CFB Comox
-     name: 'Comox Valley Airport / CFB Comox' → 'Comox Valley International Airport / CFB Comox'
-   ~ DNBC: Sir Abubakar Tafawa Balewa Bauchi State International Airport
-     name: 'Sir Abubakar Tafawa Balewa International Airport' → 'Sir Abubakar Tafawa Balewa Bauchi State International Airport'
-   ~ DNBK: Sir Ahmadu Bello International Airport
-     name: 'Srr Ahmadu Bello International Airport' → 'Sir Ahmadu Bello International Airport'
-   ~ DNIL: General Tunde Idiagbon International Airport
-     name: 'Ilorin International Airport' → 'General Tunde Idiagbon International Airport'
-   ~ DNKA: Kaduna International Airport
-     name: 'Kaduna Airport' → 'Kaduna International Airport'
-   ~ DNKN: Mallam Aminu Kano International Airport
-     name: 'Mallam Aminu International Airport' → 'Mallam Aminu Kano International Airport'
-   ~ DNKT: Umaru Musa Yar'adua Airport
-     name: 'Katsina Airport' → 'Umaru Musa Yar'adua Airport'
-   ~ EGYP: Mount Pleasant Airport / RAF Mount Pleasant
-     name: 'Mount Pleasant Airport' → 'Mount Pleasant Airport / RAF Mount Pleasant'
-   ... and 103 more
+🔄 CHANGED AERODROMES (52):
+   ~ AYNZ: Nadzab Tomodachi International Airport
+     name: 'Nadzab Airport' → 'Nadzab Tomodachi International Airport'
+   ~ ENAL: Ålesund Airport
+     name: 'Ålesund Airport, Vigra' → 'Ålesund Airport'
+   ~ ENAR: Arendal Hospital Heliport
+     name: 'Arendal Heliport, Hospital' → 'Arendal Hospital Heliport'
+   ~ ENCN: Kristiansand Airport
+     name: 'Kristiansand Airport, Kjevik' → 'Kristiansand Airport'
+   ~ ENEV: Harstad/Narvik Airport
+     name: 'Harstad/Narvik Airport, Evenes' → 'Harstad/Narvik Airport'
+   ~ ENTC: Tromsø Airport
+     name: 'Tromsø Airport, Langnes' → 'Tromsø Airport'
+   ~ FDMS: Matsapha International Airport
+     name: 'Matsapha Airport' → 'Matsapha International Airport'
+   ~ FJDG: Naval Support Facility Diego Garcia
+     name: 'Diego Garcia Naval Support Facility' → 'Naval Support Facility Diego Garcia'
+   ~ FMMI: Ivato International Airport
+     name: 'Ivato Airport' → 'Ivato International Airport'
+   ~ FYWB: Walvis Bay International Airport
+     name: 'Walvis Bay Airport' → 'Walvis Bay International Airport'
+   ... and 42 more
 
-🕐 Staging last updated: 2026-01-19T06:42:43
-🕐 Production last updated: 2026-01-12T06:41:19
+🕐 Staging last updated: 2026-01-26T06:41:47
+🕐 Production last updated: 2026-01-19T06:42:43
 ------------------------------------------------------------
-📋 Total changes: 118
+📋 Total changes: 66
 💡 To release these changes, run: python3 release.py

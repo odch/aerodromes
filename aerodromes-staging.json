@@ -1,7 +1,7 @@
 {
-  "version": "1.0.35",
-  "last_updated": "2026-01-19T06:42:43",
-  "total_count": 19436,
+  "version": "1.0.36",
+  "last_updated": "2026-01-26T06:41:47",
+  "total_count": 19446,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -568,6 +568,12 @@
       "timezone": "Pacific/Port_Moresby"
     },
     {
+      "icao": "AYDA",
+      "name": "Dahamo Airstrip",
+      "country": "PG",
+      "timezone": "Pacific/Port_Moresby"
+    },
+    {
       "icao": "AYDB",
       "name": "Debepare Airport",
       "country": "PG",
@@ -600,6 +606,12 @@
     {
       "icao": "AYDL",
       "name": "Kondobol Airport",
+      "country": "PG",
+      "timezone": "Pacific/Port_Moresby"
+    },
+    {
+      "icao": "AYDM",
+      "name": "Duranmin Airstrip",
       "country": "PG",
       "timezone": "Pacific/Port_Moresby"
     },
@@ -1685,7 +1697,7 @@
     },
     {
       "icao": "AYNZ",
-      "name": "Nadzab Airport",
+      "name": "Nadzab Tomodachi International Airport",
       "country": "PG",
       "timezone": "Pacific/Port_Moresby"
     },
@@ -12262,12 +12274,6 @@
       "timezone": "Europe/London"
     },
     {
-      "icao": "EGEG",
-      "name": "Glasgow City Heliport",
-      "country": "GB",
-      "timezone": "Europe/London"
-    },
-    {
       "icao": "EGEH",
       "name": "Whalsay Airstrip",
       "country": "GB",
@@ -14957,7 +14963,7 @@
     },
     {
       "icao": "ENAL",
-      "name": "Ålesund Airport, Vigra",
+      "name": "Ålesund Airport",
       "country": "NO",
       "timezone": "Europe/Oslo"
     },
@@ -14969,7 +14975,7 @@
     },
     {
       "icao": "ENAR",
-      "name": "Arendal Heliport, Hospital",
+      "name": "Arendal Hospital Heliport",
       "country": "NO",
       "timezone": "Europe/Oslo"
     },
@@ -15059,7 +15065,7 @@
     },
     {
       "icao": "ENCN",
-      "name": "Kristiansand Airport, Kjevik",
+      "name": "Kristiansand Airport",
       "country": "NO",
       "timezone": "Europe/Oslo"
     },
@@ -15125,7 +15131,7 @@
     },
     {
       "icao": "ENEV",
-      "name": "Harstad/Narvik Airport, Evenes",
+      "name": "Harstad/Narvik Airport",
       "country": "NO",
       "timezone": "Europe/Oslo"
     },
@@ -15719,7 +15725,7 @@
     },
     {
       "icao": "ENTC",
-      "name": "Tromsø Airport, Langnes",
+      "name": "Tromsø Airport",
       "country": "NO",
       "timezone": "Europe/Oslo"
     },
@@ -16212,6 +16218,12 @@
     {
       "icao": "EPKE",
       "name": "Kȩtrzyn-Wilamowo Airfield",
+      "country": "PL",
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "icao": "EPKG",
+      "name": "Kołobrzeg-Bagicz Airfield",
       "country": "PL",
       "timezone": "Europe/Warsaw"
     },
@@ -20849,7 +20861,7 @@
     },
     {
       "icao": "FDMS",
-      "name": "Matsapha Airport",
+      "name": "Matsapha International Airport",
       "country": "SZ",
       "timezone": "Africa/Mbabane"
     },
@@ -21161,7 +21173,7 @@
     },
     {
       "icao": "FJDG",
-      "name": "Diego Garcia Naval Support Facility",
+      "name": "Naval Support Facility Diego Garcia",
       "country": "IO",
       "timezone": "Indian/Chagos"
     },
@@ -21917,7 +21929,7 @@
     },
     {
       "icao": "FMMI",
-      "name": "Ivato Airport",
+      "name": "Ivato International Airport",
       "country": "MG",
       "timezone": "Indian/Antananarivo"
     },
@@ -24677,7 +24689,7 @@
     },
     {
       "icao": "FYWB",
-      "name": "Walvis Bay Airport",
+      "name": "Walvis Bay International Airport",
       "country": "NA",
       "timezone": "Africa/Windhoek"
     },
@@ -27868,8 +27880,20 @@
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKBA",
+      "name": "Busia Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKBR",
       "name": "Bura East Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKCD",
+      "name": "Crocodile Camp Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -28985,7 +29009,7 @@
     },
     {
       "icao": "HTMW",
-      "name": "Mwanza Airport",
+      "name": "Mwanza International Airport",
       "country": "TZ",
       "timezone": "Africa/Dar_es_Salaam"
     },
@@ -30887,7 +30911,7 @@
     },
     {
       "icao": "KBTV",
-      "name": "Burlington International Airport",
+      "name": "Patrick Leahy Burlington International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -30917,7 +30941,7 @@
     },
     {
       "icao": "KBUR",
-      "name": "Hollywood Burbank Airport",
+      "name": "Bobe Hope / Hollywood Burbank Airport",
       "country": "US",
       "timezone": "America/Los_Angeles"
     },
@@ -36082,6 +36106,12 @@
       "timezone": "America/New_York"
     },
     {
+      "icao": "KKYL",
+      "name": "Port Largo Airport",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
       "icao": "KLAA",
       "name": "Southeast Colorado Regional Airport",
       "country": "US",
@@ -37667,7 +37697,7 @@
     },
     {
       "icao": "KMRY",
-      "name": "Monterey Peninsula Airport",
+      "name": "Monterey Regional Airport",
       "country": "US",
       "timezone": "America/Los_Angeles"
     },
@@ -42941,7 +42971,7 @@
     },
     {
       "icao": "LCEN",
-      "name": "Nicosia (Lefkoşa) Ercan International Airport",
+      "name": "Ercan International Airport",
       "country": "CY",
       "timezone": "Asia/Nicosia"
     },
@@ -43085,7 +43115,7 @@
     },
     {
       "icao": "LDSP",
-      "name": "Split Airport",
+      "name": "Split Saint Jerome Airport",
       "country": "HR",
       "timezone": "Europe/Zagreb"
     },
@@ -44249,7 +44279,7 @@
     },
     {
       "icao": "LEZL",
-      "name": "Sevilla Airport",
+      "name": "Seville Airport",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -47159,7 +47189,7 @@
     },
     {
       "icao": "LGSR",
-      "name": "Santorini Airport",
+      "name": "Santorini International Airport",
       "country": "GR",
       "timezone": "Europe/Athens"
     },
@@ -48287,7 +48317,7 @@
     },
     {
       "icao": "LIPQ",
-      "name": "Trieste–Friuli Venezia Giulia Airport",
+      "name": "Trieste Airport",
       "country": "IT",
       "timezone": "Europe/Rome"
     },
@@ -50951,7 +50981,7 @@
     },
     {
       "icao": "LRTR",
-      "name": "Timişoara Traian Vuia Airport",
+      "name": "Timișoara Traian Vuia International Airport",
       "country": "RO",
       "timezone": "Europe/Bucharest"
     },
@@ -51959,7 +51989,7 @@
     },
     {
       "icao": "LTBY",
-      "name": "Anadolu Airport",
+      "name": "Hasan Polatkan Airport",
       "country": "TR",
       "timezone": "Europe/Istanbul"
     },
@@ -55967,7 +55997,7 @@
     },
     {
       "icao": "MYAM",
-      "name": "Leonard M Thompson International Airport",
+      "name": "Leonard M. Thompson International Airport",
       "country": "BS",
       "timezone": "America/Nassau"
     },
@@ -56135,7 +56165,7 @@
     },
     {
       "icao": "MYER",
-      "name": "Rock Sound Airport",
+      "name": "Rock Sound International Airport",
       "country": "BS",
       "timezone": "America/Nassau"
     },
@@ -56225,7 +56255,7 @@
     },
     {
       "icao": "MYSM",
-      "name": "San Salvador Airport",
+      "name": "San Salvador International Airport",
       "country": "BS",
       "timezone": "America/Nassau"
     },
@@ -58943,7 +58973,7 @@
     },
     {
       "icao": "OEDM",
-      "name": "King Salman Abdulaziz Airport",
+      "name": "Dawadmi Domestic Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
@@ -59279,7 +59309,7 @@
     },
     {
       "icao": "OIAA",
-      "name": "Abadan Airport",
+      "name": "Abadan Ayatollah Jami International Airport",
       "country": "IR",
       "timezone": "Asia/Tehran"
     },
@@ -59321,7 +59351,7 @@
     },
     {
       "icao": "OIAW",
-      "name": "Lieutenant General Qasem Soleimani International Airport",
+      "name": "Qasem Soleimani International Airport",
       "country": "IR",
       "timezone": "Asia/Tehran"
     },
@@ -59591,7 +59621,7 @@
     },
     {
       "icao": "OIKQ",
-      "name": "Qeshm Dayrestan International Airport",
+      "name": "Qeshm International Airport",
       "country": "IR",
       "timezone": "Asia/Tehran"
     },
@@ -59873,7 +59903,7 @@
     },
     {
       "icao": "OJAM",
-      "name": "Amman Civil (Marka International) Airport",
+      "name": "Marka International (Amman Civil) Airport",
       "country": "JO",
       "timezone": "Asia/Amman"
     },
@@ -60209,13 +60239,13 @@
     },
     {
       "icao": "OOSA",
-      "name": "Salalah Airport",
+      "name": "Salalah International Airport",
       "country": "OM",
       "timezone": "Asia/Muscat"
     },
     {
       "icao": "OOSH",
-      "name": "Sohar Airport",
+      "name": "Suhar International Airport",
       "country": "OM",
       "timezone": "Asia/Muscat"
     },
@@ -60521,7 +60551,7 @@
     },
     {
       "icao": "OPPS",
-      "name": "Peshawar International Airport",
+      "name": "Bacha Khan International Airport",
       "country": "PK",
       "timezone": "Asia/Karachi"
     },
@@ -60575,7 +60605,7 @@
     },
     {
       "icao": "OPSD",
-      "name": "Skardu Airport",
+      "name": "Skardu International Airport",
       "country": "PK",
       "timezone": "Asia/Karachi"
     },
@@ -60916,6 +60946,12 @@
       "timezone": "Asia/Aden"
     },
     {
+      "icao": "OYHD",
+      "name": "Hodeida International Airport",
+      "country": "YE",
+      "timezone": "Asia/Aden"
+    },
+    {
       "icao": "OYKM",
       "name": "Kamaran Airport",
       "country": "YE",
@@ -60924,6 +60960,12 @@
     {
       "icao": "OYMB",
       "name": "Marib Airport",
+      "country": "YE",
+      "timezone": "Asia/Aden"
+    },
+    {
+      "icao": "OYMK",
+      "name": "Mokha International Airport",
       "country": "YE",
       "timezone": "Asia/Aden"
     },
@@ -60941,7 +60983,7 @@
     },
     {
       "icao": "OYRN",
-      "name": "Riyan Mukalla International Airport",
+      "name": "Riyan International Airport",
       "country": "YE",
       "timezone": "Asia/Aden"
     },
@@ -60971,7 +61013,7 @@
     },
     {
       "icao": "OYSQ",
-      "name": "Socotra International Airport",
+      "name": "Socotra Airport",
       "country": "YE",
       "timezone": "Asia/Aden"
     },
@@ -60983,7 +61025,7 @@
     },
     {
       "icao": "OYTZ",
-      "name": "Ta'izz International Airport",
+      "name": "Taiz International Airport",
       "country": "YE",
       "timezone": "Asia/Aden"
     },
@@ -64853,7 +64895,7 @@
     },
     {
       "icao": "SAME",
-      "name": "El Plumerillo Airport",
+      "name": "Governor Francisco Gabrielli International Airport",
       "country": "AR",
       "timezone": "America/Mendoza"
     },
@@ -65495,7 +65537,7 @@
     },
     {
       "icao": "SAZS",
-      "name": "San Carlos de Bariloche Airport",
+      "name": "Teniente Luis Candelaria International Airport",
       "country": "AR",
       "timezone": "America/Argentina/Salta"
     },
@@ -79493,7 +79535,7 @@
     },
     {
       "icao": "SJZJ",
-      "name": "Rancho Dória Heliport",
+      "name": "Villa Dória Heliport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -94655,7 +94697,7 @@
     },
     {
       "icao": "UGSS",
-      "name": "Sukhumi Babushara /  Vladislav Ardzinba International Airport",
+      "name": "Vladislav Ardzinba Sukhum International Airport",
       "country": "GE",
       "timezone": "Asia/Tbilisi"
     },
@@ -95813,7 +95855,7 @@
     },
     {
       "icao": "ULMM",
-      "name": "Murmansk Airport",
+      "name": "Emperor Nicholas II Murmansk Airport",
       "country": "RU",
       "timezone": "Europe/Moscow"
     },
@@ -96017,7 +96059,7 @@
     },
     {
       "icao": "UNBB",
-      "name": "Barnaul Airport",
+      "name": "Barnaul Gherman Titov International Airport",
       "country": "RU",
       "timezone": "Asia/Krasnoyarsk"
     },
@@ -97517,7 +97559,7 @@
     },
     {
       "icao": "VABO",
-      "name": "Vadodara Airport",
+      "name": "Vadodara International Airport",
       "country": "IN",
       "timezone": "Asia/Calcutta"
     },
@@ -99593,7 +99635,7 @@
     },
     {
       "icao": "VTBU",
-      "name": "U-Tapao International Airport",
+      "name": "U-Tapao–Rayong–Pattaya International Airport",
       "country": "TH",
       "timezone": "Asia/Bangkok"
     },
@@ -99797,7 +99839,7 @@
     },
     {
       "icao": "VTSM",
-      "name": "Samui Airport",
+      "name": "Samui International Airport",
       "country": "TH",
       "timezone": "Asia/Bangkok"
     },
@@ -99839,7 +99881,7 @@
     },
     {
       "icao": "VTUD",
-      "name": "Udon Thani Airport",
+      "name": "Udon Thani International Airport",
       "country": "TH",
       "timezone": "Asia/Bangkok"
     },
@@ -99992,6 +100034,12 @@
       "name": "Kep Air Base",
       "country": "VN",
       "timezone": "Asia/Saigon"
+    },
+    {
+      "icao": "VVLT",
+      "name": "Long Thanh International Airport (Under Construction)",
+      "country": "VN",
+      "timezone": "Asia/Ho_Chi_Minh"
     },
     {
       "icao": "VVNB",
@@ -100499,7 +100547,7 @@
     },
     {
       "icao": "WAAA",
-      "name": "Hasanuddin International Airport",
+      "name": "Sultan Hasanuddin International Airport",
       "country": "ID",
       "timezone": "Asia/Makassar"
     },
@@ -100817,13 +100865,13 @@
     },
     {
       "icao": "WAGS",
-      "name": "Sampit (Hasan) Airport",
+      "name": "Sampit (H.Asan) Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
     {
       "icao": "WAHH",
-      "name": "Adisutjipto Airport",
+      "name": "Adisutjipto International Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -100853,7 +100901,7 @@
     },
     {
       "icao": "WAHS",
-      "name": "Achmad Yani Airport",
+      "name": "Jenderal Ahmad Yani Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -101352,6 +101400,12 @@
     {
       "icao": "WAQW",
       "name": "Long Sule Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAQX",
+      "name": "Pulau Sapi Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -102094,6 +102148,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WIFL",
+      "name": "Riam Batu Airstrip.",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WIGG",
       "name": "Fatmawati Soekarno Airport",
       "country": "ID",
@@ -102287,7 +102347,7 @@
     },
     {
       "icao": "WIOO",
-      "name": "Supadio Airport",
+      "name": "Supadio International Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -102720,6 +102780,12 @@
     {
       "icao": "WRBU",
       "name": "Buntok Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WREP",
+      "name": "Yugwa Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -104680,12 +104746,6 @@
       "timezone": "Australia/Sydney"
     },
     {
-      "icao": "YCBY",
-      "name": "Daintree Airport",
-      "country": "AU",
-      "timezone": "Australia/Sydney"
-    },
-    {
       "icao": "YCCA",
       "name": "Chinchilla Airport",
       "country": "AU",
@@ -105191,7 +105251,7 @@
     },
     {
       "icao": "YCPH",
-      "name": "Copper Hills Airport",
+      "name": "Copper Hills Airstrip",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
