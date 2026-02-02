@@ -3,52 +3,49 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19436
-   Staging aerodromes: 19446
-   Net change: +10
+   Production aerodromes: 19446
+   Staging aerodromes: 19440
+   Net change: -6
 
-✅ NEW AERODROMES (12):
-   + AYDA: Dahamo Airstrip (PG)
-   + AYDM: Duranmin Airstrip (PG)
-   + EPKG: Kołobrzeg-Bagicz Airfield (PL)
-   + HKBA: Busia Airport (KE)
-   + HKCD: Crocodile Camp Airport (KE)
-   + KKYL: Port Largo Airport (US)
-   + OYHD: Hodeida International Airport (YE)
-   + OYMK: Mokha International Airport (YE)
-   + VVLT: Long Thanh International Airport (Under Construction) (VN)
-   + WAQX: Pulau Sapi Airstrip (ID)
-   ... and 2 more
+✅ NEW AERODROMES (2):
+   + EVDA: Daugavpils International Airport (LV)
+   + ZBXJ: Beijing Xijiao Airport (CN)
 
-❌ REMOVED AERODROMES (2):
-   - EGEG: Glasgow City Heliport (GB)
-   - YCBY: Daintree Airport (AU)
+❌ REMOVED AERODROMES (8):
+   - BIBK: Bakkafjörður Airport (IS)
+   - BIDA: Dagverðará Airport (IS)
+   - BIFF: Fáskrúðsfjörður Airport (IS)
+   - BIHT: Holt Airport (IS)
+   - BIID: Ingjaldssanður Airport (IS)
+   - BIOF: Ólafsfjörður Airport (IS)
+   - BIPA: Patreksfjörður Airport (IS)
+   - UKON: Mykolaiv International Airport (UA)
 
-🔄 CHANGED AERODROMES (52):
-   ~ AYNZ: Nadzab Tomodachi International Airport
-     name: 'Nadzab Airport' → 'Nadzab Tomodachi International Airport'
-   ~ ENAL: Ålesund Airport
-     name: 'Ålesund Airport, Vigra' → 'Ålesund Airport'
-   ~ ENAR: Arendal Hospital Heliport
-     name: 'Arendal Heliport, Hospital' → 'Arendal Hospital Heliport'
-   ~ ENCN: Kristiansand Airport
-     name: 'Kristiansand Airport, Kjevik' → 'Kristiansand Airport'
-   ~ ENEV: Harstad/Narvik Airport
-     name: 'Harstad/Narvik Airport, Evenes' → 'Harstad/Narvik Airport'
-   ~ ENTC: Tromsø Airport
-     name: 'Tromsø Airport, Langnes' → 'Tromsø Airport'
-   ~ FDMS: Matsapha International Airport
-     name: 'Matsapha Airport' → 'Matsapha International Airport'
-   ~ FJDG: Naval Support Facility Diego Garcia
-     name: 'Diego Garcia Naval Support Facility' → 'Naval Support Facility Diego Garcia'
-   ~ FMMI: Ivato International Airport
-     name: 'Ivato Airport' → 'Ivato International Airport'
-   ~ FYWB: Walvis Bay International Airport
-     name: 'Walvis Bay Airport' → 'Walvis Bay International Airport'
-   ... and 42 more
+🔄 CHANGED AERODROMES (37):
+   ~ CYPQ: Peterborough Regional Airport
+     name: 'Peterborough Municipal Airport' → 'Peterborough Regional Airport'
+   ~ DGLE: Yakubu Tali International Airport
+     name: 'Tamale International Airport' → 'Yakubu Tali International Airport'
+   ~ DNIM: Sam Mbakwe International Cargo Airport
+     name: 'Sam Mbakwe International Airport' → 'Sam Mbakwe International Cargo Airport'
+   ~ EDDB: Berlin Brandenburg Airport
+     name: 'Berlin Brandenburg Willy Brandt Airport' → 'Berlin Brandenburg Airport'
+   ~ EDDF: Frankfurt Main Airport
+     name: 'Frankfurt Airport' → 'Frankfurt Main Airport'
+   ~ FSAS: Assomption Airport
+     name: 'Assumption Island Airport' → 'Assomption Airport'
+   ~ FSSC: Coëtivy Airport
+     name: 'Coetivy Airport' → 'Coëtivy Airport'
+   ~ GAMB: Mopti Airport
+     name: 'Mopti Ambodédjo International Airport' → 'Mopti Airport'
+   ~ KHII: Lake Havasu City Airport
+     name: 'Lake Havasu City International Airport' → 'Lake Havasu City Airport'
+   ~ LGKO: Kos International Airport "Ippokratis"
+     name: 'Kos Airport' → 'Kos International Airport "Ippokratis"'
+   ... and 27 more
 
-🕐 Staging last updated: 2026-01-26T06:41:47
-🕐 Production last updated: 2026-01-19T06:42:43
+🕐 Staging last updated: 2026-02-02T07:05:54
+🕐 Production last updated: 2026-01-26T06:41:47
 ------------------------------------------------------------
-📋 Total changes: 66
+📋 Total changes: 47
 💡 To release these changes, run: python3 release.py
