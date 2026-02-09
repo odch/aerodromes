@@ -1,7 +1,7 @@
 {
-  "version": "1.0.38",
-  "last_updated": "2026-02-02T07:05:54",
-  "total_count": 19440,
+  "version": "1.0.39",
+  "last_updated": "2026-02-09T07:08:29",
+  "total_count": 19446,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -5789,7 +5789,7 @@
     },
     {
       "icao": "CYXS",
-      "name": "Prince George (Intl) Airport",
+      "name": "Prince George (International) Airport",
       "country": "CA",
       "timezone": "America/Vancouver"
     },
@@ -6305,7 +6305,7 @@
     },
     {
       "icao": "DAAJ",
-      "name": "Djanet Inedbirene Airport",
+      "name": "Tiska Djanet Airport",
       "country": "DZ",
       "timezone": "Africa/Algiers"
     },
@@ -7433,7 +7433,7 @@
     },
     {
       "icao": "DRRL",
-      "name": "Tillabery Airport",
+      "name": "Tillabéri Airport",
       "country": "NE",
       "timezone": "Africa/Niamey"
     },
@@ -17891,7 +17891,7 @@
     },
     {
       "icao": "EVCA",
-      "name": "Vidzeme Aeroclub",
+      "name": "Cēsis Airfield",
       "country": "LV",
       "timezone": "Europe/Riga"
     },
@@ -26945,7 +26945,7 @@
     },
     {
       "icao": "GUCY",
-      "name": "Conakry International Airport",
+      "name": "Ahmed Sékou Touré International Airport",
       "country": "GN",
       "timezone": "Africa/Conakry"
     },
@@ -27226,12 +27226,6 @@
       "timezone": "Africa/Addis_Ababa"
     },
     {
-      "icao": "HAJK",
-      "name": "Jinka Airport",
-      "country": "ET",
-      "timezone": "Africa/Addis_Ababa"
-    },
-    {
       "icao": "HAJM",
       "name": "Jimma Airport",
       "country": "ET",
@@ -27455,7 +27449,7 @@
     },
     {
       "icao": "HCMF",
-      "name": "Bosaso / Bender Qassim International Airport",
+      "name": "Bender Qassim International Airport",
       "country": "SO",
       "timezone": "Africa/Mogadishu"
     },
@@ -47176,12 +47170,6 @@
       "timezone": "Europe/Athens"
     },
     {
-      "icao": "LGTL",
-      "name": "Kasteli Airport",
-      "country": "GR",
-      "timezone": "Europe/Athens"
-    },
-    {
       "icao": "LGTP",
       "name": "Tripolis Air Base",
       "country": "GR",
@@ -53537,7 +53525,7 @@
     },
     {
       "icao": "MHPR",
-      "name": "Palmerola International Airport / José Enrique Soto Cano Air Base",
+      "name": "Palmerola International Airport",
       "country": "HN",
       "timezone": "America/Tegucigalpa"
     },
@@ -53651,7 +53639,7 @@
     },
     {
       "icao": "MHTG",
-      "name": "Toncontín International Airport",
+      "name": "Toncontín Airport",
       "country": "HN",
       "timezone": "America/Tegucigalpa"
     },
@@ -53860,6 +53848,12 @@
       "timezone": "America/Mexico_City"
     },
     {
+      "icao": "MMCD",
+      "name": "Isla Cedros Airport",
+      "country": "MX",
+      "timezone": "America/Mexico_City"
+    },
+    {
       "icao": "MMCE",
       "name": "Ciudad del Carmen International Airport",
       "country": "MX",
@@ -54052,6 +54046,12 @@
       "timezone": "America/Mexico_City"
     },
     {
+      "icao": "MMLB",
+      "name": "Air Station No. 8 Loma Bonita",
+      "country": "MX",
+      "timezone": "America/Mexico_City"
+    },
+    {
       "icao": "MMLC",
       "name": "Lázaro Cárdenas Airport",
       "country": "MX",
@@ -54178,6 +54178,12 @@
       "timezone": "America/Mexico_City"
     },
     {
+      "icao": "MMPD",
+      "name": "Base Nº7 de la Fuerza Aérea Mexicana (Gustavo G. León González)",
+      "country": "MX",
+      "timezone": "America/Mexico_City"
+    },
+    {
       "icao": "MMPE",
       "name": "Mar de Cortés International Airport",
       "country": "MX",
@@ -54222,6 +54228,12 @@
     {
       "icao": "MMPS",
       "name": "Puerto Escondido International Airport",
+      "country": "MX",
+      "timezone": "America/Mexico_City"
+    },
+    {
+      "icao": "MMPT",
+      "name": "Puerto Cortés Airstrip",
       "country": "MX",
       "timezone": "America/Mexico_City"
     },
@@ -54336,6 +54348,12 @@
     {
       "icao": "MMTP",
       "name": "Tapachula International Airport",
+      "country": "MX",
+      "timezone": "America/Mexico_City"
+    },
+    {
+      "icao": "MMTQ",
+      "name": "Tequesquitengo Airport",
       "country": "MX",
       "timezone": "America/Mexico_City"
     },
@@ -54587,7 +54605,7 @@
     },
     {
       "icao": "MPBO",
-      "name": "Bocas del Toro International Airport",
+      "name": "Bocas del Toro \"Isla Colón\" International Airport",
       "country": "PA",
       "timezone": "America/Panama"
     },
@@ -55073,7 +55091,7 @@
     },
     {
       "icao": "MRLB",
-      "name": "Guanacaste Airport",
+      "name": "Daniel Oduber Quirós International Airport",
       "country": "CR",
       "timezone": "America/Costa_Rica"
     },
@@ -55115,7 +55133,7 @@
     },
     {
       "icao": "MRLM",
-      "name": "Limon International Airport",
+      "name": "Limón International Airport",
       "country": "CR",
       "timezone": "America/Costa_Rica"
     },
@@ -58325,7 +58343,7 @@
     },
     {
       "icao": "NZTI",
-      "name": "Taieri Airport",
+      "name": "Taieri Aerodrome",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -58895,7 +58913,7 @@
     },
     {
       "icao": "OEAO",
-      "name": "Majeed Bin Abdulaziz Airport",
+      "name": "Al-Ula International Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
@@ -58955,7 +58973,7 @@
     },
     {
       "icao": "OEGS",
-      "name": "Gassim Airport",
+      "name": "Prince Naif bin Abdulaziz International Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
@@ -59158,6 +59176,12 @@
       "timezone": "Asia/Riyadh"
     },
     {
+      "icao": "OERS",
+      "name": "Red Sea International Airport",
+      "country": "SA",
+      "timezone": "Asia/Riyadh"
+    },
+    {
       "icao": "OERT",
       "name": "Ras Tanura Airport",
       "country": "SA",
@@ -59177,7 +59201,7 @@
     },
     {
       "icao": "OESK",
-      "name": "Al-Jawf Domestic Airport",
+      "name": "Al-Jawf International Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
@@ -59207,13 +59231,13 @@
     },
     {
       "icao": "OETB",
-      "name": "Tabuk Airport",
+      "name": "Prince Sultan bin Abdulaziz International Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
     {
       "icao": "OETF",
-      "name": "Ta’if Regional Airport",
+      "name": "Taif International Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
@@ -59261,7 +59285,7 @@
     },
     {
       "icao": "OEYN",
-      "name": "Prince Abdul Mohsin bin Abdulaziz International Airport",
+      "name": "Prince Abdulmohsen Bin Abdulaziz International Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
@@ -65783,7 +65807,7 @@
     },
     {
       "icao": "SBCY",
-      "name": "Marechal Rondon Airport",
+      "name": "Várzea Grande–Marechal Rondon International Airport",
       "country": "BR",
       "timezone": "America/Campo_Grande"
     },
@@ -66395,7 +66419,7 @@
     },
     {
       "icao": "SBPS",
-      "name": "Porto Seguro Airport",
+      "name": "Porto Seguro International Airport",
       "country": "BR",
       "timezone": "America/Fortaleza"
     },
@@ -66725,7 +66749,7 @@
     },
     {
       "icao": "SBTT",
-      "name": "Tabatinga Airport",
+      "name": "Tabatinga International Airport",
       "country": "BR",
       "timezone": "America/Boa_Vista"
     },
@@ -66797,7 +66821,7 @@
     },
     {
       "icao": "SBVT",
-      "name": "Eurico de Aguiar Salles Airport",
+      "name": "Eurico de Aguiar Salles International Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -73217,7 +73241,7 @@
     },
     {
       "icao": "SEUI",
-      "name": "Kusuimi Airstrip",
+      "name": "Cusuimi Airstrip",
       "country": "EC",
       "timezone": "America/Guayaquil"
     },
@@ -80987,7 +81011,7 @@
     },
     {
       "icao": "SLOR",
-      "name": "Juan Mendoza Airport",
+      "name": "Juan Mendoza International Airport",
       "country": "BO",
       "timezone": "America/La_Paz"
     },
@@ -88637,7 +88661,7 @@
     },
     {
       "icao": "SVBM",
-      "name": "Barquisimeto International Airport",
+      "name": "Jacinto Lara International Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -93400,8 +93424,8 @@
       "timezone": "America/Antigua"
     },
     {
-      "icao": "TAPH",
-      "name": "Codrington Airport",
+      "icao": "TAPB",
+      "name": "Burton-Nibbs International Airport",
       "country": "AG",
       "timezone": "America/Antigua"
     },
@@ -96904,6 +96928,12 @@
       "timezone": "Asia/Tashkent"
     },
     {
+      "icao": "UUAN",
+      "name": "Gazprom Compressor Station Helipad",
+      "country": "RU",
+      "timezone": "Europe/Moscow"
+    },
+    {
       "icao": "UUBA",
       "name": "Kostroma Sokerkino Airport",
       "country": "RU",
@@ -97031,7 +97061,7 @@
     },
     {
       "icao": "UUOD",
-      "name": "Pridacha",
+      "name": "Pridacha Airport",
       "country": "RU",
       "timezone": "Europe/Moscow"
     },
@@ -99479,7 +99509,7 @@
     },
     {
       "icao": "VRMM",
-      "name": "Malé International Airport",
+      "name": "Velana International Airport",
       "country": "MV",
       "timezone": "Indian/Maldives"
     },
@@ -99834,6 +99864,12 @@
     {
       "icao": "VTSW",
       "name": "Phuket Airpark",
+      "country": "TH",
+      "timezone": "Asia/Bangkok"
+    },
+    {
+      "icao": "VTSY",
+      "name": "Betong International Airport",
       "country": "TH",
       "timezone": "Asia/Bangkok"
     },
@@ -115055,7 +115091,7 @@
     },
     {
       "icao": "ZHEC",
-      "name": "Ezhou Huahu Airport",
+      "name": "Ezhou Huahu International Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
@@ -115883,7 +115919,7 @@
     },
     {
       "icao": "ZSTX",
-      "name": "Tunxi International Airport",
+      "name": "Huangshan Tunxi International Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
@@ -116644,5 +116680,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-02-02T09:01:05"
+  "released_at": "2026-02-09T08:24:12"
 }
