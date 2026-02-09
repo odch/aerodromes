@@ -3,49 +3,51 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19446
-   Staging aerodromes: 19440
-   Net change: -6
+   Production aerodromes: 19440
+   Staging aerodromes: 19446
+   Net change: +6
 
-✅ NEW AERODROMES (2):
-   + EVDA: Daugavpils International Airport (LV)
-   + ZBXJ: Beijing Xijiao Airport (CN)
+✅ NEW AERODROMES (9):
+   + MMCD: Isla Cedros Airport (MX)
+   + MMLB: Air Station No. 8 Loma Bonita (MX)
+   + MMPD: Base Nº7 de la Fuerza Aérea Mexicana (Gustavo G. León González) (MX)
+   + MMPT: Puerto Cortés Airstrip (MX)
+   + MMTQ: Tequesquitengo Airport (MX)
+   + OERS: Red Sea International Airport (SA)
+   + TAPB: Burton-Nibbs International Airport (AG)
+   + UUAN: Gazprom Compressor Station Helipad (RU)
+   + VTSY: Betong International Airport (TH)
 
-❌ REMOVED AERODROMES (8):
-   - BIBK: Bakkafjörður Airport (IS)
-   - BIDA: Dagverðará Airport (IS)
-   - BIFF: Fáskrúðsfjörður Airport (IS)
-   - BIHT: Holt Airport (IS)
-   - BIID: Ingjaldssanður Airport (IS)
-   - BIOF: Ólafsfjörður Airport (IS)
-   - BIPA: Patreksfjörður Airport (IS)
-   - UKON: Mykolaiv International Airport (UA)
+❌ REMOVED AERODROMES (3):
+   - HAJK: Jinka Airport (ET)
+   - LGTL: Kasteli Airport (GR)
+   - TAPH: Codrington Airport (AG)
 
-🔄 CHANGED AERODROMES (37):
-   ~ CYPQ: Peterborough Regional Airport
-     name: 'Peterborough Municipal Airport' → 'Peterborough Regional Airport'
-   ~ DGLE: Yakubu Tali International Airport
-     name: 'Tamale International Airport' → 'Yakubu Tali International Airport'
-   ~ DNIM: Sam Mbakwe International Cargo Airport
-     name: 'Sam Mbakwe International Airport' → 'Sam Mbakwe International Cargo Airport'
-   ~ EDDB: Berlin Brandenburg Airport
-     name: 'Berlin Brandenburg Willy Brandt Airport' → 'Berlin Brandenburg Airport'
-   ~ EDDF: Frankfurt Main Airport
-     name: 'Frankfurt Airport' → 'Frankfurt Main Airport'
-   ~ FSAS: Assomption Airport
-     name: 'Assumption Island Airport' → 'Assomption Airport'
-   ~ FSSC: Coëtivy Airport
-     name: 'Coetivy Airport' → 'Coëtivy Airport'
-   ~ GAMB: Mopti Airport
-     name: 'Mopti Ambodédjo International Airport' → 'Mopti Airport'
-   ~ KHII: Lake Havasu City Airport
-     name: 'Lake Havasu City International Airport' → 'Lake Havasu City Airport'
-   ~ LGKO: Kos International Airport "Ippokratis"
-     name: 'Kos Airport' → 'Kos International Airport "Ippokratis"'
-   ... and 27 more
+🔄 CHANGED AERODROMES (29):
+   ~ CYXS: Prince George (International) Airport
+     name: 'Prince George (Intl) Airport' → 'Prince George (International) Airport'
+   ~ DAAJ: Tiska Djanet Airport
+     name: 'Djanet Inedbirene Airport' → 'Tiska Djanet Airport'
+   ~ DRRL: Tillabéri Airport
+     name: 'Tillabery Airport' → 'Tillabéri Airport'
+   ~ EVCA: Cēsis Airfield
+     name: 'Vidzeme Aeroclub' → 'Cēsis Airfield'
+   ~ GUCY: Ahmed Sékou Touré International Airport
+     name: 'Conakry International Airport' → 'Ahmed Sékou Touré International Airport'
+   ~ HCMF: Bender Qassim International Airport
+     name: 'Bosaso / Bender Qassim International Airport' → 'Bender Qassim International Airport'
+   ~ MHPR: Palmerola International Airport
+     name: 'Palmerola International Airport / José Enrique Soto Cano Air Base' → 'Palmerola International Airport'
+   ~ MHTG: Toncontín Airport
+     name: 'Toncontín International Airport' → 'Toncontín Airport'
+   ~ MPBO: Bocas del Toro "Isla Colón" International Airport
+     name: 'Bocas del Toro International Airport' → 'Bocas del Toro "Isla Colón" International Airport'
+   ~ MRLB: Daniel Oduber Quirós International Airport
+     name: 'Guanacaste Airport' → 'Daniel Oduber Quirós International Airport'
+   ... and 19 more
 
-🕐 Staging last updated: 2026-02-02T07:05:54
-🕐 Production last updated: 2026-01-26T06:41:47
+🕐 Staging last updated: 2026-02-09T07:08:29
+🕐 Production last updated: 2026-02-02T07:05:54
 ------------------------------------------------------------
-📋 Total changes: 47
+📋 Total changes: 41
 💡 To release these changes, run: python3 release.py
