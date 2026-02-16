@@ -1,7 +1,7 @@
 {
-  "version": "1.0.39",
-  "last_updated": "2026-02-09T07:08:29",
-  "total_count": 19446,
+  "version": "1.0.40",
+  "last_updated": "2026-02-16T07:07:28",
+  "total_count": 19444,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -15587,7 +15587,7 @@
     },
     {
       "icao": "ENSB",
-      "name": "Svalbard Airport",
+      "name": "Svalbard Airport, Longyear",
       "country": "NO",
       "timezone": "Europe/Oslo"
     },
@@ -21575,7 +21575,7 @@
     },
     {
       "icao": "FLMF",
-      "name": "Mfuwe Airport",
+      "name": "Mfuwe International Airport",
       "country": "ZM",
       "timezone": "Africa/Lusaka"
     },
@@ -22811,7 +22811,7 @@
     },
     {
       "icao": "FQNC",
-      "name": "Nacala Airport",
+      "name": "Nacala International Airport",
       "country": "MZ",
       "timezone": "Africa/Maputo"
     },
@@ -22847,7 +22847,7 @@
     },
     {
       "icao": "FQTT",
-      "name": "Chingozi Airport",
+      "name": "Tete Airport",
       "country": "MZ",
       "timezone": "Africa/Maputo"
     },
@@ -23309,7 +23309,7 @@
     },
     {
       "icao": "FVKB",
-      "name": "Kariba International Airport",
+      "name": "Kariba Airport",
       "country": "ZW",
       "timezone": "Africa/Harare"
     },
@@ -23573,7 +23573,7 @@
     },
     {
       "icao": "FVTL",
-      "name": "Gweru - Thornhill Air Base",
+      "name": "Josiah Tungamirai Air Force Base",
       "country": "ZW",
       "timezone": "Africa/Harare"
     },
@@ -28319,7 +28319,7 @@
     },
     {
       "icao": "HLTD",
-      "name": "Ghadames East Airport",
+      "name": "Ghadames Airport",
       "country": "LY",
       "timezone": "Africa/Tripoli"
     },
@@ -29231,7 +29231,7 @@
     },
     {
       "icao": "HUPA",
-      "name": "Kabalega Falls Airport",
+      "name": "Pakuba Airport",
       "country": "UG",
       "timezone": "Africa/Kampala"
     },
@@ -30737,7 +30737,7 @@
     },
     {
       "icao": "KBOS",
-      "name": "General Edward Lawrence Logan International Airport",
+      "name": "Boston Logan International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -35165,7 +35165,7 @@
     },
     {
       "icao": "KHST",
-      "name": "Homestead ARB Airport",
+      "name": "Homestead Air Reserve Base",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -53819,7 +53819,7 @@
     },
     {
       "icao": "MMAS",
-      "name": "Jesús Terán Peredo International Airport",
+      "name": "Aguascalientes International Airport",
       "country": "MX",
       "timezone": "America/Mexico_City"
     },
@@ -54125,7 +54125,7 @@
     },
     {
       "icao": "MMMX",
-      "name": "Benito Juárez International Airport",
+      "name": "Mexico City Benito Juárez International Airport",
       "country": "MX",
       "timezone": "America/Mexico_City"
     },
@@ -54275,7 +54275,7 @@
     },
     {
       "icao": "MMSM",
-      "name": "General Felipe Ángeles International Airport",
+      "name": "Felipe Ángeles International Airport",
       "country": "MX",
       "timezone": "America/Mexico_City"
     },
@@ -58679,7 +58679,7 @@
     },
     {
       "icao": "OAKN",
-      "name": "Ahmad Shah Baba International Airport / Kandahar Airfield",
+      "name": "Ahmad Shah Baba International Airport",
       "country": "AF",
       "timezone": "Asia/Kabul"
     },
@@ -59567,7 +59567,7 @@
     },
     {
       "icao": "OIIP",
-      "name": "Payam Karaj International Airport",
+      "name": "Payam International Airport",
       "country": "IR",
       "timezone": "Asia/Tehran"
     },
@@ -60340,12 +60340,6 @@
       "timezone": "Asia/Karachi"
     },
     {
-      "icao": "OPGD",
-      "name": "Gwadar International Airport",
-      "country": "PK",
-      "timezone": "Asia/Karachi"
-    },
-    {
       "icao": "OPGT",
       "name": "Gilgit Airport",
       "country": "PK",
@@ -60563,7 +60557,7 @@
     },
     {
       "icao": "OPRN",
-      "name": "PAF Base Nur Khan",
+      "name": "PAF Base Nur Khan (Benazir Bhutto International Airport)",
       "country": "PK",
       "timezone": "Asia/Karachi"
     },
@@ -60605,7 +60599,7 @@
     },
     {
       "icao": "OPSK",
-      "name": "Sukkur Airport",
+      "name": "Begum Nusrat Bhutto International Airport Sukkur",
       "country": "PK",
       "timezone": "Asia/Karachi"
     },
@@ -66425,7 +66419,7 @@
     },
     {
       "icao": "SBPV",
-      "name": "Governador Jorge Teixeira de Oliveira Airport",
+      "name": "Governador Jorge Teixeira de Oliveira International Airport",
       "country": "BR",
       "timezone": "America/Boa_Vista"
     },
@@ -68405,7 +68399,7 @@
     },
     {
       "icao": "SCQP",
-      "name": "La Araucanía Airport",
+      "name": "La Araucanía International Airport",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -73553,7 +73547,7 @@
     },
     {
       "icao": "SGAS",
-      "name": "Aeropuerto Internacional Silvio Pettirossi",
+      "name": "Silvio Pettirossi International Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
@@ -73601,13 +73595,13 @@
     },
     {
       "icao": "SGEN",
-      "name": "Aeropuerto Internacional Tte. Amín Ayub González",
+      "name": "Teniente Ramon A. Ayub Gonzalez International Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
     {
       "icao": "SGES",
-      "name": "Aeropuerto Internacional Guaraní",
+      "name": "Guaraní International Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
@@ -73625,7 +73619,7 @@
     },
     {
       "icao": "SGIB",
-      "name": "Aeropuerto Nacional de Itaipú",
+      "name": "Itaipú Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
@@ -73637,7 +73631,7 @@
     },
     {
       "icao": "SGME",
-      "name": "Aeropuerto Internacional Dr. Luis Maria Argaña",
+      "name": "Dr. Luis María Argaña International Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
@@ -80183,7 +80177,7 @@
     },
     {
       "icao": "SKPZ",
-      "name": "Paz De Ariporo Airport",
+      "name": "Paz de Ariporo Airport",
       "country": "CO",
       "timezone": "America/Bogota"
     },
@@ -85367,7 +85361,7 @@
     },
     {
       "icao": "SPUR",
-      "name": "Capitán FAP Guillermo Concha Iberico International Airport",
+      "name": "PAF Captain Guillermo Concha Iberico International Airport",
       "country": "PE",
       "timezone": "America/Lima"
     },
@@ -86160,12 +86154,6 @@
     {
       "icao": "SSGO",
       "name": "Rosada Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
-      "icao": "SSGP",
-      "name": "Piquet Airport (Closed?)",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -96317,7 +96305,7 @@
     },
     {
       "icao": "UODN",
-      "name": "Nagurskoye",
+      "name": "Nagurskoye Airfield",
       "country": "RU",
       "timezone": "Europe/Moscow"
     },
@@ -98555,7 +98543,7 @@
     },
     {
       "icao": "VIHX",
-      "name": "Halwara Air Force Station",
+      "name": "Halwara International Airport",
       "country": "IN",
       "timezone": "Asia/Kolkata"
     },
@@ -116680,5 +116668,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-02-09T08:24:12"
+  "released_at": "2026-02-16T07:27:22"
 }
