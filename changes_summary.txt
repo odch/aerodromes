@@ -3,51 +3,39 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19440
-   Staging aerodromes: 19446
-   Net change: +6
+   Production aerodromes: 19446
+   Staging aerodromes: 19444
+   Net change: -2
 
-✅ NEW AERODROMES (9):
-   + MMCD: Isla Cedros Airport (MX)
-   + MMLB: Air Station No. 8 Loma Bonita (MX)
-   + MMPD: Base Nº7 de la Fuerza Aérea Mexicana (Gustavo G. León González) (MX)
-   + MMPT: Puerto Cortés Airstrip (MX)
-   + MMTQ: Tequesquitengo Airport (MX)
-   + OERS: Red Sea International Airport (SA)
-   + TAPB: Burton-Nibbs International Airport (AG)
-   + UUAN: Gazprom Compressor Station Helipad (RU)
-   + VTSY: Betong International Airport (TH)
+❌ REMOVED AERODROMES (2):
+   - OPGD: Gwadar International Airport (PK)
+   - SSGP: Piquet Airport (Closed?) (BR)
 
-❌ REMOVED AERODROMES (3):
-   - HAJK: Jinka Airport (ET)
-   - LGTL: Kasteli Airport (GR)
-   - TAPH: Codrington Airport (AG)
+🔄 CHANGED AERODROMES (28):
+   ~ ENSB: Svalbard Airport, Longyear
+     name: 'Svalbard Airport' → 'Svalbard Airport, Longyear'
+   ~ FLMF: Mfuwe International Airport
+     name: 'Mfuwe Airport' → 'Mfuwe International Airport'
+   ~ FQNC: Nacala International Airport
+     name: 'Nacala Airport' → 'Nacala International Airport'
+   ~ FQTT: Tete Airport
+     name: 'Chingozi Airport' → 'Tete Airport'
+   ~ FVKB: Kariba Airport
+     name: 'Kariba International Airport' → 'Kariba Airport'
+   ~ FVTL: Josiah Tungamirai Air Force Base
+     name: 'Gweru - Thornhill Air Base' → 'Josiah Tungamirai Air Force Base'
+   ~ HLTD: Ghadames Airport
+     name: 'Ghadames East Airport' → 'Ghadames Airport'
+   ~ HUPA: Pakuba Airport
+     name: 'Kabalega Falls Airport' → 'Pakuba Airport'
+   ~ KBOS: Boston Logan International Airport
+     name: 'General Edward Lawrence Logan International Airport' → 'Boston Logan International Airport'
+   ~ KHST: Homestead Air Reserve Base
+     name: 'Homestead ARB Airport' → 'Homestead Air Reserve Base'
+   ... and 18 more
 
-🔄 CHANGED AERODROMES (29):
-   ~ CYXS: Prince George (International) Airport
-     name: 'Prince George (Intl) Airport' → 'Prince George (International) Airport'
-   ~ DAAJ: Tiska Djanet Airport
-     name: 'Djanet Inedbirene Airport' → 'Tiska Djanet Airport'
-   ~ DRRL: Tillabéri Airport
-     name: 'Tillabery Airport' → 'Tillabéri Airport'
-   ~ EVCA: Cēsis Airfield
-     name: 'Vidzeme Aeroclub' → 'Cēsis Airfield'
-   ~ GUCY: Ahmed Sékou Touré International Airport
-     name: 'Conakry International Airport' → 'Ahmed Sékou Touré International Airport'
-   ~ HCMF: Bender Qassim International Airport
-     name: 'Bosaso / Bender Qassim International Airport' → 'Bender Qassim International Airport'
-   ~ MHPR: Palmerola International Airport
-     name: 'Palmerola International Airport / José Enrique Soto Cano Air Base' → 'Palmerola International Airport'
-   ~ MHTG: Toncontín Airport
-     name: 'Toncontín International Airport' → 'Toncontín Airport'
-   ~ MPBO: Bocas del Toro "Isla Colón" International Airport
-     name: 'Bocas del Toro International Airport' → 'Bocas del Toro "Isla Colón" International Airport'
-   ~ MRLB: Daniel Oduber Quirós International Airport
-     name: 'Guanacaste Airport' → 'Daniel Oduber Quirós International Airport'
-   ... and 19 more
-
-🕐 Staging last updated: 2026-02-09T07:08:29
-🕐 Production last updated: 2026-02-02T07:05:54
+🕐 Staging last updated: 2026-02-16T07:07:28
+🕐 Production last updated: 2026-02-09T07:08:29
 ------------------------------------------------------------
-📋 Total changes: 41
+📋 Total changes: 30
 💡 To release these changes, run: python3 release.py
