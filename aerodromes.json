@@ -1,7 +1,7 @@
 {
-  "version": "1.0.40",
-  "last_updated": "2026-02-16T07:07:28",
-  "total_count": 19444,
+  "version": "1.0.41",
+  "last_updated": "2026-02-23T07:08:34",
+  "total_count": 19452,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -2963,7 +2963,7 @@
     },
     {
       "icao": "BGBW",
-      "name": "Narsarsuaq International Airport",
+      "name": "Narsarsuaq Airport",
       "country": "GL",
       "timezone": "America/Godthab"
     },
@@ -3611,7 +3611,7 @@
     },
     {
       "icao": "BIRL",
-      "name": "Reykjahlíð Airport",
+      "name": "Mývatn Airport",
       "country": "IS",
       "timezone": "Atlantic/Reykjavik"
     },
@@ -13162,6 +13162,12 @@
       "timezone": "Europe/London"
     },
     {
+      "icao": "EGUY",
+      "name": "RAF Wyton",
+      "country": "GB",
+      "timezone": "Europe/London"
+    },
+    {
       "icao": "EGVA",
       "name": "RAF Fairford",
       "country": "GB",
@@ -19847,7 +19853,7 @@
     },
     {
       "icao": "FAUP",
-      "name": "Upington International Airport",
+      "name": "Upington Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -21845,7 +21851,7 @@
     },
     {
       "icao": "FMEP",
-      "name": "Pierrefonds Airport",
+      "name": "Saint-Pierre Pierrefonds Airport",
       "country": "RE",
       "timezone": "Indian/Reunion"
     },
@@ -30899,7 +30905,7 @@
     },
     {
       "icao": "KBUR",
-      "name": "Bobe Hope / Hollywood Burbank Airport",
+      "name": "Hollywood Burbank Airport",
       "country": "US",
       "timezone": "America/Los_Angeles"
     },
@@ -37205,7 +37211,7 @@
     },
     {
       "icao": "KMHV",
-      "name": "Mojave Airport",
+      "name": "Mojave Air &  Space Port",
       "country": "US",
       "timezone": "America/Los_Angeles"
     },
@@ -37451,7 +37457,7 @@
     },
     {
       "icao": "KMMV",
-      "name": "Mc Minnville Municipal Airport",
+      "name": "McMinnville Municipal Airport",
       "country": "US",
       "timezone": "America/Los_Angeles"
     },
@@ -39005,7 +39011,7 @@
     },
     {
       "icao": "KPCW",
-      "name": "Carl R Keller Field",
+      "name": "Erie-Ottawa International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -42892,8 +42898,20 @@
       "timezone": "Europe/Sofia"
     },
     {
+      "icao": "LBSW",
+      "name": "Sofia West Airfield",
+      "country": "BG",
+      "timezone": "Europe/Sofia"
+    },
+    {
       "icao": "LBSZ",
       "name": "Stara Zagora Airport",
+      "country": "BG",
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "icao": "LBTS",
+      "name": "Tsalapitsa Airfield",
       "country": "BG",
       "timezone": "Europe/Sofia"
     },
@@ -42972,6 +42990,24 @@
     {
       "icao": "LDDU",
       "name": "Dubrovnik Ruđer Bošković Airport",
+      "country": "HR",
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "icao": "LDHB",
+      "name": "Veliki Brijuni Heliport",
+      "country": "HR",
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "icao": "LDHE",
+      "name": "Cres Heliport",
+      "country": "HR",
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "icao": "LDHR",
+      "name": "Rab Heliport",
       "country": "HR",
       "timezone": "Europe/Zagreb"
     },
@@ -43158,6 +43194,12 @@
     {
       "icao": "LDZL",
       "name": "Lučko Airfield",
+      "country": "HR",
+      "timezone": "Europe/Zagreb"
+    },
+    {
+      "icao": "LDZP",
+      "name": "Zvonimir Rain Glider Airfield",
       "country": "HR",
       "timezone": "Europe/Zagreb"
     },
@@ -52211,7 +52253,7 @@
     },
     {
       "icao": "LUBL",
-      "name": "Bălți International Airport",
+      "name": "Bălți-Leadoveni International Airport",
       "country": "MD",
       "timezone": "Europe/Chisinau"
     },
@@ -52235,7 +52277,7 @@
     },
     {
       "icao": "LUTR",
-      "name": "Tiraspol Airport",
+      "name": "Tiraspol Airfield",
       "country": "MD",
       "timezone": "Europe/Chisinau"
     },
@@ -65603,7 +65645,7 @@
     },
     {
       "icao": "SBAR",
-      "name": "Aracaju - Santa Maria International Airport",
+      "name": "Aracaju - Santa Maria Airport",
       "country": "BR",
       "timezone": "America/Fortaleza"
     },
@@ -65681,7 +65723,7 @@
     },
     {
       "icao": "SBBV",
-      "name": "Atlas Brasil Cantanhede Airport",
+      "name": "Atlas Brasil Cantanhede International Airport",
       "country": "BR",
       "timezone": "America/Boa_Vista"
     },
@@ -95153,7 +95195,7 @@
     },
     {
       "icao": "UHSS",
-      "name": "Yuzhno-Sakhalinsk Airport",
+      "name": "Yuzhno-Sakhalinsk International Airport",
       "country": "RU",
       "timezone": "Asia/Srednekolymsk"
     },
@@ -99797,7 +99839,7 @@
     },
     {
       "icao": "VTSG",
-      "name": "Krabi Airport",
+      "name": "Krabi International Airport",
       "country": "TH",
       "timezone": "Asia/Bangkok"
     },
@@ -115708,6 +115750,12 @@
       "timezone": "Asia/Shanghai"
     },
     {
+      "icao": "ZSFD",
+      "name": "Feidong Bailong General Airport",
+      "country": "CN",
+      "timezone": "Asia/Shanghai"
+    },
+    {
       "icao": "ZSFY",
       "name": "Fuyang Xiguan Airport",
       "country": "CN",
@@ -116668,5 +116716,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-02-16T07:27:22"
+  "released_at": "2026-02-23T08:30:57"
 }
