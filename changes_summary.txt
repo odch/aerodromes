@@ -3,39 +3,45 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19446
-   Staging aerodromes: 19444
-   Net change: -2
+   Production aerodromes: 19444
+   Staging aerodromes: 19452
+   Net change: +8
 
-❌ REMOVED AERODROMES (2):
-   - OPGD: Gwadar International Airport (PK)
-   - SSGP: Piquet Airport (Closed?) (BR)
+✅ NEW AERODROMES (8):
+   + EGUY: RAF Wyton (GB)
+   + LBSW: Sofia West Airfield (BG)
+   + LBTS: Tsalapitsa Airfield (BG)
+   + LDHB: Veliki Brijuni Heliport (HR)
+   + LDHE: Cres Heliport (HR)
+   + LDHR: Rab Heliport (HR)
+   + LDZP: Zvonimir Rain Glider Airfield (HR)
+   + ZSFD: Feidong Bailong General Airport (CN)
 
-🔄 CHANGED AERODROMES (28):
-   ~ ENSB: Svalbard Airport, Longyear
-     name: 'Svalbard Airport' → 'Svalbard Airport, Longyear'
-   ~ FLMF: Mfuwe International Airport
-     name: 'Mfuwe Airport' → 'Mfuwe International Airport'
-   ~ FQNC: Nacala International Airport
-     name: 'Nacala Airport' → 'Nacala International Airport'
-   ~ FQTT: Tete Airport
-     name: 'Chingozi Airport' → 'Tete Airport'
-   ~ FVKB: Kariba Airport
-     name: 'Kariba International Airport' → 'Kariba Airport'
-   ~ FVTL: Josiah Tungamirai Air Force Base
-     name: 'Gweru - Thornhill Air Base' → 'Josiah Tungamirai Air Force Base'
-   ~ HLTD: Ghadames Airport
-     name: 'Ghadames East Airport' → 'Ghadames Airport'
-   ~ HUPA: Pakuba Airport
-     name: 'Kabalega Falls Airport' → 'Pakuba Airport'
-   ~ KBOS: Boston Logan International Airport
-     name: 'General Edward Lawrence Logan International Airport' → 'Boston Logan International Airport'
-   ~ KHST: Homestead Air Reserve Base
-     name: 'Homestead ARB Airport' → 'Homestead Air Reserve Base'
-   ... and 18 more
+🔄 CHANGED AERODROMES (14):
+   ~ BGBW: Narsarsuaq Airport
+     name: 'Narsarsuaq International Airport' → 'Narsarsuaq Airport'
+   ~ BIRL: Mývatn Airport
+     name: 'Reykjahlíð Airport' → 'Mývatn Airport'
+   ~ FAUP: Upington Airport
+     name: 'Upington International Airport' → 'Upington Airport'
+   ~ FMEP: Saint-Pierre Pierrefonds Airport
+     name: 'Pierrefonds Airport' → 'Saint-Pierre Pierrefonds Airport'
+   ~ KBUR: Hollywood Burbank Airport
+     name: 'Bobe Hope / Hollywood Burbank Airport' → 'Hollywood Burbank Airport'
+   ~ KMHV: Mojave Air &  Space Port
+     name: 'Mojave Airport' → 'Mojave Air &  Space Port'
+   ~ KMMV: McMinnville Municipal Airport
+     name: 'Mc Minnville Municipal Airport' → 'McMinnville Municipal Airport'
+   ~ KPCW: Erie-Ottawa International Airport
+     name: 'Carl R Keller Field' → 'Erie-Ottawa International Airport'
+   ~ LUBL: Bălți-Leadoveni International Airport
+     name: 'Bălți International Airport' → 'Bălți-Leadoveni International Airport'
+   ~ LUTR: Tiraspol Airfield
+     name: 'Tiraspol Airport' → 'Tiraspol Airfield'
+   ... and 4 more
 
-🕐 Staging last updated: 2026-02-16T07:07:28
-🕐 Production last updated: 2026-02-09T07:08:29
+🕐 Staging last updated: 2026-02-23T07:08:34
+🕐 Production last updated: 2026-02-16T07:07:28
 ------------------------------------------------------------
-📋 Total changes: 30
+📋 Total changes: 22
 💡 To release these changes, run: python3 release.py
