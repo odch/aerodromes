@@ -1,7 +1,7 @@
 {
-  "version": "1.0.40",
-  "last_updated": "2026-02-23T07:08:34",
-  "total_count": 19452,
+  "version": "1.0.41",
+  "last_updated": "2026-03-02T07:02:55",
+  "total_count": 19497,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -34625,7 +34625,7 @@
     },
     {
       "icao": "KGYY",
-      "name": "Gary Chicago International Airport",
+      "name": "Gary/Chicago International Airport",
       "country": "US",
       "timezone": "America/Chicago"
     },
@@ -47548,8 +47548,20 @@
       "timezone": "Europe/Budapest"
     },
     {
+      "icao": "LHST",
+      "name": "Szatymaz Airfield",
+      "country": "HU",
+      "timezone": "Europe/Budapest"
+    },
+    {
       "icao": "LHSU",
       "name": "Surjány Airfield",
+      "country": "HU",
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "icao": "LHSV",
+      "name": "Kákahalom Airfield",
       "country": "HU",
       "timezone": "Europe/Budapest"
     },
@@ -47585,7 +47597,7 @@
     },
     {
       "icao": "LHUD",
-      "name": "Szeged Airfield",
+      "name": "Szeged Airport",
       "country": "HU",
       "timezone": "Europe/Budapest"
     },
@@ -48155,7 +48167,7 @@
     },
     {
       "icao": "LIMN",
-      "name": "Cameri Air Base [MIL]",
+      "name": "Cameri Air Base",
       "country": "IT",
       "timezone": "Europe/Rome"
     },
@@ -51689,7 +51701,7 @@
     },
     {
       "icao": "LSZS",
-      "name": "Samedan Airport",
+      "name": "Engadin Airport",
       "country": "CH",
       "timezone": "Europe/Zurich"
     },
@@ -57322,12 +57334,6 @@
       "timezone": "Pacific/Noumea"
     },
     {
-      "icao": "NWWH",
-      "name": "Nesson Airport",
-      "country": "NC",
-      "timezone": "Pacific/Noumea"
-    },
-    {
       "icao": "NWWI",
       "name": "Hienghène Airport",
       "country": "NC",
@@ -57394,6 +57400,12 @@
       "timezone": "Pacific/Noumea"
     },
     {
+      "icao": "NWWX",
+      "name": "Canala Airport",
+      "country": "NC",
+      "timezone": "Pacific/Noumea"
+    },
+    {
       "icao": "NWWY",
       "name": "Ouaco Airport",
       "country": "NC",
@@ -57420,6 +57432,12 @@
     {
       "icao": "NZAL",
       "name": "Avalon Heliport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZAM",
+      "name": "Ashburton Medical Centre Helipad",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -57502,6 +57520,12 @@
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZCV",
+      "name": "Chevoit",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZCW",
       "name": "Cromwell/Louburn Airport",
       "country": "NZ",
@@ -57564,6 +57588,12 @@
     {
       "icao": "NZEV",
       "name": "Eves Valley Heliport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZFA",
+      "name": "Te Haupa Heliport",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -57646,6 +57676,12 @@
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZGD",
+      "name": "Geraldine",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZGH",
       "name": "Glacier Country Heliport",
       "country": "NZ",
@@ -57660,6 +57696,12 @@
     {
       "icao": "NZGM",
       "name": "Greymouth Airport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZGO",
+      "name": "Gore Hospital",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -57694,14 +57736,38 @@
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZHB",
+      "name": "Helena Bay Lodge Helipad",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZHC",
       "name": "Wanaka Lakes Health Centre Heliport",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZHF",
+      "name": "Huka Falls Heliport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZHH",
+      "name": "Jennian Hangar, Waikato Hospital Heliport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZHK",
       "name": "Hokitika Airfield",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZHM",
+      "name": "Hanmer Springs Aerodrome",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -57713,7 +57779,7 @@
     },
     {
       "icao": "NZHR",
-      "name": "Hanmer Springs Airport",
+      "name": "Hanmer Hanmer Medical Centre Heliport",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -57760,6 +57826,12 @@
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZJF",
+      "name": "Whakatāne Hospital Helipad",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZJG",
       "name": "Gisborne Hospital Heliport",
       "country": "NZ",
@@ -57774,6 +57846,12 @@
     {
       "icao": "NZJI",
       "name": "Bay of Islands Hospital Heliport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZJJ",
+      "name": "Hagley Park Helipad",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -57910,6 +57988,12 @@
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZKJ",
+      "name": "Kaikōura Beachfront Heliport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZKK",
       "name": "Kerikeri Airport",
       "country": "NZ",
@@ -57966,6 +58050,12 @@
     {
       "icao": "NZLF",
       "name": "Rotorua Lakefront Heliport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZLM",
+      "name": "Lumsden Medical Centre Heliport",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -58042,6 +58132,12 @@
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZMM",
+      "name": "Middlemore Hospital Helipad",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZMO",
       "name": "Manapouri Airport",
       "country": "NZ",
@@ -58068,6 +58164,12 @@
     {
       "icao": "NZMT",
       "name": "Martinborough Airport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZMV",
+      "name": "Methven Heliport",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -58174,6 +58276,12 @@
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZON",
+      "name": "Oban Heliport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZOP",
       "name": "Opotiki Airport",
       "country": "NZ",
@@ -58182,6 +58290,12 @@
     {
       "icao": "NZOR",
       "name": "Oamaru Hospital Heliport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZOS",
+      "name": "Otehei Bay Helibarge",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -58198,6 +58312,12 @@
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZOW",
+      "name": "Onetangi Heliport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZOX",
       "name": "Okiwi Station Airport",
       "country": "NZ",
@@ -58205,7 +58325,7 @@
     },
     {
       "icao": "NZPA",
-      "name": "Paihia Private Airport",
+      "name": "Paihia HEMS Heliport",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -58218,6 +58338,12 @@
     {
       "icao": "NZPI",
       "name": "Parakai Aerodrome",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZPK",
+      "name": "Pikes Point Heliport",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -58242,6 +58368,12 @@
     {
       "icao": "NZPP",
       "name": "Paraparaumu Airport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZPS",
+      "name": "Paihia Waterfront Heliport",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -58276,6 +58408,12 @@
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZRD",
+      "name": "Rosedale Heliport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZRI",
       "name": "Rangitata Island Airport",
       "country": "NZ",
@@ -58290,6 +58428,12 @@
     {
       "icao": "NZRL",
       "name": "Rotorua Lakes Water Aerodrome",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZRN",
+      "name": "Ranfurly Medical Centre Heliport",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -58366,6 +58510,12 @@
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZTC",
+      "name": "Tapanui Medical Centre Helipad",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZTE",
       "name": "Te Kowhai Airfield",
       "country": "NZ",
@@ -58420,6 +58570,12 @@
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZTP",
+      "name": "Tekapo/Mackenzie Heliport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZTQ",
       "name": "Te Kuiti Hospital Heliport",
       "country": "NZ",
@@ -58427,7 +58583,7 @@
     },
     {
       "icao": "NZTS",
-      "name": "Taharoa Aerodrome",
+      "name": "Tasman Heliport",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -58440,6 +58596,24 @@
     {
       "icao": "NZTU",
       "name": "Timaru Airport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZTW",
+      "name": "Twizel Medical Centre Helipad",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZTX",
+      "name": "Te Anau Medical Centre Heliport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZTZ",
+      "name": "Timaru Hospital Helipad",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -58516,20 +58690,26 @@
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZWG",
+      "name": "Whangamata Helipad",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZWH",
-      "name": "Wellington Hospital Heliport",
+      "name": "Wellington Hospital Helistop",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
     {
       "icao": "NZWJ",
-      "name": "Wellsford Airport",
+      "name": "Wellsford Heliport",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
     {
       "icao": "NZWK",
-      "name": "Whakatane Airport",
+      "name": "Whakatāne Airport",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -58596,6 +58776,12 @@
     {
       "icao": "NZWV",
       "name": "Waihi Beach Airport",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
+      "icao": "NZWZ",
+      "name": "Warkworth Heliport",
       "country": "NZ",
       "timezone": "Pacific/Auckland"
     },
@@ -66971,7 +67157,7 @@
     },
     {
       "icao": "SCAR",
-      "name": "Chacalluta Airport",
+      "name": "Chacalluta International Airport",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -67211,7 +67397,7 @@
     },
     {
       "icao": "SCDA",
-      "name": "Diego Aracena Airport",
+      "name": "Diego Aracena International Airport",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -76122,12 +76308,6 @@
     {
       "icao": "SIRI",
       "name": "Barra Grande Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
-      "icao": "SIRJ",
-      "name": "Caima Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -90724,12 +90904,6 @@
       "timezone": "America/Sao_Paulo"
     },
     {
-      "icao": "SWAQ",
-      "name": "Érico Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
       "icao": "SWAR",
       "name": "Fazenda Aruanã Airport",
       "country": "BR",
@@ -100660,6 +100834,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WABV",
+      "name": "Derapos Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WABW",
       "name": "Waren Airport",
       "country": "ID",
@@ -101116,12 +101296,6 @@
       "timezone": "Asia/Makassar"
     },
     {
-      "icao": "WALV",
-      "name": "Bunyu Airport",
-      "country": "ID",
-      "timezone": "Asia/Jakarta"
-    },
-    {
       "icao": "WALW",
       "name": "Muara Wahau Airport",
       "country": "ID",
@@ -101368,6 +101542,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WAQB",
+      "name": "Bunyu Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WAQC",
       "name": "Maratua Airport",
       "country": "ID",
@@ -101520,6 +101700,12 @@
     {
       "icao": "WASI",
       "name": "Inanwatan Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WASJ",
+      "name": "Gusimawa Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -102034,6 +102220,18 @@
       "timezone": "Asia/Kuala_Lumpur"
     },
     {
+      "icao": "WIAC",
+      "name": "Balai Sepuak Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIAF",
+      "name": "Bentiang Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WIAG",
       "name": "Menggala Airport",
       "country": "ID",
@@ -102048,6 +102246,12 @@
     {
       "icao": "WIAK",
       "name": "Sulaiman Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIAM",
+      "name": "Gilgal Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -102234,6 +102438,12 @@
     {
       "icao": "WIKT",
       "name": "H A S Hanandjoeddin International Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WILG",
+      "name": "Gunung Batin Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -102808,14 +103018,44 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WREL",
+      "name": "Begowre Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WREP",
       "name": "Yugwa Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WRFC",
+      "name": "Endomen Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WRFE",
       "name": "Proyam Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WRFH",
+      "name": "Eri Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WRFJ",
+      "name": "Foao Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WRFL",
+      "name": "Geyarek Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -102862,6 +103102,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WRLD",
+      "name": "Eaopoto Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WRLH",
       "name": "Tanah Grogot Airport",
       "country": "ID",
@@ -102900,6 +103146,12 @@
     {
       "icao": "WRLY",
       "name": "Senipah Heliport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WRMA",
+      "name": "Basiem Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -111088,6 +111340,12 @@
       "timezone": "Indian/Christmas"
     },
     {
+      "icao": "YPXR",
+      "name": "Portland Hospital Helipad",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
       "icao": "YPYA",
       "name": "Palmyra Airstrip",
       "country": "AU",
@@ -114796,6 +115054,18 @@
       "timezone": "Asia/Shanghai"
     },
     {
+      "icao": "ZBNJ",
+      "name": "Beijing Nanjiao Airport",
+      "country": "CN",
+      "timezone": "Asia/Shanghai"
+    },
+    {
+      "icao": "ZBNY",
+      "name": "Beijing Nanyuan Airport",
+      "country": "CN",
+      "timezone": "Asia/Shanghai"
+    },
+    {
       "icao": "ZBOW",
       "name": "Baotou Donghe International Airport",
       "country": "CN",
@@ -115709,7 +115979,7 @@
     },
     {
       "icao": "ZSBA",
-      "name": "Bengbu Tenghu Airport (U.C.)",
+      "name": "Bengbu Tenghu Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
@@ -115829,7 +116099,7 @@
     },
     {
       "icao": "ZSJX",
-      "name": "Jiaxing Airport / Jiaxing Air Base",
+      "name": "Jiaxing Nanhu Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
@@ -115925,7 +116195,7 @@
     },
     {
       "icao": "ZSSH",
-      "name": "Huai'an Lianshui International Airport",
+      "name": "Huai'an Lianshui Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
@@ -116039,7 +116309,7 @@
     },
     {
       "icao": "ZSZS",
-      "name": "Zhoushan Putuoshan Airport",
+      "name": "Zhoushan Putuoshan International Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
