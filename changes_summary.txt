@@ -3,54 +3,44 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19452
-   Staging aerodromes: 19497
-   Net change: +45
+   Production aerodromes: 19497
+   Staging aerodromes: 19516
+   Net change: +19
 
-✅ NEW AERODROMES (49):
-   + LHST: Szatymaz Airfield (HU)
-   + LHSV: Kákahalom Airfield (HU)
-   + NWWX: Canala Airport (NC)
-   + NZAM: Ashburton Medical Centre Helipad (NZ)
-   + NZCV: Chevoit (NZ)
-   + NZFA: Te Haupa Heliport (NZ)
-   + NZGD: Geraldine (NZ)
-   + NZGO: Gore Hospital (NZ)
-   + NZHB: Helena Bay Lodge Helipad (NZ)
-   + NZHF: Huka Falls Heliport (NZ)
-   ... and 39 more
+✅ NEW AERODROMES (22):
+   + SHBI: Quillota-Petorca Biprovincial Hospital Helistop (CL)
+   + SHGF: Gustavo Fricke Hospital Helistop (CL)
+   + SHIC: Curicó Provincial Hospital Helistop (CL)
+   + SHLJ: Los Junquillos Heliport (CL)
+   + SHMM: Marga Marga Hospital Helistop (CL)
+   + SHNB: Ñuble Regional Hospital Helistop (CL)
+   + SHOH: Military School Heliport (CL)
+   + SHOL: Santa Laura Heliport (CL)
+   + SHOR: Isidora el Bosque Building Helistop (CL)
+   + SHPH: [Santa Teresa Heliport (CL)
+   ... and 12 more
 
-❌ REMOVED AERODROMES (4):
-   - NWWH: Nesson Airport (NC)
-   - SIRJ: Caima Airport (BR)
-   - SWAQ: Érico Airport (BR)
-   - WALV: Bunyu Airport (ID)
+❌ REMOVED AERODROMES (3):
+   - OPJI: Jiwani Airport (INACTIVE} (PK)
+   - SHST: Santiago Heliport (CL)
+   - SYGO: Eugene F. Correia International Airport (GY)
 
-🔄 CHANGED AERODROMES (16):
-   ~ KGYY: Gary/Chicago International Airport
-     name: 'Gary Chicago International Airport' → 'Gary/Chicago International Airport'
-   ~ LHUD: Szeged Airport
-     name: 'Szeged Airfield' → 'Szeged Airport'
-   ~ LIMN: Cameri Air Base
-     name: 'Cameri Air Base [MIL]' → 'Cameri Air Base'
-   ~ LSZS: Engadin Airport
-     name: 'Samedan Airport' → 'Engadin Airport'
-   ~ NZHR: Hanmer Hanmer Medical Centre Heliport
-     name: 'Hanmer Springs Airport' → 'Hanmer Hanmer Medical Centre Heliport'
-   ~ NZPA: Paihia HEMS Heliport
-     name: 'Paihia Private Airport' → 'Paihia HEMS Heliport'
-   ~ NZTS: Tasman Heliport
-     name: 'Taharoa Aerodrome' → 'Tasman Heliport'
-   ~ NZWH: Wellington Hospital Helistop
-     name: 'Wellington Hospital Heliport' → 'Wellington Hospital Helistop'
-   ~ NZWJ: Wellsford Heliport
-     name: 'Wellsford Airport' → 'Wellsford Heliport'
-   ~ NZWK: Whakatāne Airport
-     name: 'Whakatane Airport' → 'Whakatāne Airport'
-   ... and 6 more
+🔄 CHANGED AERODROMES (6):
+   ~ HAMK: Mekele Alula Aba Nega Airport
+     name: 'Alula Aba Nega Airport' → 'Mekele Alula Aba Nega Airport'
+   ~ MMCC: Ciudad Acuña International Airport
+     name: 'Ciudad Acuña New International Airport' → 'Ciudad Acuña International Airport'
+   ~ SCQT: Las Tacas Airport
+     name: 'LasTacas Airport' → 'Las Tacas Airport'
+   ~ SHHN: Admiral Nef Naval Hospital Heliport
+     name: 'Hospital Naval Almirante Nef Heliport' → 'Admiral Nef Naval Hospital Heliport'
+   ~ UTAK: Turkmenbaşy International Airport
+     name: 'Turkmenbashi International Airport' → 'Turkmenbaşy International Airport'
+   ~ UTAT: Dashoguz International Airport
+     name: 'Daşoguz Airport' → 'Dashoguz International Airport'
 
-🕐 Staging last updated: 2026-03-02T07:02:55
-🕐 Production last updated: 2026-02-23T07:08:34
+🕐 Staging last updated: 2026-03-09T07:06:05
+🕐 Production last updated: 2026-03-02T07:02:55
 ------------------------------------------------------------
-📋 Total changes: 69
+📋 Total changes: 31
 💡 To release these changes, run: python3 release.py

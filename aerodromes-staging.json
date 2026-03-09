@@ -1,7 +1,7 @@
 {
-  "version": "1.0.41",
-  "last_updated": "2026-03-02T07:02:55",
-  "total_count": 19497,
+  "version": "1.0.42",
+  "last_updated": "2026-03-09T07:06:05",
+  "total_count": 19516,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -27275,7 +27275,7 @@
     },
     {
       "icao": "HAMK",
-      "name": "Alula Aba Nega Airport",
+      "name": "Mekele Alula Aba Nega Airport",
       "country": "ET",
       "timezone": "Africa/Addis_Ababa"
     },
@@ -53897,7 +53897,7 @@
     },
     {
       "icao": "MMCC",
-      "name": "Ciudad Acuña New International Airport",
+      "name": "Ciudad Acuña International Airport",
       "country": "MX",
       "timezone": "America/Mexico_City"
     },
@@ -60588,12 +60588,6 @@
     {
       "icao": "OPJA",
       "name": "Shahbaz Air Base",
-      "country": "PK",
-      "timezone": "Asia/Karachi"
-    },
-    {
-      "icao": "OPJI",
-      "name": "Jiwani Airport (INACTIVE}",
       "country": "PK",
       "timezone": "Asia/Karachi"
     },
@@ -68639,7 +68633,7 @@
     },
     {
       "icao": "SCQT",
-      "name": "LasTacas Airport",
+      "name": "Las Tacas Airport",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -74026,6 +74020,12 @@
       "timezone": "America/Santiago"
     },
     {
+      "icao": "SHBI",
+      "name": "Quillota-Petorca Biprovincial Hospital Helistop",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
       "icao": "SHBL",
       "name": "Hospital Ramón Barros Luco Heliport",
       "country": "CL",
@@ -74218,6 +74218,12 @@
       "timezone": "America/Santiago"
     },
     {
+      "icao": "SHGF",
+      "name": "Gustavo Fricke Hospital Helistop",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
       "icao": "SHGR",
       "name": "Edificio Corpgroup Heliport",
       "country": "CL",
@@ -74261,7 +74267,7 @@
     },
     {
       "icao": "SHHN",
-      "name": "Hospital Naval Almirante Nef Heliport",
+      "name": "Admiral Nef Naval Hospital Heliport",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -74280,6 +74286,12 @@
     {
       "icao": "SHHV",
       "name": "Naval Heliport",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
+      "icao": "SHIC",
+      "name": "Curicó Provincial Hospital Helistop",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -74338,6 +74350,12 @@
       "timezone": "America/Santiago"
     },
     {
+      "icao": "SHLJ",
+      "name": "Los Junquillos Heliport",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
       "icao": "SHLP",
       "name": "La Parva Heliport",
       "country": "CL",
@@ -74374,8 +74392,20 @@
       "timezone": "America/Santiago"
     },
     {
+      "icao": "SHMM",
+      "name": "Marga Marga Hospital Helistop",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
       "icao": "SHMS",
       "name": "Mutual de Seguridad Heliport",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
+      "icao": "SHNB",
+      "name": "Ñuble Regional Hospital Helistop",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -74404,6 +74434,24 @@
       "timezone": "America/Santiago"
     },
     {
+      "icao": "SHOH",
+      "name": "Military School Heliport",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
+      "icao": "SHOL",
+      "name": "Santa Laura Heliport",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
+      "icao": "SHOR",
+      "name": "Isidora el Bosque Building Helistop",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
       "icao": "SHOT",
       "name": "Santa Rosa De Tabalí Heliport",
       "country": "CL",
@@ -74424,6 +74472,12 @@
     {
       "icao": "SHPE",
       "name": "Pelluco Heliport",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
+      "icao": "SHPH",
+      "name": "[Santa Teresa Heliport",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -74476,6 +74530,12 @@
       "timezone": "America/Santiago"
     },
     {
+      "icao": "SHRZ",
+      "name": "Reitz Building Two Helistop",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
       "icao": "SHSB",
       "name": "Cerro Sombrero Heliport",
       "country": "CL",
@@ -74496,6 +74556,18 @@
     {
       "icao": "SHSE",
       "name": "Posesión Heliport",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
+      "icao": "SHSG",
+      "name": "San Gregorio Heliport",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
+      "icao": "SHSH",
+      "name": "Santiago Heliport",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -74550,12 +74622,6 @@
     {
       "icao": "SHSS",
       "name": "Hospital Regional de Temuco Heliport",
-      "country": "CL",
-      "timezone": "America/Santiago"
-    },
-    {
-      "icao": "SHST",
-      "name": "Santiago Heliport",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -74646,6 +74712,12 @@
     {
       "icao": "SHWT",
       "name": "World Trade Center Heliport",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
+      "icao": "SHXE",
+      "name": "ETXEA Helistop",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -93370,14 +93442,32 @@
       "timezone": "America/Guyana"
     },
     {
+      "icao": "SYBE",
+      "name": "Bemichi Airport",
+      "country": "GY",
+      "timezone": "America/Guyana"
+    },
+    {
       "icao": "SYBG",
       "name": "Baganara Airport.",
       "country": "GY",
       "timezone": "America/Guyana"
     },
     {
+      "icao": "SYBL",
+      "name": "Blairmont Airport",
+      "country": "GY",
+      "timezone": "America/Guyana"
+    },
+    {
       "icao": "SYBR",
       "name": "Baramita Airport",
+      "country": "GY",
+      "timezone": "America/Guyana"
+    },
+    {
+      "icao": "SYBS",
+      "name": "Fort Wellington Airport",
       "country": "GY",
       "timezone": "America/Guyana"
     },
@@ -93412,14 +93502,20 @@
       "timezone": "America/Guyana"
     },
     {
+      "icao": "SYEC",
+      "name": "Eugene F. Correia International Airport",
+      "country": "GY",
+      "timezone": "America/Guyana"
+    },
+    {
       "icao": "SYEK",
       "name": "Ekereku Bottom Airport",
       "country": "GY",
       "timezone": "America/Guyana"
     },
     {
-      "icao": "SYGO",
-      "name": "Eugene F. Correia International Airport",
+      "icao": "SYHC",
+      "name": "Krishna Sankar Airport",
       "country": "GY",
       "timezone": "America/Guyana"
     },
@@ -93432,6 +93528,12 @@
     {
       "icao": "SYKA",
       "name": "Kaieteur Airport",
+      "country": "GY",
+      "timezone": "America/Guyana"
+    },
+    {
+      "icao": "SYKE",
+      "name": "Kwebana Airport",
       "country": "GY",
       "timezone": "America/Guyana"
     },
@@ -93600,6 +93702,12 @@
     {
       "icao": "SYSK",
       "name": "Skeldon Airport",
+      "country": "GY",
+      "timezone": "America/Guyana"
+    },
+    {
+      "icao": "SYTW",
+      "name": "Tassawani Airport",
       "country": "GY",
       "timezone": "America/Guyana"
     },
@@ -97025,7 +97133,7 @@
     },
     {
       "icao": "UTAK",
-      "name": "Turkmenbashi International Airport",
+      "name": "Turkmenbaşy International Airport",
       "country": "TM",
       "timezone": "Asia/Ashgabat"
     },
@@ -97036,8 +97144,14 @@
       "timezone": "Asia/Ashgabat"
     },
     {
+      "icao": "UTAN",
+      "name": "Balkanabat International Airport",
+      "country": "TM",
+      "timezone": "Asia/Ashgabat"
+    },
+    {
       "icao": "UTAT",
-      "name": "Daşoguz Airport",
+      "name": "Dashoguz International Airport",
       "country": "TM",
       "timezone": "Asia/Ashgabat"
     },
