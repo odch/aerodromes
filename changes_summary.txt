@@ -3,44 +3,43 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19497
-   Staging aerodromes: 19516
-   Net change: +19
+   Production aerodromes: 19516
+   Staging aerodromes: 19525
+   Net change: +9
 
-✅ NEW AERODROMES (22):
-   + SHBI: Quillota-Petorca Biprovincial Hospital Helistop (CL)
-   + SHGF: Gustavo Fricke Hospital Helistop (CL)
-   + SHIC: Curicó Provincial Hospital Helistop (CL)
-   + SHLJ: Los Junquillos Heliport (CL)
-   + SHMM: Marga Marga Hospital Helistop (CL)
-   + SHNB: Ñuble Regional Hospital Helistop (CL)
-   + SHOH: Military School Heliport (CL)
-   + SHOL: Santa Laura Heliport (CL)
-   + SHOR: Isidora el Bosque Building Helistop (CL)
-   + SHPH: [Santa Teresa Heliport (CL)
-   ... and 12 more
+✅ NEW AERODROMES (11):
+   + LAVL: (Duplicate)Vlora International Airport (AL)
+   + LSHA: Gstaad-Inn Grund Heliport (CH)
+   + OMAY: Lower Yasat Island Airport (AE)
+   + OMLW: Liwa Air Base (AE)
+   + OMNK: Sas Al Nakheel Air Base (AE)
+   + OMQF: Al Qaffay Airport (AE)
+   + PTFK: Taku Lodge Seaplane Base (US)
+   + UUAE: Pereslavl-Zalessky Heliport (RU)
+   + UUMY: Ozery Airport (RU)
+   + UUWL: Luzhki Heliport (RU)
+   ... and 1 more
 
-❌ REMOVED AERODROMES (3):
-   - OPJI: Jiwani Airport (INACTIVE} (PK)
-   - SHST: Santiago Heliport (CL)
-   - SYGO: Eugene F. Correia International Airport (GY)
+❌ REMOVED AERODROMES (2):
+   - KKYL: Port Largo Airport (US)
+   - UTSN: Sugraly Airport (UZ)
 
 🔄 CHANGED AERODROMES (6):
-   ~ HAMK: Mekele Alula Aba Nega Airport
-     name: 'Alula Aba Nega Airport' → 'Mekele Alula Aba Nega Airport'
-   ~ MMCC: Ciudad Acuña International Airport
-     name: 'Ciudad Acuña New International Airport' → 'Ciudad Acuña International Airport'
-   ~ SCQT: Las Tacas Airport
-     name: 'LasTacas Airport' → 'Las Tacas Airport'
-   ~ SHHN: Admiral Nef Naval Hospital Heliport
-     name: 'Hospital Naval Almirante Nef Heliport' → 'Admiral Nef Naval Hospital Heliport'
-   ~ UTAK: Turkmenbaşy International Airport
-     name: 'Turkmenbashi International Airport' → 'Turkmenbaşy International Airport'
-   ~ UTAT: Dashoguz International Airport
-     name: 'Daşoguz Airport' → 'Dashoguz International Airport'
+   ~ LSGG: Geneva International Airport
+     name: 'Geneva Cointrin International Airport' → 'Geneva International Airport'
+   ~ LSGL: Lausanne la Blécherette Airport
+     name: 'Lausanne-Blécherette Airfield' → 'Lausanne la Blécherette Airport'
+   ~ SHPH: Santa Teresa Heliport
+     name: '[Santa Teresa Heliport' → 'Santa Teresa Heliport'
+   ~ UTDK: Kulob International Airport
+     name: 'Kulob Airport' → 'Kulob International Airport'
+   ~ UTDT: Bokhtar International Airport
+     name: 'Qurghonteppa International Airport' → 'Bokhtar International Airport'
+   ~ ZSBB: Bengbu Renheji Airport
+     name: 'Bengbu Tenghu Airport' → 'Bengbu Renheji Airport'
 
-🕐 Staging last updated: 2026-03-09T07:06:05
-🕐 Production last updated: 2026-03-02T07:02:55
+🕐 Staging last updated: 2026-03-16T07:22:51
+🕐 Production last updated: 2026-03-09T07:06:05
 ------------------------------------------------------------
-📋 Total changes: 31
+📋 Total changes: 19
 💡 To release these changes, run: python3 release.py
