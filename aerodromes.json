@@ -1,7 +1,7 @@
 {
-  "version": "1.0.43",
-  "last_updated": "2026-03-09T07:06:05",
-  "total_count": 19516,
+  "version": "1.0.44",
+  "last_updated": "2026-03-16T07:22:51",
+  "total_count": 19525,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -36070,12 +36070,6 @@
       "timezone": "America/New_York"
     },
     {
-      "icao": "KKYL",
-      "name": "Port Largo Airport",
-      "country": "US",
-      "timezone": "America/New_York"
-    },
-    {
       "icao": "KLAA",
       "name": "Southeast Colorado Regional Airport",
       "country": "US",
@@ -42684,6 +42678,12 @@
     {
       "icao": "LATI",
       "name": "Tirana International Airport Mother Teresa",
+      "country": "AL",
+      "timezone": "Europe/Tirane"
+    },
+    {
+      "icao": "LAVL",
+      "name": "(Duplicate)Vlora International Airport",
       "country": "AL",
       "timezone": "Europe/Tirane"
     },
@@ -51035,7 +51035,7 @@
     },
     {
       "icao": "LSGG",
-      "name": "Geneva Cointrin International Airport",
+      "name": "Geneva International Airport",
       "country": "CH",
       "timezone": "Europe/Paris"
     },
@@ -51047,7 +51047,7 @@
     },
     {
       "icao": "LSGL",
-      "name": "Lausanne-Blécherette Airfield",
+      "name": "Lausanne la Blécherette Airport",
       "country": "CH",
       "timezone": "Europe/Zurich"
     },
@@ -51084,6 +51084,12 @@
     {
       "icao": "LSGY",
       "name": "Yverdon-les-Bains Airfield",
+      "country": "CH",
+      "timezone": "Europe/Zurich"
+    },
+    {
+      "icao": "LSHA",
+      "name": "Gstaad-Inn Grund Heliport",
       "country": "CH",
       "timezone": "Europe/Zurich"
     },
@@ -60292,6 +60298,12 @@
       "timezone": "Asia/Dubai"
     },
     {
+      "icao": "OMAY",
+      "name": "Lower Yasat Island Airport",
+      "country": "AE",
+      "timezone": "Asia/Dubai"
+    },
+    {
       "icao": "OMAZ",
       "name": "Zirku Airport",
       "country": "AE",
@@ -60336,6 +60348,24 @@
     {
       "icao": "OMFJ",
       "name": "Fujairah International Airport",
+      "country": "AE",
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "icao": "OMLW",
+      "name": "Liwa Air Base",
+      "country": "AE",
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "icao": "OMNK",
+      "name": "Sas Al Nakheel Air Base",
+      "country": "AE",
+      "timezone": "Asia/Dubai"
+    },
+    {
+      "icao": "OMQF",
+      "name": "Al Qaffay Airport",
       "country": "AE",
       "timezone": "Asia/Dubai"
     },
@@ -62798,6 +62828,12 @@
       "name": "Siocon Airport",
       "country": "PH",
       "timezone": "Asia/Manila"
+    },
+    {
+      "icao": "PTFK",
+      "name": "Taku Lodge Seaplane Base",
+      "country": "US",
+      "timezone": "America/New_York"
     },
     {
       "icao": "PTKK",
@@ -74477,7 +74513,7 @@
     },
     {
       "icao": "SHPH",
-      "name": "[Santa Teresa Heliport",
+      "name": "Santa Teresa Heliport",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -97169,7 +97205,7 @@
     },
     {
       "icao": "UTDK",
-      "name": "Kulob Airport",
+      "name": "Kulob International Airport",
       "country": "TJ",
       "timezone": "Asia/Dushanbe"
     },
@@ -97181,7 +97217,7 @@
     },
     {
       "icao": "UTDT",
-      "name": "Qurghonteppa International Airport",
+      "name": "Bokhtar International Airport",
       "country": "TJ",
       "timezone": "Asia/Dushanbe"
     },
@@ -97222,12 +97258,6 @@
       "timezone": "Asia/Tashkent"
     },
     {
-      "icao": "UTSN",
-      "name": "Sugraly Airport",
-      "country": "UZ",
-      "timezone": "Asia/Samarkand"
-    },
-    {
       "icao": "UTSR",
       "name": "Sariasiya Airport",
       "country": "UZ",
@@ -97244,6 +97274,12 @@
       "name": "Zomin Airport",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UUAE",
+      "name": "Pereslavl-Zalessky Heliport",
+      "country": "RU",
+      "timezone": "Europe/Moscow"
     },
     {
       "icao": "UUAN",
@@ -97372,6 +97408,12 @@
       "timezone": "Europe/Moscow"
     },
     {
+      "icao": "UUMY",
+      "name": "Ozery Airport",
+      "country": "RU",
+      "timezone": "Europe/Moscow"
+    },
+    {
       "icao": "UUOB",
       "name": "Belgorod International Airport",
       "country": "RU",
@@ -97458,6 +97500,12 @@
     {
       "icao": "UUWK",
       "name": "Kudinovo Airfield",
+      "country": "RU",
+      "timezone": "Europe/Moscow"
+    },
+    {
+      "icao": "UUWL",
+      "name": "Luzhki Heliport",
       "country": "RU",
       "timezone": "Europe/Moscow"
     },
@@ -97788,6 +97836,12 @@
     {
       "icao": "UZSK",
       "name": "Karshi Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZSN",
+      "name": "Sugraly Airport",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
     },
@@ -116099,7 +116153,7 @@
     },
     {
       "icao": "ZSBB",
-      "name": "Bengbu Tenghu Airport",
+      "name": "Bengbu Renheji Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
@@ -117100,5 +117154,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-03-09T07:40:33"
+  "released_at": "2026-03-16T08:18:07"
 }
