@@ -1,7 +1,7 @@
 {
-  "version": "1.0.43",
-  "last_updated": "2026-03-16T07:22:51",
-  "total_count": 19525,
+  "version": "1.0.44",
+  "last_updated": "2026-03-23T07:15:42",
+  "total_count": 19540,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -18212,6 +18212,12 @@
       "name": "Zarasai Airfield",
       "country": "LT",
       "timezone": "Europe/Vilnius"
+    },
+    {
+      "icao": "FAAA",
+      "name": "Atlantic Aerodrome",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
     },
     {
       "icao": "FAAB",
@@ -48376,6 +48382,18 @@
       "timezone": "Europe/Rome"
     },
     {
+      "icao": "LIQC",
+      "name": "Anacapri Heliport",
+      "country": "IT",
+      "timezone": "Europe/Rome"
+    },
+    {
+      "icao": "LIQF",
+      "name": "San Sepolcro Airfield",
+      "country": "IT",
+      "timezone": "Europe/Rome"
+    },
+    {
       "icao": "LIQG",
       "name": "Cecina Airfield",
       "country": "IT",
@@ -48401,7 +48419,7 @@
     },
     {
       "icao": "LIQW",
-      "name": "Sarzana-Luni Air Base",
+      "name": "Sarzana-Luni Bartolomeo Arrigoni Airport",
       "country": "IT",
       "timezone": "Europe/Rome"
     },
@@ -59765,7 +59783,7 @@
     },
     {
       "icao": "OIIC",
-      "name": "Kushke Nosrat Airport",
+      "name": "Manzariyeh Air Base",
       "country": "IR",
       "timezone": "Asia/Tehran"
     },
@@ -63065,7 +63083,7 @@
     },
     {
       "icao": "RJAH",
-      "name": "Ibaraki International Airport",
+      "name": "Ibaraki Airport",
       "country": "JP",
       "timezone": "Asia/Tokyo"
     },
@@ -63761,7 +63779,7 @@
     },
     {
       "icao": "RJTU",
-      "name": "Utsunomiya Airport",
+      "name": "Utsunomiya Air Field",
       "country": "JP",
       "timezone": "Asia/Tokyo"
     },
@@ -97270,12 +97288,6 @@
       "timezone": "Asia/Tashkent"
     },
     {
-      "icao": "UTTZ",
-      "name": "Zomin Airport",
-      "country": "UZ",
-      "timezone": "Asia/Tashkent"
-    },
-    {
       "icao": "UUAE",
       "name": "Pereslavl-Zalessky Heliport",
       "country": "RU",
@@ -97846,6 +97858,12 @@
       "timezone": "Asia/Tashkent"
     },
     {
+      "icao": "UZSO",
+      "name": "Sokh Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
       "icao": "UZSS",
       "name": "Samarkand International Airport",
       "country": "UZ",
@@ -97872,6 +97890,12 @@
     {
       "icao": "UZTT",
       "name": "Tashkent International Airport",
+      "country": "UZ",
+      "timezone": "Asia/Tashkent"
+    },
+    {
+      "icao": "UZTZ",
+      "name": "Zomin Airport",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
     },
@@ -98435,7 +98459,7 @@
     },
     {
       "icao": "VEDX",
-      "name": "Kalaikunda Air Force Station",
+      "name": "Kharagpur Airport / Kalaikunda Air Force Station",
       "country": "IN",
       "timezone": "Asia/Kolkata"
     },
@@ -101014,6 +101038,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WABX",
+      "name": "Apouwo Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WABY",
       "name": "Kebo Airstrip",
       "country": "ID",
@@ -101082,6 +101112,18 @@
     {
       "icao": "WAEG",
       "name": "Gamarmalamo Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAEH",
+      "name": "Weda Bay Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAEJ",
+      "name": "Gebe Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -101350,6 +101392,18 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WAKB",
+      "name": "Aboge Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAKC",
+      "name": "Yaniruma Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WAKD",
       "name": "Mindiptana Airport",
       "country": "ID",
@@ -101496,12 +101550,6 @@
     {
       "icao": "WAMI",
       "name": "Bolaang Mongondow Airport",
-      "country": "ID",
-      "timezone": "Asia/Jakarta"
-    },
-    {
-      "icao": "WAMJ",
-      "name": "Gebe Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -102034,8 +102082,26 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WAVK",
+      "name": "Kobagma Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAVU",
+      "name": "Seradala Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WAVV",
       "name": "Wamena Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAVZ",
+      "name": "Taiyeve Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -102092,6 +102158,12 @@
       "name": "Haluoleo Airport",
       "country": "ID",
       "timezone": "Asia/Makassar"
+    },
+    {
+      "icao": "WAYC",
+      "name": "Keneyan Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
     },
     {
       "icao": "WAYE",
@@ -102756,6 +102828,12 @@
     {
       "icao": "WIOP",
       "name": "Pangsuma Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIOQ",
+      "name": "Anik Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -115691,7 +115769,7 @@
     },
     {
       "icao": "ZKWS",
-      "name": "Wonsan Kalma International Airport",
+      "name": "Wonsan Kalma Airport",
       "country": "KP",
       "timezone": "Asia/Pyongyang"
     },
@@ -115734,6 +115812,12 @@
     {
       "icao": "ZLHB",
       "name": "Haibei Qilian Airport",
+      "country": "CN",
+      "timezone": "Asia/Shanghai"
+    },
+    {
+      "icao": "ZLHN",
+      "name": "Hainanzhou Gonghe Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
@@ -116844,6 +116928,12 @@
     {
       "icao": "ZWKN",
       "name": "Burqin Kanas Airport",
+      "country": "CN",
+      "timezone": "Asia/Shanghai"
+    },
+    {
+      "icao": "ZWLK",
+      "name": "Barkol Dahe Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },

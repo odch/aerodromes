@@ -3,43 +3,43 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19516
-   Staging aerodromes: 19525
-   Net change: +9
+   Production aerodromes: 19525
+   Staging aerodromes: 19540
+   Net change: +15
 
-✅ NEW AERODROMES (11):
-   + LAVL: (Duplicate)Vlora International Airport (AL)
-   + LSHA: Gstaad-Inn Grund Heliport (CH)
-   + OMAY: Lower Yasat Island Airport (AE)
-   + OMLW: Liwa Air Base (AE)
-   + OMNK: Sas Al Nakheel Air Base (AE)
-   + OMQF: Al Qaffay Airport (AE)
-   + PTFK: Taku Lodge Seaplane Base (US)
-   + UUAE: Pereslavl-Zalessky Heliport (RU)
-   + UUMY: Ozery Airport (RU)
-   + UUWL: Luzhki Heliport (RU)
-   ... and 1 more
+✅ NEW AERODROMES (17):
+   + FAAA: Atlantic Aerodrome (ZA)
+   + LIQC: Anacapri Heliport (IT)
+   + LIQF: San Sepolcro Airfield (IT)
+   + UZSO: Sokh Airport (UZ)
+   + UZTZ: Zomin Airport (UZ)
+   + WABX: Apouwo Airstrip (ID)
+   + WAEH: Weda Bay Airport (ID)
+   + WAEJ: Gebe Airport (ID)
+   + WAKB: Aboge Airstrip (ID)
+   + WAKC: Yaniruma Airstrip (ID)
+   ... and 7 more
 
 ❌ REMOVED AERODROMES (2):
-   - KKYL: Port Largo Airport (US)
-   - UTSN: Sugraly Airport (UZ)
+   - UTTZ: Zomin Airport (UZ)
+   - WAMJ: Gebe Airport (ID)
 
 🔄 CHANGED AERODROMES (6):
-   ~ LSGG: Geneva International Airport
-     name: 'Geneva Cointrin International Airport' → 'Geneva International Airport'
-   ~ LSGL: Lausanne la Blécherette Airport
-     name: 'Lausanne-Blécherette Airfield' → 'Lausanne la Blécherette Airport'
-   ~ SHPH: Santa Teresa Heliport
-     name: '[Santa Teresa Heliport' → 'Santa Teresa Heliport'
-   ~ UTDK: Kulob International Airport
-     name: 'Kulob Airport' → 'Kulob International Airport'
-   ~ UTDT: Bokhtar International Airport
-     name: 'Qurghonteppa International Airport' → 'Bokhtar International Airport'
-   ~ ZSBB: Bengbu Renheji Airport
-     name: 'Bengbu Tenghu Airport' → 'Bengbu Renheji Airport'
+   ~ LIQW: Sarzana-Luni Bartolomeo Arrigoni Airport
+     name: 'Sarzana-Luni Air Base' → 'Sarzana-Luni Bartolomeo Arrigoni Airport'
+   ~ OIIC: Manzariyeh Air Base
+     name: 'Kushke Nosrat Airport' → 'Manzariyeh Air Base'
+   ~ RJAH: Ibaraki Airport
+     name: 'Ibaraki International Airport' → 'Ibaraki Airport'
+   ~ RJTU: Utsunomiya Air Field
+     name: 'Utsunomiya Airport' → 'Utsunomiya Air Field'
+   ~ VEDX: Kharagpur Airport / Kalaikunda Air Force Station
+     name: 'Kalaikunda Air Force Station' → 'Kharagpur Airport / Kalaikunda Air Force Station'
+   ~ ZKWS: Wonsan Kalma Airport
+     name: 'Wonsan Kalma International Airport' → 'Wonsan Kalma Airport'
 
-🕐 Staging last updated: 2026-03-16T07:22:51
-🕐 Production last updated: 2026-03-09T07:06:05
+🕐 Staging last updated: 2026-03-23T07:15:42
+🕐 Production last updated: 2026-03-16T07:22:51
 ------------------------------------------------------------
-📋 Total changes: 19
+📋 Total changes: 25
 💡 To release these changes, run: python3 release.py
