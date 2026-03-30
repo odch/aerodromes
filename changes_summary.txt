@@ -3,43 +3,20 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19525
-   Staging aerodromes: 19540
-   Net change: +15
+   Production aerodromes: 19540
+   Staging aerodromes: 19542
+   Net change: +2
 
-✅ NEW AERODROMES (17):
-   + FAAA: Atlantic Aerodrome (ZA)
-   + LIQC: Anacapri Heliport (IT)
-   + LIQF: San Sepolcro Airfield (IT)
-   + UZSO: Sokh Airport (UZ)
-   + UZTZ: Zomin Airport (UZ)
-   + WABX: Apouwo Airstrip (ID)
-   + WAEH: Weda Bay Airport (ID)
-   + WAEJ: Gebe Airport (ID)
-   + WAKB: Aboge Airstrip (ID)
-   + WAKC: Yaniruma Airstrip (ID)
-   ... and 7 more
+✅ NEW AERODROMES (2):
+   + LGTL: (*)Kasteli Hellenic Air Force Base (GR)
+   + RPMT: Del Monte Plantation Airport (PH)
 
-❌ REMOVED AERODROMES (2):
-   - UTTZ: Zomin Airport (UZ)
-   - WAMJ: Gebe Airport (ID)
+🔄 CHANGED AERODROMES (1):
+   ~ VNLK: Tenzing-Hillary Airport
+     name: 'Lukla Airport' → 'Tenzing-Hillary Airport'
 
-🔄 CHANGED AERODROMES (6):
-   ~ LIQW: Sarzana-Luni Bartolomeo Arrigoni Airport
-     name: 'Sarzana-Luni Air Base' → 'Sarzana-Luni Bartolomeo Arrigoni Airport'
-   ~ OIIC: Manzariyeh Air Base
-     name: 'Kushke Nosrat Airport' → 'Manzariyeh Air Base'
-   ~ RJAH: Ibaraki Airport
-     name: 'Ibaraki International Airport' → 'Ibaraki Airport'
-   ~ RJTU: Utsunomiya Air Field
-     name: 'Utsunomiya Airport' → 'Utsunomiya Air Field'
-   ~ VEDX: Kharagpur Airport / Kalaikunda Air Force Station
-     name: 'Kalaikunda Air Force Station' → 'Kharagpur Airport / Kalaikunda Air Force Station'
-   ~ ZKWS: Wonsan Kalma Airport
-     name: 'Wonsan Kalma International Airport' → 'Wonsan Kalma Airport'
-
-🕐 Staging last updated: 2026-03-23T07:15:42
-🕐 Production last updated: 2026-03-16T07:22:51
+🕐 Staging last updated: 2026-03-30T07:47:10
+🕐 Production last updated: 2026-03-23T07:15:42
 ------------------------------------------------------------
-📋 Total changes: 25
+📋 Total changes: 3
 💡 To release these changes, run: python3 release.py
