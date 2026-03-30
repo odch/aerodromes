@@ -1,7 +1,7 @@
 {
-  "version": "1.0.45",
-  "last_updated": "2026-03-23T07:15:42",
-  "total_count": 19540,
+  "version": "1.0.46",
+  "last_updated": "2026-03-30T07:47:10",
+  "total_count": 19542,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -47218,6 +47218,12 @@
       "timezone": "Europe/Athens"
     },
     {
+      "icao": "LGTL",
+      "name": "(*)Kasteli Hellenic Air Force Base",
+      "country": "GR",
+      "timezone": "Europe/Athens"
+    },
+    {
       "icao": "LGTP",
       "name": "Tripolis Air Base",
       "country": "GR",
@@ -64524,6 +64530,12 @@
     {
       "icao": "RPMS",
       "name": "Surigao Airport",
+      "country": "PH",
+      "timezone": "Asia/Manila"
+    },
+    {
+      "icao": "RPMT",
+      "name": "Del Monte Plantation Airport",
       "country": "PH",
       "timezone": "Asia/Manila"
     },
@@ -99359,7 +99371,7 @@
     },
     {
       "icao": "VNLK",
-      "name": "Lukla Airport",
+      "name": "Tenzing-Hillary Airport",
       "country": "NP",
       "timezone": "Asia/Katmandu"
     },
@@ -117244,5 +117256,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-03-23T07:42:59"
+  "released_at": "2026-03-30T07:51:03"
 }
