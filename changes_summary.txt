@@ -3,20 +3,41 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19540
-   Staging aerodromes: 19542
-   Net change: +2
+   Production aerodromes: 19542
+   Staging aerodromes: 19556
+   Net change: +14
 
-✅ NEW AERODROMES (2):
-   + LGTL: (*)Kasteli Hellenic Air Force Base (GR)
-   + RPMT: Del Monte Plantation Airport (PH)
+✅ NEW AERODROMES (14):
+   + FYBB: Beenbreek Landing Site (NA)
+   + FYBT: Buitepos Airstrip (NA)
+   + FYBY: Byseewah Airstrip (NA)
+   + FYCC: Cape Cross Airstrip. (NA)
+   + FYCV: Cordova Airstrip (NA)
+   + FYDC: Damaraland Wilderness Camp Airstrip (NA)
+   + FYEA: Etendeka Airstrip (NA)
+   + FYEM: Emeritus (Onanis) Airstrip (NA)
+   + FYEP: Epacha Airport (NA)
+   + FYER: Ermo Game Farm Airstrip (NA)
+   ... and 4 more
 
-🔄 CHANGED AERODROMES (1):
-   ~ VNLK: Tenzing-Hillary Airport
-     name: 'Lukla Airport' → 'Tenzing-Hillary Airport'
+🔄 CHANGED AERODROMES (7):
+   ~ FYGO: Gobabeb Airfield
+     name: 'Gobabeb Airport' → 'Gobabeb Airfield'
+   ~ HEDK: Dakhla Oasis Airport
+     name: 'Ad Dakhla Airport' → 'Dakhla Oasis Airport'
+   ~ OEHL: Hail International Airport
+     name: 'Ha'il Airport' → 'Hail International Airport'
+   ~ OEPA: Qaisumah–Hafar Al-Batin International Airport
+     name: 'Al Qaisumah/Hafr Al Batin Airport' → 'Qaisumah–Hafar Al-Batin International Airport'
+   ~ SJOU: Minerva Paranatinga Airport
+     name: 'Marfrig Frigorífico Airport' → 'Minerva Paranatinga Airport'
+   ~ SNFA: Fazenda Vale Verde III Airport
+     name: 'Fazenda Santo Antônio Airport' → 'Fazenda Vale Verde III Airport'
+   ~ WALK: Nusantara International Airport
+     name: 'Nusantara Airport (under construction)' → 'Nusantara International Airport'
 
-🕐 Staging last updated: 2026-03-30T07:47:10
-🕐 Production last updated: 2026-03-23T07:15:42
+🕐 Staging last updated: 2026-04-06T07:48:42
+🕐 Production last updated: 2026-03-30T07:47:10
 ------------------------------------------------------------
-📋 Total changes: 3
+📋 Total changes: 21
 💡 To release these changes, run: python3 release.py
