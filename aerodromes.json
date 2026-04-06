@@ -1,7 +1,7 @@
 {
-  "version": "1.0.46",
-  "last_updated": "2026-03-30T07:47:10",
-  "total_count": 19542,
+  "version": "1.0.47",
+  "last_updated": "2026-04-06T07:48:42",
+  "total_count": 19556,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -24082,6 +24082,12 @@
       "timezone": "Africa/Windhoek"
     },
     {
+      "icao": "FYBB",
+      "name": "Beenbreek Landing Site",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
       "icao": "FYBC",
       "name": "Bethanien Airport",
       "country": "NA",
@@ -24130,8 +24136,44 @@
       "timezone": "Africa/Windhoek"
     },
     {
+      "icao": "FYBT",
+      "name": "Buitepos Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYBY",
+      "name": "Byseewah Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYCC",
+      "name": "Cape Cross Airstrip.",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYCV",
+      "name": "Cordova Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYDC",
+      "name": "Damaraland Wilderness Camp Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
       "icao": "FYDN",
       "name": "Doro Nawas Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYEA",
+      "name": "Etendeka Airstrip",
       "country": "NA",
       "timezone": "Africa/Windhoek"
     },
@@ -24160,8 +24202,32 @@
       "timezone": "Africa/Windhoek"
     },
     {
+      "icao": "FYEM",
+      "name": "Emeritus (Onanis) Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
       "icao": "FYEN",
       "name": "Eenhana Airport",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYEP",
+      "name": "Epacha Airport",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYER",
+      "name": "Ermo Game Farm Airstrip",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYET",
+      "name": "Etusis Lodge Airport",
       "country": "NA",
       "timezone": "Africa/Windhoek"
     },
@@ -24197,7 +24263,13 @@
     },
     {
       "icao": "FYGO",
-      "name": "Gobabeb Airport",
+      "name": "Gobabeb Airfield",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYGT",
+      "name": "Gross Tsaub Airstrip",
       "country": "NA",
       "timezone": "Africa/Windhoek"
     },
@@ -27665,7 +27737,7 @@
     },
     {
       "icao": "HEDK",
-      "name": "Ad Dakhla Airport",
+      "name": "Dakhla Oasis Airport",
       "country": "EG",
       "timezone": "Africa/Cairo"
     },
@@ -59243,7 +59315,7 @@
     },
     {
       "icao": "OEHL",
-      "name": "Ha'il Airport",
+      "name": "Hail International Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
@@ -59357,7 +59429,7 @@
     },
     {
       "icao": "OEPA",
-      "name": "Al Qaisumah/Hafr Al Batin Airport",
+      "name": "Qaisumah–Hafar Al-Batin International Airport",
       "country": "SA",
       "timezone": "Asia/Riyadh"
     },
@@ -65030,6 +65102,12 @@
       "name": "Villa De Soto Airport",
       "country": "AR",
       "timezone": "America/Argentina/Buenos_Aires"
+    },
+    {
+      "icao": "SACT",
+      "name": "Chamical Airport",
+      "country": "AR",
+      "timezone": "America/Argentina/La_Rioja"
     },
     {
       "icao": "SACV",
@@ -78803,7 +78881,7 @@
     },
     {
       "icao": "SJOU",
-      "name": "Marfrig Frigorífico Airport",
+      "name": "Minerva Paranatinga Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -82667,7 +82745,7 @@
     },
     {
       "icao": "SNFA",
-      "name": "Fazenda Santo Antônio Airport",
+      "name": "Fazenda Vale Verde III Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -99136,6 +99214,12 @@
       "timezone": "Asia/Vientiane"
     },
     {
+      "icao": "VLBK",
+      "name": "Bokeo International Airport",
+      "country": "LA",
+      "timezone": "Asia/Vientiane"
+    },
+    {
       "icao": "VLHS",
       "name": "Ban Huoeisay Airport",
       "country": "LA",
@@ -101501,7 +101585,7 @@
     },
     {
       "icao": "WALK",
-      "name": "Nusantara Airport (under construction)",
+      "name": "Nusantara International Airport",
       "country": "ID",
       "timezone": "Asia/Makassar"
     },
@@ -117256,5 +117340,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-03-30T07:51:03"
+  "released_at": "2026-04-06T08:04:32"
 }
