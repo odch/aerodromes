@@ -1,7 +1,7 @@
 {
-  "version": "1.0.46",
-  "last_updated": "2026-04-06T07:48:42",
-  "total_count": 19556,
+  "version": "1.0.47",
+  "last_updated": "2026-04-13T08:09:21",
+  "total_count": 19617,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -17603,7 +17603,7 @@
     },
     {
       "icao": "ESVG",
-      "name": "Gagnef Airfiekld",
+      "name": "Gagnef Airfield",
       "country": "SE",
       "timezone": "Europe/Stockholm"
     },
@@ -18377,7 +18377,7 @@
     },
     {
       "icao": "FABV",
-      "name": "Brandviei Airport",
+      "name": "Brandviei Airfield",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19001,7 +19001,7 @@
     },
     {
       "icao": "FAKH",
-      "name": "Kenhardt Airport",
+      "name": "Kenhardt Aerodrome",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19246,12 +19246,6 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAMK",
-      "name": "Mafeking Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FAML",
       "name": "Manyani Game Lodge Airport",
       "country": "ZA",
@@ -19362,6 +19356,12 @@
     {
       "icao": "FANV",
       "name": "Nieuwoudtville Airfield",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "icao": "FANX",
+      "name": "Diepkloof Airfield",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -20280,12 +20280,6 @@
     {
       "icao": "FBLL",
       "name": "Limpopo-Lipadi Airport",
-      "country": "BW",
-      "timezone": "Africa/Gaborone"
-    },
-    {
-      "icao": "FBLO",
-      "name": "Lobatse Airport",
       "country": "BW",
       "timezone": "Africa/Gaborone"
     },
@@ -21408,12 +21402,6 @@
     {
       "icao": "FLED",
       "name": "East Four Airport",
-      "country": "ZM",
-      "timezone": "Africa/Lusaka"
-    },
-    {
-      "icao": "FLEE",
-      "name": "East Five Airport",
       "country": "ZM",
       "timezone": "Africa/Lusaka"
     },
@@ -23327,7 +23315,7 @@
     },
     {
       "icao": "FVKK",
-      "name": "Kwekwe Airport",
+      "name": "Kwekwe Aerodrome",
       "country": "ZW",
       "timezone": "Africa/Harare"
     },
@@ -23478,12 +23466,6 @@
     {
       "icao": "FVOT",
       "name": "Kotwa Airport",
-      "country": "ZW",
-      "timezone": "Africa/Harare"
-    },
-    {
-      "icao": "FVPL",
-      "name": "Plumtree Airport",
       "country": "ZW",
       "timezone": "Africa/Harare"
     },
@@ -23663,7 +23645,7 @@
     },
     {
       "icao": "FWCD",
-      "name": "Chelinda Malawi Airport",
+      "name": "Chelinda Airfield",
       "country": "MW",
       "timezone": "Africa/Blantyre"
     },
@@ -27197,7 +27179,7 @@
     },
     {
       "icao": "HABC",
-      "name": "Baco Airport",
+      "name": "Jinka Airport",
       "country": "ET",
       "timezone": "Africa/Addis_Ababa"
     },
@@ -27868,6 +27850,18 @@
       "timezone": "Africa/Asmara"
     },
     {
+      "icao": "HHAK",
+      "name": "Adi Keyh Airfield",
+      "country": "ER",
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "icao": "HHAL",
+      "name": "Alghena Airfield",
+      "country": "ER",
+      "timezone": "Africa/Asmara"
+    },
+    {
       "icao": "HHAS",
       "name": "Asmara International Airport",
       "country": "ER",
@@ -27876,6 +27870,42 @@
     {
       "icao": "HHBA",
       "name": "Barentu Airport",
+      "country": "ER",
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "icao": "HHBL",
+      "name": "Beilul Airfield",
+      "country": "ER",
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "icao": "HHGU",
+      "name": "Gura Airfield",
+      "country": "ER",
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "icao": "HHKN",
+      "name": "Keren Airfield",
+      "country": "ER",
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "icao": "HHKT",
+      "name": "Kerkebet Airfield",
+      "country": "ER",
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "icao": "HHMF",
+      "name": "Fatuma Airfield",
+      "country": "ER",
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "icao": "HHMG",
+      "name": "Gulbub Airstrip",
       "country": "ER",
       "timezone": "Africa/Asmara"
     },
@@ -27916,8 +27946,32 @@
       "timezone": "Africa/Juba"
     },
     {
+      "icao": "HKAC",
+      "name": "Komofodo Galana Ranch Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKAD",
+      "name": "Arabia Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKAL",
+      "name": "Alale Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKAM",
       "name": "Amboseli Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKAV",
+      "name": "Sala Gate Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -27928,14 +27982,68 @@
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKBE",
+      "name": "Bomet Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKBI",
+      "name": "Barina Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKBL",
+      "name": "Balesa Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKBN",
+      "name": "Banisa Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKBR",
       "name": "Bura East Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKBT",
+      "name": "Bute Moyale Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKBU",
+      "name": "Bungoma Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKBZ",
+      "name": "Buna Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKCC",
+      "name": "Cottars Mara Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKCD",
       "name": "Crocodile Camp Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKCG",
+      "name": "Chagaik Airstrip",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -27952,8 +28060,20 @@
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKEO",
+      "name": "Mount Elgon Orchards Airstrip",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKES",
       "name": "Eliye Springs Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKEU",
+      "name": "Oseur Airstrip",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -27964,14 +28084,38 @@
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKFD",
+      "name": "Ngare Ndare Airstrip",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKFG",
       "name": "Kalokol Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKFK",
+      "name": "Kifuku Estate Airstrip",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKFZ",
+      "name": "Funzi Island Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKGA",
       "name": "Garissa Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKGE",
+      "name": "Ngerende Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -27988,14 +28132,44 @@
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKHE",
+      "name": "Lokichar Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKHK",
+      "name": "Hall Hall Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKHO",
       "name": "Hola Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKHZ",
+      "name": "Segera Ranch Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKIK",
+      "name": "Orly Airpark",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKIS",
       "name": "Isiolo Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKIU",
+      "name": "Kiunga Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -28078,6 +28252,12 @@
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKLM",
+      "name": "Lolomarik Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKLO",
       "name": "Lodwar Airport",
       "country": "KE",
@@ -28090,8 +28270,14 @@
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKLX",
+      "name": "Lali Galana Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKLY",
-      "name": "Loyengalani Airport",
+      "name": "Loiyangalani Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -28109,7 +28295,13 @@
     },
     {
       "icao": "HKMI",
-      "name": "Maralal (Kisima) Airport",
+      "name": "Kisima Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKMJ",
+      "name": "Migori Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -28122,12 +28314,6 @@
     {
       "icao": "HKML",
       "name": "Malindi International Airport",
-      "country": "KE",
-      "timezone": "Africa/Nairobi"
-    },
-    {
-      "icao": "HKMM",
-      "name": "Migori Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -28163,25 +28349,19 @@
     },
     {
       "icao": "HKNK",
-      "name": "Lanet Military Airstrip",
+      "name": "Nakuru Lanet Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
     {
       "icao": "HKNL",
-      "name": "Nanyuki Airport",
+      "name": "Nanyuki Civil Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
     {
       "icao": "HKNO",
       "name": "Narok Airport",
-      "country": "KE",
-      "timezone": "Africa/Nairobi"
-    },
-    {
-      "icao": "HKNV",
-      "name": "Naivasha Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -28198,8 +28378,50 @@
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKOJ",
+      "name": "Oljogi Ranch Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKOK",
+      "name": "Mara-Olkiombo Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKOL",
       "name": "Oropoi Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKON",
+      "name": "Kone Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKOR",
+      "name": "Sigor Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKOT",
+      "name": "Longonot Fair Airstrip",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKOY",
+      "name": "Ol Seki Naboisho Airstrip",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKRB",
+      "name": "Aruba Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -28210,20 +28432,92 @@
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKRK",
+      "name": "Rusinga Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKRL",
+      "name": "Rumuruti Airstrip",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKSB",
       "name": "Samburu Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKSF",
+      "name": "Kisima Ranch Airstrip",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKSJ",
+      "name": "Musiara Airstrip",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKSL",
+      "name": "Solio Ranch Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKSO",
+      "name": "Ol Maisor Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKSP",
+      "name": "Siana Airstrip",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKSV",
+      "name": "Tsavo Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKTF",
+      "name": "Taita Hills Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKTI",
+      "name": "Tinderet Teas Estate Airstrip",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKTQ",
+      "name": "Tawi Lodge Airstrip",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKTW",
-      "name": "Tawi airfield",
+      "name": "Turkwel Gorge Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
     {
       "icao": "HKUK",
       "name": "Ukunda Airstrip",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKUR",
+      "name": "Kulalu Ranch Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -28242,6 +28536,18 @@
     {
       "icao": "HKWJ",
       "name": "Wajir Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKWY",
+      "name": "Kiwayu Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKZF",
+      "name": "Mfangano Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -28552,12 +28858,6 @@
       "timezone": "Africa/Khartoum"
     },
     {
-      "icao": "HSDL",
-      "name": "Dilling Airport",
-      "country": "SD",
-      "timezone": "Africa/Khartoum"
-    },
-    {
       "icao": "HSDN",
       "name": "Dongola Airport",
       "country": "SD",
@@ -28763,7 +29063,7 @@
     },
     {
       "icao": "HSTO",
-      "name": "Tong Airport",
+      "name": "Tonj Airport",
       "country": "SS",
       "timezone": "Africa/Juba"
     },
@@ -30983,7 +31283,7 @@
     },
     {
       "icao": "KBUR",
-      "name": "Hollywood Burbank Airport",
+      "name": "Hollywood Burbank/Bob Hope Airport",
       "country": "US",
       "timezone": "America/Los_Angeles"
     },
@@ -54179,7 +54479,7 @@
     },
     {
       "icao": "MMIO",
-      "name": "Plan De Guadalupe International Airport",
+      "name": "Plan de Guadalupe International Airport",
       "country": "MX",
       "timezone": "America/Mexico_City"
     },
@@ -54864,12 +55164,6 @@
     {
       "icao": "MPTO",
       "name": "Tocumen International Airport",
-      "country": "PA",
-      "timezone": "America/Panama"
-    },
-    {
-      "icao": "MPVR",
-      "name": "El Porvenir Airport",
       "country": "PA",
       "timezone": "America/Panama"
     },
@@ -59190,12 +59484,6 @@
     {
       "icao": "OAZI",
       "name": "Camp Shorabak Airfield",
-      "country": "AF",
-      "timezone": "Asia/Kabul"
-    },
-    {
-      "icao": "OAZJ",
-      "name": "Zaranj Airport",
       "country": "AF",
       "timezone": "Asia/Kabul"
     },
@@ -81833,7 +82121,7 @@
     },
     {
       "icao": "SLUY",
-      "name": "Uyuni Joya Andina Airport",
+      "name": "Joya Andina International Airport",
       "country": "BO",
       "timezone": "America/La_Paz"
     },
@@ -94264,12 +94552,6 @@
       "timezone": "Asia/Qyzylorda"
     },
     {
-      "icao": "UAFG",
-      "name": "Cholpon-Ata Airport",
-      "country": "KG",
-      "timezone": "Asia/Bishkek"
-    },
-    {
       "icao": "UAFW",
       "name": "Kant Air Base",
       "country": "KG",
@@ -94358,6 +94640,12 @@
       "name": "Semei International Airport",
       "country": "KZ",
       "timezone": "Asia/Qyzylorda"
+    },
+    {
+      "icao": "UASU",
+      "name": "Urzhar Airport",
+      "country": "KZ",
+      "timezone": "Asia/Almaty"
     },
     {
       "icao": "UASZ",
@@ -94559,7 +94847,7 @@
     },
     {
       "icao": "UCFK",
-      "name": "Karakol Airport",
+      "name": "Karakol International Airport",
       "country": "KG",
       "timezone": "Asia/Bishkek"
     },
@@ -97342,12 +97630,6 @@
       "timezone": "Asia/Tashkent"
     },
     {
-      "icao": "UTNT",
-      "name": "Turtkul Airport",
-      "country": "UZ",
-      "timezone": "Asia/Tashkent"
-    },
-    {
       "icao": "UTSH",
       "name": "Shahrisabz Airport",
       "country": "UZ",
@@ -97967,13 +98249,13 @@
     },
     {
       "icao": "UZTC",
-      "name": "Chirchik Airport",
+      "name": "Chirchik Air Base",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
     },
     {
       "icao": "UZTP",
-      "name": "Tashkent East Airport",
+      "name": "Tashkent-Khumo International Airport",
       "country": "UZ",
       "timezone": "Asia/Tashkent"
     },
@@ -101308,6 +101590,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WAFQ",
+      "name": "Maulana Prins Mandapar Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WAFS",
       "name": "Sumarorong Airport",
       "country": "ID",
@@ -101482,6 +101770,18 @@
       "timezone": "Asia/Jayapura"
     },
     {
+      "icao": "WAJV",
+      "name": "Iwur Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAJW",
+      "name": "Okyap Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jayapura"
+    },
+    {
       "icao": "WAJY",
       "name": "Werur Airport",
       "country": "ID",
@@ -101556,6 +101856,18 @@
     {
       "icao": "WAKT",
       "name": "Tanah Merah Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAKY",
+      "name": "Korowai Batu Danowage Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WALA",
+      "name": "Sangkimah Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -101693,7 +102005,7 @@
     },
     {
       "icao": "WAOG",
-      "name": "Sekapung Airport",
+      "name": "Sebuku Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -101800,6 +102112,12 @@
       "timezone": "Asia/Jayapura"
     },
     {
+      "icao": "WAPM",
+      "name": "Jos Orno Imsula Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WAPN",
       "name": "Namniwel Airport",
       "country": "ID",
@@ -101872,6 +102190,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WAQH",
+      "name": "Long Rungan Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WAQJ",
       "name": "Yuvai Semaring Airport",
       "country": "ID",
@@ -101886,6 +102210,12 @@
     {
       "icao": "WAQM",
       "name": "Robert Atty Bessing",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAQP",
+      "name": "Long Pala Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -102178,8 +102508,20 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WAVI",
+      "name": "Nania Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WAVK",
       "name": "Kobagma Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAVP",
+      "name": "Holuwon Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -102204,6 +102546,12 @@
     {
       "icao": "WAWB",
       "name": "Betoambari Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAWC",
+      "name": "Maranggo Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103408,6 +103756,18 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WRHI",
+      "name": "Nalca Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WRIL",
+      "name": "Sikari Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WRIQ",
       "name": "Somanente Airstrip",
       "country": "ID",
@@ -103439,7 +103799,7 @@
     },
     {
       "icao": "WRLA",
-      "name": "Sanggata/Sangkimah Airport",
+      "name": "Bugalaga Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -112684,6 +113044,12 @@
       "timezone": "Australia/Sydney"
     },
     {
+      "icao": "YSWS",
+      "name": "(Duplicate)Western Sydney International Airport",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
       "icao": "YSYN",
       "name": "Strathalbyn Airport",
       "country": "AU",
@@ -115883,7 +116249,7 @@
     },
     {
       "icao": "ZLDL",
-      "name": "Delingha Airport",
+      "name": "Haixi Delingha Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
@@ -116723,7 +117089,7 @@
     },
     {
       "icao": "ZUDR",
-      "name": "Rikaze Dingri Airport",
+      "name": "Shigatse Tingri Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
@@ -117107,7 +117473,7 @@
     },
     {
       "icao": "ZWYN",
-      "name": "Yining Airport",
+      "name": "Ili Yining International Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },

@@ -3,41 +3,61 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19542
-   Staging aerodromes: 19556
-   Net change: +14
+   Production aerodromes: 19556
+   Staging aerodromes: 19617
+   Net change: +61
 
-✅ NEW AERODROMES (14):
-   + FYBB: Beenbreek Landing Site (NA)
-   + FYBT: Buitepos Airstrip (NA)
-   + FYBY: Byseewah Airstrip (NA)
-   + FYCC: Cape Cross Airstrip. (NA)
-   + FYCV: Cordova Airstrip (NA)
-   + FYDC: Damaraland Wilderness Camp Airstrip (NA)
-   + FYEA: Etendeka Airstrip (NA)
-   + FYEM: Emeritus (Onanis) Airstrip (NA)
-   + FYEP: Epacha Airport (NA)
-   + FYER: Ermo Game Farm Airstrip (NA)
-   ... and 4 more
+✅ NEW AERODROMES (72):
+   + FANX: Diepkloof Airfield (ZA)
+   + HHAK: Adi Keyh Airfield (ER)
+   + HHAL: Alghena Airfield (ER)
+   + HHBL: Beilul Airfield (ER)
+   + HHGU: Gura Airfield (ER)
+   + HHKN: Keren Airfield (ER)
+   + HHKT: Kerkebet Airfield (ER)
+   + HHMF: Fatuma Airfield (ER)
+   + HHMG: Gulbub Airstrip (ER)
+   + HKAC: Komofodo Galana Ranch Airport (KE)
+   ... and 62 more
 
-🔄 CHANGED AERODROMES (7):
-   ~ FYGO: Gobabeb Airfield
-     name: 'Gobabeb Airport' → 'Gobabeb Airfield'
-   ~ HEDK: Dakhla Oasis Airport
-     name: 'Ad Dakhla Airport' → 'Dakhla Oasis Airport'
-   ~ OEHL: Hail International Airport
-     name: 'Ha'il Airport' → 'Hail International Airport'
-   ~ OEPA: Qaisumah–Hafar Al-Batin International Airport
-     name: 'Al Qaisumah/Hafr Al Batin Airport' → 'Qaisumah–Hafar Al-Batin International Airport'
-   ~ SJOU: Minerva Paranatinga Airport
-     name: 'Marfrig Frigorífico Airport' → 'Minerva Paranatinga Airport'
-   ~ SNFA: Fazenda Vale Verde III Airport
-     name: 'Fazenda Santo Antônio Airport' → 'Fazenda Vale Verde III Airport'
-   ~ WALK: Nusantara International Airport
-     name: 'Nusantara Airport (under construction)' → 'Nusantara International Airport'
+❌ REMOVED AERODROMES (11):
+   - FAMK: Mafeking Airport (ZA)
+   - FBLO: Lobatse Airport (BW)
+   - FLEE: East Five Airport (ZM)
+   - FVPL: Plumtree Airport (ZW)
+   - HKMM: Migori Airport (KE)
+   - HKNV: Naivasha Airport (KE)
+   - HSDL: Dilling Airport (SD)
+   - MPVR: El Porvenir Airport (PA)
+   - OAZJ: Zaranj Airport (AF)
+   - UAFG: Cholpon-Ata Airport (KG)
+   ... and 1 more
 
-🕐 Staging last updated: 2026-04-06T07:48:42
-🕐 Production last updated: 2026-03-30T07:47:10
+🔄 CHANGED AERODROMES (23):
+   ~ ESVG: Gagnef Airfield
+     name: 'Gagnef Airfiekld' → 'Gagnef Airfield'
+   ~ FABV: Brandviei Airfield
+     name: 'Brandviei Airport' → 'Brandviei Airfield'
+   ~ FAKH: Kenhardt Aerodrome
+     name: 'Kenhardt Airport' → 'Kenhardt Aerodrome'
+   ~ FVKK: Kwekwe Aerodrome
+     name: 'Kwekwe Airport' → 'Kwekwe Aerodrome'
+   ~ FWCD: Chelinda Airfield
+     name: 'Chelinda Malawi Airport' → 'Chelinda Airfield'
+   ~ HABC: Jinka Airport
+     name: 'Baco Airport' → 'Jinka Airport'
+   ~ HKLY: Loiyangalani Airport
+     name: 'Loyengalani Airport' → 'Loiyangalani Airport'
+   ~ HKMI: Kisima Airport
+     name: 'Maralal (Kisima) Airport' → 'Kisima Airport'
+   ~ HKNK: Nakuru Lanet Airport
+     name: 'Lanet Military Airstrip' → 'Nakuru Lanet Airport'
+   ~ HKNL: Nanyuki Civil Airport
+     name: 'Nanyuki Airport' → 'Nanyuki Civil Airport'
+   ... and 13 more
+
+🕐 Staging last updated: 2026-04-13T08:09:21
+🕐 Production last updated: 2026-04-06T07:48:42
 ------------------------------------------------------------
-📋 Total changes: 21
+📋 Total changes: 106
 💡 To release these changes, run: python3 release.py
