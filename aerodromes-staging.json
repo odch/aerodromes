@@ -1,7 +1,7 @@
 {
-  "version": "1.0.47",
-  "last_updated": "2026-04-13T08:09:21",
-  "total_count": 19617,
+  "version": "1.0.48",
+  "last_updated": "2026-04-20T08:13:10",
+  "total_count": 19632,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -3204,6 +3204,12 @@
     {
       "icao": "BGQE",
       "name": "Qeqertaq Heliport",
+      "country": "GL",
+      "timezone": "America/Godthab"
+    },
+    {
+      "icao": "BGQO",
+      "name": "Qaquortoq Airport",
       "country": "GL",
       "timezone": "America/Godthab"
     },
@@ -26260,18 +26266,6 @@
       "timezone": "Africa/Bamako"
     },
     {
-      "icao": "GAKO",
-      "name": "Koutiala Airport",
-      "country": "ML",
-      "timezone": "Africa/Bamako"
-    },
-    {
-      "icao": "GAKT",
-      "name": "Kita Airport",
-      "country": "ML",
-      "timezone": "Africa/Bamako"
-    },
-    {
       "icao": "GAMB",
       "name": "Mopti Airport",
       "country": "ML",
@@ -27914,6 +27908,18 @@
       "name": "Massawa International Airport",
       "country": "ER",
       "timezone": "Africa/Asmera"
+    },
+    {
+      "icao": "HHNF",
+      "name": "Nakfa Airfield",
+      "country": "ER",
+      "timezone": "Africa/Asmara"
+    },
+    {
+      "icao": "HHOH",
+      "name": "Omhajer Airport",
+      "country": "ER",
+      "timezone": "Africa/Asmara"
     },
     {
       "icao": "HHSB",
@@ -65963,7 +65969,7 @@
     },
     {
       "icao": "SAWE",
-      "name": "Hermes Quijada International Airport",
+      "name": "Gobernador Ramón Trejo Noel International Airport",
       "country": "AR",
       "timezone": "America/Argentina/Ushuaia"
     },
@@ -94822,6 +94828,12 @@
       "timezone": "Asia/Baku"
     },
     {
+      "icao": "UBLC",
+      "name": "Lachin International Airport",
+      "country": "AZ",
+      "timezone": "Asia/Baku"
+    },
+    {
       "icao": "UBLL",
       "name": "Güzdək Military Airport",
       "country": "AZ",
@@ -99280,12 +99292,6 @@
       "timezone": "Asia/Calcutta"
     },
     {
-      "icao": "VIDF",
-      "name": "Pithoragarh Airport",
-      "country": "IN",
-      "timezone": "Asia/Kolkata"
-    },
-    {
       "icao": "VIDN",
       "name": "Dehradun Jolly Grant Airport",
       "country": "IN",
@@ -99408,6 +99414,12 @@
     {
       "icao": "VIND",
       "name": "Noida International Airport",
+      "country": "IN",
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "icao": "VIPG",
+      "name": "Pithoragarh Airport",
       "country": "IN",
       "timezone": "Asia/Kolkata"
     },
@@ -101693,7 +101705,7 @@
     },
     {
       "icao": "WAHQ",
-      "name": "Adisumarmo Airport",
+      "name": "Adisoemarmo International Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -101932,12 +101944,6 @@
       "timezone": "Asia/Jakarta"
     },
     {
-      "icao": "WALX",
-      "name": "Mangkajang Airport",
-      "country": "ID",
-      "timezone": "Asia/Jakarta"
-    },
-    {
       "icao": "WAMD",
       "name": "Jailolo/Kuripasai Airport",
       "country": "ID",
@@ -102002,6 +102008,12 @@
       "name": "Bersujud Airport",
       "country": "ID",
       "timezone": "Asia/Makassar"
+    },
+    {
+      "icao": "WAOE",
+      "name": "Long Segar Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
     },
     {
       "icao": "WAOG",
@@ -102198,6 +102210,12 @@
     {
       "icao": "WAQJ",
       "name": "Yuvai Semaring Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAQK",
+      "name": "Mangkajang Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -102940,6 +102958,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WIAU",
+      "name": "Madya Raya Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WIBB",
       "name": "Sultan Syarif Kasim II International Airport / Roesmin Nurjadin AFB",
       "country": "ID",
@@ -103056,6 +103080,30 @@
     {
       "icao": "WIEE",
       "name": "Minangkabau International Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIFA",
+      "name": "Nanga Labang Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIFB",
+      "name": "Nanga Mawong Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIFD",
+      "name": "Nanga Nyabu Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIFH",
+      "name": "Nanga Ruan Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103756,8 +103804,26 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WRHC",
+      "name": "Makki Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WRHD",
+      "name": "Mbuwa Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WRHI",
       "name": "Nalca Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WRHK",
+      "name": "Nenei Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103828,6 +103894,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WRLR",
+      "name": "Modio Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WRLU",
       "name": "Sangkulirang Airport",
       "country": "ID",
@@ -103858,8 +103930,26 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WRMH",
+      "name": "Miaro Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WRNB",
       "name": "Weri Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WRPS",
+      "name": "Magoda Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WRRP",
+      "name": "Mayado Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },

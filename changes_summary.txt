@@ -3,61 +3,37 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19556
-   Staging aerodromes: 19617
-   Net change: +61
+   Production aerodromes: 19617
+   Staging aerodromes: 19632
+   Net change: +15
 
-✅ NEW AERODROMES (72):
-   + FANX: Diepkloof Airfield (ZA)
-   + HHAK: Adi Keyh Airfield (ER)
-   + HHAL: Alghena Airfield (ER)
-   + HHBL: Beilul Airfield (ER)
-   + HHGU: Gura Airfield (ER)
-   + HHKN: Keren Airfield (ER)
-   + HHKT: Kerkebet Airfield (ER)
-   + HHMF: Fatuma Airfield (ER)
-   + HHMG: Gulbub Airstrip (ER)
-   + HKAC: Komofodo Galana Ranch Airport (KE)
-   ... and 62 more
+✅ NEW AERODROMES (19):
+   + BGQO: Qaquortoq Airport (GL)
+   + HHNF: Nakfa Airfield (ER)
+   + HHOH: Omhajer Airport (ER)
+   + UBLC: Lachin International Airport (AZ)
+   + VIPG: Pithoragarh Airport (IN)
+   + WAOE: Long Segar Airstrip (ID)
+   + WAQK: Mangkajang Airport (ID)
+   + WIAU: Madya Raya Airstrip (ID)
+   + WIFA: Nanga Labang Airstrip (ID)
+   + WIFB: Nanga Mawong Airstrip (ID)
+   ... and 9 more
 
-❌ REMOVED AERODROMES (11):
-   - FAMK: Mafeking Airport (ZA)
-   - FBLO: Lobatse Airport (BW)
-   - FLEE: East Five Airport (ZM)
-   - FVPL: Plumtree Airport (ZW)
-   - HKMM: Migori Airport (KE)
-   - HKNV: Naivasha Airport (KE)
-   - HSDL: Dilling Airport (SD)
-   - MPVR: El Porvenir Airport (PA)
-   - OAZJ: Zaranj Airport (AF)
-   - UAFG: Cholpon-Ata Airport (KG)
-   ... and 1 more
+❌ REMOVED AERODROMES (4):
+   - GAKO: Koutiala Airport (ML)
+   - GAKT: Kita Airport (ML)
+   - VIDF: Pithoragarh Airport (IN)
+   - WALX: Mangkajang Airport (ID)
 
-🔄 CHANGED AERODROMES (23):
-   ~ ESVG: Gagnef Airfield
-     name: 'Gagnef Airfiekld' → 'Gagnef Airfield'
-   ~ FABV: Brandviei Airfield
-     name: 'Brandviei Airport' → 'Brandviei Airfield'
-   ~ FAKH: Kenhardt Aerodrome
-     name: 'Kenhardt Airport' → 'Kenhardt Aerodrome'
-   ~ FVKK: Kwekwe Aerodrome
-     name: 'Kwekwe Airport' → 'Kwekwe Aerodrome'
-   ~ FWCD: Chelinda Airfield
-     name: 'Chelinda Malawi Airport' → 'Chelinda Airfield'
-   ~ HABC: Jinka Airport
-     name: 'Baco Airport' → 'Jinka Airport'
-   ~ HKLY: Loiyangalani Airport
-     name: 'Loyengalani Airport' → 'Loiyangalani Airport'
-   ~ HKMI: Kisima Airport
-     name: 'Maralal (Kisima) Airport' → 'Kisima Airport'
-   ~ HKNK: Nakuru Lanet Airport
-     name: 'Lanet Military Airstrip' → 'Nakuru Lanet Airport'
-   ~ HKNL: Nanyuki Civil Airport
-     name: 'Nanyuki Airport' → 'Nanyuki Civil Airport'
-   ... and 13 more
+🔄 CHANGED AERODROMES (2):
+   ~ SAWE: Gobernador Ramón Trejo Noel International Airport
+     name: 'Hermes Quijada International Airport' → 'Gobernador Ramón Trejo Noel International Airport'
+   ~ WAHQ: Adisoemarmo International Airport
+     name: 'Adisumarmo Airport' → 'Adisoemarmo International Airport'
 
-🕐 Staging last updated: 2026-04-13T08:09:21
-🕐 Production last updated: 2026-04-06T07:48:42
+🕐 Staging last updated: 2026-04-20T08:13:10
+🕐 Production last updated: 2026-04-13T08:09:21
 ------------------------------------------------------------
-📋 Total changes: 106
+📋 Total changes: 25
 💡 To release these changes, run: python3 release.py
