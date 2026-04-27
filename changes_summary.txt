@@ -3,37 +3,40 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19617
-   Staging aerodromes: 19632
-   Net change: +15
+   Production aerodromes: 19632
+   Staging aerodromes: 19634
+   Net change: +2
 
-✅ NEW AERODROMES (19):
-   + BGQO: Qaquortoq Airport (GL)
-   + HHNF: Nakfa Airfield (ER)
-   + HHOH: Omhajer Airport (ER)
-   + UBLC: Lachin International Airport (AZ)
-   + VIPG: Pithoragarh Airport (IN)
-   + WAOE: Long Segar Airstrip (ID)
-   + WAQK: Mangkajang Airport (ID)
-   + WIAU: Madya Raya Airstrip (ID)
-   + WIFA: Nanga Labang Airstrip (ID)
-   + WIFB: Nanga Mawong Airstrip (ID)
-   ... and 9 more
+✅ NEW AERODROMES (5):
+   + LIQQ: Serristori Airfield (IT)
+   + LIRD: Poggio Ballone Remote Radar Station Heliport (IT)
+   + LIRO: Benevento-Olivola Airport (IT)
+   + ORSJ: Jalal Talabani International Airport (IQ)
+   + SCAV: Achibueno Airport (CL)
 
-❌ REMOVED AERODROMES (4):
-   - GAKO: Koutiala Airport (ML)
-   - GAKT: Kita Airport (ML)
-   - VIDF: Pithoragarh Airport (IN)
-   - WALX: Mangkajang Airport (ID)
+❌ REMOVED AERODROMES (3):
+   - BGJH: Qaqortoq Heliport (GL)
+   - EVDA: Daugavpils International Airport (LV)
+   - ORSU: Sulaymaniyah International Airport (IQ)
 
-🔄 CHANGED AERODROMES (2):
-   ~ SAWE: Gobernador Ramón Trejo Noel International Airport
-     name: 'Hermes Quijada International Airport' → 'Gobernador Ramón Trejo Noel International Airport'
-   ~ WAHQ: Adisoemarmo International Airport
-     name: 'Adisumarmo Airport' → 'Adisoemarmo International Airport'
+🔄 CHANGED AERODROMES (7):
+   ~ BGQO: Qaqortoq Airport
+     name: 'Qaquortoq Airport' → 'Qaqortoq Airport'
+   ~ EDGO: Oedheim Heliport
+     name: 'Oedheim Airfield' → 'Oedheim Heliport'
+   ~ EGSD: Great Yarmouth - North Denes Heliport
+     name: 'Great Yarmouth - North Denes Airport' → 'Great Yarmouth - North Denes Heliport'
+   ~ LELN: León Airport
+     name: 'León Int'l Airport' → 'León Airport'
+   ~ LIRE: Pratica di Mare Air Base
+     name: 'Pratica Di Mare Air Base' → 'Pratica di Mare Air Base'
+   ~ PGWT: Francisco Manglona Borja / Tinian International Airport
+     name: 'Tinian International Airport' → 'Francisco Manglona Borja / Tinian International Airport'
+   ~ SSYZ: Fazenda Cedro Airport
+     name: 'Fazenda Procomp II Airport' → 'Fazenda Cedro Airport'
 
-🕐 Staging last updated: 2026-04-20T08:13:10
-🕐 Production last updated: 2026-04-13T08:09:21
+🕐 Staging last updated: 2026-04-27T08:30:54
+🕐 Production last updated: 2026-04-20T08:13:10
 ------------------------------------------------------------
-📋 Total changes: 25
+📋 Total changes: 15
 💡 To release these changes, run: python3 release.py
