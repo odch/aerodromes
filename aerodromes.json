@@ -1,7 +1,7 @@
 {
-  "version": "1.0.49",
-  "last_updated": "2026-04-20T08:13:10",
-  "total_count": 19632,
+  "version": "1.0.50",
+  "last_updated": "2026-04-27T08:30:54",
+  "total_count": 19634,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -3064,12 +3064,6 @@
       "timezone": "America/Godthab"
     },
     {
-      "icao": "BGJH",
-      "name": "Qaqortoq Heliport",
-      "country": "GL",
-      "timezone": "America/Godthab"
-    },
-    {
       "icao": "BGJN",
       "name": "Ilulissat Airport",
       "country": "GL",
@@ -3209,7 +3203,7 @@
     },
     {
       "icao": "BGQO",
-      "name": "Qaquortoq Airport",
+      "name": "Qaqortoq Airport",
       "country": "GL",
       "timezone": "America/Godthab"
     },
@@ -9185,7 +9179,7 @@
     },
     {
       "icao": "EDGO",
-      "name": "Oedheim Airfield",
+      "name": "Oedheim Heliport",
       "country": "DE",
       "timezone": "Europe/Berlin"
     },
@@ -12953,7 +12947,7 @@
     },
     {
       "icao": "EGSD",
-      "name": "Great Yarmouth - North Denes Airport",
+      "name": "Great Yarmouth - North Denes Heliport",
       "country": "GB",
       "timezone": "Europe/London"
     },
@@ -17904,12 +17898,6 @@
     {
       "icao": "EVCA",
       "name": "Cēsis Airfield",
-      "country": "LV",
-      "timezone": "Europe/Riga"
-    },
-    {
-      "icao": "EVDA",
-      "name": "Daugavpils International Airport",
       "country": "LV",
       "timezone": "Europe/Riga"
     },
@@ -44099,7 +44087,7 @@
     },
     {
       "icao": "LELN",
-      "name": "León Int'l Airport",
+      "name": "León Airport",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -48796,6 +48784,12 @@
       "timezone": "Europe/Rome"
     },
     {
+      "icao": "LIQQ",
+      "name": "Serristori Airfield",
+      "country": "IT",
+      "timezone": "Europe/Rome"
+    },
+    {
       "icao": "LIQS",
       "name": "Siena-Ampugnano Airport",
       "country": "IT",
@@ -48820,8 +48814,14 @@
       "timezone": "Europe/Rome"
     },
     {
+      "icao": "LIRD",
+      "name": "Poggio Ballone Remote Radar Station Heliport",
+      "country": "IT",
+      "timezone": "Europe/Rome"
+    },
+    {
       "icao": "LIRE",
-      "name": "Pratica Di Mare Air Base",
+      "name": "Pratica di Mare Air Base",
       "country": "IT",
       "timezone": "Europe/Rome"
     },
@@ -48870,6 +48870,12 @@
     {
       "icao": "LIRN",
       "name": "Naples International Airport",
+      "country": "IT",
+      "timezone": "Europe/Rome"
+    },
+    {
+      "icao": "LIRO",
+      "name": "Benevento-Olivola Airport",
       "country": "IT",
       "timezone": "Europe/Rome"
     },
@@ -61420,8 +61426,8 @@
       "timezone": "Asia/Baghdad"
     },
     {
-      "icao": "ORSU",
-      "name": "Sulaymaniyah International Airport",
+      "icao": "ORSJ",
+      "name": "Jalal Talabani International Airport",
       "country": "IQ",
       "timezone": "Asia/Baghdad"
     },
@@ -63011,7 +63017,7 @@
     },
     {
       "icao": "PGWT",
-      "name": "Tinian International Airport",
+      "name": "Francisco Manglona Borja / Tinian International Airport",
       "country": "MP",
       "timezone": "Pacific/Saipan"
     },
@@ -67608,6 +67614,12 @@
     {
       "icao": "SCAU",
       "name": "Juan Enrique Airport",
+      "country": "CL",
+      "timezone": "America/Santiago"
+    },
+    {
+      "icao": "SCAV",
+      "name": "Achibueno Airport",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -88847,7 +88859,7 @@
     },
     {
       "icao": "SSYZ",
-      "name": "Fazenda Procomp II Airport",
+      "name": "Fazenda Cedro Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -117796,5 +117808,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-04-20T13:07:12"
+  "released_at": "2026-04-27T09:44:01"
 }
