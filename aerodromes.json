@@ -1,7 +1,7 @@
 {
-  "version": "1.0.50",
-  "last_updated": "2026-04-27T08:30:54",
-  "total_count": 19634,
+  "version": "1.0.51",
+  "last_updated": "2026-05-04T08:33:10",
+  "total_count": 19642,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -251,7 +251,7 @@
     },
     {
       "icao": "ATUA",
-      "name": "Utai Airstrip",
+      "name": "(Duplicate) Utai Airstrip",
       "country": "PG",
       "timezone": "Pacific/Port_Moresby"
     },
@@ -10792,12 +10792,6 @@
       "timezone": "Europe/Berlin"
     },
     {
-      "icao": "EDVS",
-      "name": "Salzgitter-Drütte Airfield",
-      "country": "DE",
-      "timezone": "Europe/Berlin"
-    },
-    {
       "icao": "EDVT",
       "name": "Ithwiesen Airfield",
       "country": "DE",
@@ -11104,6 +11098,24 @@
       "timezone": "Europe/Berlin"
     },
     {
+      "icao": "EDYA",
+      "name": "Amrumbank West",
+      "country": "DE",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "icao": "EDYH",
+      "name": "Helwind A",
+      "country": "DE",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "icao": "EDYM",
+      "name": "Meerwind S O",
+      "country": "DE",
+      "timezone": "Europe/Berlin"
+    },
+    {
       "icao": "EEAA",
       "name": "Antsla Airfield",
       "country": "EE",
@@ -11286,6 +11298,12 @@
     {
       "icao": "EETU",
       "name": "Tartu Airport",
+      "country": "EE",
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "icao": "EETW",
+      "name": "Tallinn West Aerodrome",
       "country": "EE",
       "timezone": "Europe/Tallinn"
     },
@@ -15358,6 +15376,12 @@
       "timezone": "Europe/Oslo"
     },
     {
+      "icao": "ENMO",
+      "name": "Meråker Airfield Øian",
+      "country": "NO",
+      "timezone": "Europe/Oslo"
+    },
+    {
       "icao": "ENMS",
       "name": "Mosjøen Airport, Kjærstad",
       "country": "NO",
@@ -16110,6 +16134,12 @@
     {
       "icao": "EPGS",
       "name": "Grójec-Słomczyn Airfield",
+      "country": "PL",
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "icao": "EPGU",
+      "name": "Ulim",
       "country": "PL",
       "timezone": "Europe/Warsaw"
     },
@@ -18052,12 +18082,6 @@
       "timezone": "Europe/Vilnius"
     },
     {
-      "icao": "EYLN",
-      "name": "Valenčiūnai Airfield",
-      "country": "LT",
-      "timezone": "Europe/Vilnius"
-    },
-    {
       "icao": "EYMA",
       "name": "Mazeikiai / J.Kumpikeviciaus Airfield",
       "country": "LT",
@@ -18148,6 +18172,12 @@
       "timezone": "Europe/Vilnius"
     },
     {
+      "icao": "EYRU",
+      "name": "Jonava Air Base [CLOSED]",
+      "country": "LT",
+      "timezone": "Europe/Vilnius"
+    },
+    {
       "icao": "EYSA",
       "name": "Šiauliai International Airport",
       "country": "LT",
@@ -18167,7 +18197,7 @@
     },
     {
       "icao": "EYSI",
-      "name": "Šilute Air Base",
+      "name": "Šilute Airfield",
       "country": "LT",
       "timezone": "Europe/Vilnius"
     },
@@ -43054,12 +43084,6 @@
       "timezone": "Europe/Tirane"
     },
     {
-      "icao": "LAVL",
-      "name": "(Duplicate)Vlora International Airport",
-      "country": "AL",
-      "timezone": "Europe/Tirane"
-    },
-    {
       "icao": "LBAM",
       "name": "Alfa-Metal Airfield",
       "country": "BG",
@@ -44604,12 +44628,6 @@
     {
       "icao": "LEVR",
       "name": "Vilaller Heliport",
-      "country": "ES",
-      "timezone": "Europe/Madrid"
-    },
-    {
-      "icao": "LEVS",
-      "name": "(??Duplicate??)LEVS AIRPORT",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -52955,7 +52973,7 @@
     },
     {
       "icao": "LZKA",
-      "name": "Komoča ULM",
+      "name": "Komoča Airfield",
       "country": "SK",
       "timezone": "Europe/Bratislava"
     },
@@ -65496,6 +65514,12 @@
     {
       "icao": "SAFS",
       "name": "Sunchales Aeroclub Airport",
+      "country": "AR",
+      "timezone": "America/Argentina/Buenos_Aires"
+    },
+    {
+      "icao": "SAFV",
+      "name": "Venado Tuerto Airport",
       "country": "AR",
       "timezone": "America/Argentina/Buenos_Aires"
     },
@@ -95080,6 +95104,12 @@
       "timezone": "Europe/Moscow"
     },
     {
+      "icao": "UELD",
+      "name": "Yukovsk Airport",
+      "country": "RU",
+      "timezone": "Europe/Moscow"
+    },
+    {
       "icao": "UELL",
       "name": "Chulman Airport",
       "country": "RU",
@@ -102035,7 +102065,7 @@
     },
     {
       "icao": "WAOH",
-      "name": "Mekar Putih Airport",
+      "name": "Kota Baru Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103900,6 +103930,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WRLM",
+      "name": "Kegata Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WRLN",
       "name": "Long Mawang Airport",
       "country": "ID",
@@ -103908,6 +103944,12 @@
     {
       "icao": "WRLR",
       "name": "Modio Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WRLS",
+      "name": "Obogwy Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -106817,7 +106859,7 @@
     },
     {
       "icao": "YDLH",
-      "name": "Dalhousie Airport",
+      "name": "[Duplicate] Dalhousie Airport",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
@@ -108866,6 +108908,12 @@
       "name": "Kalbarri Airport",
       "country": "AU",
       "timezone": "Australia/Perth"
+    },
+    {
+      "icao": "YKBS",
+      "name": "Kimberley Downs Airport",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
     },
     {
       "icao": "YKBY",
@@ -113147,7 +113195,7 @@
     },
     {
       "icao": "YSWS",
-      "name": "(Duplicate)Western Sydney International Airport",
+      "name": "[Duplicate] Western Sydney International Airport",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
@@ -115955,7 +116003,7 @@
     },
     {
       "icao": "ZBXJ",
-      "name": "Beijing Xijiao Airport",
+      "name": "[Duplicate] Beijing Xijiao Airport",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
@@ -117808,5 +117856,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-04-27T09:44:01"
+  "released_at": "2026-05-04T17:26:56"
 }
