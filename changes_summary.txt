@@ -3,40 +3,47 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19632
-   Staging aerodromes: 19634
-   Net change: +2
+   Production aerodromes: 19634
+   Staging aerodromes: 19642
+   Net change: +8
 
-✅ NEW AERODROMES (5):
-   + LIQQ: Serristori Airfield (IT)
-   + LIRD: Poggio Ballone Remote Radar Station Heliport (IT)
-   + LIRO: Benevento-Olivola Airport (IT)
-   + ORSJ: Jalal Talabani International Airport (IQ)
-   + SCAV: Achibueno Airport (CL)
+✅ NEW AERODROMES (12):
+   + EDYA: Amrumbank West (DE)
+   + EDYH: Helwind A (DE)
+   + EDYM: Meerwind S O (DE)
+   + EETW: Tallinn West Aerodrome (EE)
+   + ENMO: Meråker Airfield Øian (NO)
+   + EPGU: Ulim (PL)
+   + EYRU: Jonava Air Base [CLOSED] (LT)
+   + SAFV: Venado Tuerto Airport (AR)
+   + UELD: Yukovsk Airport (RU)
+   + WRLM: Kegata Airstrip (ID)
+   ... and 2 more
 
-❌ REMOVED AERODROMES (3):
-   - BGJH: Qaqortoq Heliport (GL)
-   - EVDA: Daugavpils International Airport (LV)
-   - ORSU: Sulaymaniyah International Airport (IQ)
+❌ REMOVED AERODROMES (4):
+   - EDVS: Salzgitter-Drütte Airfield (DE)
+   - EYLN: Valenčiūnai Airfield (LT)
+   - LAVL: (Duplicate)Vlora International Airport (AL)
+   - LEVS: (??Duplicate??)LEVS AIRPORT (ES)
 
 🔄 CHANGED AERODROMES (7):
-   ~ BGQO: Qaqortoq Airport
-     name: 'Qaquortoq Airport' → 'Qaqortoq Airport'
-   ~ EDGO: Oedheim Heliport
-     name: 'Oedheim Airfield' → 'Oedheim Heliport'
-   ~ EGSD: Great Yarmouth - North Denes Heliport
-     name: 'Great Yarmouth - North Denes Airport' → 'Great Yarmouth - North Denes Heliport'
-   ~ LELN: León Airport
-     name: 'León Int'l Airport' → 'León Airport'
-   ~ LIRE: Pratica di Mare Air Base
-     name: 'Pratica Di Mare Air Base' → 'Pratica di Mare Air Base'
-   ~ PGWT: Francisco Manglona Borja / Tinian International Airport
-     name: 'Tinian International Airport' → 'Francisco Manglona Borja / Tinian International Airport'
-   ~ SSYZ: Fazenda Cedro Airport
-     name: 'Fazenda Procomp II Airport' → 'Fazenda Cedro Airport'
+   ~ ATUA: (Duplicate) Utai Airstrip
+     name: 'Utai Airstrip' → '(Duplicate) Utai Airstrip'
+   ~ EYSI: Šilute Airfield
+     name: 'Šilute Air Base' → 'Šilute Airfield'
+   ~ LZKA: Komoča Airfield
+     name: 'Komoča ULM' → 'Komoča Airfield'
+   ~ WAOH: Kota Baru Airport
+     name: 'Mekar Putih Airport' → 'Kota Baru Airport'
+   ~ YDLH: [Duplicate] Dalhousie Airport
+     name: 'Dalhousie Airport' → '[Duplicate] Dalhousie Airport'
+   ~ YSWS: [Duplicate] Western Sydney International Airport
+     name: '(Duplicate)Western Sydney International Airport' → '[Duplicate] Western Sydney International Airport'
+   ~ ZBXJ: [Duplicate] Beijing Xijiao Airport
+     name: 'Beijing Xijiao Airport' → '[Duplicate] Beijing Xijiao Airport'
 
-🕐 Staging last updated: 2026-04-27T08:30:54
-🕐 Production last updated: 2026-04-20T08:13:10
+🕐 Staging last updated: 2026-05-04T08:33:10
+🕐 Production last updated: 2026-04-27T08:30:54
 ------------------------------------------------------------
-📋 Total changes: 15
+📋 Total changes: 23
 💡 To release these changes, run: python3 release.py
