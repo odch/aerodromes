@@ -3,47 +3,37 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19634
-   Staging aerodromes: 19642
-   Net change: +8
+   Production aerodromes: 19642
+   Staging aerodromes: 19656
+   Net change: +14
 
-✅ NEW AERODROMES (12):
-   + EDYA: Amrumbank West (DE)
-   + EDYH: Helwind A (DE)
-   + EDYM: Meerwind S O (DE)
-   + EETW: Tallinn West Aerodrome (EE)
-   + ENMO: Meråker Airfield Øian (NO)
-   + EPGU: Ulim (PL)
-   + EYRU: Jonava Air Base [CLOSED] (LT)
-   + SAFV: Venado Tuerto Airport (AR)
-   + UELD: Yukovsk Airport (RU)
-   + WRLM: Kegata Airstrip (ID)
-   ... and 2 more
+✅ NEW AERODROMES (16):
+   + EPGW: Ulim (PL)
+   + EPKC: Kraków Rakowice-Czyżyny Airport (Disused) (PL)
+   + LBMD: Dinevi Marina Helipad (BG)
+   + LBML: Malenovo Heliport (BG)
+   + LBSA: Slivnitsa Airfield (BG)
+   + LBSE: Staro Selishte Airfield (BG)
+   + LBSP: Sapareva Banya Airport (BG)
+   + LEAG: Algeciras Heliport (ES)
+   + LEAO: Almagro Helicopter Airbase (ES)
+   + LEBF: Binéfar Airfield (ES)
+   ... and 6 more
 
-❌ REMOVED AERODROMES (4):
-   - EDVS: Salzgitter-Drütte Airfield (DE)
-   - EYLN: Valenčiūnai Airfield (LT)
-   - LAVL: (Duplicate)Vlora International Airport (AL)
-   - LEVS: (??Duplicate??)LEVS AIRPORT (ES)
+❌ REMOVED AERODROMES (2):
+   - EPGU: Ulim (PL)
+   - EYRU: Jonava Air Base [CLOSED] (LT)
 
-🔄 CHANGED AERODROMES (7):
-   ~ ATUA: (Duplicate) Utai Airstrip
-     name: 'Utai Airstrip' → '(Duplicate) Utai Airstrip'
-   ~ EYSI: Šilute Airfield
-     name: 'Šilute Air Base' → 'Šilute Airfield'
-   ~ LZKA: Komoča Airfield
-     name: 'Komoča ULM' → 'Komoča Airfield'
-   ~ WAOH: Kota Baru Airport
-     name: 'Mekar Putih Airport' → 'Kota Baru Airport'
-   ~ YDLH: [Duplicate] Dalhousie Airport
-     name: 'Dalhousie Airport' → '[Duplicate] Dalhousie Airport'
-   ~ YSWS: [Duplicate] Western Sydney International Airport
-     name: '(Duplicate)Western Sydney International Airport' → '[Duplicate] Western Sydney International Airport'
-   ~ ZBXJ: [Duplicate] Beijing Xijiao Airport
-     name: 'Beijing Xijiao Airport' → '[Duplicate] Beijing Xijiao Airport'
+🔄 CHANGED AERODROMES (3):
+   ~ EDYH: Helwin A
+     name: 'Helwind A' → 'Helwin A'
+   ~ FMNN: Nosy Be International Airport
+     name: 'Nosy Be-Fascene International Airport' → 'Nosy Be International Airport'
+   ~ LEBE: Beas de Segura Airfield
+     name: 'Beas De Segura Airfield' → 'Beas de Segura Airfield'
 
-🕐 Staging last updated: 2026-05-04T08:33:10
-🕐 Production last updated: 2026-04-27T08:30:54
+🕐 Staging last updated: 2026-05-11T09:45:44
+🕐 Production last updated: 2026-05-04T08:33:10
 ------------------------------------------------------------
-📋 Total changes: 23
+📋 Total changes: 21
 💡 To release these changes, run: python3 release.py
