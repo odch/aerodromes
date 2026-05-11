@@ -1,7 +1,7 @@
 {
-  "version": "1.0.51",
-  "last_updated": "2026-05-04T08:33:10",
-  "total_count": 19642,
+  "version": "1.0.52",
+  "last_updated": "2026-05-11T09:45:44",
+  "total_count": 19656,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -11105,7 +11105,7 @@
     },
     {
       "icao": "EDYH",
-      "name": "Helwind A",
+      "name": "Helwin A",
       "country": "DE",
       "timezone": "Europe/Berlin"
     },
@@ -16138,7 +16138,7 @@
       "timezone": "Europe/Warsaw"
     },
     {
-      "icao": "EPGU",
+      "icao": "EPGW",
       "name": "Ulim",
       "country": "PL",
       "timezone": "Europe/Warsaw"
@@ -16200,6 +16200,12 @@
     {
       "icao": "EPKB",
       "name": "Kazimierz Biskupi Airfield",
+      "country": "PL",
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "icao": "EPKC",
+      "name": "Kraków Rakowice-Czyżyny Airport (Disused)",
       "country": "PL",
       "timezone": "Europe/Warsaw"
     },
@@ -18168,12 +18174,6 @@
     {
       "icao": "EYRO",
       "name": "Rojūnai Airfield",
-      "country": "LT",
-      "timezone": "Europe/Vilnius"
-    },
-    {
-      "icao": "EYRU",
-      "name": "Jonava Air Base [CLOSED]",
       "country": "LT",
       "timezone": "Europe/Vilnius"
     },
@@ -22079,7 +22079,7 @@
     },
     {
       "icao": "FMNN",
-      "name": "Nosy Be-Fascene International Airport",
+      "name": "Nosy Be International Airport",
       "country": "MG",
       "timezone": "Indian/Antananarivo"
     },
@@ -43216,6 +43216,18 @@
       "timezone": "Europe/Sofia"
     },
     {
+      "icao": "LBMD",
+      "name": "Dinevi Marina Helipad",
+      "country": "BG",
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "icao": "LBML",
+      "name": "Malenovo Heliport",
+      "country": "BG",
+      "timezone": "Europe/Sofia"
+    },
+    {
       "icao": "LBMO",
       "name": "Montana Airfield",
       "country": "BG",
@@ -43258,8 +43270,20 @@
       "timezone": "Europe/Sofia"
     },
     {
+      "icao": "LBSA",
+      "name": "Slivnitsa Airfield",
+      "country": "BG",
+      "timezone": "Europe/Sofia"
+    },
+    {
       "icao": "LBSB",
       "name": "Slanchev Bryag (Sunny Beach) Airstrip",
+      "country": "BG",
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "icao": "LBSE",
+      "name": "Staro Selishte Airfield",
       "country": "BG",
       "timezone": "Europe/Sofia"
     },
@@ -43278,6 +43302,12 @@
     {
       "icao": "LBSL",
       "name": "Sliven Barshen Airfield",
+      "country": "BG",
+      "timezone": "Europe/Sofia"
+    },
+    {
+      "icao": "LBSP",
+      "name": "Sapareva Banya Airport",
       "country": "BG",
       "timezone": "Europe/Sofia"
     },
@@ -43618,6 +43648,12 @@
       "timezone": "Europe/Madrid"
     },
     {
+      "icao": "LEAG",
+      "name": "Algeciras Heliport",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
       "icao": "LEAL",
       "name": "Alicante-Elche Miguel Hernández Airport",
       "country": "ES",
@@ -43626,6 +43662,12 @@
     {
       "icao": "LEAM",
       "name": "Almería Airport",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "icao": "LEAO",
+      "name": "Almagro Helicopter Airbase",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -43679,7 +43721,13 @@
     },
     {
       "icao": "LEBE",
-      "name": "Beas De Segura Airfield",
+      "name": "Beas de Segura Airfield",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "icao": "LEBF",
+      "name": "Binéfar Airfield",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -43690,8 +43738,20 @@
       "timezone": "Europe/Madrid"
     },
     {
+      "icao": "LEBI",
+      "name": "Beariz Airfield",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
       "icao": "LEBL",
       "name": "Josep Tarradellas Barcelona-El Prat Airport",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "icao": "LEBO",
+      "name": "Ibias Park Fire Fighting Heliport",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -47160,6 +47220,12 @@
     {
       "icao": "LFTA",
       "name": "La Tranche-sur-Mer ULM",
+      "country": "FR",
+      "timezone": "Europe/Paris"
+    },
+    {
+      "icao": "LFTB",
+      "name": "Berre/Marignane Seaplane Base",
       "country": "FR",
       "timezone": "Europe/Paris"
     },
@@ -103870,6 +103936,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WRHO",
+      "name": "Pagai Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WRIL",
       "name": "Sikari Airstrip",
       "country": "ID",
@@ -103884,6 +103956,12 @@
     {
       "icao": "WRJG",
       "name": "Ures Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WRJL",
+      "name": "Walma Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103950,6 +104028,12 @@
     {
       "icao": "WRLS",
       "name": "Obogwy Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WRLT",
+      "name": "Omban Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -117856,5 +117940,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-05-04T17:26:56"
+  "released_at": "2026-05-11T09:50:56"
 }
