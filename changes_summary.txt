@@ -3,37 +3,47 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19642
-   Staging aerodromes: 19656
-   Net change: +14
+   Production aerodromes: 19656
+   Staging aerodromes: 19657
+   Net change: +1
 
-✅ NEW AERODROMES (16):
-   + EPGW: Ulim (PL)
-   + EPKC: Kraków Rakowice-Czyżyny Airport (Disused) (PL)
-   + LBMD: Dinevi Marina Helipad (BG)
-   + LBML: Malenovo Heliport (BG)
-   + LBSA: Slivnitsa Airfield (BG)
-   + LBSE: Staro Selishte Airfield (BG)
-   + LBSP: Sapareva Banya Airport (BG)
-   + LEAG: Algeciras Heliport (ES)
-   + LEAO: Almagro Helicopter Airbase (ES)
-   + LEBF: Binéfar Airfield (ES)
-   ... and 6 more
+✅ NEW AERODROMES (8):
+   + LKZO: Znojmo Hospital Heliport (CZ)
+   + UZKK: Kokand Airport (UZ)
+   + UZNM: Muynak Airport (UZ)
+   + UZSH: Shahrisabz Airport (UZ)
+   + UZSL: Karshi-Khanabad Air Base (UZ)
+   + UZSM: Tandy Bulak Airport (UZ)
+   + UZSR: Sariasiya Airport (UZ)
+   + UZSU: Uchkuduk Airport (UZ)
 
-❌ REMOVED AERODROMES (2):
-   - EPGU: Ulim (PL)
-   - EYRU: Jonava Air Base [CLOSED] (LT)
+❌ REMOVED AERODROMES (7):
+   - UTKK: Kokand Airport (UZ)
+   - UTNM: Muynak Airport (UZ)
+   - UTSH: Shahrisabz Airport (UZ)
+   - UTSL: Karshi-Khanabad Air Base (UZ)
+   - UTSM: Tandy Bulak Airport (UZ)
+   - UTSR: Sariasiya Airport (UZ)
+   - UTSU: Uchkuduk Airport (UZ)
 
-🔄 CHANGED AERODROMES (3):
-   ~ EDYH: Helwin A
-     name: 'Helwind A' → 'Helwin A'
-   ~ FMNN: Nosy Be International Airport
-     name: 'Nosy Be-Fascene International Airport' → 'Nosy Be International Airport'
-   ~ LEBE: Beas de Segura Airfield
-     name: 'Beas De Segura Airfield' → 'Beas de Segura Airfield'
+🔄 CHANGED AERODROMES (7):
+   ~ KFLR: [Delete] Homestead East Airstrip
+     name: 'Homestead East Airstrip' → '[Delete] Homestead East Airstrip'
+   ~ LKFM: Frýdek-Místek Hospital Helistop
+     name: 'Frydek Heliport' → 'Frýdek-Místek Hospital Helistop'
+   ~ LKLC: Liberec Regional Hospital Helistop
+     name: 'Liberec Regional Hospital Heliport' → 'Liberec Regional Hospital Helistop'
+   ~ LKOV: Opava HEMS Heliport
+     name: 'Opava Heliport' → 'Opava HEMS Heliport'
+   ~ LKPF: Pisek HEMS Heliport
+     name: 'Pisek Heliport' → 'Pisek HEMS Heliport'
+   ~ LKTH: Těchonín HEMS Heliport
+     name: 'Techonin (Mil) Heliport' → 'Těchonín HEMS Heliport'
+   ~ LKVN: Vyškov Hospital Heliport
+     name: 'Vyskov Heliport' → 'Vyškov Hospital Heliport'
 
-🕐 Staging last updated: 2026-05-11T09:45:44
-🕐 Production last updated: 2026-05-04T08:33:10
+🕐 Staging last updated: 2026-05-18T10:10:03
+🕐 Production last updated: 2026-05-11T09:45:44
 ------------------------------------------------------------
-📋 Total changes: 21
+📋 Total changes: 22
 💡 To release these changes, run: python3 release.py
