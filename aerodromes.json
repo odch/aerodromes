@@ -1,7 +1,7 @@
 {
-  "version": "1.0.53",
-  "last_updated": "2026-05-18T10:10:03",
-  "total_count": 19657,
+  "version": "1.0.54",
+  "last_updated": "2026-05-25T10:14:01",
+  "total_count": 19659,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -7732,6 +7732,12 @@
       "timezone": "Europe/Brussels"
     },
     {
+      "icao": "EBBV",
+      "name": "Brecht/Vochten Heliport",
+      "country": "BE",
+      "timezone": "Europe/Brussels"
+    },
+    {
       "icao": "EBBX",
       "name": "Jehonville Air Base",
       "country": "BE",
@@ -7961,7 +7967,7 @@
     },
     {
       "icao": "EBKT",
-      "name": "Flanders International Airport Kortrijk-Wevelgem",
+      "name": "Kortrijk-Wevelgem International Airport",
       "country": "BE",
       "timezone": "Europe/Brussels"
     },
@@ -43384,6 +43390,12 @@
       "timezone": "Asia/Nicosia"
     },
     {
+      "icao": "LCIK",
+      "name": "Karter Heliport",
+      "country": "CY",
+      "timezone": "Asia/Nicosia"
+    },
+    {
       "icao": "LCLK",
       "name": "Larnaca International Airport",
       "country": "CY",
@@ -49007,7 +49019,7 @@
     },
     {
       "icao": "LIVV",
-      "name": "Moncucco Airfield",
+      "name": "Moncucco-Vische Airfield",
       "country": "IT",
       "timezone": "Europe/Rome"
     },
@@ -53010,12 +53022,6 @@
     {
       "icao": "LZDN",
       "name": "Dobra Niva airfield",
-      "country": "SK",
-      "timezone": "Europe/Bratislava"
-    },
-    {
-      "icao": "LZDU",
-      "name": "Dunajská Streda-Malé Blahovo Airfield",
       "country": "SK",
       "timezone": "Europe/Bratislava"
     },
@@ -91661,7 +91667,7 @@
     },
     {
       "icao": "SWCI",
-      "name": "Agropecuária Rio Da Prata Airport",
+      "name": "Agropecuária Rio da Prata Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -93888,12 +93894,6 @@
     {
       "icao": "SWZI",
       "name": "Multitoc Heliport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
-      "icao": "SWZK",
-      "name": "CON-CN-Cidade Nova Heliport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -96694,6 +96694,12 @@
       "timezone": "Europe/Moscow"
     },
     {
+      "icao": "ULLK",
+      "name": "Krechevitsy Air Base",
+      "country": "RU",
+      "timezone": "Europe/Moscow"
+    },
+    {
       "icao": "ULLP",
       "name": "Pushkin Airport",
       "country": "RU",
@@ -96714,6 +96720,12 @@
     {
       "icao": "ULNP",
       "name": "Pestovo Airfield",
+      "country": "RU",
+      "timezone": "Europe/Moscow"
+    },
+    {
+      "icao": "ULOL",
+      "name": "Velikiye Luki Airport",
       "country": "RU",
       "timezone": "Europe/Moscow"
     },
@@ -117946,5 +117958,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-05-18T10:11:07"
+  "released_at": "2026-05-25T11:15:05"
 }
