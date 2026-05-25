@@ -3,47 +3,30 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19656
-   Staging aerodromes: 19657
-   Net change: +1
+   Production aerodromes: 19657
+   Staging aerodromes: 19659
+   Net change: +2
 
-✅ NEW AERODROMES (8):
-   + LKZO: Znojmo Hospital Heliport (CZ)
-   + UZKK: Kokand Airport (UZ)
-   + UZNM: Muynak Airport (UZ)
-   + UZSH: Shahrisabz Airport (UZ)
-   + UZSL: Karshi-Khanabad Air Base (UZ)
-   + UZSM: Tandy Bulak Airport (UZ)
-   + UZSR: Sariasiya Airport (UZ)
-   + UZSU: Uchkuduk Airport (UZ)
+✅ NEW AERODROMES (4):
+   + EBBV: Brecht/Vochten Heliport (BE)
+   + LCIK: Karter Heliport (CY)
+   + ULLK: Krechevitsy Air Base (RU)
+   + ULOL: Velikiye Luki Airport (RU)
 
-❌ REMOVED AERODROMES (7):
-   - UTKK: Kokand Airport (UZ)
-   - UTNM: Muynak Airport (UZ)
-   - UTSH: Shahrisabz Airport (UZ)
-   - UTSL: Karshi-Khanabad Air Base (UZ)
-   - UTSM: Tandy Bulak Airport (UZ)
-   - UTSR: Sariasiya Airport (UZ)
-   - UTSU: Uchkuduk Airport (UZ)
+❌ REMOVED AERODROMES (2):
+   - LZDU: Dunajská Streda-Malé Blahovo Airfield (SK)
+   - SWZK: CON-CN-Cidade Nova Heliport (BR)
 
-🔄 CHANGED AERODROMES (7):
-   ~ KFLR: [Delete] Homestead East Airstrip
-     name: 'Homestead East Airstrip' → '[Delete] Homestead East Airstrip'
-   ~ LKFM: Frýdek-Místek Hospital Helistop
-     name: 'Frydek Heliport' → 'Frýdek-Místek Hospital Helistop'
-   ~ LKLC: Liberec Regional Hospital Helistop
-     name: 'Liberec Regional Hospital Heliport' → 'Liberec Regional Hospital Helistop'
-   ~ LKOV: Opava HEMS Heliport
-     name: 'Opava Heliport' → 'Opava HEMS Heliport'
-   ~ LKPF: Pisek HEMS Heliport
-     name: 'Pisek Heliport' → 'Pisek HEMS Heliport'
-   ~ LKTH: Těchonín HEMS Heliport
-     name: 'Techonin (Mil) Heliport' → 'Těchonín HEMS Heliport'
-   ~ LKVN: Vyškov Hospital Heliport
-     name: 'Vyskov Heliport' → 'Vyškov Hospital Heliport'
+🔄 CHANGED AERODROMES (3):
+   ~ EBKT: Kortrijk-Wevelgem International Airport
+     name: 'Flanders International Airport Kortrijk-Wevelgem' → 'Kortrijk-Wevelgem International Airport'
+   ~ LIVV: Moncucco-Vische Airfield
+     name: 'Moncucco Airfield' → 'Moncucco-Vische Airfield'
+   ~ SWCI: Agropecuária Rio da Prata Airport
+     name: 'Agropecuária Rio Da Prata Airport' → 'Agropecuária Rio da Prata Airport'
 
-🕐 Staging last updated: 2026-05-18T10:10:03
-🕐 Production last updated: 2026-05-11T09:45:44
+🕐 Staging last updated: 2026-05-25T10:14:01
+🕐 Production last updated: 2026-05-18T10:10:03
 ------------------------------------------------------------
-📋 Total changes: 22
+📋 Total changes: 9
 💡 To release these changes, run: python3 release.py
