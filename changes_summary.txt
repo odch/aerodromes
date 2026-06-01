@@ -3,30 +3,41 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19657
-   Staging aerodromes: 19659
-   Net change: +2
+   Production aerodromes: 19659
+   Staging aerodromes: 19678
+   Net change: +19
 
-✅ NEW AERODROMES (4):
-   + EBBV: Brecht/Vochten Heliport (BE)
-   + LCIK: Karter Heliport (CY)
-   + ULLK: Krechevitsy Air Base (RU)
-   + ULOL: Velikiye Luki Airport (RU)
+✅ NEW AERODROMES (21):
+   + FYHM: Hammerstein Airstrip (NA)
+   + LOGX: Rottenmann Hospital Helistop (AT)
+   + LOIN: Tyrol State Fire Brigade School Heliport (AT)
+   + LOIO: Sölden Heliport (AT)
+   + LOIP: Ischgl Idalp Heliport (AT)
+   + LOIQ: Feldkirch Heliport (AT)
+   + LOIS: Swarovski Heliport (AT)
+   + LOIU: Innsbruck University Hospital Helistop (AT)
+   + LOIV: Sankt Vinzenz Hospital Helistop (AT)
+   + LOIW: Waidring Heliport (AT)
+   ... and 11 more
 
 ❌ REMOVED AERODROMES (2):
-   - LZDU: Dunajská Streda-Malé Blahovo Airfield (SK)
-   - SWZK: CON-CN-Cidade Nova Heliport (BR)
+   - YMUJ: Munjina Airport (AU)
+   - YWIT: Wittenoom Airport (AU)
 
-🔄 CHANGED AERODROMES (3):
-   ~ EBKT: Kortrijk-Wevelgem International Airport
-     name: 'Flanders International Airport Kortrijk-Wevelgem' → 'Kortrijk-Wevelgem International Airport'
-   ~ LIVV: Moncucco-Vische Airfield
-     name: 'Moncucco Airfield' → 'Moncucco-Vische Airfield'
-   ~ SWCI: Agropecuária Rio da Prata Airport
-     name: 'Agropecuária Rio Da Prata Airport' → 'Agropecuária Rio da Prata Airport'
+🔄 CHANGED AERODROMES (5):
+   ~ EKAS: True Gliderfield
+     name: 'Aarhus University Hospital Helipad' → 'True Gliderfield'
+   ~ LOID: Kufstein Hospital Helistop
+     name: 'Kufstein Heliport' → 'Kufstein Hospital Helistop'
+   ~ LOII: Hall in Tirol Hospital Helistop
+     name: 'Hall in Tirol Hospital Heliport' → 'Hall in Tirol Hospital Helistop'
+   ~ SDKM: Hotel Emiliano Helistop
+     name: 'Hotel Emiliano Heliport' → 'Hotel Emiliano Helistop'
+   ~ SJWK: FIEC Helistop
+     name: 'Fiec Heliport' → 'FIEC Helistop'
 
-🕐 Staging last updated: 2026-05-25T10:14:01
-🕐 Production last updated: 2026-05-18T10:10:03
+🕐 Staging last updated: 2026-06-01T11:40:28
+🕐 Production last updated: 2026-05-25T10:14:01
 ------------------------------------------------------------
-📋 Total changes: 9
+📋 Total changes: 28
 💡 To release these changes, run: python3 release.py
