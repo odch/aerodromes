@@ -1,7 +1,7 @@
 {
-  "version": "1.0.54",
-  "last_updated": "2026-05-25T10:14:01",
-  "total_count": 19659,
+  "version": "1.0.55",
+  "last_updated": "2026-06-01T11:40:28",
+  "total_count": 19678,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -14411,7 +14411,7 @@
     },
     {
       "icao": "EKAS",
-      "name": "Aarhus University Hospital Helipad",
+      "name": "True Gliderfield",
       "country": "DK",
       "timezone": "Europe/Copenhagen"
     },
@@ -24300,6 +24300,12 @@
     {
       "icao": "FYHI",
       "name": "Halali Airport",
+      "country": "NA",
+      "timezone": "Africa/Windhoek"
+    },
+    {
+      "icao": "FYHM",
+      "name": "Hammerstein Airstrip",
       "country": "NA",
       "timezone": "Africa/Windhoek"
     },
@@ -50284,6 +50290,12 @@
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOGX",
+      "name": "Rottenmann Hospital Helistop",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOGZ",
       "name": "Graz Children's Hospital Helipad",
       "country": "AT",
@@ -50309,7 +50321,7 @@
     },
     {
       "icao": "LOID",
-      "name": "Kufstein Heliport",
+      "name": "Kufstein Hospital Helistop",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50339,7 +50351,7 @@
     },
     {
       "icao": "LOII",
-      "name": "Hall in Tirol Hospital Heliport",
+      "name": "Hall in Tirol Hospital Helistop",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50362,14 +50374,80 @@
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOIN",
+      "name": "Tyrol State Fire Brigade School Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOIO",
+      "name": "Sölden Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOIP",
+      "name": "Ischgl Idalp Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOIQ",
+      "name": "Feldkirch Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOIR",
       "name": "Reutte-Höfen Airfield",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOIS",
+      "name": "Swarovski Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOIT",
       "name": "Sankt Johann in Tirol Hospital Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOIU",
+      "name": "Innsbruck University Hospital Helistop",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOIV",
+      "name": "Sankt Vinzenz Hospital Helistop",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOIW",
+      "name": "Waidring Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOIX",
+      "name": "Bregenz Hospital Helistop",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOIY",
+      "name": "Doctor Schenk Sanatorium Helistop",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOIZ",
+      "name": "Schwaz Hospital Helistop",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50404,6 +50482,36 @@
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOJK",
+      "name": "Kaltenbach Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOJM",
+      "name": "Mayrhofen Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOJN",
+      "name": "Nenzing Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOJO",
+      "name": "Innsbruck Air Rescue Center ÖAMTC Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOJP",
+      "name": "Karres Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOJR",
       "name": "Mittelberg Heliport",
       "country": "AT",
@@ -50418,6 +50526,18 @@
     {
       "icao": "LOJT",
       "name": "Hat Tux Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOJW",
+      "name": "Lech / Zürs Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOJZ",
+      "name": "Zugspitzarena Heliport",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -71009,7 +71129,7 @@
     },
     {
       "icao": "SDKM",
-      "name": "Hotel Emiliano Heliport",
+      "name": "Hotel Emiliano Helistop",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -80027,7 +80147,7 @@
     },
     {
       "icao": "SJWK",
-      "name": "Fiec Heliport",
+      "name": "FIEC Helistop",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -86928,6 +87048,12 @@
     {
       "icao": "SSFS",
       "name": "Fazenda Sapezal Airport",
+      "country": "BR",
+      "timezone": "America/Sao_Paulo"
+    },
+    {
+      "icao": "SSFW",
+      "name": "Fazenda Progresso Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -110986,12 +111112,6 @@
       "timezone": "Australia/Sydney"
     },
     {
-      "icao": "YMUJ",
-      "name": "Munjina Airport",
-      "country": "AU",
-      "timezone": "Australia/Sydney"
-    },
-    {
       "icao": "YMUK",
       "name": "Mulka Airport",
       "country": "AU",
@@ -114318,12 +114438,6 @@
     {
       "icao": "YWIS",
       "name": "Williamson Airport",
-      "country": "AU",
-      "timezone": "Australia/Sydney"
-    },
-    {
-      "icao": "YWIT",
-      "name": "Wittenoom Airport",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
@@ -117958,5 +118072,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-05-25T11:15:05"
+  "released_at": "2026-06-01T11:57:04"
 }
