@@ -3,41 +3,37 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19659
-   Staging aerodromes: 19678
-   Net change: +19
+   Production aerodromes: 19678
+   Staging aerodromes: 19709
+   Net change: +31
 
-✅ NEW AERODROMES (21):
-   + FYHM: Hammerstein Airstrip (NA)
-   + LOGX: Rottenmann Hospital Helistop (AT)
-   + LOIN: Tyrol State Fire Brigade School Heliport (AT)
-   + LOIO: Sölden Heliport (AT)
-   + LOIP: Ischgl Idalp Heliport (AT)
-   + LOIQ: Feldkirch Heliport (AT)
-   + LOIS: Swarovski Heliport (AT)
-   + LOIU: Innsbruck University Hospital Helistop (AT)
-   + LOIV: Sankt Vinzenz Hospital Helistop (AT)
-   + LOIW: Waidring Heliport (AT)
-   ... and 11 more
+✅ NEW AERODROMES (35):
+   + ESVE: Stegeborg (SE)
+   + EYTR: Tauragės Aerodromas (LT)
+   + FGAN: Annobón Airport (GQ)
+   + FGCO: Corisco International Airport (GQ)
+   + FVRG: Robert Gabriel Mugabe International Airport (ZW)
+   + GAMN: Manantali Bengassi Airport (ML)
+   + GASD: Sadiola Airport (ML)
+   + GASY: Syama Airport (ML)
+   + GGBE: Bendanda Airstrip (GW)
+   + GGBO: Bolama Airstrip (GW)
+   ... and 25 more
 
-❌ REMOVED AERODROMES (2):
-   - YMUJ: Munjina Airport (AU)
-   - YWIT: Wittenoom Airport (AU)
+❌ REMOVED AERODROMES (4):
+   - FGAB: Annobón Airport (GQ)
+   - FVHA: Robert Gabriel Mugabe International Airport (ZW)
+   - GMMY: Kenitra Air Base (MA)
+   - HCMW: Garowe Airport (SO)
 
-🔄 CHANGED AERODROMES (5):
-   ~ EKAS: True Gliderfield
-     name: 'Aarhus University Hospital Helipad' → 'True Gliderfield'
-   ~ LOID: Kufstein Hospital Helistop
-     name: 'Kufstein Heliport' → 'Kufstein Hospital Helistop'
-   ~ LOII: Hall in Tirol Hospital Helistop
-     name: 'Hall in Tirol Hospital Heliport' → 'Hall in Tirol Hospital Helistop'
-   ~ SDKM: Hotel Emiliano Helistop
-     name: 'Hotel Emiliano Heliport' → 'Hotel Emiliano Helistop'
-   ~ SJWK: FIEC Helistop
-     name: 'Fiec Heliport' → 'FIEC Helistop'
+🔄 CHANGED AERODROMES (2):
+   ~ HEIS: Al Ismailiyya Air Base
+     name: 'Ismailia Air Base' → 'Al Ismailiyya Air Base'
+   ~ HESG: Suhaj International Airport
+     name: 'Sohag International Airport' → 'Suhaj International Airport'
 
-🕐 Staging last updated: 2026-06-01T11:40:28
-🕐 Production last updated: 2026-05-25T10:14:01
+🕐 Staging last updated: 2026-06-08T11:01:11
+🕐 Production last updated: 2026-06-01T11:40:28
 ------------------------------------------------------------
-📋 Total changes: 28
+📋 Total changes: 41
 💡 To release these changes, run: python3 release.py

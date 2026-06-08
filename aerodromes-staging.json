@@ -1,7 +1,7 @@
 {
-  "version": "1.0.54",
-  "last_updated": "2026-06-01T11:40:28",
-  "total_count": 19678,
+  "version": "1.0.55",
+  "last_updated": "2026-06-08T11:01:11",
+  "total_count": 19709,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -17644,6 +17644,12 @@
       "timezone": "Europe/Stockholm"
     },
     {
+      "icao": "ESVE",
+      "name": "Stegeborg",
+      "country": "SE",
+      "timezone": "Europe/Stockholm"
+    },
+    {
       "icao": "ESVG",
       "name": "Gagnef Airfield",
       "country": "SE",
@@ -18210,6 +18216,12 @@
     {
       "icao": "EYTL",
       "name": "Telšiai Airfield",
+      "country": "LT",
+      "timezone": "Europe/Vilnius"
+    },
+    {
+      "icao": "EYTR",
+      "name": "Tauragės Aerodromas",
       "country": "LT",
       "timezone": "Europe/Vilnius"
     },
@@ -21124,7 +21136,7 @@
       "timezone": "Africa/Bangui"
     },
     {
-      "icao": "FGAB",
+      "icao": "FGAN",
       "name": "Annobón Airport",
       "country": "GQ",
       "timezone": "Africa/Malabo"
@@ -21132,6 +21144,12 @@
     {
       "icao": "FGBT",
       "name": "Bata International Airport",
+      "country": "GQ",
+      "timezone": "Africa/Malabo"
+    },
+    {
+      "icao": "FGCO",
+      "name": "Corisco International Airport",
       "country": "GQ",
       "timezone": "Africa/Malabo"
     },
@@ -23302,12 +23320,6 @@
       "timezone": "Africa/Harare"
     },
     {
-      "icao": "FVHA",
-      "name": "Robert Gabriel Mugabe International Airport",
-      "country": "ZW",
-      "timezone": "Africa/Harare"
-    },
-    {
       "icao": "FVHP",
       "name": "Home Park Airport",
       "country": "ZW",
@@ -23520,6 +23532,12 @@
     {
       "icao": "FVRF",
       "name": "Rifa Airstrip",
+      "country": "ZW",
+      "timezone": "Africa/Harare"
+    },
+    {
+      "icao": "FVRG",
+      "name": "Robert Gabriel Mugabe International Airport",
       "country": "ZW",
       "timezone": "Africa/Harare"
     },
@@ -26308,6 +26326,12 @@
       "timezone": "Africa/Bamako"
     },
     {
+      "icao": "GAMN",
+      "name": "Manantali Bengassi Airport",
+      "country": "ML",
+      "timezone": "Africa/Bamako"
+    },
+    {
       "icao": "GANF",
       "name": "Niafunke Airport",
       "country": "ML",
@@ -26326,6 +26350,12 @@
       "timezone": "Africa/Bamako"
     },
     {
+      "icao": "GASD",
+      "name": "Sadiola Airport",
+      "country": "ML",
+      "timezone": "Africa/Bamako"
+    },
+    {
       "icao": "GASK",
       "name": "Sikasso Airport",
       "country": "ML",
@@ -26334,6 +26364,12 @@
     {
       "icao": "GASO",
       "name": "Sikasso (Dignangan) Airport",
+      "country": "ML",
+      "timezone": "Africa/Bamako"
+    },
+    {
+      "icao": "GASY",
+      "name": "Syama Airport",
       "country": "ML",
       "timezone": "Africa/Bamako"
     },
@@ -26542,14 +26578,32 @@
       "timezone": "Africa/Freetown"
     },
     {
+      "icao": "GGBE",
+      "name": "Bendanda Airstrip",
+      "country": "GW",
+      "timezone": "Africa/Bissau"
+    },
+    {
       "icao": "GGBF",
       "name": "Bafatá Airport",
       "country": "GW",
       "timezone": "Africa/Bissau"
     },
     {
+      "icao": "GGBO",
+      "name": "Bolama Airstrip",
+      "country": "GW",
+      "timezone": "Africa/Bissau"
+    },
+    {
       "icao": "GGBU",
       "name": "Bubaque Airport",
+      "country": "GW",
+      "timezone": "Africa/Bissau"
+    },
+    {
+      "icao": "GGCC",
+      "name": "Cacine Airstrip",
       "country": "GW",
       "timezone": "Africa/Bissau"
     },
@@ -26734,6 +26788,12 @@
       "timezone": "Africa/Casablanca"
     },
     {
+      "icao": "GMMG",
+      "name": "Ben Guerir Air Base",
+      "country": "MA",
+      "timezone": "Africa/Casablanca"
+    },
+    {
       "icao": "GMMH",
       "name": "Dakhla Airport",
       "country": "EH",
@@ -26764,6 +26824,12 @@
       "timezone": "Africa/Casablanca"
     },
     {
+      "icao": "GMMP",
+      "name": "Kenitra Air Base",
+      "country": "MA",
+      "timezone": "Africa/Casablanca"
+    },
+    {
       "icao": "GMMT",
       "name": "Casablanca Tit Mellil Airport",
       "country": "MA",
@@ -26778,12 +26844,6 @@
     {
       "icao": "GMMX",
       "name": "Marrakesh Menara Airport",
-      "country": "MA",
-      "timezone": "Africa/Casablanca"
-    },
-    {
-      "icao": "GMMY",
-      "name": "Kenitra Air Base",
       "country": "MA",
       "timezone": "Africa/Casablanca"
     },
@@ -27448,6 +27508,12 @@
       "timezone": "Africa/Addis_Ababa"
     },
     {
+      "icao": "HASR",
+      "name": "Shire Inda Selassie Airport",
+      "country": "ET",
+      "timezone": "Africa/Addis_Ababa"
+    },
+    {
       "icao": "HATP",
       "name": "Tippi Airport",
       "country": "ET",
@@ -27504,6 +27570,12 @@
     {
       "icao": "HCDM",
       "name": "Dusomareb Airport",
+      "country": "SO",
+      "timezone": "Africa/Mogadishu"
+    },
+    {
+      "icao": "HCGR",
+      "name": "Garowe Airport",
       "country": "SO",
       "timezone": "Africa/Mogadishu"
     },
@@ -27612,12 +27684,6 @@
     {
       "icao": "HCMV",
       "name": "Burao Airport",
-      "country": "SO",
-      "timezone": "Africa/Mogadishu"
-    },
-    {
-      "icao": "HCMW",
-      "name": "Garowe Airport",
       "country": "SO",
       "timezone": "Africa/Mogadishu"
     },
@@ -27773,7 +27839,7 @@
     },
     {
       "icao": "HEIS",
-      "name": "Ismailia Air Base",
+      "name": "Al Ismailiyya Air Base",
       "country": "EG",
       "timezone": "Africa/Cairo"
     },
@@ -27827,7 +27893,7 @@
     },
     {
       "icao": "HESG",
-      "name": "Sohag International Airport",
+      "name": "Suhaj International Airport",
       "country": "EG",
       "timezone": "Africa/Cairo"
     },
@@ -28084,6 +28150,12 @@
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKED",
+      "name": "Eldoret Boma Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKEL",
       "name": "Eldoret International Airport",
       "country": "KE",
@@ -28300,6 +28372,12 @@
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKLT",
+      "name": "Oloitoktok Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKLU",
       "name": "Manda Airport",
       "country": "KE",
@@ -28326,6 +28404,12 @@
     {
       "icao": "HKMB",
       "name": "Marsabit Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKMG",
+      "name": "Magadi Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -28360,8 +28444,20 @@
       "timezone": "Africa/Nairobi"
     },
     {
+      "icao": "HKMR",
+      "name": "Mackinnon Road Airport",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
       "icao": "HKMS",
       "name": "Mara Serena Lodge Airstrip",
+      "country": "KE",
+      "timezone": "Africa/Nairobi"
+    },
+    {
+      "icao": "HKMT",
+      "name": "Mtito Andei Airport",
       "country": "KE",
       "timezone": "Africa/Nairobi"
     },
@@ -29586,6 +29682,12 @@
     {
       "icao": "HUKD",
       "name": "Kidepo Airport",
+      "country": "UG",
+      "timezone": "Africa/Kampala"
+    },
+    {
+      "icao": "HUKI",
+      "name": "Kisoro Airport",
       "country": "UG",
       "timezone": "Africa/Kampala"
     },
@@ -47740,6 +47842,18 @@
       "timezone": "Europe/Budapest"
     },
     {
+      "icao": "LHBK",
+      "name": "Balatonkeresztúr Airfield",
+      "country": "HU",
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "icao": "LHBL",
+      "name": "Ballószög Airfield",
+      "country": "HU",
+      "timezone": "Europe/Budapest"
+    },
+    {
       "icao": "LHBO",
       "name": "Bácsbokod Airfield",
       "country": "HU",
@@ -47758,8 +47872,26 @@
       "timezone": "Europe/Budapest"
     },
     {
+      "icao": "LHBT",
+      "name": "Bátonyterenye-Világosipuszta sportreptér",
+      "country": "HU",
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "icao": "LHBY",
+      "name": "Gyõrszentiván-Bõny Airfield",
+      "country": "HU",
+      "timezone": "Europe/Budapest"
+    },
+    {
       "icao": "LHCL",
       "name": "Cegléd Airfield",
+      "country": "HU",
+      "timezone": "Europe/Budapest"
+    },
+    {
+      "icao": "LHDA",
+      "name": "Dáka Sport Airfield",
       "country": "HU",
       "timezone": "Europe/Budapest"
     },
@@ -50080,6 +50212,12 @@
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOAJ",
+      "name": "Wien-Aspern ÖAMTC Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOAK",
       "name": "Krems University Hospital Helipad",
       "country": "AT",
@@ -50100,6 +50238,12 @@
     {
       "icao": "LOAN",
       "name": "Wiener Neustadt East Airport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOAO",
+      "name": "Oberpullendorf Hospital Heliport",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50136,6 +50280,12 @@
     {
       "icao": "LOAV",
       "name": "Vöslau-Kottingbrunn Airfield",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOBA",
+      "name": "Vienna University Hospital Heliport",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50548,6 +50698,18 @@
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOKB",
+      "name": "Bad Kleinkircheim Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOKD",
+      "name": "Föderlach Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOKF",
       "name": "Feldkirchen Airfield",
       "country": "AT",
@@ -50566,8 +50728,20 @@
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOKI",
+      "name": "Wietersdorf Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOKJ",
       "name": "Lienz Hospital Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOKK",
+      "name": "Hallegg Castile HLS",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50586,6 +50760,12 @@
     {
       "icao": "LOKN",
       "name": "Nötsch im Gailtal Airfield",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOKP",
+      "name": "Friesach Hospital Helistop",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -108276,6 +108456,12 @@
     {
       "icao": "YGRL",
       "name": "Great Lakes Vi Airport",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "icao": "YGRM",
+      "name": "Gruyere Airport",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
