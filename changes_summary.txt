@@ -3,37 +3,39 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19678
-   Staging aerodromes: 19709
-   Net change: +31
+   Production aerodromes: 19709
+   Staging aerodromes: 19729
+   Net change: +20
 
-✅ NEW AERODROMES (35):
-   + ESVE: Stegeborg (SE)
-   + EYTR: Tauragės Aerodromas (LT)
-   + FGAN: Annobón Airport (GQ)
-   + FGCO: Corisco International Airport (GQ)
-   + FVRG: Robert Gabriel Mugabe International Airport (ZW)
-   + GAMN: Manantali Bengassi Airport (ML)
-   + GASD: Sadiola Airport (ML)
-   + GASY: Syama Airport (ML)
-   + GGBE: Bendanda Airstrip (GW)
-   + GGBO: Bolama Airstrip (GW)
-   ... and 25 more
+✅ NEW AERODROMES (22):
+   + LFNN: Narbonne Airfield (FR)
+   + LOAC: Kittsee Heliport (AT)
+   + LOAQ: Amstetten Hospital Heliport (AT)
+   + LOKC: Glock Heliport (AT)
+   + LOKO: Goldeck Talstation Heliport (AT)
+   + LOKS: St. Andrä Im Lavanttal Heliport (AT)
+   + LOKT: Villach Hospital Helipad (AT)
+   + LOKU: Carinthia University Hospital Rooftop Helipad 2 (AT)
+   + LOKV: Febau Heliport (AT)
+   + LOKX: Waiern Hospital Heliport (AT)
+   ... and 12 more
 
-❌ REMOVED AERODROMES (4):
-   - FGAB: Annobón Airport (GQ)
-   - FVHA: Robert Gabriel Mugabe International Airport (ZW)
-   - GMMY: Kenitra Air Base (MA)
-   - HCMW: Garowe Airport (SO)
+❌ REMOVED AERODROMES (2):
+   - EGBE: Coventry Airport (GB)
+   - UKKK: Ihor Sikorsky Kyiv International Airport (Zhuliany) (UA)
 
-🔄 CHANGED AERODROMES (2):
-   ~ HEIS: Al Ismailiyya Air Base
-     name: 'Ismailia Air Base' → 'Al Ismailiyya Air Base'
-   ~ HESG: Suhaj International Airport
-     name: 'Sohag International Airport' → 'Suhaj International Airport'
+🔄 CHANGED AERODROMES (4):
+   ~ LOKK: Hallegg Castle HLS
+     name: 'Hallegg Castile HLS' → 'Hallegg Castle HLS'
+   ~ LOLD: Suben ÖAMTC Heliport
+     name: 'Europa 3 Heliport' → 'Suben ÖAMTC Heliport'
+   ~ SSWG: Laguna Helistop
+     name: 'Laguna Heliport' → 'Laguna Helistop'
+   ~ SWIR: CCN North Tower Helistop
+     name: 'CCN Torre Norte Heliport' → 'CCN North Tower Helistop'
 
-🕐 Staging last updated: 2026-06-08T11:01:11
-🕐 Production last updated: 2026-06-01T11:40:28
+🕐 Staging last updated: 2026-06-15T12:20:41
+🕐 Production last updated: 2026-06-08T11:01:11
 ------------------------------------------------------------
-📋 Total changes: 41
+📋 Total changes: 28
 💡 To release these changes, run: python3 release.py

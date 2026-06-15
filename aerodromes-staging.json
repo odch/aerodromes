@@ -1,7 +1,7 @@
 {
-  "version": "1.0.55",
-  "last_updated": "2026-06-08T11:01:11",
-  "total_count": 19709,
+  "version": "1.0.56",
+  "last_updated": "2026-06-15T12:20:41",
+  "total_count": 19729,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -12006,12 +12006,6 @@
     {
       "icao": "EGBD",
       "name": "Derby Airfield",
-      "country": "GB",
-      "timezone": "Europe/London"
-    },
-    {
-      "icao": "EGBE",
-      "name": "Coventry Airport",
       "country": "GB",
       "timezone": "Europe/London"
     },
@@ -46594,6 +46588,12 @@
       "timezone": "Europe/Paris"
     },
     {
+      "icao": "LFNN",
+      "name": "Narbonne Airfield",
+      "country": "FR",
+      "timezone": "Europe/Paris"
+    },
+    {
       "icao": "LFNO",
       "name": "Florac Ste Enimie Airfield",
       "country": "FR",
@@ -50176,6 +50176,12 @@
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOAC",
+      "name": "Kittsee Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOAD",
       "name": "Völtendorf Airfield",
       "country": "AT",
@@ -50250,6 +50256,12 @@
     {
       "icao": "LOAP",
       "name": "Waidhofen an der Ybbs Hospital Helipad",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOAQ",
+      "name": "Amstetten Hospital Heliport",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50704,6 +50716,12 @@
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOKC",
+      "name": "Glock Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOKD",
       "name": "Föderlach Heliport",
       "country": "AT",
@@ -50741,7 +50759,7 @@
     },
     {
       "icao": "LOKK",
-      "name": "Hallegg Castile HLS",
+      "name": "Hallegg Castle HLS",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50764,6 +50782,12 @@
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOKO",
+      "name": "Goldeck Talstation Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOKP",
       "name": "Friesach Hospital Helistop",
       "country": "AT",
@@ -50782,8 +50806,44 @@
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOKS",
+      "name": "St. Andrä Im Lavanttal Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOKT",
+      "name": "Villach Hospital Helipad",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOKU",
+      "name": "Carinthia University Hospital Rooftop Helipad 2",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOKV",
+      "name": "Febau Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOKW",
       "name": "Wolfsberg Airfield",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOKX",
+      "name": "Waiern Hospital Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOKZ",
+      "name": "Zwatzhof Heliport",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50801,7 +50861,7 @@
     },
     {
       "icao": "LOLD",
-      "name": "Europa 3 Heliport",
+      "name": "Suben ÖAMTC Heliport",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50872,14 +50932,44 @@
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOLY",
+      "name": "Ybbsitz ÖAMTC Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOMM",
+      "name": "Matrei in Osttirol Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOMN",
       "name": "Sonnenalpe Naßfeld Heliport",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOMP",
+      "name": "Patergassen Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOMR",
       "name": "RK-1 Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOMU",
+      "name": "ÖAMTC / Klagenfurt Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOMW",
+      "name": "Wolfsberg Hospital Helistop",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50896,8 +50986,32 @@
       "timezone": "Europe/Vienna"
     },
     {
+      "icao": "LOSJ",
+      "name": "St. Johann Im Pongau Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOSL",
+      "name": "Salzburg Mülln Hospital Helistop",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
       "icao": "LOSM",
       "name": "Mauterndorf Airfield",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOSS",
+      "name": "Kardinal Schwarzenberg Hospital Helipad",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOSU",
+      "name": "Salzburg Trauma Hospital Helistop.",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -55470,6 +55584,12 @@
     {
       "icao": "MPBO",
       "name": "Bocas del Toro \"Isla Colón\" International Airport",
+      "country": "PA",
+      "timezone": "America/Panama"
+    },
+    {
+      "icao": "MPCA",
+      "name": "Caledonia Airport",
       "country": "PA",
       "timezone": "America/Panama"
     },
@@ -65690,6 +65810,12 @@
       "name": "Punta Indio Naval Air Base",
       "country": "AR",
       "timezone": "America/Argentina/Buenos_Aires"
+    },
+    {
+      "icao": "SAAJ",
+      "name": "(Duplicate)SAAJ",
+      "country": "AR",
+      "timezone": "America/Buenos_Aires"
     },
     {
       "icao": "SAAK",
@@ -88979,7 +89105,7 @@
     },
     {
       "icao": "SSWG",
-      "name": "Laguna Heliport",
+      "name": "Laguna Helistop",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -92507,7 +92633,7 @@
     },
     {
       "icao": "SWIR",
-      "name": "CCN Torre Norte Heliport",
+      "name": "CCN North Tower Helistop",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -96726,12 +96852,6 @@
     {
       "icao": "UKKG",
       "name": "Kirovograd Airport",
-      "country": "UA",
-      "timezone": "Europe/Kiev"
-    },
-    {
-      "icao": "UKKK",
-      "name": "Ihor Sikorsky Kyiv International Airport (Zhuliany)",
       "country": "UA",
       "timezone": "Europe/Kiev"
     },
