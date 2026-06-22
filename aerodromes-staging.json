@@ -1,6 +1,6 @@
 {
-  "version": "1.0.56",
-  "last_updated": "2026-06-15T12:20:41",
+  "version": "1.0.57",
+  "last_updated": "2026-06-22T08:14:05",
   "total_count": 19729,
   "aerodromes": [
     {
@@ -26908,6 +26908,12 @@
       "timezone": "Africa/Dakar"
     },
     {
+      "icao": "GOOT",
+      "name": "(Duplicate??)GOOT",
+      "country": "SN",
+      "timezone": "Africa/Dakar"
+    },
+    {
       "icao": "GOOY",
       "name": "Léopold Sédar Senghor International Airport",
       "country": "SN",
@@ -35273,7 +35279,7 @@
     },
     {
       "icao": "KHEF",
-      "name": "Manassas Regional Airport/Harry P. Davis Field",
+      "name": "Washington Manassas Harry P. Davis Field",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -38825,7 +38831,7 @@
     },
     {
       "icao": "KOAK",
-      "name": "San Francisco Bay Oakland International Airport",
+      "name": "Oakland San Francisco Bay Airport",
       "country": "US",
       "timezone": "America/Los_Angeles"
     },
@@ -51011,7 +51017,7 @@
     },
     {
       "icao": "LOSU",
-      "name": "Salzburg Trauma Hospital Helistop.",
+      "name": "Salzburg Trauma Hospital Helistop",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -65810,12 +65816,6 @@
       "name": "Punta Indio Naval Air Base",
       "country": "AR",
       "timezone": "America/Argentina/Buenos_Aires"
-    },
-    {
-      "icao": "SAAJ",
-      "name": "(Duplicate)SAAJ",
-      "country": "AR",
-      "timezone": "America/Buenos_Aires"
     },
     {
       "icao": "SAAK",
