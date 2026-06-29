@@ -4,25 +4,25 @@
 ------------------------------------------------------------
 📊 Summary:
    Production aerodromes: 19729
-   Staging aerodromes: 19729
-   Net change: +0
+   Staging aerodromes: 19735
+   Net change: +6
 
-✅ NEW AERODROMES (1):
-   + GOOT: (Duplicate??)GOOT (SN)
+✅ NEW AERODROMES (6):
+   + EBAL: Aalst Hospital Helistop (BE)
+   + LOAW: Wiener Neustadt ÖAMTC Heliport (AT)
+   + LOAY: Kilb Heliport (AT)
+   + LOAZ: Zwettl Hospital Heliport (AT)
+   + LOGJ: Judenburg Hospital Heliport (AT)
+   + LOIL: Zams ÖAMTC Heliport (AT)
 
-❌ REMOVED AERODROMES (1):
-   - SAAJ: (Duplicate)SAAJ (AR)
+🔄 CHANGED AERODROMES (2):
+   ~ LOAH: Horn Hospital Heliport
+     name: 'Horn Heliport' → 'Horn Hospital Heliport'
+   ~ SSOY: Fazenda Morada do Sol Airport
+     name: 'FazendaMorada do Sol Airport' → 'Fazenda Morada do Sol Airport'
 
-🔄 CHANGED AERODROMES (3):
-   ~ KHEF: Washington Manassas Harry P. Davis Field
-     name: 'Manassas Regional Airport/Harry P. Davis Field' → 'Washington Manassas Harry P. Davis Field'
-   ~ KOAK: Oakland San Francisco Bay Airport
-     name: 'San Francisco Bay Oakland International Airport' → 'Oakland San Francisco Bay Airport'
-   ~ LOSU: Salzburg Trauma Hospital Helistop
-     name: 'Salzburg Trauma Hospital Helistop.' → 'Salzburg Trauma Hospital Helistop'
-
-🕐 Staging last updated: 2026-06-22T08:14:05
-🕐 Production last updated: 2026-06-15T12:20:41
+🕐 Staging last updated: 2026-06-29T07:54:55
+🕐 Production last updated: 2026-06-22T08:14:05
 ------------------------------------------------------------
-📋 Total changes: 5
+📋 Total changes: 8
 💡 To release these changes, run: python3 release.py
