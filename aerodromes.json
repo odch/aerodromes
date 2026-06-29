@@ -1,7 +1,7 @@
 {
-  "version": "1.0.58",
-  "last_updated": "2026-06-22T08:14:05",
-  "total_count": 19729,
+  "version": "1.0.59",
+  "last_updated": "2026-06-29T07:54:55",
+  "total_count": 19735,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -7650,6 +7650,12 @@
     {
       "icao": "EBAG",
       "name": "Grâce-Hollogne Agusta Heliport",
+      "country": "BE",
+      "timezone": "Europe/Brussels"
+    },
+    {
+      "icao": "EBAL",
+      "name": "Aalst Hospital Helistop",
       "country": "BE",
       "timezone": "Europe/Brussels"
     },
@@ -50213,7 +50219,7 @@
     },
     {
       "icao": "LOAH",
-      "name": "Horn Heliport",
+      "name": "Horn Hospital Heliport",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50298,6 +50304,24 @@
     {
       "icao": "LOAV",
       "name": "Vöslau-Kottingbrunn Airfield",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOAW",
+      "name": "Wiener Neustadt ÖAMTC Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOAY",
+      "name": "Kilb Heliport",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOAZ",
+      "name": "Zwettl Hospital Heliport",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50412,6 +50436,12 @@
     {
       "icao": "LOGI",
       "name": "Trieben Airfield",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOGJ",
+      "name": "Judenburg Hospital Heliport",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -50532,6 +50562,12 @@
     {
       "icao": "LOIK",
       "name": "Kufstein-Langkampfen Airfield",
+      "country": "AT",
+      "timezone": "Europe/Vienna"
+    },
+    {
+      "icao": "LOIL",
+      "name": "Zams ÖAMTC Heliport",
       "country": "AT",
       "timezone": "Europe/Vienna"
     },
@@ -88331,7 +88367,7 @@
     },
     {
       "icao": "SSOY",
-      "name": "FazendaMorada do Sol Airport",
+      "name": "Fazenda Morada do Sol Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -118378,5 +118414,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-06-22T08:32:39"
+  "released_at": "2026-06-29T17:31:49"
 }
