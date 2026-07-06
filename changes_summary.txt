@@ -3,26 +3,36 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19729
-   Staging aerodromes: 19735
-   Net change: +6
+   Production aerodromes: 19735
+   Staging aerodromes: 19744
+   Net change: +9
 
-✅ NEW AERODROMES (6):
-   + EBAL: Aalst Hospital Helistop (BE)
-   + LOAW: Wiener Neustadt ÖAMTC Heliport (AT)
-   + LOAY: Kilb Heliport (AT)
-   + LOAZ: Zwettl Hospital Heliport (AT)
-   + LOGJ: Judenburg Hospital Heliport (AT)
-   + LOIL: Zams ÖAMTC Heliport (AT)
+✅ NEW AERODROMES (12):
+   + EDHY: Hoya Airfield (DE)
+   + EDRQ: Imsweiler UL (DE)
+   + EDSV: Wächtersberg-Hub Glider Airfield (DE)
+   + EDTE: Eutingen Airfield (DE)
+   + EDTK: Sinsheim Airfield (DE)
+   + EDVP: Peine-Glindbruchkippe Airfield (DE)
+   + EDWT: Blexen Airfield (DE)
+   + WIBG: Tuanku Tambusai Airport (ID)
+   + WICK: Sulaiman Airport (ID)
+   + WIDO: (Duplicate)Ranai Airport (ID)
+   ... and 2 more
+
+❌ REMOVED AERODROMES (3):
+   - WIAK: Sulaiman Airport (ID)
+   - WIDE: Tuanku Tambusai Airport (ID)
+   - WIPF: Kuala Tungkal Airport (ID)
 
 🔄 CHANGED AERODROMES (2):
-   ~ LOAH: Horn Hospital Heliport
-     name: 'Horn Heliport' → 'Horn Hospital Heliport'
-   ~ SSOY: Fazenda Morada do Sol Airport
-     name: 'FazendaMorada do Sol Airport' → 'Fazenda Morada do Sol Airport'
+   ~ EDWN: Nordhorn-Lingen Airfield
+     name: 'Flugplatz Nordhorn-Lingen' → 'Nordhorn-Lingen Airfield'
+   ~ KPBI: President Donald J. Trump International Airport
+     name: 'Palm Beach International Airport' → 'President Donald J. Trump International Airport'
 
-🕐 Staging last updated: 2026-06-29T07:54:55
-🕐 Production last updated: 2026-06-22T08:14:05
+🕐 Staging last updated: 2026-07-06T07:41:57
+🕐 Production last updated: 2026-06-29T07:54:55
 ------------------------------------------------------------
-📋 Total changes: 8
+📋 Total changes: 17
 💡 To release these changes, run: python3 release.py

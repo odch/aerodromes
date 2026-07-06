@@ -1,7 +1,7 @@
 {
-  "version": "1.0.58",
-  "last_updated": "2026-06-29T07:54:55",
-  "total_count": 19735,
+  "version": "1.0.59",
+  "last_updated": "2026-07-06T07:41:57",
+  "total_count": 19744,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -9346,6 +9346,12 @@
       "timezone": "Europe/Berlin"
     },
     {
+      "icao": "EDHY",
+      "name": "Hoya Airfield",
+      "country": "DE",
+      "timezone": "Europe/Berlin"
+    },
+    {
       "icao": "EDJA",
       "name": "Memmingen Allgau Airport",
       "country": "DE",
@@ -10390,6 +10396,12 @@
       "timezone": "Europe/Berlin"
     },
     {
+      "icao": "EDRQ",
+      "name": "Imsweiler UL",
+      "country": "DE",
+      "timezone": "Europe/Berlin"
+    },
+    {
       "icao": "EDRS",
       "name": "Bad Sobernheim-Domberg Airfield",
       "country": "DE",
@@ -10528,6 +10540,12 @@
       "timezone": "Europe/Berlin"
     },
     {
+      "icao": "EDSV",
+      "name": "Wächtersberg-Hub Glider Airfield",
+      "country": "DE",
+      "timezone": "Europe/Berlin"
+    },
+    {
       "icao": "EDSW",
       "name": "Altdorf-Wallburg Airfield",
       "country": "DE",
@@ -10570,6 +10588,12 @@
       "timezone": "Europe/Berlin"
     },
     {
+      "icao": "EDTE",
+      "name": "Eutingen Airfield",
+      "country": "DE",
+      "timezone": "Europe/Berlin"
+    },
+    {
       "icao": "EDTF",
       "name": "Freiburg im Breisgau Airfield",
       "country": "DE",
@@ -10584,6 +10608,12 @@
     {
       "icao": "EDTH",
       "name": "Heubach Airfield",
+      "country": "DE",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "icao": "EDTK",
+      "name": "Sinsheim Airfield",
       "country": "DE",
       "timezone": "Europe/Berlin"
     },
@@ -10792,6 +10822,12 @@
       "timezone": "Europe/Berlin"
     },
     {
+      "icao": "EDVP",
+      "name": "Peine-Glindbruchkippe Airfield",
+      "country": "DE",
+      "timezone": "Europe/Berlin"
+    },
+    {
       "icao": "EDVQ",
       "name": "Wilsche Glider Field",
       "country": "DE",
@@ -10901,7 +10937,7 @@
     },
     {
       "icao": "EDWN",
-      "name": "Flugplatz Nordhorn-Lingen",
+      "name": "Nordhorn-Lingen Airfield",
       "country": "DE",
       "timezone": "Europe/Berlin"
     },
@@ -10932,6 +10968,12 @@
     {
       "icao": "EDWS",
       "name": "Norden-Norddeich Airport",
+      "country": "DE",
+      "timezone": "Europe/Berlin"
+    },
+    {
+      "icao": "EDWT",
+      "name": "Blexen Airfield",
       "country": "DE",
       "timezone": "Europe/Berlin"
     },
@@ -39503,7 +39545,7 @@
     },
     {
       "icao": "KPBI",
-      "name": "Palm Beach International Airport",
+      "name": "President Donald J. Trump International Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -103534,12 +103576,6 @@
       "timezone": "Asia/Jakarta"
     },
     {
-      "icao": "WIAK",
-      "name": "Sulaiman Airport",
-      "country": "ID",
-      "timezone": "Asia/Jakarta"
-    },
-    {
       "icao": "WIAM",
       "name": "Gilgal Airstrip",
       "country": "ID",
@@ -103560,6 +103596,12 @@
     {
       "icao": "WIBD",
       "name": "Pinang Kampai Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIBG",
+      "name": "Tuanku Tambusai Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103612,6 +103654,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WICK",
+      "name": "Sulaiman Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WICM",
       "name": "Cibeureum Airport",
       "country": "ID",
@@ -103636,12 +103684,6 @@
       "timezone": "Asia/Jakarta"
     },
     {
-      "icao": "WIDE",
-      "name": "Tuanku Tambusai Airport",
-      "country": "ID",
-      "timezone": "Asia/Jakarta"
-    },
-    {
       "icao": "WIDL",
       "name": "Letung Airport",
       "country": "ID",
@@ -103656,6 +103698,12 @@
     {
       "icao": "WIDN",
       "name": "Raja Haji Fisabilillah International Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIDO",
+      "name": "(Duplicate)Ranai Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103716,6 +103764,12 @@
     {
       "icao": "WIHC",
       "name": "Wiladatika Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIHF",
+      "name": "Pabelokan Heliport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103938,12 +103992,6 @@
     {
       "icao": "WIPD",
       "name": "Banding Agung Airport",
-      "country": "ID",
-      "timezone": "Asia/Jakarta"
-    },
-    {
-      "icao": "WIPF",
-      "name": "Kuala Tungkal Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -112062,6 +112110,12 @@
     {
       "icao": "YOBE",
       "name": "Oberon Heliport",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "icao": "YOBN",
+      "name": "Oban Airport",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
