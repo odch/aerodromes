@@ -3,36 +3,37 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19735
-   Staging aerodromes: 19744
-   Net change: +9
+   Production aerodromes: 19744
+   Staging aerodromes: 19754
+   Net change: +10
 
 ✅ NEW AERODROMES (12):
-   + EDHY: Hoya Airfield (DE)
-   + EDRQ: Imsweiler UL (DE)
-   + EDSV: Wächtersberg-Hub Glider Airfield (DE)
-   + EDTE: Eutingen Airfield (DE)
-   + EDTK: Sinsheim Airfield (DE)
-   + EDVP: Peine-Glindbruchkippe Airfield (DE)
-   + EDWT: Blexen Airfield (DE)
-   + WIBG: Tuanku Tambusai Airport (ID)
-   + WICK: Sulaiman Airport (ID)
-   + WIDO: (Duplicate)Ranai Airport (ID)
+   + EPMG: Lotnisko Mrągowo (PL)
+   + KDJT: President Donald J. Trump International Airport (US)
+   + LEBK: Becerrea Forest Fire Base Heliport (ES)
+   + LECR: Castromaior Forest Fire Base Heliport (ES)
+   + LEHK: Vilamaior Forest Fire Base Heliport (ES)
+   + LEIN: Portomarin Forest Fire Base Heliport (ES)
+   + LELK: Lomba Forest Fire Base Heliport (ES)
+   + LEMQ: Trelle Forest Fire Base Heliport (ES)
+   + LEXU: Xurés Forest Fire Base Heliport (ES)
+   + RKBN: N 201 Helipad (KR)
    ... and 2 more
 
-❌ REMOVED AERODROMES (3):
-   - WIAK: Sulaiman Airport (ID)
-   - WIDE: Tuanku Tambusai Airport (ID)
-   - WIPF: Kuala Tungkal Airport (ID)
+❌ REMOVED AERODROMES (2):
+   - EDUS: Finsterwalde-Schacksdorf Airfield (DE)
+   - KPBI: President Donald J. Trump International Airport (US)
 
-🔄 CHANGED AERODROMES (2):
-   ~ EDWN: Nordhorn-Lingen Airfield
-     name: 'Flugplatz Nordhorn-Lingen' → 'Nordhorn-Lingen Airfield'
-   ~ KPBI: President Donald J. Trump International Airport
-     name: 'Palm Beach International Airport' → 'President Donald J. Trump International Airport'
+🔄 CHANGED AERODROMES (3):
+   ~ RKSS: Seoul Gimpo International Airport
+     name: 'Gimpo International Airport' → 'Seoul Gimpo International Airport'
+   ~ SIYU: Edifício Ronaldo Sampaio Ferreira Helistop
+     name: 'Edifício Ronaldo Sampaio Ferreira Heliport' → 'Edifício Ronaldo Sampaio Ferreira Helistop'
+   ~ YSWS: Nancy Bird Walton, Western Sydney International Airport
+     name: '[Duplicate] Western Sydney International Airport' → 'Nancy Bird Walton, Western Sydney International Airport'
 
-🕐 Staging last updated: 2026-07-06T07:41:57
-🕐 Production last updated: 2026-06-29T07:54:55
+🕐 Staging last updated: 2026-07-13T09:31:52
+🕐 Production last updated: 2026-07-06T07:41:57
 ------------------------------------------------------------
 📋 Total changes: 17
 💡 To release these changes, run: python3 release.py

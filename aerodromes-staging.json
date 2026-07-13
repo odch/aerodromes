@@ -1,7 +1,7 @@
 {
-  "version": "1.0.59",
-  "last_updated": "2026-07-06T07:41:57",
-  "total_count": 19744,
+  "version": "1.0.60",
+  "last_updated": "2026-07-13T09:31:52",
+  "total_count": 19754,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -10726,12 +10726,6 @@
       "timezone": "Europe/Berlin"
     },
     {
-      "icao": "EDUS",
-      "name": "Finsterwalde-Schacksdorf Airfield",
-      "country": "DE",
-      "timezone": "Europe/Berlin"
-    },
-    {
       "icao": "EDUW",
       "name": "Tutow-Betriebs Airfield",
       "country": "DE",
@@ -16392,6 +16386,12 @@
     {
       "icao": "EPMB",
       "name": "Malbork Królewo Air Base",
+      "country": "PL",
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "icao": "EPMG",
+      "name": "Lotnisko Mrągowo",
       "country": "PL",
       "timezone": "Europe/Warsaw"
     },
@@ -32848,6 +32848,12 @@
       "timezone": "America/Denver"
     },
     {
+      "icao": "KDJT",
+      "name": "President Donald J. Trump International Airport",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
       "icao": "KDKB",
       "name": "DeKalb Taylor Municipal Airport",
       "country": "US",
@@ -39544,12 +39550,6 @@
       "timezone": "America/Chicago"
     },
     {
-      "icao": "KPBI",
-      "name": "President Donald J. Trump International Airport",
-      "country": "US",
-      "timezone": "America/New_York"
-    },
-    {
       "icao": "KPBX",
       "name": "Pike County Airport Hatcher Field",
       "country": "US",
@@ -43912,6 +43912,12 @@
       "timezone": "Europe/Madrid"
     },
     {
+      "icao": "LEBK",
+      "name": "Becerrea Forest Fire Base Heliport",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
       "icao": "LEBL",
       "name": "Josep Tarradellas Barcelona-El Prat Airport",
       "country": "ES",
@@ -43998,6 +44004,12 @@
     {
       "icao": "LECO",
       "name": "A Coruña Airport",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "icao": "LECR",
+      "name": "Castromaior Forest Fire Base Heliport",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -44212,6 +44224,12 @@
       "timezone": "Europe/Madrid"
     },
     {
+      "icao": "LEHK",
+      "name": "Vilamaior Forest Fire Base Heliport",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
       "icao": "LEHM",
       "name": "Hospital General De Manresa Heliport",
       "country": "ES",
@@ -44238,6 +44256,12 @@
     {
       "icao": "LEIG",
       "name": "Igualada/Odena Airfield",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "icao": "LEIN",
+      "name": "Portomarin Forest Fire Base Heliport",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -44322,6 +44346,12 @@
     {
       "icao": "LELI",
       "name": "El Molinillo Airfield",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "icao": "LELK",
+      "name": "Lomba Forest Fire Base Heliport",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -44412,6 +44442,12 @@
     {
       "icao": "LEMP",
       "name": "Los Martínez Del Puerto Airfield",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "icao": "LEMQ",
+      "name": "Trelle Forest Fire Base Heliport",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -44880,6 +44916,12 @@
     {
       "icao": "LEXJ",
       "name": "Seve Ballesteros-Santander Airport",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "icao": "LEXU",
+      "name": "Xurés Forest Fire Base Heliport",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -64774,6 +64816,24 @@
       "timezone": "Asia/Tokyo"
     },
     {
+      "icao": "RKBN",
+      "name": "N 201 Helipad",
+      "country": "KR",
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "icao": "RKBP",
+      "name": "Everland Speedway Heliport",
+      "country": "KR",
+      "timezone": "Asia/Seoul"
+    },
+    {
+      "icao": "RKBS",
+      "name": "Korea Broadcasting System (KBS) Heliport",
+      "country": "KR",
+      "timezone": "Asia/Seoul"
+    },
+    {
       "icao": "RKCH",
       "name": "Namji",
       "country": "KR",
@@ -65021,7 +65081,7 @@
     },
     {
       "icao": "RKSS",
-      "name": "Gimpo International Airport",
+      "name": "Seoul Gimpo International Airport",
       "country": "KR",
       "timezone": "Asia/Seoul"
     },
@@ -78101,7 +78161,7 @@
     },
     {
       "icao": "SIYU",
-      "name": "Edifício Ronaldo Sampaio Ferreira Heliport",
+      "name": "Edifício Ronaldo Sampaio Ferreira Helistop",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -113813,7 +113873,7 @@
     },
     {
       "icao": "YSWS",
-      "name": "[Duplicate] Western Sydney International Airport",
+      "name": "Nancy Bird Walton, Western Sydney International Airport",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
