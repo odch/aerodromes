@@ -3,37 +3,50 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19744
-   Staging aerodromes: 19754
-   Net change: +10
+   Production aerodromes: 19754
+   Staging aerodromes: 19798
+   Net change: +44
 
-✅ NEW AERODROMES (12):
-   + EPMG: Lotnisko Mrągowo (PL)
-   + KDJT: President Donald J. Trump International Airport (US)
-   + LEBK: Becerrea Forest Fire Base Heliport (ES)
-   + LECR: Castromaior Forest Fire Base Heliport (ES)
-   + LEHK: Vilamaior Forest Fire Base Heliport (ES)
-   + LEIN: Portomarin Forest Fire Base Heliport (ES)
-   + LELK: Lomba Forest Fire Base Heliport (ES)
-   + LEMQ: Trelle Forest Fire Base Heliport (ES)
-   + LEXU: Xurés Forest Fire Base Heliport (ES)
-   + RKBN: N 201 Helipad (KR)
-   ... and 2 more
+✅ NEW AERODROMES (64):
+   + AYLM: Lake Murray Airport (PG)
+   + EPSP: Sieraków-Lutomek Airfield (PL)
+   + KBVU: Boulder City Municipal Airport (US)
+   + KRYA: Wray Municipal Airport (US)
+   + LEAK: Campo de Vuelo Aliaguilla (ES)
+   + LEBT: Basa Aérea de Valencia-Bétera (ES)
+   + MGMM: Mundo Maya International Airport (GT)
+   + MPPA: Panamá Pacífico International Airport (PA)
+   + MPPI: Bahia Piña Airport (PA)
+   + MPRA: Raul Arias Espinoza Airport (PA)
+   ... and 54 more
 
-❌ REMOVED AERODROMES (2):
-   - EDUS: Finsterwalde-Schacksdorf Airfield (DE)
-   - KPBI: President Donald J. Trump International Airport (US)
+❌ REMOVED AERODROMES (20):
+   - MGTK: Mundo Maya International Airport (GT)
+   - MPHO: Panamá Pacífico International Airport (PA)
+   - SBCM: Forquilhinha - Criciúma  Airport (BR)
+   - SBGU: Tancredo Thomas de Faria Airport (BR)
+   - SBRR: Barreirinhas National Airport (BR)
+   - SETM: Ciudad de Catamayo Airport (EC)
+   - SNFH: Fazenda Dom Felipe Airport (BR)
+   - SNPP: Morro de São Paulo Airport (BR)
+   - SPHU: Huancayo Airport (PE)
+   - VAKJ: Khajuraho Airport (IN)
+   ... and 10 more
 
-🔄 CHANGED AERODROMES (3):
-   ~ RKSS: Seoul Gimpo International Airport
-     name: 'Gimpo International Airport' → 'Seoul Gimpo International Airport'
-   ~ SIYU: Edifício Ronaldo Sampaio Ferreira Helistop
-     name: 'Edifício Ronaldo Sampaio Ferreira Heliport' → 'Edifício Ronaldo Sampaio Ferreira Helistop'
-   ~ YSWS: Nancy Bird Walton, Western Sydney International Airport
-     name: '[Duplicate] Western Sydney International Airport' → 'Nancy Bird Walton, Western Sydney International Airport'
+🔄 CHANGED AERODROMES (5):
+   ~ LECI: Santa Cilia de Jaca Airfield
+     name: 'Santa Cilia De Jaca Airfield' → 'Santa Cilia de Jaca Airfield'
+   ~ WABP: Burumeso Airstrip
+     name: 'Mozes Kilangin Airport' → 'Burumeso Airstrip'
+   ~ WAJY: Borme Airstrip
+     name: 'Werur Airport' → 'Borme Airstrip'
+   ~ WIDO: Ranai Airport
+     name: '(Duplicate)Ranai Airport' → 'Ranai Airport'
+   ~ YSWS: Western Sydney International (Nancy-Bird Walton) Airport
+     name: 'Nancy Bird Walton, Western Sydney International Airport' → 'Western Sydney International (Nancy-Bird Walton) Airport'
 
-🕐 Staging last updated: 2026-07-13T09:31:52
-🕐 Production last updated: 2026-07-06T07:41:57
+🕐 Staging last updated: 2026-07-20T09:18:41
+🕐 Production last updated: 2026-07-13T09:31:52
 ------------------------------------------------------------
-📋 Total changes: 17
+📋 Total changes: 89
 💡 To release these changes, run: python3 release.py

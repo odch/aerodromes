@@ -1,7 +1,7 @@
 {
-  "version": "1.0.60",
-  "last_updated": "2026-07-13T09:31:52",
-  "total_count": 19754,
+  "version": "1.0.61",
+  "last_updated": "2026-07-20T09:18:41",
+  "total_count": 19798,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -1380,6 +1380,12 @@
     {
       "icao": "AYLL",
       "name": "Linga Linga Airport",
+      "country": "PG",
+      "timezone": "Pacific/Port_Moresby"
+    },
+    {
+      "icao": "AYLM",
+      "name": "Lake Murray Airport",
       "country": "PG",
       "timezone": "Pacific/Port_Moresby"
     },
@@ -16618,6 +16624,12 @@
       "timezone": "Europe/Warsaw"
     },
     {
+      "icao": "EPSP",
+      "name": "Sieraków-Lutomek Airfield",
+      "country": "PL",
+      "timezone": "Europe/Warsaw"
+    },
+    {
       "icao": "EPSS",
       "name": "Świdnica - Krzczonów Airstrip",
       "country": "PL",
@@ -31510,6 +31522,12 @@
       "timezone": "America/New_York"
     },
     {
+      "icao": "KBVU",
+      "name": "Boulder City Municipal Airport",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
       "icao": "KBVX",
       "name": "Batesville Regional Airport",
       "country": "US",
@@ -40930,6 +40948,12 @@
       "timezone": "America/New_York"
     },
     {
+      "icao": "KRYA",
+      "name": "Wray Municipal Airport",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
       "icao": "KRYM",
       "name": "Ray S Miller Army Air Field",
       "country": "US",
@@ -43822,6 +43846,12 @@
       "timezone": "Europe/Madrid"
     },
     {
+      "icao": "LEAK",
+      "name": "Campo de Vuelo Aliaguilla",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
       "icao": "LEAL",
       "name": "Alicante-Elche Miguel Hernández Airport",
       "country": "ES",
@@ -43942,6 +43972,12 @@
       "timezone": "Europe/Madrid"
     },
     {
+      "icao": "LEBT",
+      "name": "Basa Aérea de Valencia-Bétera",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
       "icao": "LEBU",
       "name": "Bustarviejo Heliport",
       "country": "ES",
@@ -43991,7 +44027,7 @@
     },
     {
       "icao": "LECI",
-      "name": "Santa Cilia De Jaca Airfield",
+      "name": "Santa Cilia de Jaca Airfield",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -54046,6 +54082,12 @@
       "timezone": "America/Guatemala"
     },
     {
+      "icao": "MGMM",
+      "name": "Mundo Maya International Airport",
+      "country": "GT",
+      "timezone": "America/Guatemala"
+    },
+    {
       "icao": "MGPB",
       "name": "Puerto Barrios Airport",
       "country": "GT",
@@ -54108,12 +54150,6 @@
     {
       "icao": "MGSM",
       "name": "San Marcos Airport",
-      "country": "GT",
-      "timezone": "America/Guatemala"
-    },
-    {
-      "icao": "MGTK",
-      "name": "Mundo Maya International Airport",
       "country": "GT",
       "timezone": "America/Guatemala"
     },
@@ -55756,12 +55792,6 @@
       "timezone": "America/Panama"
     },
     {
-      "icao": "MPHO",
-      "name": "Panamá Pacífico International Airport",
-      "country": "PA",
-      "timezone": "America/Panama"
-    },
-    {
       "icao": "MPJE",
       "name": "Jaqué Airport",
       "country": "PA",
@@ -55792,14 +55822,32 @@
       "timezone": "America/Panama"
     },
     {
+      "icao": "MPPA",
+      "name": "Panamá Pacífico International Airport",
+      "country": "PA",
+      "timezone": "America/Panama"
+    },
+    {
       "icao": "MPPD",
       "name": "Capt. J. Montenegro Airport",
       "country": "PA",
       "timezone": "America/Panama"
     },
     {
+      "icao": "MPPI",
+      "name": "Bahia Piña Airport",
+      "country": "PA",
+      "timezone": "America/Panama"
+    },
+    {
       "icao": "MPPT",
       "name": "Punta Patiño Airstrip",
+      "country": "PA",
+      "timezone": "America/Panama"
+    },
+    {
+      "icao": "MPRA",
+      "name": "Raul Arias Espinoza Airport",
       "country": "PA",
       "timezone": "America/Panama"
     },
@@ -57376,8 +57424,38 @@
       "timezone": "America/Nassau"
     },
     {
+      "icao": "MZBE",
+      "name": "Sir Barry Bowen Municipal Airport",
+      "country": "BZ",
+      "timezone": "America/Belize"
+    },
+    {
+      "icao": "MZBG",
+      "name": "Big Creek Airport",
+      "country": "BZ",
+      "timezone": "America/Belize"
+    },
+    {
       "icao": "MZBZ",
       "name": "Philip S. W. Goldson International Airport",
+      "country": "BZ",
+      "timezone": "America/Belize"
+    },
+    {
+      "icao": "MZCK",
+      "name": "Caye Caulker Airport",
+      "country": "BZ",
+      "timezone": "America/Belize"
+    },
+    {
+      "icao": "MZCP",
+      "name": "Caye Chapel Airport",
+      "country": "BZ",
+      "timezone": "America/Belize"
+    },
+    {
+      "icao": "MZCZ",
+      "name": "Corozal Airport",
       "country": "BZ",
       "timezone": "America/Belize"
     },
@@ -57400,8 +57478,38 @@
       "timezone": "America/Belize"
     },
     {
+      "icao": "MZPB",
+      "name": "Dangriga Airport",
+      "country": "BZ",
+      "timezone": "America/Belize"
+    },
+    {
+      "icao": "MZPG",
+      "name": "Punta Gorda Airport",
+      "country": "BZ",
+      "timezone": "America/Belize"
+    },
+    {
       "icao": "MZPL",
       "name": "Placencia Airport",
+      "country": "BZ",
+      "timezone": "America/Belize"
+    },
+    {
+      "icao": "MZSP",
+      "name": "John Greif II Airport",
+      "country": "BZ",
+      "timezone": "America/Belize"
+    },
+    {
+      "icao": "MZSV",
+      "name": "Independence Airport",
+      "country": "BZ",
+      "timezone": "America/Belize"
+    },
+    {
+      "icao": "MZTH",
+      "name": "H.E Alfredo Martinez (Tower Hill) Airstrip",
       "country": "BZ",
       "timezone": "America/Belize"
     },
@@ -59428,6 +59536,12 @@
       "timezone": "Pacific/Auckland"
     },
     {
+      "icao": "NZPT",
+      "name": "Pitt Island Aerodrome",
+      "country": "NZ",
+      "timezone": "Pacific/Auckland"
+    },
+    {
       "icao": "NZPW",
       "name": "Papawai Airfield",
       "country": "NZ",
@@ -61450,6 +61564,12 @@
       "timezone": "Asia/Muscat"
     },
     {
+      "icao": "OODQ",
+      "name": "Duqm International Airport",
+      "country": "OM",
+      "timezone": "Asia/Muscat"
+    },
+    {
       "icao": "OOFD",
       "name": "Fahud Airport",
       "country": "OM",
@@ -62440,10 +62560,22 @@
       "timezone": "America/Anchorage"
     },
     {
+      "icao": "PACH",
+      "name": "Chuathbaluk Airport",
+      "country": "US",
+      "timezone": "America/Anchorage"
+    },
+    {
       "icao": "PACI",
       "name": "Chalkyitsik Airport",
       "country": "US",
       "timezone": "America/Anchorage"
+    },
+    {
+      "icao": "PACJ",
+      "name": "Crooked Creek Airport",
+      "country": "US",
+      "timezone": "America/New_York"
     },
     {
       "icao": "PACK",
@@ -62716,6 +62848,12 @@
       "timezone": "America/Anchorage"
     },
     {
+      "icao": "PAGX",
+      "name": "Grayling Airport",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
       "icao": "PAGY",
       "name": "Skagway Airport",
       "country": "US",
@@ -62846,6 +62984,12 @@
       "name": "Koliganek Airport",
       "country": "US",
       "timezone": "America/Anchorage"
+    },
+    {
+      "icao": "PAKA",
+      "name": "Tatitlek Airport",
+      "country": "US",
+      "timezone": "America/New_York"
     },
     {
       "icao": "PAKC",
@@ -63604,6 +63748,12 @@
       "timezone": "America/New_York"
     },
     {
+      "icao": "PFMP",
+      "name": "Rampart Airport",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
       "icao": "PFNO",
       "name": "Robert (Bob) Curtis Memorial Airport",
       "country": "US",
@@ -63632,6 +63782,12 @@
       "name": "Fort Yukon Airport",
       "country": "US",
       "timezone": "America/Anchorage"
+    },
+    {
+      "icao": "PFZK",
+      "name": "Akiachak Airport",
+      "country": "US",
+      "timezone": "America/New_York"
     },
     {
       "icao": "PGRO",
@@ -63852,6 +64008,12 @@
     {
       "icao": "PPCT",
       "name": "Takotna Airport",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
+      "icao": "PPIT",
+      "name": "Nunapitchuk Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -67084,12 +67246,6 @@
       "timezone": "America/Belem"
     },
     {
-      "icao": "SBCM",
-      "name": "Forquilhinha - Criciúma  Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
       "icao": "SBCN",
       "name": "Nelson Ribeiro Guimarães Airport",
       "country": "BR",
@@ -67254,12 +67410,6 @@
     {
       "icao": "SBGR",
       "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
-      "icao": "SBGU",
-      "name": "Tancredo Thomas de Faria Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -67926,12 +68076,6 @@
     {
       "icao": "SBRP",
       "name": "Leite Lopes Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
-      "icao": "SBRR",
-      "name": "Barreirinhas National Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -71140,6 +71284,12 @@
       "timezone": "America/Sao_Paulo"
     },
     {
+      "icao": "SDGX",
+      "name": "Morro de São Paulo Airport",
+      "country": "BR",
+      "timezone": "America/Sao_Paulo"
+    },
+    {
       "icao": "SDGY",
       "name": "Fazenda Anhangaí Airport",
       "country": "BR",
@@ -73030,6 +73180,12 @@
       "timezone": "America/Sao_Paulo"
     },
     {
+      "icao": "SDYG",
+      "name": "Fazenda Rosa do Deserto Airstrip",
+      "country": "BR",
+      "timezone": "America/Sao_Paulo"
+    },
+    {
       "icao": "SDYH",
       "name": "José Roberto Magalhães Teixeira Heliport",
       "country": "BR",
@@ -73422,6 +73578,12 @@
     {
       "icao": "SEBZ",
       "name": "Cumbaratza Airport",
+      "country": "EC",
+      "timezone": "America/Guayaquil"
+    },
+    {
+      "icao": "SECA",
+      "name": "Ciudad de Catamayo Airport",
       "country": "EC",
       "timezone": "America/Guayaquil"
     },
@@ -74502,12 +74664,6 @@
     {
       "icao": "SETI",
       "name": "Tiputini Airport",
-      "country": "EC",
-      "timezone": "America/Guayaquil"
-    },
-    {
-      "icao": "SETM",
-      "name": "Ciudad de Catamayo Airport",
       "country": "EC",
       "timezone": "America/Guayaquil"
     },
@@ -80890,6 +81046,12 @@
       "timezone": "America/Sao_Paulo"
     },
     {
+      "icao": "SJZA",
+      "name": "Pedro Vieira Moreira Airport",
+      "country": "BR",
+      "timezone": "America/Sao_Paulo"
+    },
+    {
       "icao": "SJZB",
       "name": "Vale do Tucanã Airport",
       "country": "BR",
@@ -83746,12 +83908,6 @@
       "timezone": "America/Sao_Paulo"
     },
     {
-      "icao": "SNFH",
-      "name": "Fazenda Dom Felipe Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
       "icao": "SNFI",
       "name": "Fazenda São José do Parnaíba Airport",
       "country": "BR",
@@ -84798,12 +84954,6 @@
     {
       "icao": "SNPO",
       "name": "Pompeu Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
-      "icao": "SNPP",
-      "name": "Morro de São Paulo Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -86260,12 +86410,6 @@
       "timezone": "America/Lima"
     },
     {
-      "icao": "SPHU",
-      "name": "Huancayo Airport",
-      "country": "PE",
-      "timezone": "America/Lima"
-    },
-    {
       "icao": "SPHV",
       "name": "Huánuco Viejo Airport",
       "country": "PE",
@@ -87538,6 +87682,12 @@
       "timezone": "America/Sao_Paulo"
     },
     {
+      "icao": "SSGG",
+      "name": "Tancredo Thomas de Faria Airport",
+      "country": "BR",
+      "timezone": "America/Sao_Paulo"
+    },
+    {
       "icao": "SSGH",
       "name": "Fazenda Capão Verde Airport",
       "country": "BR",
@@ -87750,6 +87900,12 @@
     {
       "icao": "SSIK",
       "name": "VIVO Heliport",
+      "country": "BR",
+      "timezone": "America/Sao_Paulo"
+    },
+    {
+      "icao": "SSIM",
+      "name": "Forquilhinha - Criciúma  Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -92464,6 +92620,12 @@
       "timezone": "America/Sao_Paulo"
     },
     {
+      "icao": "SWFD",
+      "name": "Fazenda Dom Felipe Airport",
+      "country": "BR",
+      "timezone": "America/Sao_Paulo"
+    },
+    {
       "icao": "SWFG",
       "name": "Fazenda Guanabara Airport",
       "country": "BR",
@@ -95236,6 +95398,36 @@
       "timezone": "Asia/Qyzylorda"
     },
     {
+      "icao": "UAFA",
+      "name": "Tamga Airport",
+      "country": "KG",
+      "timezone": "Asia/Bishkek"
+    },
+    {
+      "icao": "UAFE",
+      "name": "Kerben Airport",
+      "country": "KG",
+      "timezone": "Asia/Bishkek"
+    },
+    {
+      "icao": "UAFF",
+      "name": "Tokmok Airport",
+      "country": "KG",
+      "timezone": "Asia/Bishkek"
+    },
+    {
+      "icao": "UAFS",
+      "name": "Kyzyl-Kiya Airport",
+      "country": "KG",
+      "timezone": "Asia/Bishkek"
+    },
+    {
+      "icao": "UAFT",
+      "name": "Talas Airport",
+      "country": "KG",
+      "timezone": "Asia/Bishkek"
+    },
+    {
       "icao": "UAFW",
       "name": "Kant Air Base",
       "country": "KG",
@@ -95550,6 +95742,12 @@
     {
       "icao": "UCFM",
       "name": "Manas International Airport",
+      "country": "KG",
+      "timezone": "Asia/Bishkek"
+    },
+    {
+      "icao": "UCFN",
+      "name": "Naryn Airport",
       "country": "KG",
       "timezone": "Asia/Bishkek"
     },
@@ -99106,12 +99304,6 @@
       "timezone": "Asia/Calcutta"
     },
     {
-      "icao": "VAKJ",
-      "name": "Khajuraho Airport",
-      "country": "IN",
-      "timezone": "Asia/Calcutta"
-    },
-    {
       "icao": "VAKP",
       "name": "Kolhapur Airport",
       "country": "IN",
@@ -99186,12 +99378,6 @@
     {
       "icao": "VARK",
       "name": "Rajkot Airport",
-      "country": "IN",
-      "timezone": "Asia/Calcutta"
-    },
-    {
-      "icao": "VARP",
-      "name": "Swami Vivekananda Airport",
       "country": "IN",
       "timezone": "Asia/Calcutta"
     },
@@ -99306,6 +99492,12 @@
     {
       "icao": "VDBG",
       "name": "Battambang Airport",
+      "country": "KH",
+      "timezone": "Asia/Phnom_Penh"
+    },
+    {
+      "icao": "VDDS",
+      "name": "Dara Sakor International Airport",
       "country": "KH",
       "timezone": "Asia/Phnom_Penh"
     },
@@ -99508,6 +99700,12 @@
       "timezone": "Asia/Kolkata"
     },
     {
+      "icao": "VECX",
+      "name": "Kanpur Airport",
+      "country": "IN",
+      "timezone": "Asia/Kolkata"
+    },
+    {
       "icao": "VEDB",
       "name": "Dhanbad Airport",
       "country": "IN",
@@ -99566,6 +99764,12 @@
       "name": "Hirakud Airport",
       "country": "IN",
       "timezone": "Asia/Calcutta"
+    },
+    {
+      "icao": "VEHO",
+      "name": "Itanagar Donyi Polo Hollongi Airport",
+      "country": "IN",
+      "timezone": "Asia/Kolkata"
     },
     {
       "icao": "VEHX",
@@ -99636,6 +99840,12 @@
     {
       "icao": "VEKM",
       "name": "Kamalpur Airport",
+      "country": "IN",
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "icao": "VEKO",
+      "name": "Khajuraho Airport",
       "country": "IN",
       "timezone": "Asia/Kolkata"
     },
@@ -99754,8 +99964,26 @@
       "timezone": "Asia/Kolkata"
     },
     {
+      "icao": "VERP",
+      "name": "Swami Vivekananda Airport",
+      "country": "IN",
+      "timezone": "Asia/Kolkata"
+    },
+    {
       "icao": "VERU",
       "name": "Rupsi Airport",
+      "country": "IN",
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "icao": "VERW",
+      "name": "Rewa Airport, Chorhata, REWA",
+      "country": "IN",
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "icao": "VESL",
+      "name": "Sultanpur Airport",
       "country": "IN",
       "timezone": "Asia/Kolkata"
     },
@@ -99966,12 +100194,6 @@
     {
       "icao": "VICG",
       "name": "Shaheed Bhagat Singh International Airport",
-      "country": "IN",
-      "timezone": "Asia/Calcutta"
-    },
-    {
-      "icao": "VICX",
-      "name": "Kanpur Airport",
       "country": "IN",
       "timezone": "Asia/Calcutta"
     },
@@ -100486,6 +100708,12 @@
       "timezone": "Asia/Katmandu"
     },
     {
+      "icao": "VNPR",
+      "name": "Pokhara International Airport",
+      "country": "NP",
+      "timezone": "Asia/Kathmandu"
+    },
+    {
       "icao": "VNRB",
       "name": "Rajbiraj Airport",
       "country": "NP",
@@ -100942,6 +101170,12 @@
       "timezone": "Indian/Maldives"
     },
     {
+      "icao": "VRCF",
+      "name": "Funadhoo Airport",
+      "country": "MV",
+      "timezone": "Indian/Maldives"
+    },
+    {
       "icao": "VRDA",
       "name": "Maafaru International Airport",
       "country": "MV",
@@ -101016,6 +101250,12 @@
     {
       "icao": "VRNT",
       "name": "Thimarafushi Airport",
+      "country": "MV",
+      "timezone": "Indian/Maldives"
+    },
+    {
+      "icao": "VRQF",
+      "name": "Faresmaathoda Airport",
       "country": "MV",
       "timezone": "Indian/Maldives"
     },
@@ -102095,7 +102335,7 @@
     },
     {
       "icao": "WABP",
-      "name": "Mozes Kilangin Airport",
+      "name": "Burumeso Airstrip",
       "country": "ID",
       "timezone": "Asia/Jayapura"
     },
@@ -102334,6 +102574,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WAGD",
+      "name": "Tanjung Harapan Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WAGF",
       "name": "Seruyan Kuala Pembuang Airport",
       "country": "ID",
@@ -102366,6 +102612,12 @@
     {
       "icao": "WAGS",
       "name": "Sampit (H.Asan) Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAGT",
+      "name": "Tumbang Samba Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -102410,12 +102662,6 @@
       "name": "Dewadaru Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
-    },
-    {
-      "icao": "WAJB",
-      "name": "Bokondini Airport",
-      "country": "ID",
-      "timezone": "Asia/Jayapura"
     },
     {
       "icao": "WAJC",
@@ -102485,7 +102731,7 @@
     },
     {
       "icao": "WAJY",
-      "name": "Werur Airport",
+      "name": "Borme Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -102584,12 +102830,6 @@
       "name": "Melalan Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
-    },
-    {
-      "icao": "WALG",
-      "name": "Tanjung Harapan Airport",
-      "country": "ID",
-      "timezone": "Asia/Makassar"
     },
     {
       "icao": "WALJ",
@@ -102744,12 +102984,6 @@
     {
       "icao": "WAOU",
       "name": "Sanggu Airport",
-      "country": "ID",
-      "timezone": "Asia/Jakarta"
-    },
-    {
-      "icao": "WAOW",
-      "name": "Tumbang Samba Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103198,6 +103432,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WAUE",
+      "name": "Werur Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WAUU",
       "name": "Rendani Airport",
       "country": "ID",
@@ -103206,6 +103446,12 @@
     {
       "icao": "WAVA",
       "name": "Mulia Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAVB",
+      "name": "Bokondini Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103356,6 +103602,12 @@
     {
       "icao": "WAYW",
       "name": "Waren Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAYY",
+      "name": "Mozes Kilangin Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103763,7 +104015,7 @@
     },
     {
       "icao": "WIDO",
-      "name": "(Duplicate)Ranai Airport",
+      "name": "Ranai Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103774,8 +104026,20 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WIEB",
+      "name": "Mentawai Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WIEE",
       "name": "Minangkabau International Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIEP",
+      "name": "Pusako Anak Nagariu Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103816,12 +104080,6 @@
       "timezone": "Asia/Jakarta"
     },
     {
-      "icao": "WIGM",
-      "name": "Muko Muko Airport",
-      "country": "ID",
-      "timezone": "Asia/Jakarta"
-    },
-    {
       "icao": "WIHC",
       "name": "Wiladatika Airport",
       "country": "ID",
@@ -103854,6 +104112,18 @@
     {
       "icao": "WIIK",
       "name": "Kalijati Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIJB",
+      "name": "Muara Bungo Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIJI",
+      "name": "Departi Parbo Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103936,6 +104206,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WIML",
+      "name": "Lasikin Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WIMM",
       "name": "Kualanamu International Airport",
       "country": "ID",
@@ -104008,12 +104284,6 @@
       "timezone": "Asia/Jakarta"
     },
     {
-      "icao": "WION",
-      "name": "Ranai Airport",
-      "country": "ID",
-      "timezone": "Asia/Jakarta"
-    },
-    {
       "icao": "WIOO",
       "name": "Supadio International Airport",
       "country": "ID",
@@ -104056,12 +104326,6 @@
       "timezone": "Asia/Jakarta"
     },
     {
-      "icao": "WIPI",
-      "name": "Muara Bungo Airport",
-      "country": "ID",
-      "timezone": "Asia/Jakarta"
-    },
-    {
       "icao": "WIPO",
       "name": "Gatot Subrato Airport",
       "country": "ID",
@@ -104076,6 +104340,12 @@
     {
       "icao": "WIPQ",
       "name": "Pendopo Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WIPU",
+      "name": "Muko Muko Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -104118,12 +104388,6 @@
     {
       "icao": "WITC",
       "name": "Cut Nyak Dhien Airport",
-      "country": "ID",
-      "timezone": "Asia/Jakarta"
-    },
-    {
-      "icao": "WITG",
-      "name": "Lasikin Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -113632,12 +113896,6 @@
       "timezone": "Australia/Sydney"
     },
     {
-      "icao": "YSNB",
-      "name": "Snake Bay Airport",
-      "country": "AU",
-      "timezone": "Australia/Sydney"
-    },
-    {
       "icao": "YSNC",
       "name": "Sinclair Airport",
       "country": "AU",
@@ -113648,6 +113906,12 @@
       "name": "Norfolk Island International Airport",
       "country": "NF",
       "timezone": "Pacific/Norfolk"
+    },
+    {
+      "icao": "YSNK",
+      "name": "Snake Bay Airport",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
     },
     {
       "icao": "YSNT",
@@ -113873,7 +114137,7 @@
     },
     {
       "icao": "YSWS",
-      "name": "Nancy Bird Walton, Western Sydney International Airport",
+      "name": "Western Sydney International (Nancy-Bird Walton) Airport",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
