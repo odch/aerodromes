@@ -3,50 +3,22 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19754
-   Staging aerodromes: 19798
-   Net change: +44
+   Production aerodromes: 19798
+   Staging aerodromes: 19800
+   Net change: +2
 
-✅ NEW AERODROMES (64):
-   + AYLM: Lake Murray Airport (PG)
-   + EPSP: Sieraków-Lutomek Airfield (PL)
-   + KBVU: Boulder City Municipal Airport (US)
-   + KRYA: Wray Municipal Airport (US)
-   + LEAK: Campo de Vuelo Aliaguilla (ES)
-   + LEBT: Basa Aérea de Valencia-Bétera (ES)
-   + MGMM: Mundo Maya International Airport (GT)
-   + MPPA: Panamá Pacífico International Airport (PA)
-   + MPPI: Bahia Piña Airport (PA)
-   + MPRA: Raul Arias Espinoza Airport (PA)
-   ... and 54 more
+✅ NEW AERODROMES (4):
+   + UENY: Kyrgyday Airfield (RU)
+   + UESI: Nychalakh  HLS (RU)
+   + UESP: Polyarnoye HLS (RU)
+   + UEYB: Betyung Airfield (RU)
 
-❌ REMOVED AERODROMES (20):
-   - MGTK: Mundo Maya International Airport (GT)
-   - MPHO: Panamá Pacífico International Airport (PA)
-   - SBCM: Forquilhinha - Criciúma  Airport (BR)
-   - SBGU: Tancredo Thomas de Faria Airport (BR)
-   - SBRR: Barreirinhas National Airport (BR)
-   - SETM: Ciudad de Catamayo Airport (EC)
-   - SNFH: Fazenda Dom Felipe Airport (BR)
-   - SNPP: Morro de São Paulo Airport (BR)
-   - SPHU: Huancayo Airport (PE)
-   - VAKJ: Khajuraho Airport (IN)
-   ... and 10 more
+❌ REMOVED AERODROMES (2):
+   - ESSK: Gävle Sandviken Airport (SE)
+   - GOOT: (Duplicate??)GOOT (SN)
 
-🔄 CHANGED AERODROMES (5):
-   ~ LECI: Santa Cilia de Jaca Airfield
-     name: 'Santa Cilia De Jaca Airfield' → 'Santa Cilia de Jaca Airfield'
-   ~ WABP: Burumeso Airstrip
-     name: 'Mozes Kilangin Airport' → 'Burumeso Airstrip'
-   ~ WAJY: Borme Airstrip
-     name: 'Werur Airport' → 'Borme Airstrip'
-   ~ WIDO: Ranai Airport
-     name: '(Duplicate)Ranai Airport' → 'Ranai Airport'
-   ~ YSWS: Western Sydney International (Nancy-Bird Walton) Airport
-     name: 'Nancy Bird Walton, Western Sydney International Airport' → 'Western Sydney International (Nancy-Bird Walton) Airport'
-
-🕐 Staging last updated: 2026-07-20T09:18:41
-🕐 Production last updated: 2026-07-13T09:31:52
+🕐 Staging last updated: 2026-07-27T09:56:00
+🕐 Production last updated: 2026-07-20T09:18:41
 ------------------------------------------------------------
-📋 Total changes: 89
+📋 Total changes: 6
 💡 To release these changes, run: python3 release.py
