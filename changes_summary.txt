@@ -3,22 +3,22 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19798
+   Production aerodromes: 19800
    Staging aerodromes: 19800
-   Net change: +2
+   Net change: +0
 
-✅ NEW AERODROMES (4):
-   + UENY: Kyrgyday Airfield (RU)
-   + UESI: Nychalakh  HLS (RU)
-   + UESP: Polyarnoye HLS (RU)
-   + UEYB: Betyung Airfield (RU)
+✅ NEW AERODROMES (1):
+   + UHGQ: Pionernaya Heliport (RU)
 
-❌ REMOVED AERODROMES (2):
-   - ESSK: Gävle Sandviken Airport (SE)
-   - GOOT: (Duplicate??)GOOT (SN)
+❌ REMOVED AERODROMES (1):
+   - YBLO: Bullio Airport (AU)
 
-🕐 Staging last updated: 2026-07-27T09:56:00
-🕐 Production last updated: 2026-07-20T09:18:41
+🔄 CHANGED AERODROMES (1):
+   ~ LFBS: Biscarrosse Parentis Airfield
+     name: 'Biscarrosse Parentis airfield' → 'Biscarrosse Parentis Airfield'
+
+🕐 Staging last updated: 2026-08-03T09:50:08
+🕐 Production last updated: 2026-07-27T09:56:00
 ------------------------------------------------------------
-📋 Total changes: 6
+📋 Total changes: 3
 💡 To release these changes, run: python3 release.py
