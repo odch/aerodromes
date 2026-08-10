@@ -1,7 +1,7 @@
 {
-  "version": "1.0.63",
-  "last_updated": "2026-08-03T09:50:08",
-  "total_count": 19800,
+  "version": "1.0.64",
+  "last_updated": "2026-08-10T07:45:11",
+  "total_count": 19809,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -12262,12 +12262,6 @@
       "timezone": "Europe/London"
     },
     {
-      "icao": "EGDX",
-      "name": "MOD St Athan",
-      "country": "GB",
-      "timezone": "Europe/London"
-    },
-    {
       "icao": "EGDY",
       "name": "RNAS Yeovilton",
       "country": "GB",
@@ -13116,6 +13110,12 @@
     {
       "icao": "EGSX",
       "name": "North Weald Airfield",
+      "country": "GB",
+      "timezone": "Europe/London"
+    },
+    {
+      "icao": "EGSY",
+      "name": "MOD St Athan",
       "country": "GB",
       "timezone": "Europe/London"
     },
@@ -86992,6 +86992,12 @@
       "timezone": "America/Lima"
     },
     {
+      "icao": "SQAB",
+      "name": "White Waters Ag Airport",
+      "country": "CO",
+      "timezone": "America/Bogota"
+    },
+    {
       "icao": "SQED",
       "name": "El Delirio Airport",
       "country": "CO",
@@ -87006,6 +87012,12 @@
     {
       "icao": "SQKS",
       "name": "Aerodromo Los Campanos",
+      "country": "CO",
+      "timezone": "America/Bogota"
+    },
+    {
+      "icao": "SQPU",
+      "name": "Acapulco Ag Airport",
       "country": "CO",
       "timezone": "America/Bogota"
     },
@@ -91398,12 +91410,6 @@
     {
       "icao": "SVPA",
       "name": "Cacique Aramare Airport",
-      "country": "VE",
-      "timezone": "America/Caracas"
-    },
-    {
-      "icao": "SVPB",
-      "name": "Punta Brava Airport",
       "country": "VE",
       "timezone": "America/Caracas"
     },
@@ -102640,6 +102646,12 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WAGU",
+      "name": "Byan Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WAHH",
       "name": "Adisutjipto International Airport",
       "country": "ID",
@@ -103486,8 +103498,20 @@
       "timezone": "Asia/Jakarta"
     },
     {
+      "icao": "WAVJ",
+      "name": "Silimo Airstrip",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
       "icao": "WAVK",
       "name": "Kobagma Airport",
+      "country": "ID",
+      "timezone": "Asia/Jakarta"
+    },
+    {
+      "icao": "WAVN",
+      "name": "Angguruk Airstrip",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -103991,7 +104015,7 @@
     },
     {
       "icao": "WICM",
-      "name": "Cibeureum Airport",
+      "name": "Wiriadinata Airport",
       "country": "ID",
       "timezone": "Asia/Jakarta"
     },
@@ -105900,6 +105924,12 @@
     {
       "icao": "YBFT",
       "name": "Beaufort",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "icao": "YBFW",
+      "name": "Beefwood HLS",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
@@ -108406,6 +108436,12 @@
       "timezone": "Australia/Sydney"
     },
     {
+      "icao": "YFBR",
+      "name": "Fairey Bower Airfield",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
       "icao": "YFBS",
       "name": "Forbes Airport",
       "country": "AU",
@@ -108414,6 +108450,12 @@
     {
       "icao": "YFCK",
       "name": "Fish Creek Airport",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "icao": "YFCN",
+      "name": "Fort Constantine Airport",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
@@ -108438,6 +108480,18 @@
     {
       "icao": "YFFT",
       "name": "Farrell Flat Airport",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "icao": "YFGS",
+      "name": "Frogs Hollow Airfield",
+      "country": "AU",
+      "timezone": "Australia/Sydney"
+    },
+    {
+      "icao": "YFHA",
+      "name": "Finch Hatton Airfield",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },

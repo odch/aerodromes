@@ -4,21 +4,32 @@
 ------------------------------------------------------------
 📊 Summary:
    Production aerodromes: 19800
-   Staging aerodromes: 19800
-   Net change: +0
+   Staging aerodromes: 19809
+   Net change: +9
 
-✅ NEW AERODROMES (1):
-   + UHGQ: Pionernaya Heliport (RU)
+✅ NEW AERODROMES (11):
+   + EGSY: MOD St Athan (GB)
+   + SQAB: White Waters Ag Airport (CO)
+   + SQPU: Acapulco Ag Airport (CO)
+   + WAGU: Byan Airport (ID)
+   + WAVJ: Silimo Airstrip (ID)
+   + WAVN: Angguruk Airstrip (ID)
+   + YBFW: Beefwood HLS (AU)
+   + YFBR: Fairey Bower Airfield (AU)
+   + YFCN: Fort Constantine Airport (AU)
+   + YFGS: Frogs Hollow Airfield (AU)
+   ... and 1 more
 
-❌ REMOVED AERODROMES (1):
-   - YBLO: Bullio Airport (AU)
+❌ REMOVED AERODROMES (2):
+   - EGDX: MOD St Athan (GB)
+   - SVPB: Punta Brava Airport (VE)
 
 🔄 CHANGED AERODROMES (1):
-   ~ LFBS: Biscarrosse Parentis Airfield
-     name: 'Biscarrosse Parentis airfield' → 'Biscarrosse Parentis Airfield'
+   ~ WICM: Wiriadinata Airport
+     name: 'Cibeureum Airport' → 'Wiriadinata Airport'
 
-🕐 Staging last updated: 2026-08-03T09:50:08
-🕐 Production last updated: 2026-07-27T09:56:00
+🕐 Staging last updated: 2026-08-10T07:45:11
+🕐 Production last updated: 2026-08-03T09:50:08
 ------------------------------------------------------------
-📋 Total changes: 3
+📋 Total changes: 14
 💡 To release these changes, run: python3 release.py
