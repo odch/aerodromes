@@ -3,33 +3,48 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19800
-   Staging aerodromes: 19809
-   Net change: +9
+   Production aerodromes: 19809
+   Staging aerodromes: 19807
+   Net change: -2
 
-✅ NEW AERODROMES (11):
-   + EGSY: MOD St Athan (GB)
-   + SQAB: White Waters Ag Airport (CO)
-   + SQPU: Acapulco Ag Airport (CO)
-   + WAGU: Byan Airport (ID)
-   + WAVJ: Silimo Airstrip (ID)
-   + WAVN: Angguruk Airstrip (ID)
-   + YBFW: Beefwood HLS (AU)
-   + YFBR: Fairey Bower Airfield (AU)
-   + YFCN: Fort Constantine Airport (AU)
-   + YFGS: Frogs Hollow Airfield (AU)
-   ... and 1 more
+✅ NEW AERODROMES (5):
+   + EISB: Snug Beag Airfield (IE)
+   + EPGU: Ulim (PL)
+   + FQES: Estima Airbase (MZ)
+   + PTYU: Ulithi Airport (FM)
+   + VOVI: Alluri Sitarama Raju International Airport (Vizag) (IN)
 
-❌ REMOVED AERODROMES (2):
-   - EGDX: MOD St Athan (GB)
-   - SVPB: Punta Brava Airport (VE)
+❌ REMOVED AERODROMES (7):
+   - EPGW: Ulim (PL)
+   - GVAN: Agostinho Neto Airport (CV)
+   - XXXX: Serik Bus Station Helipad (TR)
+   - YBXH: Branxholme Airport (AU)
+   - YCOL: Coleraine Airport (AU)
+   - YSDW: Strathdownie Airport (AU)
+   - ZMBR: Bulagtai Resort Airport (MN)
 
-🔄 CHANGED AERODROMES (1):
-   ~ WICM: Wiriadinata Airport
-     name: 'Cibeureum Airport' → 'Wiriadinata Airport'
+🔄 CHANGED AERODROMES (9):
+   ~ KGMJ: Grove Regional Airport
+     name: 'Grove Municipal Airport' → 'Grove Regional Airport'
+   ~ KHBZ: Heber Springs Municipal Airport/Charlie Evans Field
+     name: 'Heber Springs Municipal Airport' → 'Heber Springs Municipal Airport/Charlie Evans Field'
+   ~ KMEM: Frederick W. Smith International Airport
+     name: 'Memphis International Airport' → 'Frederick W. Smith International Airport'
+   ~ KSJC: Mineta San Jose International Airport
+     name: 'Norman Y. Mineta San Jose International Airport' → 'Mineta San Jose International Airport'
+   ~ LCGK: Geçitkale Airbase
+     name: 'Lefkoniko Airport / Geçitkale Air Base' → 'Geçitkale Airbase'
+   ~ VAAM: Amravati  Airport
+     name: 'Amravati (Belora) Airstrip' → 'Amravati  Airport'
+   ~ VISR: Srinagar International Airport
+     name: 'Sheikh ul Alam International Airport' → 'Srinagar International Airport'
+   ~ VOVZ: INS Dega Airport (visakhapatnam international airport)
+     name: 'Visakhapatnam International Airport' → 'INS Dega Airport (visakhapatnam international airport)'
+   ~ ZPZT: Zhaotong Airport (Old)
+     name: 'Zhaotong Airport' → 'Zhaotong Airport (Old)'
 
-🕐 Staging last updated: 2026-08-10T07:45:11
-🕐 Production last updated: 2026-08-03T09:50:08
+🕐 Staging last updated: 2026-08-17T06:59:05
+🕐 Production last updated: 2026-08-10T07:45:11
 ------------------------------------------------------------
-📋 Total changes: 14
+📋 Total changes: 21
 💡 To release these changes, run: python3 release.py
