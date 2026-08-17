@@ -1,7 +1,7 @@
 {
-  "version": "1.0.65",
-  "last_updated": "2026-08-10T07:45:11",
-  "total_count": 19809,
+  "version": "1.0.66",
+  "last_updated": "2026-08-17T06:59:05",
+  "total_count": 19807,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -14368,6 +14368,12 @@
       "timezone": "Europe/Dublin"
     },
     {
+      "icao": "EISB",
+      "name": "Snug Beag Airfield",
+      "country": "IE",
+      "timezone": "Europe/Dublin"
+    },
+    {
       "icao": "EISG",
       "name": "Sligo Airport",
       "country": "IE",
@@ -16186,7 +16192,7 @@
       "timezone": "Europe/Warsaw"
     },
     {
-      "icao": "EPGW",
+      "icao": "EPGU",
       "name": "Ulim",
       "country": "PL",
       "timezone": "Europe/Warsaw"
@@ -22846,6 +22852,12 @@
       "timezone": "Africa/Maputo"
     },
     {
+      "icao": "FQES",
+      "name": "Estima Airbase",
+      "country": "MZ",
+      "timezone": "Africa/Maputo"
+    },
+    {
       "icao": "FQFU",
       "name": "Furancungo Airport",
       "country": "MZ",
@@ -27222,12 +27234,6 @@
     {
       "icao": "GVAC",
       "name": "Amílcar Cabral International Airport",
-      "country": "CV",
-      "timezone": "Atlantic/Cape_Verde"
-    },
-    {
-      "icao": "GVAN",
-      "name": "Agostinho Neto Airport",
       "country": "CV",
       "timezone": "Atlantic/Cape_Verde"
     },
@@ -34859,7 +34865,7 @@
     },
     {
       "icao": "KGMJ",
-      "name": "Grove Municipal Airport",
+      "name": "Grove Regional Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -35285,7 +35291,7 @@
     },
     {
       "icao": "KHBZ",
-      "name": "Heber Springs Municipal Airport",
+      "name": "Heber Springs Municipal Airport/Charlie Evans Field",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -37631,7 +37637,7 @@
     },
     {
       "icao": "KMEM",
-      "name": "Memphis International Airport",
+      "name": "Frederick W. Smith International Airport",
       "country": "US",
       "timezone": "America/Chicago"
     },
@@ -41387,7 +41393,7 @@
     },
     {
       "icao": "KSJC",
-      "name": "Norman Y. Mineta San Jose International Airport",
+      "name": "Mineta San Jose International Airport",
       "country": "US",
       "timezone": "America/Los_Angeles"
     },
@@ -43553,7 +43559,7 @@
     },
     {
       "icao": "LCGK",
-      "name": "Lefkoniko Airport / Geçitkale Air Base",
+      "name": "Geçitkale Airbase",
       "country": "CY",
       "timezone": "Asia/Nicosia"
     },
@@ -64052,6 +64058,12 @@
       "name": "Yap International Airport",
       "country": "FM",
       "timezone": "Pacific/Truk"
+    },
+    {
+      "icao": "PTYU",
+      "name": "Ulithi Airport",
+      "country": "FM",
+      "timezone": "UTC"
     },
     {
       "icao": "PWAK",
@@ -99209,7 +99221,7 @@
     },
     {
       "icao": "VAAM",
-      "name": "Amravati (Belora) Airstrip",
+      "name": "Amravati  Airport",
       "country": "IN",
       "timezone": "Asia/Kolkata"
     },
@@ -100409,7 +100421,7 @@
     },
     {
       "icao": "VISR",
-      "name": "Sheikh ul Alam International Airport",
+      "name": "Srinagar International Airport",
       "country": "IN",
       "timezone": "Asia/Calcutta"
     },
@@ -101128,6 +101140,12 @@
       "timezone": "Asia/Calcutta"
     },
     {
+      "icao": "VOVI",
+      "name": "Alluri Sitarama Raju International Airport (Vizag)",
+      "country": "IN",
+      "timezone": "Asia/Kolkata"
+    },
+    {
       "icao": "VOVR",
       "name": "Vellore Airport",
       "country": "IN",
@@ -101135,7 +101153,7 @@
     },
     {
       "icao": "VOVZ",
-      "name": "Visakhapatnam International Airport",
+      "name": "INS Dega Airport (visakhapatnam international airport)",
       "country": "IN",
       "timezone": "Asia/Kolkata"
     },
@@ -105046,12 +105064,6 @@
       "timezone": "Europe/Moscow"
     },
     {
-      "icao": "XXXX",
-      "name": "Serik Bus Station Helipad",
-      "country": "TR",
-      "timezone": "Europe/Istanbul"
-    },
-    {
       "icao": "YAAL",
       "name": "Yarralin Airport",
       "country": "AU",
@@ -106666,12 +106678,6 @@
       "timezone": "Australia/Perth"
     },
     {
-      "icao": "YBXH",
-      "name": "Branxholme Airport",
-      "country": "AU",
-      "timezone": "Australia/Sydney"
-    },
-    {
       "icao": "YBYA",
       "name": "Bryah Airport",
       "country": "AU",
@@ -107298,12 +107304,6 @@
     {
       "icao": "YCOI",
       "name": "Collie Airport",
-      "country": "AU",
-      "timezone": "Australia/Sydney"
-    },
-    {
-      "icao": "YCOL",
-      "name": "Coleraine Airport",
       "country": "AU",
       "timezone": "Australia/Sydney"
     },
@@ -113770,12 +113770,6 @@
       "timezone": "Australia/Sydney"
     },
     {
-      "icao": "YSDW",
-      "name": "Strathdownie Airport",
-      "country": "AU",
-      "timezone": "Australia/Sydney"
-    },
-    {
       "icao": "YSEA",
       "name": "Sedan Airfield",
       "country": "AU",
@@ -117586,12 +117580,6 @@
       "timezone": "Asia/Ulaanbaatar"
     },
     {
-      "icao": "ZMBR",
-      "name": "Bulagtai Resort Airport",
-      "country": "MN",
-      "timezone": "Asia/Ulaanbaatar"
-    },
-    {
       "icao": "ZMBS",
       "name": "Bulgan Sum Airport",
       "country": "MN",
@@ -117827,7 +117815,7 @@
     },
     {
       "icao": "ZPZT",
-      "name": "Zhaotong Airport",
+      "name": "Zhaotong Airport (Old)",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
@@ -118858,5 +118846,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-08-10T08:54:13"
+  "released_at": "2026-08-17T07:01:42"
 }
