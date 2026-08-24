@@ -1,7 +1,7 @@
 {
-  "version": "1.0.65",
-  "last_updated": "2026-08-17T06:59:05",
-  "total_count": 19807,
+  "version": "1.0.66",
+  "last_updated": "2026-08-24T07:02:00",
+  "total_count": 19810,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -18628,12 +18628,6 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FADE",
-      "name": "Delmas Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FADG",
       "name": "Dordrecht Airport",
       "country": "ZA",
@@ -31376,6 +31370,12 @@
       "name": "Brainerd Lakes Regional Airport",
       "country": "US",
       "timezone": "America/Chicago"
+    },
+    {
+      "icao": "KBRG",
+      "name": "Belen Regional Airport",
+      "country": "US",
+      "timezone": "America/New_York"
     },
     {
       "icao": "KBRL",
@@ -97228,6 +97228,12 @@
       "timezone": "Europe/Kiev"
     },
     {
+      "icao": "UKKK",
+      "name": "Igor Sikorsky Kyiv International Airport (Zhuliany)",
+      "country": "UA",
+      "timezone": "Europe/Kiev"
+    },
+    {
       "icao": "UKKM",
       "name": "Hostomel Airport",
       "country": "UA",
@@ -97236,6 +97242,12 @@
     {
       "icao": "UKKO",
       "name": "Ozerne Air Base",
+      "country": "UA",
+      "timezone": "Europe/Kiev"
+    },
+    {
+      "icao": "UKKT",
+      "name": "Svyatoshyn Airport",
       "country": "UA",
       "timezone": "Europe/Kiev"
     },
@@ -97308,6 +97320,12 @@
     {
       "icao": "UKOH",
       "name": "Kherson International Airport",
+      "country": "UA",
+      "timezone": "Europe/Kiev"
+    },
+    {
+      "icao": "UKON",
+      "name": "Mykolaiv International Airport [CLOSED]",
       "country": "UA",
       "timezone": "Europe/Kiev"
     },
