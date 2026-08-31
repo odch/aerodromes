@@ -3,21 +3,37 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19807
-   Staging aerodromes: 19810
+   Production aerodromes: 19810
+   Staging aerodromes: 19813
    Net change: +3
 
-✅ NEW AERODROMES (4):
-   + KBRG: Belen Regional Airport (US)
-   + UKKK: Igor Sikorsky Kyiv International Airport (Zhuliany) (UA)
-   + UKKT: Svyatoshyn Airport (UA)
-   + UKON: Mykolaiv International Airport [CLOSED] (UA)
+✅ NEW AERODROMES (5):
+   + EENI: Nurmsi Airfield (EE)
+   + EGUH: RAF High Wycombe (GB)
+   + PAFT: Flat Airport (US)
+   + VOJK: Jakkur Aerodrome (IN)
+   + ZMBR: Bulagtai Resort Airport (MN)
 
-❌ REMOVED AERODROMES (1):
-   - FADE: Delmas Airport (ZA)
+❌ REMOVED AERODROMES (2):
+   - LELM: Almansa Airfield (ES)
+   - OYMK: Mokha International Airport (YE)
 
-🕐 Staging last updated: 2026-08-24T07:02:00
-🕐 Production last updated: 2026-08-17T06:59:05
+🔄 CHANGED AERODROMES (6):
+   ~ EDXP: Harle Airfield
+     name: 'Harlesiel Airfield' → 'Harle Airfield'
+   ~ KBVN: Albion Municipal Airport/Ron Levander Field
+     name: 'Albion Municipal Airport' → 'Albion Municipal Airport/Ron Levander Field'
+   ~ KSAW: Marquette Sawyer Regional Airport
+     name: 'Marquette/Sawyer International Airport' → 'Marquette Sawyer Regional Airport'
+   ~ LEBI: Beariz Airfield Forest Fire Base
+     name: 'Beariz Airfield' → 'Beariz Airfield Forest Fire Base'
+   ~ MRBT: Tortuguero Airport
+     name: 'Barra del Tortuguero' → 'Tortuguero Airport'
+   ~ SBGL: Rio de Janeiro Galeão – Tom Jobim International Airport
+     name: 'Rio Galeão – Tom Jobim International Airport' → 'Rio de Janeiro Galeão – Tom Jobim International Airport'
+
+🕐 Staging last updated: 2026-08-31T13:02:20
+🕐 Production last updated: 2026-08-24T07:02:00
 ------------------------------------------------------------
-📋 Total changes: 5
+📋 Total changes: 13
 💡 To release these changes, run: python3 release.py

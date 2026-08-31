@@ -1,7 +1,7 @@
 {
-  "version": "1.0.66",
-  "last_updated": "2026-08-24T07:02:00",
-  "total_count": 19810,
+  "version": "1.0.67",
+  "last_updated": "2026-08-31T13:02:20",
+  "total_count": 19813,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -11099,7 +11099,7 @@
     },
     {
       "icao": "EDXP",
-      "name": "Harlesiel Airfield",
+      "name": "Harle Airfield",
       "country": "DE",
       "timezone": "Europe/Berlin"
     },
@@ -11268,6 +11268,12 @@
     {
       "icao": "EENA",
       "name": "Narva Airfield",
+      "country": "EE",
+      "timezone": "Europe/Tallinn"
+    },
+    {
+      "icao": "EENI",
+      "name": "Nurmsi Airfield",
       "country": "EE",
       "timezone": "Europe/Tallinn"
     },
@@ -13206,6 +13212,12 @@
     {
       "icao": "EGUD",
       "name": "RAF Abingdon",
+      "country": "GB",
+      "timezone": "Europe/London"
+    },
+    {
+      "icao": "EGUH",
+      "name": "RAF High Wycombe",
       "country": "GB",
       "timezone": "Europe/London"
     },
@@ -31499,7 +31511,7 @@
     },
     {
       "icao": "KBVN",
-      "name": "Albion Municipal Airport",
+      "name": "Albion Municipal Airport/Ron Levander Field",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -41057,7 +41069,7 @@
     },
     {
       "icao": "KSAW",
-      "name": "Marquette/Sawyer International Airport",
+      "name": "Marquette Sawyer Regional Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -43931,7 +43943,7 @@
     },
     {
       "icao": "LEBI",
-      "name": "Beariz Airfield",
+      "name": "Beariz Airfield Forest Fire Base",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -44388,12 +44400,6 @@
     {
       "icao": "LELL",
       "name": "Sabadell Airfield",
-      "country": "ES",
-      "timezone": "Europe/Madrid"
-    },
-    {
-      "icao": "LELM",
-      "name": "Almansa Airfield",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -55973,7 +55979,7 @@
     },
     {
       "icao": "MRBT",
-      "name": "Barra del Tortuguero",
+      "name": "Tortuguero Airport",
       "country": "CR",
       "timezone": "America/Costa_Rica"
     },
@@ -62350,12 +62356,6 @@
       "timezone": "Asia/Aden"
     },
     {
-      "icao": "OYMK",
-      "name": "Mokha International Airport",
-      "country": "YE",
-      "timezone": "Asia/Aden"
-    },
-    {
       "icao": "OYMS",
       "name": "Mukeiras Airport",
       "country": "YE",
@@ -62774,6 +62774,12 @@
       "name": "Nikolai Airport",
       "country": "US",
       "timezone": "America/Anchorage"
+    },
+    {
+      "icao": "PAFT",
+      "name": "Flat Airport",
+      "country": "US",
+      "timezone": "America/New_York"
     },
     {
       "icao": "PAGA",
@@ -67385,7 +67391,7 @@
     },
     {
       "icao": "SBGL",
-      "name": "Rio Galeão – Tom Jobim International Airport",
+      "name": "Rio de Janeiro Galeão – Tom Jobim International Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -100996,6 +101002,12 @@
       "timezone": "Asia/Calcutta"
     },
     {
+      "icao": "VOJK",
+      "name": "Jakkur Aerodrome",
+      "country": "IN",
+      "timezone": "Asia/Kolkata"
+    },
+    {
       "icao": "VOJV",
       "name": "Jindal Vijaynagar Airport",
       "country": "IN",
@@ -117594,6 +117606,12 @@
     {
       "icao": "ZMBN",
       "name": "Bulgan Airport",
+      "country": "MN",
+      "timezone": "Asia/Ulaanbaatar"
+    },
+    {
+      "icao": "ZMBR",
+      "name": "Bulagtai Resort Airport",
       "country": "MN",
       "timezone": "Asia/Ulaanbaatar"
     },
