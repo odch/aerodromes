@@ -1,7 +1,7 @@
 {
-  "version": "1.0.68",
-  "last_updated": "2026-08-31T13:02:20",
-  "total_count": 19813,
+  "version": "1.0.69",
+  "last_updated": "2026-09-07T11:54:34",
+  "total_count": 19815,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -8260,12 +8260,6 @@
       "timezone": "Europe/Brussels"
     },
     {
-      "icao": "EBSM",
-      "name": "Verrebroek Private Airstrip",
-      "country": "BE",
-      "timezone": "Europe/Brussels"
-    },
-    {
       "icao": "EBSP",
       "name": "Spa-La Sauvenière Airfield",
       "country": "BE",
@@ -16162,6 +16156,12 @@
       "timezone": "Europe/Warsaw"
     },
     {
+      "icao": "EPFG",
+      "name": "Kiełpin Airfield",
+      "country": "PL",
+      "timezone": "Europe/Warsaw"
+    },
+    {
       "icao": "EPGD",
       "name": "Gdańsk Lech Wałęsa Airport",
       "country": "PL",
@@ -19816,6 +19816,12 @@
       "timezone": "Africa/Johannesburg"
     },
     {
+      "icao": "FASP",
+      "name": "Singita Safari Lodge Airport",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
       "icao": "FASS",
       "name": "Sishen Airport",
       "country": "ZA",
@@ -20147,7 +20153,7 @@
     },
     {
       "icao": "FAWS",
-      "name": "Wesselbronn Af Airport",
+      "name": "Wesselbronn Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -20164,8 +20170,26 @@
       "timezone": "Africa/Johannesburg"
     },
     {
+      "icao": "FAWW",
+      "name": "Sodwana Airstrip",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
       "icao": "FAYP",
       "name": "Ysterplaat Air Force Base",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "icao": "FAZC",
+      "name": "Zululand Anthracite Colliery Airstrip",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "icao": "FAZG",
+      "name": "Swartberg Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -20910,12 +20934,6 @@
     {
       "icao": "FDBT",
       "name": "Tambuti Airport",
-      "country": "SZ",
-      "timezone": "Africa/Mbabane"
-    },
-    {
-      "icao": "FDGL",
-      "name": "Lavumisa Airport",
       "country": "SZ",
       "timezone": "Africa/Mbabane"
     },
@@ -34583,7 +34601,7 @@
     },
     {
       "icao": "KGBG",
-      "name": "Galesburg Municipal Airport",
+      "name": "Galesburg Regional HW Timmons  Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -35171,7 +35189,7 @@
     },
     {
       "icao": "KGWS",
-      "name": "Glenwood Springs Municipal Airport",
+      "name": "Sumers Airpark",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -42880,6 +42898,12 @@
       "timezone": "America/New_York"
     },
     {
+      "icao": "KVKX",
+      "name": "Potomac Airfield",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
       "icao": "KVLA",
       "name": "Vandalia Municipal Airport",
       "country": "US",
@@ -44410,12 +44434,6 @@
       "timezone": "Europe/Madrid"
     },
     {
-      "icao": "LELO",
-      "name": "Logroño-Agoncillo Airport",
-      "country": "ES",
-      "timezone": "Europe/Madrid"
-    },
-    {
       "icao": "LELT",
       "name": "Lillo Airfield",
       "country": "ES",
@@ -44676,6 +44694,12 @@
     {
       "icao": "LERI",
       "name": "Alcantarilla Air Base",
+      "country": "ES",
+      "timezone": "Europe/Madrid"
+    },
+    {
+      "icao": "LERJ",
+      "name": "Logroño-Agoncillo Airport",
       "country": "ES",
       "timezone": "Europe/Madrid"
     },
@@ -61680,12 +61704,6 @@
     {
       "icao": "OPBL",
       "name": "Bela Airport",
-      "country": "PK",
-      "timezone": "Asia/Karachi"
-    },
-    {
-      "icao": "OPBN",
-      "name": "Bannu Airport",
       "country": "PK",
       "timezone": "Asia/Karachi"
     },
@@ -84485,7 +84503,7 @@
     },
     {
       "icao": "SNKK",
-      "name": "Caicó Airport",
+      "name": "Rui Mariz Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -104554,12 +104572,6 @@
       "timezone": "Asia/Kuala_Lumpur"
     },
     {
-      "icao": "WMAL",
-      "name": "Kuala Kerai Airport",
-      "country": "MY",
-      "timezone": "Asia/Kuala_Lumpur"
-    },
-    {
       "icao": "WMAN",
       "name": "Sungai Tiang Airport",
       "country": "MY",
@@ -118882,5 +118894,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-09-01T06:36:41"
+  "released_at": "2026-09-07T21:20:07"
 }
