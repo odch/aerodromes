@@ -3,37 +3,38 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19810
-   Staging aerodromes: 19813
-   Net change: +3
+   Production aerodromes: 19813
+   Staging aerodromes: 19815
+   Net change: +2
 
-✅ NEW AERODROMES (5):
-   + EENI: Nurmsi Airfield (EE)
-   + EGUH: RAF High Wycombe (GB)
-   + PAFT: Flat Airport (US)
-   + VOJK: Jakkur Aerodrome (IN)
-   + ZMBR: Bulagtai Resort Airport (MN)
+✅ NEW AERODROMES (7):
+   + EPFG: Kiełpin Airfield (PL)
+   + FASP: Singita Safari Lodge Airport (ZA)
+   + FAWW: Sodwana Airstrip (ZA)
+   + FAZC: Zululand Anthracite Colliery Airstrip (ZA)
+   + FAZG: Swartberg Airport (ZA)
+   + KVKX: Potomac Airfield (US)
+   + LERJ: Logroño-Agoncillo Airport (ES)
 
-❌ REMOVED AERODROMES (2):
-   - LELM: Almansa Airfield (ES)
-   - OYMK: Mokha International Airport (YE)
+❌ REMOVED AERODROMES (5):
+   - EBSM: Verrebroek Private Airstrip (BE)
+   - FDGL: Lavumisa Airport (SZ)
+   - LELO: Logroño-Agoncillo Airport (ES)
+   - OPBN: Bannu Airport (PK)
+   - WMAL: Kuala Kerai Airport (MY)
 
-🔄 CHANGED AERODROMES (6):
-   ~ EDXP: Harle Airfield
-     name: 'Harlesiel Airfield' → 'Harle Airfield'
-   ~ KBVN: Albion Municipal Airport/Ron Levander Field
-     name: 'Albion Municipal Airport' → 'Albion Municipal Airport/Ron Levander Field'
-   ~ KSAW: Marquette Sawyer Regional Airport
-     name: 'Marquette/Sawyer International Airport' → 'Marquette Sawyer Regional Airport'
-   ~ LEBI: Beariz Airfield Forest Fire Base
-     name: 'Beariz Airfield' → 'Beariz Airfield Forest Fire Base'
-   ~ MRBT: Tortuguero Airport
-     name: 'Barra del Tortuguero' → 'Tortuguero Airport'
-   ~ SBGL: Rio de Janeiro Galeão – Tom Jobim International Airport
-     name: 'Rio Galeão – Tom Jobim International Airport' → 'Rio de Janeiro Galeão – Tom Jobim International Airport'
+🔄 CHANGED AERODROMES (4):
+   ~ FAWS: Wesselbronn Airport
+     name: 'Wesselbronn Af Airport' → 'Wesselbronn Airport'
+   ~ KGBG: Galesburg Regional HW Timmons  Airport
+     name: 'Galesburg Municipal Airport' → 'Galesburg Regional HW Timmons  Airport'
+   ~ KGWS: Sumers Airpark
+     name: 'Glenwood Springs Municipal Airport' → 'Sumers Airpark'
+   ~ SNKK: Rui Mariz Airport
+     name: 'Caicó Airport' → 'Rui Mariz Airport'
 
-🕐 Staging last updated: 2026-08-31T13:02:20
-🕐 Production last updated: 2026-08-24T07:02:00
+🕐 Staging last updated: 2026-09-07T11:54:34
+🕐 Production last updated: 2026-08-31T13:02:20
 ------------------------------------------------------------
-📋 Total changes: 13
+📋 Total changes: 16
 💡 To release these changes, run: python3 release.py
