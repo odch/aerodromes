@@ -1,7 +1,7 @@
 {
-  "version": "1.0.68",
-  "last_updated": "2026-09-07T11:54:34",
-  "total_count": 19815,
+  "version": "1.0.69",
+  "last_updated": "2026-09-14T12:10:01",
+  "total_count": 19818,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -4664,12 +4664,6 @@
       "name": "Denny Island Airport",
       "country": "CA",
       "timezone": "America/Vancouver"
-    },
-    {
-      "icao": "CYJT",
-      "name": "Stephenville Dymond International Airport",
-      "country": "CA",
-      "timezone": "America/St_Johns"
     },
     {
       "icao": "CYKA",
@@ -19444,6 +19438,12 @@
       "timezone": "Africa/Johannesburg"
     },
     {
+      "icao": "FANI",
+      "name": "N’tsiri Airstrip",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
       "icao": "FANL",
       "name": "New Largo Airport",
       "country": "ZA",
@@ -20098,14 +20098,14 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAWD",
-      "name": "Wolmeransstad Airport",
+      "icao": "FAWE",
+      "name": "Welgevonden Reserve",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAWE",
-      "name": "Welgevonden Reserve",
+      "icao": "FAWG",
+      "name": "Watts Landing Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -58144,6 +58144,18 @@
       "timezone": "Pacific/Tahiti"
     },
     {
+      "icao": "NTHB",
+      "name": "PAGO HELIPAD",
+      "country": "PF",
+      "timezone": "Pacific/Tahiti"
+    },
+    {
+      "icao": "NTHD",
+      "name": "TAIOHAE HELIPAD",
+      "country": "PF",
+      "timezone": "Pacific/Tahiti"
+    },
+    {
       "icao": "NTHE",
       "name": "Ahe Airport",
       "country": "PF",
@@ -72815,13 +72827,13 @@
     },
     {
       "icao": "SDUI",
-      "name": "Centro EmpresariaL Iudice Helipad",
+      "name": "Centro Empresarial Iudice Helistop",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
     {
       "icao": "SDUJ",
-      "name": "Milennium Heliport",
+      "name": "Milennium Helistop",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -102018,6 +102030,12 @@
     {
       "icao": "VYHN",
       "name": "Tilin Airport",
+      "country": "MM",
+      "timezone": "Asia/Yangon"
+    },
+    {
+      "icao": "VYHT",
+      "name": "Hinthada Airport",
       "country": "MM",
       "timezone": "Asia/Yangon"
     },

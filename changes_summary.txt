@@ -3,38 +3,29 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19813
-   Staging aerodromes: 19815
-   Net change: +2
+   Production aerodromes: 19815
+   Staging aerodromes: 19818
+   Net change: +3
 
-✅ NEW AERODROMES (7):
-   + EPFG: Kiełpin Airfield (PL)
-   + FASP: Singita Safari Lodge Airport (ZA)
-   + FAWW: Sodwana Airstrip (ZA)
-   + FAZC: Zululand Anthracite Colliery Airstrip (ZA)
-   + FAZG: Swartberg Airport (ZA)
-   + KVKX: Potomac Airfield (US)
-   + LERJ: Logroño-Agoncillo Airport (ES)
+✅ NEW AERODROMES (5):
+   + FANI: N’tsiri Airstrip (ZA)
+   + FAWG: Watts Landing Airport (ZA)
+   + NTHB: PAGO HELIPAD (PF)
+   + NTHD: TAIOHAE HELIPAD (PF)
+   + VYHT: Hinthada Airport (MM)
 
-❌ REMOVED AERODROMES (5):
-   - EBSM: Verrebroek Private Airstrip (BE)
-   - FDGL: Lavumisa Airport (SZ)
-   - LELO: Logroño-Agoncillo Airport (ES)
-   - OPBN: Bannu Airport (PK)
-   - WMAL: Kuala Kerai Airport (MY)
+❌ REMOVED AERODROMES (2):
+   - CYJT: Stephenville Dymond International Airport (CA)
+   - FAWD: Wolmeransstad Airport (ZA)
 
-🔄 CHANGED AERODROMES (4):
-   ~ FAWS: Wesselbronn Airport
-     name: 'Wesselbronn Af Airport' → 'Wesselbronn Airport'
-   ~ KGBG: Galesburg Regional HW Timmons  Airport
-     name: 'Galesburg Municipal Airport' → 'Galesburg Regional HW Timmons  Airport'
-   ~ KGWS: Sumers Airpark
-     name: 'Glenwood Springs Municipal Airport' → 'Sumers Airpark'
-   ~ SNKK: Rui Mariz Airport
-     name: 'Caicó Airport' → 'Rui Mariz Airport'
+🔄 CHANGED AERODROMES (2):
+   ~ SDUI: Centro Empresarial Iudice Helistop
+     name: 'Centro EmpresariaL Iudice Helipad' → 'Centro Empresarial Iudice Helistop'
+   ~ SDUJ: Milennium Helistop
+     name: 'Milennium Heliport' → 'Milennium Helistop'
 
-🕐 Staging last updated: 2026-09-07T11:54:34
-🕐 Production last updated: 2026-08-31T13:02:20
+🕐 Staging last updated: 2026-09-14T12:10:01
+🕐 Production last updated: 2026-09-07T11:54:34
 ------------------------------------------------------------
-📋 Total changes: 16
+📋 Total changes: 9
 💡 To release these changes, run: python3 release.py
