@@ -3,29 +3,19 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19815
-   Staging aerodromes: 19818
-   Net change: +3
+   Production aerodromes: 19818
+   Staging aerodromes: 19817
+   Net change: -1
 
-✅ NEW AERODROMES (5):
-   + FANI: N’tsiri Airstrip (ZA)
-   + FAWG: Watts Landing Airport (ZA)
-   + NTHB: PAGO HELIPAD (PF)
-   + NTHD: TAIOHAE HELIPAD (PF)
-   + VYHT: Hinthada Airport (MM)
+❌ REMOVED AERODROMES (1):
+   - SDUM: Uniban Heliport (BR)
 
-❌ REMOVED AERODROMES (2):
-   - CYJT: Stephenville Dymond International Airport (CA)
-   - FAWD: Wolmeransstad Airport (ZA)
+🔄 CHANGED AERODROMES (1):
+   ~ KCMA: Camarillo Airport
+     name: 'Camarillo International Airport' → 'Camarillo Airport'
 
-🔄 CHANGED AERODROMES (2):
-   ~ SDUI: Centro Empresarial Iudice Helistop
-     name: 'Centro EmpresariaL Iudice Helipad' → 'Centro Empresarial Iudice Helistop'
-   ~ SDUJ: Milennium Helistop
-     name: 'Milennium Heliport' → 'Milennium Helistop'
-
-🕐 Staging last updated: 2026-09-14T12:10:01
-🕐 Production last updated: 2026-09-07T11:54:34
+🕐 Staging last updated: 2026-09-21T12:18:24
+🕐 Production last updated: 2026-09-14T12:10:01
 ------------------------------------------------------------
-📋 Total changes: 9
+📋 Total changes: 2
 💡 To release these changes, run: python3 release.py

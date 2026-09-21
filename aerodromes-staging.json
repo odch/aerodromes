@@ -1,7 +1,7 @@
 {
-  "version": "1.0.69",
-  "last_updated": "2026-09-14T12:10:01",
-  "total_count": 19818,
+  "version": "1.0.70",
+  "last_updated": "2026-09-21T12:18:24",
+  "total_count": 19817,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -32159,7 +32159,7 @@
     },
     {
       "icao": "KCMA",
-      "name": "Camarillo International Airport",
+      "name": "Camarillo Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -72846,12 +72846,6 @@
     {
       "icao": "SDUL",
       "name": "Usina Santa Lydia Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
-      "icao": "SDUM",
-      "name": "Uniban Heliport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
