@@ -3,19 +3,29 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19818
-   Staging aerodromes: 19817
-   Net change: -1
+   Production aerodromes: 19817
+   Staging aerodromes: 19820
+   Net change: +3
+
+✅ NEW AERODROMES (4):
+   + EPWC: Świebodzice Airfield (PL)
+   + EPWT: Watorowo Airfield (PL)
+   + EPZE: Żerniki Gądki Airfield (PL)
+   + SSET: Sunset Airport (BR)
 
 ❌ REMOVED AERODROMES (1):
-   - SDUM: Uniban Heliport (BR)
+   - SNTM: Turmalina Airport (BR)
 
-🔄 CHANGED AERODROMES (1):
-   ~ KCMA: Camarillo Airport
-     name: 'Camarillo International Airport' → 'Camarillo Airport'
+🔄 CHANGED AERODROMES (3):
+   ~ LEPZ: Los Pozuelos de Calatrava Airfield
+     name: 'Los Pozuelos De Calatrava Airfield' → 'Los Pozuelos de Calatrava Airfield'
+   ~ SNSQ: Centro Empresarial Nações Unidas - North Tower Helistop
+     name: 'Centro Empresarial Nações Unidas - Torre Norte Heliport' → 'Centro Empresarial Nações Unidas - North Tower Helistop'
+   ~ SNSS: Salinas Municipal Airport
+     name: 'Salinas Airport' → 'Salinas Municipal Airport'
 
-🕐 Staging last updated: 2026-09-21T12:18:24
-🕐 Production last updated: 2026-09-14T12:10:01
+🕐 Staging last updated: 2026-09-28T13:14:50
+🕐 Production last updated: 2026-09-21T12:18:24
 ------------------------------------------------------------
-📋 Total changes: 2
+📋 Total changes: 8
 💡 To release these changes, run: python3 release.py
