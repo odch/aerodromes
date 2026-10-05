@@ -3,29 +3,24 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19817
-   Staging aerodromes: 19820
-   Net change: +3
+   Production aerodromes: 19820
+   Staging aerodromes: 19824
+   Net change: +4
 
 ✅ NEW AERODROMES (4):
-   + EPWC: Świebodzice Airfield (PL)
-   + EPWT: Watorowo Airfield (PL)
-   + EPZE: Żerniki Gądki Airfield (PL)
-   + SSET: Sunset Airport (BR)
+   + EDSC: Farrenberg Gliderfield (DE)
+   + EVAL: Aloja Airstrip (LV)
+   + SISU: Marieta Konder Bornhausen Hospital Helistop (BR)
+   + ZSLA: Lu'an Airbase (CN)
 
-❌ REMOVED AERODROMES (1):
-   - SNTM: Turmalina Airport (BR)
+🔄 CHANGED AERODROMES (2):
+   ~ KIMS: Madison Regional Airport
+     name: 'Madison Municipal Airport' → 'Madison Regional Airport'
+   ~ SNRC: Morro Chato Heliport
+     name: 'Ouro Verde Heliport' → 'Morro Chato Heliport'
 
-🔄 CHANGED AERODROMES (3):
-   ~ LEPZ: Los Pozuelos de Calatrava Airfield
-     name: 'Los Pozuelos De Calatrava Airfield' → 'Los Pozuelos de Calatrava Airfield'
-   ~ SNSQ: Centro Empresarial Nações Unidas - North Tower Helistop
-     name: 'Centro Empresarial Nações Unidas - Torre Norte Heliport' → 'Centro Empresarial Nações Unidas - North Tower Helistop'
-   ~ SNSS: Salinas Municipal Airport
-     name: 'Salinas Airport' → 'Salinas Municipal Airport'
-
-🕐 Staging last updated: 2026-09-28T13:14:50
-🕐 Production last updated: 2026-09-21T12:18:24
+🕐 Staging last updated: 2026-10-05T13:57:43
+🕐 Production last updated: 2026-09-28T13:14:50
 ------------------------------------------------------------
-📋 Total changes: 8
+📋 Total changes: 6
 💡 To release these changes, run: python3 release.py

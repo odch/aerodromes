@@ -1,7 +1,7 @@
 {
-  "version": "1.0.71",
-  "last_updated": "2026-09-28T13:14:50",
-  "total_count": 19820,
+  "version": "1.0.72",
+  "last_updated": "2026-10-05T13:57:43",
+  "total_count": 19824,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -10450,6 +10450,12 @@
       "timezone": "Europe/Berlin"
     },
     {
+      "icao": "EDSC",
+      "name": "Farrenberg Gliderfield",
+      "country": "DE",
+      "timezone": "Europe/Berlin"
+    },
+    {
       "icao": "EDSD",
       "name": "Deckenpfronn-Egelsee Airfield",
       "country": "DE",
@@ -18012,6 +18018,12 @@
     {
       "icao": "EVAD",
       "name": "Ādaži Airfield",
+      "country": "LV",
+      "timezone": "Europe/Riga"
+    },
+    {
+      "icao": "EVAL",
+      "name": "Aloja Airstrip",
       "country": "LV",
       "timezone": "Europe/Riga"
     },
@@ -36203,7 +36215,7 @@
     },
     {
       "icao": "KIMS",
-      "name": "Madison Municipal Airport",
+      "name": "Madison Regional Airport",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -77836,6 +77848,12 @@
       "timezone": "America/Sao_Paulo"
     },
     {
+      "icao": "SISU",
+      "name": "Marieta Konder Bornhausen Hospital Helistop",
+      "country": "BR",
+      "timezone": "America/Sao_Paulo"
+    },
+    {
       "icao": "SISV",
       "name": "Fazenda Promissão Airport",
       "country": "BR",
@@ -85181,7 +85199,7 @@
     },
     {
       "icao": "SNRC",
-      "name": "Ouro Verde Heliport",
+      "name": "Morro Chato Heliport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -118032,6 +118050,12 @@
     {
       "icao": "ZSJX",
       "name": "Jiaxing Nanhu Airport",
+      "country": "CN",
+      "timezone": "Asia/Shanghai"
+    },
+    {
+      "icao": "ZSLA",
+      "name": "Lu'an Airbase",
       "country": "CN",
       "timezone": "Asia/Shanghai"
     },
