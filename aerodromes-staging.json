@@ -1,7 +1,7 @@
 {
-  "version": "1.0.72",
-  "last_updated": "2026-10-05T13:57:43",
-  "total_count": 19824,
+  "version": "1.0.73",
+  "last_updated": "2026-10-12T14:46:28",
+  "total_count": 19834,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -61816,6 +61816,12 @@
       "timezone": "Asia/Karachi"
     },
     {
+      "icao": "OPGD",
+      "name": "Gwadar International Airport (Old)",
+      "country": "PK",
+      "timezone": "Asia/Karachi"
+    },
+    {
       "icao": "OPGT",
       "name": "Gilgit Airport",
       "country": "PK",
@@ -75100,6 +75106,12 @@
       "timezone": "Atlantic/Stanley"
     },
     {
+      "icao": "SGAM",
+      "name": "Ñu Guasú Airbase",
+      "country": "PY",
+      "timezone": "America/Asuncion"
+    },
+    {
       "icao": "SGAS",
       "name": "Silvio Pettirossi International Airport",
       "country": "PY",
@@ -75107,7 +75119,7 @@
     },
     {
       "icao": "SGAY",
-      "name": "Aeropuerto Nacional Juan de Ayolas",
+      "name": "Juan de Ayolas National Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
@@ -75124,8 +75136,14 @@
       "timezone": "America/Asuncion"
     },
     {
+      "icao": "SGBV",
+      "name": "Icanimby Airport",
+      "country": "PY",
+      "timezone": "America/Asuncion"
+    },
+    {
       "icao": "SGCB",
-      "name": "Aeródromo Capitan Bado",
+      "name": "Capitan Bado Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
@@ -75137,13 +75155,13 @@
     },
     {
       "icao": "SGCU",
-      "name": "Aeródromo de Curuguaty",
+      "name": "Curuguaty Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
     {
       "icao": "SGCZ",
-      "name": "Aeródromo de Caazapá",
+      "name": "Caazapá Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
@@ -75161,13 +75179,19 @@
     },
     {
       "icao": "SGFI",
-      "name": "Aeródromo de Filadelfia",
+      "name": "Fernheim Airport",
+      "country": "PY",
+      "timezone": "America/Asuncion"
+    },
+    {
+      "icao": "SGFR",
+      "name": "Friesland Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
     {
       "icao": "SGGR",
-      "name": "Aeropuerto Nacional de Salto del Guaira",
+      "name": "Saltos del Guairá Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
@@ -75178,8 +75202,32 @@
       "timezone": "America/Asuncion"
     },
     {
+      "icao": "SGIT",
+      "name": "Itapé Airport",
+      "country": "PY",
+      "timezone": "America/Asuncion"
+    },
+    {
+      "icao": "SGJN",
+      "name": "San Juan Nepomuceno Airport",
+      "country": "PY",
+      "timezone": "America/Asuncion"
+    },
+    {
+      "icao": "SGLP",
+      "name": "Loma Plata Airport",
+      "country": "PY",
+      "timezone": "America/Asuncion"
+    },
+    {
+      "icao": "SGLV",
+      "name": "Puerto La Victoria Airport",
+      "country": "PY",
+      "timezone": "America/Asuncion"
+    },
+    {
       "icao": "SGLZ",
-      "name": "Aeródromo La Paz",
+      "name": "La Paz Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
@@ -75191,37 +75239,49 @@
     },
     {
       "icao": "SGMZ",
-      "name": "Aeródromo José María Argaña",
+      "name": "José María Argaña Airport",
+      "country": "PY",
+      "timezone": "America/Asuncion"
+    },
+    {
+      "icao": "SGNE",
+      "name": "Neuland Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
     {
       "icao": "SGOL",
-      "name": "Aeródromo de Fuerte",
+      "name": "Fuerte Olimpo Airport",
+      "country": "PY",
+      "timezone": "America/Asuncion"
+    },
+    {
+      "icao": "SGOV",
+      "name": "Coronel Oviedo National Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
     {
       "icao": "SGPC",
-      "name": "Aeropuerto de Pozo Colorado",
+      "name": "Pozo Colorado Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
     {
       "icao": "SGPG",
-      "name": "Base de la Fuerza Aérea Paraguaya \"Teniente Pelayo Prats Gill\"",
+      "name": "Lt. Pelayo Prats Gill Airbase",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
     {
       "icao": "SGPI",
-      "name": "Aeródromo Don Carlos Miguel Gimenez",
+      "name": "Don Carlos Miguel Gimenez Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
     {
       "icao": "SGPJ",
-      "name": "Aeropuerto Nacional Dr. Augusto Roberto Fuster",
+      "name": "Dr. Augusto Roberto Fuster International Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
