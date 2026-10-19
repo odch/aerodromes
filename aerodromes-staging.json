@@ -1,7 +1,7 @@
 {
-  "version": "1.0.73",
-  "last_updated": "2026-10-12T14:46:28",
-  "total_count": 19834,
+  "version": "1.0.74",
+  "last_updated": "2026-10-19T12:31:25",
+  "total_count": 19835,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -47741,7 +47741,7 @@
     },
     {
       "icao": "LGKF",
-      "name": "Kefallinia Airport",
+      "name": "Kefalonia International Airport \"Anna Pollatou\"",
       "country": "GR",
       "timezone": "Europe/Athens"
     },
@@ -47999,7 +47999,7 @@
     },
     {
       "icao": "LGZA",
-      "name": "Zakynthos International Airport Dionysios Solomos",
+      "name": "Zakynthos International Airport \"Dionysios Solomos\"",
       "country": "GR",
       "timezone": "Europe/Athens"
     },
@@ -75125,7 +75125,7 @@
     },
     {
       "icao": "SGBA",
-      "name": "Aeródromo de Bella Vista Sur",
+      "name": "Bella Vista Sur Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
@@ -75287,13 +75287,13 @@
     },
     {
       "icao": "SGPO",
-      "name": "Aeródromo de Puerto Pinasco",
+      "name": "Puerto Pinasco Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
     {
       "icao": "SGRO",
-      "name": "Aeródromo de Rosario",
+      "name": "Rosario Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },
@@ -75306,6 +75306,12 @@
     {
       "icao": "SGST",
       "name": "Santa Teresa Airport",
+      "country": "PY",
+      "timezone": "America/Asuncion"
+    },
+    {
+      "icao": "SGVO",
+      "name": "Colonia Volendam Airport",
       "country": "PY",
       "timezone": "America/Asuncion"
     },

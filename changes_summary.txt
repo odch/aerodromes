@@ -3,47 +3,27 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19824
-   Staging aerodromes: 19834
-   Net change: +10
+   Production aerodromes: 19834
+   Staging aerodromes: 19835
+   Net change: +1
 
-✅ NEW AERODROMES (10):
-   + OPGD: Gwadar International Airport (Old) (PK)
-   + SGAM: Ñu Guasú Airbase (PY)
-   + SGBV: Icanimby Airport (PY)
-   + SGFR: Friesland Airport (PY)
-   + SGIT: Itapé Airport (PY)
-   + SGJN: San Juan Nepomuceno Airport (PY)
-   + SGLP: Loma Plata Airport (PY)
-   + SGLV: Puerto La Victoria Airport (PY)
-   + SGNE: Neuland Airport (PY)
-   + SGOV: Coronel Oviedo National Airport (PY)
+✅ NEW AERODROMES (1):
+   + SGVO: Colonia Volendam Airport (PY)
 
-🔄 CHANGED AERODROMES (13):
-   ~ SGAY: Juan de Ayolas National Airport
-     name: 'Aeropuerto Nacional Juan de Ayolas' → 'Juan de Ayolas National Airport'
-   ~ SGCB: Capitan Bado Airport
-     name: 'Aeródromo Capitan Bado' → 'Capitan Bado Airport'
-   ~ SGCU: Curuguaty Airport
-     name: 'Aeródromo de Curuguaty' → 'Curuguaty Airport'
-   ~ SGCZ: Caazapá Airport
-     name: 'Aeródromo de Caazapá' → 'Caazapá Airport'
-   ~ SGFI: Fernheim Airport
-     name: 'Aeródromo de Filadelfia' → 'Fernheim Airport'
-   ~ SGGR: Saltos del Guairá Airport
-     name: 'Aeropuerto Nacional de Salto del Guaira' → 'Saltos del Guairá Airport'
-   ~ SGLZ: La Paz Airport
-     name: 'Aeródromo La Paz' → 'La Paz Airport'
-   ~ SGMZ: José María Argaña Airport
-     name: 'Aeródromo José María Argaña' → 'José María Argaña Airport'
-   ~ SGOL: Fuerte Olimpo Airport
-     name: 'Aeródromo de Fuerte' → 'Fuerte Olimpo Airport'
-   ~ SGPC: Pozo Colorado Airport
-     name: 'Aeropuerto de Pozo Colorado' → 'Pozo Colorado Airport'
-   ... and 3 more
+🔄 CHANGED AERODROMES (5):
+   ~ LGKF: Kefalonia International Airport "Anna Pollatou"
+     name: 'Kefallinia Airport' → 'Kefalonia International Airport "Anna Pollatou"'
+   ~ LGZA: Zakynthos International Airport "Dionysios Solomos"
+     name: 'Zakynthos International Airport Dionysios Solomos' → 'Zakynthos International Airport "Dionysios Solomos"'
+   ~ SGBA: Bella Vista Sur Airport
+     name: 'Aeródromo de Bella Vista Sur' → 'Bella Vista Sur Airport'
+   ~ SGPO: Puerto Pinasco Airport
+     name: 'Aeródromo de Puerto Pinasco' → 'Puerto Pinasco Airport'
+   ~ SGRO: Rosario Airport
+     name: 'Aeródromo de Rosario' → 'Rosario Airport'
 
-🕐 Staging last updated: 2026-10-12T14:46:28
-🕐 Production last updated: 2026-10-05T13:57:43
+🕐 Staging last updated: 2026-10-19T12:31:25
+🕐 Production last updated: 2026-10-12T14:46:28
 ------------------------------------------------------------
-📋 Total changes: 23
+📋 Total changes: 6
 💡 To release these changes, run: python3 release.py
