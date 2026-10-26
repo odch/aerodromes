@@ -1,7 +1,7 @@
 {
-  "version": "1.0.75",
-  "last_updated": "2026-10-19T12:31:25",
-  "total_count": 19835,
+  "version": "1.0.76",
+  "last_updated": "2026-10-26T12:28:40",
+  "total_count": 19839,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -11483,7 +11483,7 @@
     },
     {
       "icao": "EFHO",
-      "name": "Oulun University Hospital Heliport",
+      "name": "Oulun University Hospital Helistop",
       "country": "FI",
       "timezone": "Europe/Helsinki"
     },
@@ -11628,12 +11628,6 @@
     {
       "icao": "EFKM",
       "name": "Kemijärvi Airfield",
-      "country": "FI",
-      "timezone": "Europe/Helsinki"
-    },
-    {
-      "icao": "EFKN",
-      "name": "Kannus Airfield",
       "country": "FI",
       "timezone": "Europe/Helsinki"
     },
@@ -18376,6 +18370,12 @@
       "timezone": "Africa/Johannesburg"
     },
     {
+      "icao": "FAAK",
+      "name": "Askham Airport",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
       "icao": "FAAL",
       "name": "Alldays Airport",
       "country": "ZA",
@@ -18515,7 +18515,7 @@
     },
     {
       "icao": "FABW",
-      "name": "Beaufort West Airport",
+      "name": "Karoo Gateway Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -18628,12 +18628,6 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FACX",
-      "name": "Cathcart Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FACY",
       "name": "Stilbaai Airport",
       "country": "ZA",
@@ -18660,6 +18654,12 @@
     {
       "icao": "FADD",
       "name": "Dundee Airport",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "icao": "FADF",
+      "name": "Driefontein Fochville Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -18730,6 +18730,12 @@
       "timezone": "Africa/Johannesburg"
     },
     {
+      "icao": "FADW",
+      "name": "Cape Town Waterfront Heliport",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
       "icao": "FADX",
       "name": "Delta 200 Airstrip",
       "country": "ZA",
@@ -18761,7 +18767,7 @@
     },
     {
       "icao": "FAEG",
-      "name": "Egnep Airport",
+      "name": "Elgin Airstrip",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -18791,7 +18797,7 @@
     },
     {
       "icao": "FAER",
-      "name": "Ellisras Matimba Airport",
+      "name": "Ekland Ranch Airstrip",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -18851,13 +18857,25 @@
     },
     {
       "icao": "FAGA",
-      "name": "The Grange Airport",
+      "name": "Big Water Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
     {
       "icao": "FAGC",
       "name": "Grand Central Airport",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "icao": "FAGE",
+      "name": "Gough Island Heliport",
+      "country": "SH",
+      "timezone": "Atlantic/St_Helena"
+    },
+    {
+      "icao": "FAGF",
+      "name": "Grootfontein Airstrip",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -18953,7 +18971,7 @@
     },
     {
       "icao": "FAHD",
-      "name": "Humansdorp Airport",
+      "name": "Hippo Pools Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -18965,7 +18983,7 @@
     },
     {
       "icao": "FAHF",
-      "name": "Henrys Flats Airport",
+      "name": "Henry's Flats Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19030,14 +19048,14 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAHU",
-      "name": "H M S Bastard Memorial Airport",
+      "icao": "FAHT",
+      "name": "Hoedspruit Civil Airfield",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAHV",
-      "name": "Gariep Dam Airport",
+      "icao": "FAHU",
+      "name": "H M S Bastard Memorial Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -33449,7 +33467,7 @@
     },
     {
       "icao": "KEEO",
-      "name": "Meeker Airport",
+      "name": "Meeker Coulter Field",
       "country": "US",
       "timezone": "America/New_York"
     },
@@ -81424,6 +81442,12 @@
       "timezone": "America/Bogota"
     },
     {
+      "icao": "SKCE",
+      "name": "Cruz Verde Airport",
+      "country": "CO",
+      "timezone": "America/Bogota"
+    },
+    {
       "icao": "SKCG",
       "name": "Rafael Nuñez International Airport",
       "country": "CO",
@@ -93682,12 +93706,6 @@
       "timezone": "America/Sao_Paulo"
     },
     {
-      "icao": "SWOK",
-      "name": "Fazenda Pontal Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
       "icao": "SWOL",
       "name": "Fazenda Roncador Airport",
       "country": "BR",
@@ -98920,6 +98938,12 @@
       "timezone": "Europe/Moscow"
     },
     {
+      "icao": "UUTV",
+      "name": "Volzhskaya 7 Helideck",
+      "country": "RU",
+      "timezone": "Europe/Moscow"
+    },
+    {
       "icao": "UUTZ",
       "name": "Zavidovo Air Park (U.C.)",
       "country": "RU",
@@ -100132,6 +100156,12 @@
       "timezone": "Asia/Kolkata"
     },
     {
+      "icao": "VERB",
+      "name": "Fursatganj Airport",
+      "country": "IN",
+      "timezone": "Asia/Kolkata"
+    },
+    {
       "icao": "VERC",
       "name": "Birsa Munda Airport",
       "country": "IN",
@@ -100544,12 +100574,6 @@
       "name": "Phalodi Air Force Station",
       "country": "IN",
       "timezone": "Asia/Kolkata"
-    },
-    {
-      "icao": "VIRB",
-      "name": "Fursatganj Airport",
-      "country": "IN",
-      "timezone": "Asia/Calcutta"
     },
     {
       "icao": "VISA",
@@ -119014,5 +119038,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-10-20T07:29:12"
+  "released_at": "2026-10-26T13:46:34"
 }
