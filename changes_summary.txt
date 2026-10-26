@@ -3,27 +3,48 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19834
-   Staging aerodromes: 19835
-   Net change: +1
+   Production aerodromes: 19835
+   Staging aerodromes: 19839
+   Net change: +4
 
-✅ NEW AERODROMES (1):
-   + SGVO: Colonia Volendam Airport (PY)
+✅ NEW AERODROMES (9):
+   + FAAK: Askham Airport (ZA)
+   + FADF: Driefontein Fochville Airport (ZA)
+   + FADW: Cape Town Waterfront Heliport (ZA)
+   + FAGE: Gough Island Heliport (SH)
+   + FAGF: Grootfontein Airstrip (ZA)
+   + FAHT: Hoedspruit Civil Airfield (ZA)
+   + SKCE: Cruz Verde Airport (CO)
+   + UUTV: Volzhskaya 7 Helideck (RU)
+   + VERB: Fursatganj Airport (IN)
 
-🔄 CHANGED AERODROMES (5):
-   ~ LGKF: Kefalonia International Airport "Anna Pollatou"
-     name: 'Kefallinia Airport' → 'Kefalonia International Airport "Anna Pollatou"'
-   ~ LGZA: Zakynthos International Airport "Dionysios Solomos"
-     name: 'Zakynthos International Airport Dionysios Solomos' → 'Zakynthos International Airport "Dionysios Solomos"'
-   ~ SGBA: Bella Vista Sur Airport
-     name: 'Aeródromo de Bella Vista Sur' → 'Bella Vista Sur Airport'
-   ~ SGPO: Puerto Pinasco Airport
-     name: 'Aeródromo de Puerto Pinasco' → 'Puerto Pinasco Airport'
-   ~ SGRO: Rosario Airport
-     name: 'Aeródromo de Rosario' → 'Rosario Airport'
+❌ REMOVED AERODROMES (5):
+   - EFKN: Kannus Airfield (FI)
+   - FACX: Cathcart Airport (ZA)
+   - FAHV: Gariep Dam Airport (ZA)
+   - SWOK: Fazenda Pontal Airport (BR)
+   - VIRB: Fursatganj Airport (IN)
 
-🕐 Staging last updated: 2026-10-19T12:31:25
-🕐 Production last updated: 2026-10-12T14:46:28
+🔄 CHANGED AERODROMES (8):
+   ~ EFHO: Oulun University Hospital Helistop
+     name: 'Oulun University Hospital Heliport' → 'Oulun University Hospital Helistop'
+   ~ FABW: Karoo Gateway Airport
+     name: 'Beaufort West Airport' → 'Karoo Gateway Airport'
+   ~ FAEG: Elgin Airstrip
+     name: 'Egnep Airport' → 'Elgin Airstrip'
+   ~ FAER: Ekland Ranch Airstrip
+     name: 'Ellisras Matimba Airport' → 'Ekland Ranch Airstrip'
+   ~ FAGA: Big Water Airport
+     name: 'The Grange Airport' → 'Big Water Airport'
+   ~ FAHD: Hippo Pools Airport
+     name: 'Humansdorp Airport' → 'Hippo Pools Airport'
+   ~ FAHF: Henry's Flats Airport
+     name: 'Henrys Flats Airport' → 'Henry's Flats Airport'
+   ~ KEEO: Meeker Coulter Field
+     name: 'Meeker Airport' → 'Meeker Coulter Field'
+
+🕐 Staging last updated: 2026-10-26T12:28:40
+🕐 Production last updated: 2026-10-19T12:31:25
 ------------------------------------------------------------
-📋 Total changes: 6
+📋 Total changes: 22
 💡 To release these changes, run: python3 release.py
