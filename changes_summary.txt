@@ -3,48 +3,60 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19835
-   Staging aerodromes: 19839
-   Net change: +4
+   Production aerodromes: 19839
+   Staging aerodromes: 19817
+   Net change: -22
 
-✅ NEW AERODROMES (9):
-   + FAAK: Askham Airport (ZA)
-   + FADF: Driefontein Fochville Airport (ZA)
-   + FADW: Cape Town Waterfront Heliport (ZA)
-   + FAGE: Gough Island Heliport (SH)
-   + FAGF: Grootfontein Airstrip (ZA)
-   + FAHT: Hoedspruit Civil Airfield (ZA)
-   + SKCE: Cruz Verde Airport (CO)
-   + UUTV: Volzhskaya 7 Helideck (RU)
-   + VERB: Fursatganj Airport (IN)
+✅ NEW AERODROMES (10):
+   + FACC: Gowrie Airport (ZA)
+   + FAEW: Seaview Airport (ZA)
+   + FAJK: Ganspan Airport (ZA)
+   + FAKA: Kagga Kamma Airport (ZA)
+   + FAKJ: Kalahari Dunes Private Game Reserve airstrip (ZA)
+   + FAME: Marion Research Station Heliport (ZA)
+   + FAND: Sappi / Ngodwana (ZA)
+   + URRX: Olginskaya Airport (RU)
+   + VIDT: Datia Airport (IN)
+   + VVPT: Phan Thiet Airport (VN)
 
-❌ REMOVED AERODROMES (5):
-   - EFKN: Kannus Airfield (FI)
-   - FACX: Cathcart Airport (ZA)
-   - FAHV: Gariep Dam Airport (ZA)
-   - SWOK: Fazenda Pontal Airport (BR)
-   - VIRB: Fursatganj Airport (IN)
+❌ REMOVED AERODROMES (32):
+   - FAAA: Atlantic Aerodrome (ZA)
+   - FAAP: Aviators Paradise Field (ZA)
+   - FABT: Bethesda Road Airport (ZA)
+   - FACH: Cookhouse Airport (ZA)
+   - FADG: Dordrecht Airport (ZA)
+   - FADM: Kokstad Airport (ZA)
+   - FADV: Devon Airport (ZA)
+   - FAFG: Flamingo Vlei Airport (ZA)
+   - FAFU: Fraaiuitzicht Airport (ZA)
+   - FAGH: Glen Grey Airport (ZA)
+   ... and 22 more
 
-🔄 CHANGED AERODROMES (8):
-   ~ EFHO: Oulun University Hospital Helistop
-     name: 'Oulun University Hospital Heliport' → 'Oulun University Hospital Helistop'
-   ~ FABW: Karoo Gateway Airport
-     name: 'Beaufort West Airport' → 'Karoo Gateway Airport'
-   ~ FAEG: Elgin Airstrip
-     name: 'Egnep Airport' → 'Elgin Airstrip'
-   ~ FAER: Ekland Ranch Airstrip
-     name: 'Ellisras Matimba Airport' → 'Ekland Ranch Airstrip'
-   ~ FAGA: Big Water Airport
-     name: 'The Grange Airport' → 'Big Water Airport'
-   ~ FAHD: Hippo Pools Airport
-     name: 'Humansdorp Airport' → 'Hippo Pools Airport'
-   ~ FAHF: Henry's Flats Airport
-     name: 'Henrys Flats Airport' → 'Henry's Flats Airport'
-   ~ KEEO: Meeker Coulter Field
-     name: 'Meeker Airport' → 'Meeker Coulter Field'
+🔄 CHANGED AERODROMES (12):
+   ~ FABV: Butterworth Airport
+     name: 'Brandviei Airfield' → 'Butterworth Airport'
+   ~ FAFO: KwaMaqoma Airport
+     name: 'Fort Beaufort Airport' → 'KwaMaqoma Airport'
+   ~ FAIW: Ingwelala
+     name: 'Indwe Airport' → 'Ingwelala'
+   ~ FAKG: Kwande Airstrip
+     name: 'Komati Power Station Airport' → 'Kwande Airstrip'
+   ~ FAKV: Koffiefontein Mine Airport
+     name: 'Koffyfontein Min Airport' → 'Koffiefontein Mine Airport'
+   ~ FALW: Langebaanweg Air Force Base
+     name: 'Langebaanweg Airport' → 'Langebaanweg Air Force Base'
+   ~ FAMF: Maclear Airport
+     name: 'Malabar Airport' → 'Maclear Airport'
+   ~ FAMM: George Dick Montshioa Airport
+     name: 'Mmabatho International Airport' → 'George Dick Montshioa Airport'
+   ~ FAMY: Mazeppa Bay Airport
+     name: 'Malmesbury Airport' → 'Mazeppa Bay Airport'
+   ~ FAPT: Postmasburg Airport
+     name: 'Posmasburg Soil Airport' → 'Postmasburg Airport'
+   ... and 2 more
 
-🕐 Staging last updated: 2026-10-26T12:28:40
-🕐 Production last updated: 2026-10-19T12:31:25
+🕐 Staging last updated: 2026-11-02T15:03:00
+🕐 Production last updated: 2026-10-26T12:28:40
 ------------------------------------------------------------
-📋 Total changes: 22
+📋 Total changes: 54
 💡 To release these changes, run: python3 release.py
