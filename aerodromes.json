@@ -1,7 +1,7 @@
 {
-  "version": "1.0.76",
-  "last_updated": "2026-10-26T12:28:40",
-  "total_count": 19839,
+  "version": "1.0.77",
+  "last_updated": "2026-11-02T15:03:00",
+  "total_count": 19817,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -18340,12 +18340,6 @@
       "timezone": "Europe/Vilnius"
     },
     {
-      "icao": "FAAA",
-      "name": "Atlantic Aerodrome",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FAAB",
       "name": "Alexander Bay Airport",
       "country": "ZA",
@@ -18390,12 +18384,6 @@
     {
       "icao": "FAAN",
       "name": "Aliwal North Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAAP",
-      "name": "Aviators Paradise Field",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -18496,12 +18484,6 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FABT",
-      "name": "Bethesda Road Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FABU",
       "name": "Bultfontein Airport",
       "country": "ZA",
@@ -18509,7 +18491,7 @@
     },
     {
       "icao": "FABV",
-      "name": "Brandviei Airfield",
+      "name": "Butterworth Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -18544,6 +18526,12 @@
       "timezone": "Africa/Johannesburg"
     },
     {
+      "icao": "FACC",
+      "name": "Gowrie Airport",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
       "icao": "FACD",
       "name": "Cradock Airport",
       "country": "ZA",
@@ -18564,12 +18552,6 @@
     {
       "icao": "FACG",
       "name": "Caledon Airfield",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FACH",
-      "name": "Cookhouse Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -18664,12 +18646,6 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FADG",
-      "name": "Dordrecht Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FADH",
       "name": "Durnacol Airport",
       "country": "ZA",
@@ -18684,12 +18660,6 @@
     {
       "icao": "FADL",
       "name": "Delareyville Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FADM",
-      "name": "Kokstad Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -18720,12 +18690,6 @@
     {
       "icao": "FADU",
       "name": "Walkersons Field",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FADV",
-      "name": "Devon Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -18814,6 +18778,12 @@
       "timezone": "Africa/Johannesburg"
     },
     {
+      "icao": "FAEW",
+      "name": "Seaview Airport",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
       "icao": "FAFB",
       "name": "Ficksburg Sentraoes Airport",
       "country": "ZA",
@@ -18826,26 +18796,14 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAFG",
-      "name": "Flamingo Vlei Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FAFO",
-      "name": "Fort Beaufort Airport",
+      "name": "KwaMaqoma Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
     {
       "icao": "FAFR",
       "name": "Fraserburg Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAFU",
-      "name": "Fraaiuitzicht Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -18886,12 +18844,6 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAGH",
-      "name": "Glen Grey Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FAGI",
       "name": "Giyani Airport",
       "country": "ZA",
@@ -18912,12 +18864,6 @@
     {
       "icao": "FAGM",
       "name": "Rand Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAGO",
-      "name": "Gowrie Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -18958,12 +18904,6 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAHB",
-      "name": "Hartebeespoortdam Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FAHC",
       "name": "Howick Airport",
       "country": "ZA",
@@ -18994,12 +18934,6 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAHH",
-      "name": "Hibberdene Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FAHI",
       "name": "Halfweg Airport",
       "country": "ZA",
@@ -19008,12 +18942,6 @@
     {
       "icao": "FAHJ",
       "name": "Harding Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAHK",
-      "name": "Haakdoornboom Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19066,12 +18994,6 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAID",
-      "name": "Idutywa Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FAIS",
       "name": "Isithebe Airport",
       "country": "ZA",
@@ -19085,7 +19007,7 @@
     },
     {
       "icao": "FAIW",
-      "name": "Indwe Airport",
+      "name": "Ingwelala",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19096,8 +19018,8 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAJF",
-      "name": "Jagersfontain Airport",
+      "icao": "FAJK",
+      "name": "Ganspan Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19110,6 +19032,12 @@
     {
       "icao": "FAJV",
       "name": "Jansenville Airport",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "icao": "FAKA",
+      "name": "Kagga Kamma Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19132,14 +19060,8 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAKF",
-      "name": "Koffee Bay Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FAKG",
-      "name": "Komati Power Station Airport",
+      "name": "Kwande Airstrip",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19152,6 +19074,12 @@
     {
       "icao": "FAKI",
       "name": "Kobb Inn Airport",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
+      "icao": "FAKJ",
+      "name": "Kalahari Dunes Private Game Reserve airstrip",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19176,12 +19104,6 @@
     {
       "icao": "FAKN",
       "name": "Kruger Mpumalanga International Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAKO",
-      "name": "Komga Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19217,13 +19139,7 @@
     },
     {
       "icao": "FAKV",
-      "name": "Koffyfontein Min Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAKW",
-      "name": "Kareedouw Airport",
+      "name": "Koffiefontein Mine Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19325,7 +19241,7 @@
     },
     {
       "icao": "FALW",
-      "name": "Langebaanweg Airport",
+      "name": "Langebaanweg Air Force Base",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19360,8 +19276,14 @@
       "timezone": "Africa/Johannesburg"
     },
     {
+      "icao": "FAME",
+      "name": "Marion Research Station Heliport",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
       "icao": "FAMF",
-      "name": "Malabar Airport",
+      "name": "Maclear Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19390,14 +19312,8 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAML",
-      "name": "Manyani Game Lodge Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FAMM",
-      "name": "Mmabatho International Airport",
+      "name": "George Dick Montshioa Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19416,12 +19332,6 @@
     {
       "icao": "FAMP",
       "name": "Madimbo Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAMQ",
-      "name": "Maclear Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19451,19 +19361,7 @@
     },
     {
       "icao": "FAMY",
-      "name": "Malmesbury Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAMZ",
-      "name": "Msauli Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FANA",
-      "name": "Nongoma Airport",
+      "name": "Mazeppa Bay Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19474,26 +19372,20 @@
       "timezone": "Africa/Johannesburg"
     },
     {
+      "icao": "FAND",
+      "name": "Sappi / Ngodwana",
+      "country": "ZA",
+      "timezone": "Africa/Johannesburg"
+    },
+    {
       "icao": "FANG",
       "name": "Ngala Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FANH",
-      "name": "New Hanover Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FANI",
       "name": "N’tsiri Airstrip",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FANL",
-      "name": "New Largo Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19524,18 +19416,6 @@
     {
       "icao": "FAOB",
       "name": "Overberg Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAOD",
-      "name": "Odendaalsrus Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAOF",
-      "name": "Jack Duvenhage Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19685,7 +19565,7 @@
     },
     {
       "icao": "FAPT",
-      "name": "Posmasburg Soil Airport",
+      "name": "Postmasburg Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19883,7 +19763,7 @@
     },
     {
       "icao": "FASU",
-      "name": "Sace Airport",
+      "name": "SACE Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19961,7 +19841,7 @@
     },
     {
       "icao": "FATR",
-      "name": "Trennery's Airport",
+      "name": "Twee Rivieren Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -19980,12 +19860,6 @@
     {
       "icao": "FATZ",
       "name": "Tzaneen Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAUB",
-      "name": "Underberg Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -20074,20 +19948,8 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAVI",
-      "name": "Von Abo's Villa Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FAVM",
       "name": "Venetia Mine Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAVP",
-      "name": "Vanderbijlpark Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -20218,12 +20080,6 @@
       "timezone": "Africa/Johannesburg"
     },
     {
-      "icao": "FAWW",
-      "name": "Sodwana Airstrip",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
       "icao": "FAYP",
       "name": "Ysterplaat Air Force Base",
       "country": "ZA",
@@ -20238,12 +20094,6 @@
     {
       "icao": "FAZG",
       "name": "Swartberg Airport",
-      "country": "ZA",
-      "timezone": "Africa/Johannesburg"
-    },
-    {
-      "icao": "FAZP",
-      "name": "Mazeppa Bay Airport",
       "country": "ZA",
       "timezone": "Africa/Johannesburg"
     },
@@ -98338,6 +98188,12 @@
       "timezone": "Europe/Moscow"
     },
     {
+      "icao": "URRX",
+      "name": "Olginskaya Airport",
+      "country": "RU",
+      "timezone": "Europe/Moscow"
+    },
+    {
       "icao": "URSS",
       "name": "Sochi International Airport",
       "country": "RU",
@@ -100432,6 +100288,12 @@
       "timezone": "Asia/Calcutta"
     },
     {
+      "icao": "VIDT",
+      "name": "Datia Airport",
+      "country": "IN",
+      "timezone": "Asia/Kolkata"
+    },
+    {
       "icao": "VIDX",
       "name": "Hindon Airport / Hindon Air Force Station",
       "country": "IN",
@@ -102020,6 +101882,12 @@
       "name": "Phan Rang Airport",
       "country": "VN",
       "timezone": "Asia/Saigon"
+    },
+    {
+      "icao": "VVPT",
+      "name": "Phan Thiet Airport",
+      "country": "VN",
+      "timezone": "Asia/Ho_Chi_Minh"
     },
     {
       "icao": "VVRG",
@@ -119038,5 +118906,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-10-26T13:46:34"
+  "released_at": "2026-11-03T08:38:37"
 }
