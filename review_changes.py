@@ -5,6 +5,7 @@ Aerodrome Registry Change Review Tool
 Compares staging vs production versions and shows detailed changes
 for manual review before release.
 """
+import argparse
 import json
 import sys
 from datetime import datetime
@@ -29,8 +30,12 @@ def get_aerodrome_dict(data: Dict) -> Dict[str, Dict]:
     return {a['icao']: a for a in data['aerodromes']}
 
 def compare_aerodromes(prod_file: str = 'aerodromes.json', 
-                      staging_file: str = 'aerodromes-staging.json') -> None:
-    """Compare production and staging versions and show differences."""
+                      staging_file: str = 'aerodromes-staging.json',
+                      limit: int = 10) -> None:
+    """Compare production and staging versions and show differences.
+
+    At most `limit` entries are listed per category (0 = list all).
+    """
     print("🔍 Comparing aerodrome registry versions...")
     print(f"📦 Production: {prod_file}")
     print(f"🚧 Staging: {staging_file}")
@@ -61,22 +66,22 @@ def compare_aerodromes(prod_file: str = 'aerodromes.json',
     new_icaos = staging_icaos - prod_icaos
     if new_icaos:
         print(f"✅ NEW AERODROMES ({len(new_icaos)}):")
-        for icao in sorted(new_icaos)[:10]:  # Show first 10
+        for icao in sorted(new_icaos)[:limit or None]:
             aerodrome = staging_aerodromes[icao]
             print(f"   + {icao}: {aerodrome['name']} ({aerodrome['country']})")
-        if len(new_icaos) > 10:
-            print(f"   ... and {len(new_icaos) - 10} more")
+        if limit and len(new_icaos) > limit:
+            print(f"   ... and {len(new_icaos) - limit} more")
         print()
     
     # Removed aerodromes
     removed_icaos = prod_icaos - staging_icaos
     if removed_icaos:
         print(f"❌ REMOVED AERODROMES ({len(removed_icaos)}):")
-        for icao in sorted(removed_icaos)[:10]:  # Show first 10
+        for icao in sorted(removed_icaos)[:limit or None]:
             aerodrome = prod_aerodromes[icao]
             print(f"   - {icao}: {aerodrome['name']} ({aerodrome['country']})")
-        if len(removed_icaos) > 10:
-            print(f"   ... and {len(removed_icaos) - 10} more")
+        if limit and len(removed_icaos) > limit:
+            print(f"   ... and {len(removed_icaos) - limit} more")
         print()
     
     # Changed aerodromes
@@ -92,7 +97,7 @@ def compare_aerodromes(prod_file: str = 'aerodromes.json',
     
     if changed_icaos:
         print(f"🔄 CHANGED AERODROMES ({len(changed_icaos)}):")
-        for icao in sorted(changed_icaos)[:10]:  # Show first 10
+        for icao in sorted(changed_icaos)[:limit or None]:
             prod_aerodrome = prod_aerodromes[icao]
             staging_aerodrome = staging_aerodromes[icao]
             
@@ -101,8 +106,8 @@ def compare_aerodromes(prod_file: str = 'aerodromes.json',
                 if prod_aerodrome.get(key) != staging_aerodrome.get(key):
                     print(f"     {key}: '{prod_aerodrome.get(key)}' → '{staging_aerodrome.get(key)}'")
         
-        if len(changed_icaos) > 10:
-            print(f"   ... and {len(changed_icaos) - 10} more")
+        if limit and len(changed_icaos) > limit:
+            print(f"   ... and {len(changed_icaos) - limit} more")
         print()
     
     # Version info
@@ -128,4 +133,8 @@ def compare_aerodromes(prod_file: str = 'aerodromes.json',
             print(f"⚠️  WARNING: {len(new_icaos)} aerodromes added - large data update")
 
 if __name__ == "__main__":
-    compare_aerodromes()
+    parser = argparse.ArgumentParser(description='Review aerodrome registry changes')
+    parser.add_argument('--limit', type=int, default=10,
+                        help='Maximum entries listed per category (0 = all)')
+    args = parser.parse_args()
+    compare_aerodromes(limit=args.limit)
