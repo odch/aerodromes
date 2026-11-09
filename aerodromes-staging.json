@@ -1,7 +1,7 @@
 {
-  "version": "1.0.76",
-  "last_updated": "2026-11-02T15:03:00",
-  "total_count": 19817,
+  "version": "1.0.77",
+  "last_updated": "2026-11-09T15:33:21",
+  "total_count": 19820,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -11716,6 +11716,12 @@
       "timezone": "Europe/Helsinki"
     },
     {
+      "icao": "EFMH",
+      "name": "Åland Central Hospital",
+      "country": "FI",
+      "timezone": "Europe/Helsinki"
+    },
+    {
       "icao": "EFMI",
       "name": "Mikkeli Airport",
       "country": "FI",
@@ -16428,6 +16434,12 @@
     {
       "icao": "EPMM",
       "name": "Minsk Mazowiecki Military Air Base",
+      "country": "PL",
+      "timezone": "Europe/Warsaw"
+    },
+    {
+      "icao": "EPMN",
+      "name": "DOM WESELNY MONIKA Heliport",
       "country": "PL",
       "timezone": "Europe/Warsaw"
     },
@@ -29600,6 +29612,12 @@
       "name": "Abeid Amani Karume International Airport",
       "country": "TZ",
       "timezone": "Africa/Dar_es_Salaam"
+    },
+    {
+      "icao": "HUAD",
+      "name": "Amudat Airstrip",
+      "country": "UG",
+      "timezone": "Africa/Kampala"
     },
     {
       "icao": "HUAJ",
@@ -65279,7 +65297,7 @@
     },
     {
       "icao": "RKTU",
-      "name": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
+      "name": "Cheongju International Airport",
       "country": "KR",
       "timezone": "Asia/Seoul"
     },
@@ -83543,7 +83561,7 @@
     },
     {
       "icao": "SNBQ",
-      "name": "Bela Cintra Heliport",
+      "name": "Bela Cintra Helistop",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -98105,7 +98123,7 @@
     },
     {
       "icao": "URKS",
-      "name": "Enem Airfield",
+      "name": "Krasnodar / Enem Airport",
       "country": "RU",
       "timezone": "Europe/Moscow"
     },
