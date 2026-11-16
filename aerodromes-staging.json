@@ -1,7 +1,7 @@
 {
-  "version": "1.0.77",
-  "last_updated": "2026-11-09T15:33:21",
-  "total_count": 19820,
+  "version": "1.0.78",
+  "last_updated": "2026-11-16T15:10:08",
+  "total_count": 19828,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -5849,7 +5849,7 @@
     },
     {
       "icao": "CYYF",
-      "name": "Penticton Airport",
+      "name": "Penticton Regional Airport",
       "country": "CA",
       "timezone": "America/Vancouver"
     },
@@ -11717,7 +11717,7 @@
     },
     {
       "icao": "EFMH",
-      "name": "Åland Central Hospital",
+      "name": "Åland Central Hospital Heliport",
       "country": "FI",
       "timezone": "Europe/Helsinki"
     },
@@ -68459,7 +68459,7 @@
     },
     {
       "icao": "SCBQ",
-      "name": "El Bosque Airport",
+      "name": "El Bosque Airbase",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -75293,7 +75293,7 @@
     },
     {
       "icao": "SHBE",
-      "name": "Banco Exterior Heliport",
+      "name": "Banco Exterior Helistop",
       "country": "CL",
       "timezone": "America/Santiago"
     },
@@ -82048,6 +82048,12 @@
       "timezone": "America/La_Paz"
     },
     {
+      "icao": "SLBE",
+      "name": "Beirut Airstrip",
+      "country": "BO",
+      "timezone": "America/La_Paz"
+    },
+    {
       "icao": "SLBF",
       "name": "Blanca Flor Airport",
       "country": "BO",
@@ -82174,6 +82180,12 @@
       "timezone": "America/La_Paz"
     },
     {
+      "icao": "SLCQ",
+      "name": "Chiquitos Airport",
+      "country": "BO",
+      "timezone": "America/La_Paz"
+    },
+    {
       "icao": "SLCR",
       "name": "Comarapa Airport",
       "country": "BO",
@@ -82222,8 +82234,20 @@
       "timezone": "America/La_Paz"
     },
     {
+      "icao": "SLDF",
+      "name": "Doña Francisca Airstrip",
+      "country": "BO",
+      "timezone": "America/La_Paz"
+    },
+    {
       "icao": "SLDL",
       "name": "Dalmacia Airport",
+      "country": "BO",
+      "timezone": "America/La_Paz"
+    },
+    {
+      "icao": "SLDM",
+      "name": "Don Mario Airport",
       "country": "BO",
       "timezone": "America/La_Paz"
     },
@@ -82354,12 +82378,6 @@
       "timezone": "America/La_Paz"
     },
     {
-      "icao": "SLGQ",
-      "name": "Chiquitos Airport",
-      "country": "BO",
-      "timezone": "America/La_Paz"
-    },
-    {
       "icao": "SLGY",
       "name": "Capitán de Av. Emilio Beltrán Airport",
       "country": "BO",
@@ -82390,6 +82408,12 @@
       "timezone": "America/La_Paz"
     },
     {
+      "icao": "SLHM",
+      "name": "Mutun Heliport",
+      "country": "BO",
+      "timezone": "America/La_Paz"
+    },
+    {
       "icao": "SLHS",
       "name": "Chacobos Airport",
       "country": "BO",
@@ -82398,6 +82422,12 @@
     {
       "icao": "SLHT",
       "name": "Transierra Helipuerto",
+      "country": "BO",
+      "timezone": "America/La_Paz"
+    },
+    {
+      "icao": "SLHY",
+      "name": "Yacuses Heliport",
       "country": "BO",
       "timezone": "America/La_Paz"
     },
@@ -82456,6 +82486,12 @@
       "timezone": "America/La_Paz"
     },
     {
+      "icao": "SLJD",
+      "name": "San Judas Tadeo Airport",
+      "country": "BO",
+      "timezone": "America/La_Paz"
+    },
+    {
       "icao": "SLJE",
       "name": "San José De Chiquitos Airport",
       "country": "BO",
@@ -82482,6 +82518,12 @@
     {
       "icao": "SLLB",
       "name": "Las Brizas Airport",
+      "country": "BO",
+      "timezone": "America/La_Paz"
+    },
+    {
+      "icao": "SLLC",
+      "name": "Santa Lucia Airport",
       "country": "BO",
       "timezone": "America/La_Paz"
     },
@@ -82824,6 +82866,12 @@
     {
       "icao": "SLSK",
       "name": "Santa Rosa Del Sara Airport",
+      "country": "BO",
+      "timezone": "America/La_Paz"
+    },
+    {
+      "icao": "SLSL",
+      "name": "Santa Anita de Los Robles Airport",
       "country": "BO",
       "timezone": "America/La_Paz"
     },

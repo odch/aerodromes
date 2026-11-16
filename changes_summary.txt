@@ -3,25 +3,36 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19817
-   Staging aerodromes: 19820
-   Net change: +3
+   Production aerodromes: 19820
+   Staging aerodromes: 19828
+   Net change: +8
 
-✅ NEW AERODROMES (3):
-   + EFMH: Åland Central Hospital (FI)
-   + EPMN: DOM WESELNY MONIKA Heliport (PL)
-   + HUAD: Amudat Airstrip (UG)
+✅ NEW AERODROMES (9):
+   + SLBE: Beirut Airstrip (BO)
+   + SLCQ: Chiquitos Airport (BO)
+   + SLDF: Doña Francisca Airstrip (BO)
+   + SLDM: Don Mario Airport (BO)
+   + SLHM: Mutun Heliport (BO)
+   + SLHY: Yacuses Heliport (BO)
+   + SLJD: San Judas Tadeo Airport (BO)
+   + SLLC: Santa Lucia Airport (BO)
+   + SLSL: Santa Anita de Los Robles Airport (BO)
 
-🔄 CHANGED AERODROMES (3):
-   ~ RKTU: Cheongju International Airport
-     name: 'Cheongju International Airport/Cheongju Air Base (K-59/G-513)' → 'Cheongju International Airport'
-   ~ SNBQ: Bela Cintra Helistop
-     name: 'Bela Cintra Heliport' → 'Bela Cintra Helistop'
-   ~ URKS: Krasnodar / Enem Airport
-     name: 'Enem Airfield' → 'Krasnodar / Enem Airport'
+❌ REMOVED AERODROMES (1):
+   - SLGQ: Chiquitos Airport (BO)
 
-🕐 Staging last updated: 2026-11-09T15:33:21
-🕐 Production last updated: 2026-11-02T15:03:00
+🔄 CHANGED AERODROMES (4):
+   ~ CYYF: Penticton Regional Airport
+     name: 'Penticton Airport' → 'Penticton Regional Airport'
+   ~ EFMH: Åland Central Hospital Heliport
+     name: 'Åland Central Hospital' → 'Åland Central Hospital Heliport'
+   ~ SCBQ: El Bosque Airbase
+     name: 'El Bosque Airport' → 'El Bosque Airbase'
+   ~ SHBE: Banco Exterior Helistop
+     name: 'Banco Exterior Heliport' → 'Banco Exterior Helistop'
+
+🕐 Staging last updated: 2026-11-16T15:10:08
+🕐 Production last updated: 2026-11-09T15:33:21
 ------------------------------------------------------------
-📋 Total changes: 6
+📋 Total changes: 14
 💡 To release these changes, run: python3 release.py
