@@ -3,36 +3,46 @@
 🚧 Staging: aerodromes-staging.json
 ------------------------------------------------------------
 📊 Summary:
-   Production aerodromes: 19820
-   Staging aerodromes: 19828
-   Net change: +8
+   Production aerodromes: 19828
+   Staging aerodromes: 19832
+   Net change: +4
 
-✅ NEW AERODROMES (9):
-   + SLBE: Beirut Airstrip (BO)
-   + SLCQ: Chiquitos Airport (BO)
-   + SLDF: Doña Francisca Airstrip (BO)
-   + SLDM: Don Mario Airport (BO)
-   + SLHM: Mutun Heliport (BO)
-   + SLHY: Yacuses Heliport (BO)
-   + SLJD: San Judas Tadeo Airport (BO)
-   + SLLC: Santa Lucia Airport (BO)
-   + SLSL: Santa Anita de Los Robles Airport (BO)
+✅ NEW AERODROMES (7):
+   + KELT: William B Greene Jr Regional Airport (US)
+   + NTHF: Afareaitu CHT Heiport (PF)
+   + NTHP: Taaone Hospital Helistop (PF)
+   + NTHV: Taravao Hospital Heliport (PF)
+   + SLFN: Finlandia Airport (BO)
+   + SLGG: Guayabas Guayacanes BBA Airstrip (BO)
+   + SLTP: Tarope Airstrip (BO)
 
-❌ REMOVED AERODROMES (1):
-   - SLGQ: Chiquitos Airport (BO)
+❌ REMOVED AERODROMES (3):
+   - EGCH: Holyhead Heliport (GB)
+   - MYCS: Cay Sal Airport (BS)
+   - SNCV: Campina Verde Airport (BR)
 
-🔄 CHANGED AERODROMES (4):
-   ~ CYYF: Penticton Regional Airport
-     name: 'Penticton Airport' → 'Penticton Regional Airport'
-   ~ EFMH: Åland Central Hospital Heliport
-     name: 'Åland Central Hospital' → 'Åland Central Hospital Heliport'
-   ~ SCBQ: El Bosque Airbase
-     name: 'El Bosque Airport' → 'El Bosque Airbase'
-   ~ SHBE: Banco Exterior Helistop
-     name: 'Banco Exterior Heliport' → 'Banco Exterior Helistop'
+🔄 CHANGED AERODROMES (9):
+   ~ LKKT: Klatovy - Josef Hubáč Airfield
+     name: 'Klatovy Josef Hubáč Airfield' → 'Klatovy - Josef Hubáč Airfield'
+   ~ SNDK: C.T.O Itaú Helistops
+     name: 'C.T.O Itaú Heliport' → 'C.T.O Itaú Helistops'
+   ~ SNDM: Karina Helistop
+     name: 'Karina Heliport' → 'Karina Helistop'
+   ~ SNDN: Cemaden - CIGE Helistop
+     name: 'Cemaden - CIGE Heliport' → 'Cemaden - CIGE Helistop'
+   ~ SNDT: Juscelino Kubitschek Airport
+     name: 'Diamantina Airport' → 'Juscelino Kubitschek Airport'
+   ~ SNDU: Ponta do Sol Airport
+     name: 'Ponta Do Sol Airport' → 'Ponta do Sol Airport'
+   ~ SNDV: Brigadeiro Antônio Cabral Airport
+     name: 'Brigadeiro Cabral Airport' → 'Brigadeiro Antônio Cabral Airport'
+   ~ SNVY: Fazenda Ouro Verde Airport
+     name: 'Aeródromo de  Fazenda Ouro Verde' → 'Fazenda Ouro Verde Airport'
+   ~ SNWJ: Fazenda Rancho Grande Airport
+     name: 'Fazenda Rancho Alegre Airport' → 'Fazenda Rancho Grande Airport'
 
-🕐 Staging last updated: 2026-11-16T15:10:08
-🕐 Production last updated: 2026-11-09T15:33:21
+🕐 Staging last updated: 2026-11-23T17:38:35
+🕐 Production last updated: 2026-11-16T15:10:08
 ------------------------------------------------------------
-📋 Total changes: 14
+📋 Total changes: 19
 💡 To release these changes, run: python3 release.py
