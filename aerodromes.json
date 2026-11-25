@@ -1,7 +1,7 @@
 {
-  "version": "1.0.79",
-  "last_updated": "2026-11-16T15:10:08",
-  "total_count": 19828,
+  "version": "1.0.80",
+  "last_updated": "2026-11-23T17:38:35",
+  "total_count": 19832,
   "aerodromes": [
     {
       "icao": "AAXX",
@@ -12156,12 +12156,6 @@
     {
       "icao": "EGCG",
       "name": "Strubby Airfield",
-      "country": "GB",
-      "timezone": "Europe/London"
-    },
-    {
-      "icao": "EGCH",
-      "name": "Holyhead Heliport",
       "country": "GB",
       "timezone": "Europe/London"
     },
@@ -33526,6 +33520,12 @@
       "timezone": "America/Denver"
     },
     {
+      "icao": "KELT",
+      "name": "William B Greene Jr Regional Airport",
+      "country": "US",
+      "timezone": "America/New_York"
+    },
+    {
       "icao": "KELY",
       "name": "Ely Airport Yelland Field",
       "country": "US",
@@ -49583,7 +49583,7 @@
     },
     {
       "icao": "LKKT",
-      "name": "Klatovy Josef Hubáč Airfield",
+      "name": "Klatovy - Josef Hubáč Airfield",
       "country": "CZ",
       "timezone": "Europe/Prague"
     },
@@ -57190,12 +57190,6 @@
       "timezone": "America/Nassau"
     },
     {
-      "icao": "MYCS",
-      "name": "Cay Sal Airport",
-      "country": "BS",
-      "timezone": "America/Nassau"
-    },
-    {
       "icao": "MYCZ",
       "name": "AUTEC Heliport",
       "country": "BS",
@@ -58074,6 +58068,24 @@
     {
       "icao": "NTHE",
       "name": "Ahe Airport",
+      "country": "PF",
+      "timezone": "Pacific/Tahiti"
+    },
+    {
+      "icao": "NTHF",
+      "name": "Afareaitu CHT Heiport",
+      "country": "PF",
+      "timezone": "Pacific/Tahiti"
+    },
+    {
+      "icao": "NTHP",
+      "name": "Taaone Hospital Helistop",
+      "country": "PF",
+      "timezone": "Pacific/Tahiti"
+    },
+    {
+      "icao": "NTHV",
+      "name": "Taravao Hospital Heliport",
       "country": "PF",
       "timezone": "Pacific/Tahiti"
     },
@@ -82354,6 +82366,12 @@
       "timezone": "America/La_Paz"
     },
     {
+      "icao": "SLFN",
+      "name": "Finlandia Airport",
+      "country": "BO",
+      "timezone": "America/La_Paz"
+    },
+    {
       "icao": "SLFO",
       "name": "Flor De Oro Airport",
       "country": "BO",
@@ -82362,6 +82380,12 @@
     {
       "icao": "SLFR",
       "name": "Florencia Airport",
+      "country": "BO",
+      "timezone": "America/La_Paz"
+    },
+    {
+      "icao": "SLGG",
+      "name": "Guayabas Guayacanes BBA Airstrip",
       "country": "BO",
       "timezone": "America/La_Paz"
     },
@@ -82968,6 +82992,12 @@
     {
       "icao": "SLTO",
       "name": "Totora Airport",
+      "country": "BO",
+      "timezone": "America/La_Paz"
+    },
+    {
+      "icao": "SLTP",
+      "name": "Tarope Airstrip",
       "country": "BO",
       "timezone": "America/La_Paz"
     },
@@ -83740,12 +83770,6 @@
       "timezone": "America/Sao_Paulo"
     },
     {
-      "icao": "SNCV",
-      "name": "Campina Verde Airport",
-      "country": "BR",
-      "timezone": "America/Sao_Paulo"
-    },
-    {
       "icao": "SNCW",
       "name": "Alcântara Space Center Airport",
       "country": "BR",
@@ -83801,7 +83825,7 @@
     },
     {
       "icao": "SNDK",
-      "name": "C.T.O Itaú Heliport",
+      "name": "C.T.O Itaú Helistops",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -83813,13 +83837,13 @@
     },
     {
       "icao": "SNDM",
-      "name": "Karina Heliport",
+      "name": "Karina Helistop",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
     {
       "icao": "SNDN",
-      "name": "Cemaden - CIGE Heliport",
+      "name": "Cemaden - CIGE Helistop",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -83843,19 +83867,19 @@
     },
     {
       "icao": "SNDT",
-      "name": "Diamantina Airport",
+      "name": "Juscelino Kubitschek Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
     {
       "icao": "SNDU",
-      "name": "Ponta Do Sol Airport",
+      "name": "Ponta do Sol Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
     {
       "icao": "SNDV",
-      "name": "Brigadeiro Cabral Airport",
+      "name": "Brigadeiro Antônio Cabral Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -85709,7 +85733,7 @@
     },
     {
       "icao": "SNVY",
-      "name": "Aeródromo de  Fazenda Ouro Verde",
+      "name": "Fazenda Ouro Verde Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -85751,7 +85775,7 @@
     },
     {
       "icao": "SNWJ",
-      "name": "Fazenda Rancho Alegre Airport",
+      "name": "Fazenda Rancho Grande Airport",
       "country": "BR",
       "timezone": "America/Sao_Paulo"
     },
@@ -118972,5 +118996,5 @@
       "timezone": "Asia/Shanghai"
     }
   ],
-  "released_at": "2026-11-17T22:19:07"
+  "released_at": "2026-11-25T00:40:46"
 }
